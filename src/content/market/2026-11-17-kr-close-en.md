@@ -8,6 +8,7 @@ tags: [regime, close]
 lang: en
 draft: false
 data_as_of: 2026-11-17
+updated: 2026-11-17T23:20:00+09:00
 ogImage: /characters/v2/kr/10_suspicious.png
 altUrl: /market/2026-11-17-kr-close/
 altLang: ko
@@ -28,7 +29,7 @@ altLang: ko
 | Commodities | neutral | 10.0% | 50.0% | stable |
 | Inflation | sideways_bearish | 0.0% | 100.0% | stable |
 
-**Sectors/baskets** — strong: KR_BIO_HEALTH, KR_CONSUMER, KR_IT_MEDIA · weak: CRYPTO, KR_CHEMICAL, KR_UTILITIES
+**Sectors/baskets** — strong: bio-health, consumer, IT-media · weak: Crypto, chemicals, utilities
 
 ### This week's calendar
 
