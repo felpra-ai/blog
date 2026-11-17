@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bullish | 80.0% | 20.0% | stable |
 | Inflation | extreme_bullish | 75.0% | 0.0% | stable |
 
-**Sectors/baskets** — strong: — · weak: TECHNOLOGY, COMMUNICATION_SERVICES
+**Sectors/baskets** — strong: — · weak: Technology, Communication Services
 
 ### This week's calendar
 

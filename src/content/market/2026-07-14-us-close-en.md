@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 60.0% | 10.0% | stable |
 | Inflation | extreme_bullish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: REAL_ESTATE, HEALTHCARE, Healthcare, FINANCIAL_SERVICES · weak: TECHNOLOGY
+**Sectors/baskets** — strong: Real Estate, Healthcare, Financial Services · weak: Technology
 
 ## Desk panel
 - **VIX:** Volatility readings show a pronounced bearish bias, though the underlying trend remains stable. :vix:

@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 10.0% | 30.0% | stable |
 | Inflation | sideways_bullish | 50.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: FINANCIAL_SERVICES, Financial Services, Utilities, CONSUMER_DEFENSIVE · weak: —
+**Sectors/baskets** — strong: Financial Services, Utilities, Consumer Defensive · weak: —
 
 ## Desk panel
 - **Lovble(Global):** Volatility remains stable, showing a slight leaning towards bearish sentiment. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />

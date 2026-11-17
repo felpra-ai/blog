@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | sideways_bearish | 0.0% | 80.0% | stable |
 | Inflation | bearish | 0.0% | 75.0% | stable |
 
-**Sectors/baskets** — strong: TECHNOLOGY · weak: BASIC_MATERIALS, REAL_ESTATE, Communication Services
+**Sectors/baskets** — strong: Technology · weak: Basic Materials, Real Estate, Communication Services
 
 ### This week's calendar
 

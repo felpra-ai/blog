@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 60.0% | 10.0% | stable |
 | Inflation | neutral | 0.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: KR_UTILITIES, KR_CHEMICAL, KR_BIO_HEALTH · weak: KR_SEMICONDUCTOR
+**Sectors/baskets** — strong: Utilities, chemicals, bio-health · weak: semiconductors
 
 ## Desk panel
 - **Lovble(Global):** Volatility remains in a bearish regime, suggesting caution in risk appetite. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />

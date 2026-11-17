@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | extreme_bullish | 70.0% | 10.0% | stable |
 | Inflation | neutral | 50.0% | 0.0% | stable |
 
-**Sectors/baskets** — strong: BASIC_MATERIALS · weak: —
+**Sectors/baskets** — strong: Basic Materials · weak: —
 
 ### This week's calendar
 
@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Bsho(Bonds):** Bonds are showing a neutral stance, with the bullish and bearish readings balanced. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
 - **Sham(FX):** Foreign exchange dynamics are leaning bearish, with the bearish reading being more pronounced than the bullish. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
 - **Nowel(Commodities):** Commodities exhibit an extreme bullish reading, suggesting strong upward momentum across the basket. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are registering a neutral reading, while the strong sector observed was BASIC_MATERIALS. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Maine(US):** US equities are registering a neutral reading, while the strong sector observed was Basic Materials. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The market structure presents a divergence: commodities show significant bullish strength, contrasting with bearish readings in credit and FX, while US equities remain range-bound. The stability across most macro indicators suggests a period of consolidation rather than a clear directional shift. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />

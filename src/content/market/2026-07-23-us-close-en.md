@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | extreme_bullish | 90.0% | 10.0% | stable |
 | Inflation | extreme_bullish | 50.0% | 0.0% | stable |
 
-**Sectors/baskets** — strong: BASIC_MATERIALS · weak: —
+**Sectors/baskets** — strong: Basic Materials · weak: —
 
 ### This week's calendar
 

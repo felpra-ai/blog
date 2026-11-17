@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bearish | 20.0% | 80.0% | stable |
 | Inflation | bearish | 50.0% | 50.0% | deteriorating |
 
-**Sectors/baskets** — strong: FINANCIAL_SERVICES, Real Estate, Consumer Defensive, CRYPTO · weak: COMMUNICATION_SERVICES, TECHNOLOGY
+**Sectors/baskets** — strong: Financial Services, Real Estate, Consumer Defensive, Crypto · weak: Communication Services, Technology
 
 ### This week's calendar
 
@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Bsho(Bonds):** Bonds show an extreme bullish reading, though the trend itself is stable. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
 - **Sham(FX):** FX is registering an extreme bearish state, with the trend remaining stable. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
 - **Nowel(Commodities):** Commodities are reading bearish, and the trend is stable. <img class="emoji-char" src="/characters/commodity/08_defensive.png" alt="노웰" />
-- **Maine(US):** US equities are showing a bullish reading, with the trend improving, while sectors like FINANCIAL_SERVICES and Real Estate are strong, and TECHNOLOGY is weak. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Maine(US):** US equities are showing a bullish reading, with the trend improving, while sectors like Financial Services and Real Estate are strong, and TECHNOLOGY is weak. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The macro picture presents a divergence: bonds and US equities show positive readings, contrasted by bearish signals in commodities and FX. The improving trend in US markets suggests underlying strength, but the weakness noted in crypto and the bearish readings across several macro fronts suggest caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />

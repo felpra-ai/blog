@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bearish | 0.0% | 70.0% | stable |
 | Inflation | bearish | 0.0% | 75.0% | stable |
 
-**Sectors/baskets** — strong: TECHNOLOGY, Technology, CONSUMER_CYCLICAL · weak: UTILITIES, Industrials, Utilities
+**Sectors/baskets** — strong: Technology, Consumer Cyclical · weak: Utilities, Industrials
 
 ### This week's calendar
 

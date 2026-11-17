@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 10.0% | 10.0% | stable |
 | Inflation | sideways_bearish | 0.0% | 75.0% | stable |
 
-**Sectors/baskets** — strong: gaming_nft · weak: — · dominance: btc_dominant
+**Sectors/baskets** — strong: gaming nft · weak: — · dominance: btc_dominant
 
 ## Desk panel
 - **VIX:** Volatility remains stable, showing a slight leaning toward bearish readings. :vix:

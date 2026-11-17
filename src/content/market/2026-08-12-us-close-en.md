@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 60.0% | 0.0% | stable |
 | Inflation | bearish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: Communication Services, BASIC_MATERIALS · weak: Utilities, UTILITIES
+**Sectors/baskets** — strong: Communication Services, Basic Materials · weak: Utilities
 
 ### This week's calendar
 
@@ -45,7 +45,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Macro:** Volatility remains elevated with a clear bearish tilt, while bonds show a bullish leaning. :macro:
 - **Korea:** Korean markets exhibit strong bullish momentum, with the trend showing improvement. :korea:
 - **US:** US equities are reading as neutral overall, with the trend remaining stable. :us:
-- **Sectors:** Strength is noted in Communication Services and BASIC_MATERIALS, while Utilities shows weakness. :sectors:
+- **Sectors:** Strength is noted in Communication Services and Basic Materials, while Utilities shows weakness. :sectors:
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The macro picture presents a divergence, with bearish signals noted across FX and liquidity, contrasting with bullish readings in bonds. The relative strength in Korean markets stands out against the neutral readings in US equities and crypto. On balance, the market structure suggests caution amidst differing directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />

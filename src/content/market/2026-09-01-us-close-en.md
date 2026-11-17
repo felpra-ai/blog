@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | sideways_bullish | 60.0% | 20.0% | stable |
 | Inflation | neutral | 25.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: BASIC_MATERIALS, Communication Services · weak: —
+**Sectors/baskets** — strong: Basic Materials, Communication Services · weak: —
 
 ### This week's calendar
 

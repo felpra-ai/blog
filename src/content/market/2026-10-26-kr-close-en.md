@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | extreme_bearish | 20.0% | 50.0% | stable |
 | Inflation | bearish | 50.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: — · weak: KR_MATERIALS, KR_IT_MEDIA, KR_SEMICONDUCTOR
+**Sectors/baskets** — strong: — · weak: materials, IT-media, semiconductors
 
 ### This week's calendar
 

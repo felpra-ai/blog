@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 60.0% | 0.0% | stable |
 | Inflation | bearish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: REAL_ESTATE, HEALTHCARE, Healthcare, FINANCIAL_SERVICES · weak: TECHNOLOGY
+**Sectors/baskets** — strong: Real Estate, Healthcare, Financial Services · weak: Technology
 
 ## Desk panel
 - **Macro regimes:** Volatility remains at a neutral reading, with the market showing an equal split between bullish and bearish sentiment, while the underlying trend remains stable. :macro:

@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 10.0% | 30.0% | stable |
 | Inflation | sideways_bullish | 50.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: oracle_infra · weak: — · dominance: btc_dominant
+**Sectors/baskets** — strong: oracle infra · weak: — · dominance: btc_dominant
 
 ## Desk panel
 - **Lovble(Global):** Volatility remains stable, showing a slight leaning towards bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />

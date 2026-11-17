@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 40.0% | 0.0% | stable |
 | Inflation | sideways_bearish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: Healthcare, HEALTHCARE, FINANCIAL_SERVICES, Financial Services · weak: Communication Services
+**Sectors/baskets** — strong: Healthcare, Financial Services · weak: Communication Services
 
 ## Desk panel
 - **Macro:** Volatility readings suggest a strong bearish bias, while the bond market maintains a sideways bullish posture. :macro:

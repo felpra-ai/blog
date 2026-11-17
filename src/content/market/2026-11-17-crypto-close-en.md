@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 10.0% | 50.0% | stable |
 | Inflation | sideways_bearish | 0.0% | 100.0% | stable |
 
-**Sectors/baskets** — strong: — · weak: oracle_infra, other, layer1 · dominance: btc_dominant
+**Sectors/baskets** — strong: — · weak: oracle infra, other, layer1 · dominance: btc_dominant
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (78 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.21) — only 7 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 

@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 40.0% | 20.0% | stable |
 | Inflation | sideways_bearish | 0.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: payments, oracle_infra, layer2, storage · weak: — · dominance: btc_dominant
+**Sectors/baskets** — strong: payments, oracle infra, layer2, storage · weak: — · dominance: btc_dominant
 
 ### This week's calendar
 

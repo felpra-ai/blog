@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 40.0% | 0.0% | stable |
 | Inflation | sideways_bearish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: KR_MATERIALS · weak: —
+**Sectors/baskets** — strong: materials · weak: —
 
 ## Desk panel
 - **Lovble(Global):** Volatility is reading extreme bearish, while liquidity shows a notable bearish tilt. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />

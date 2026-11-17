@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bearish | 0.0% | 70.0% | stable |
 | Inflation | neutral | 0.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: Technology, HEALTHCARE · weak: Communication Services, CRYPTO, Consumer Defensive
+**Sectors/baskets** — strong: Technology, Healthcare · weak: Communication Services, Crypto, Consumer Defensive
 
 ### This week's calendar
 

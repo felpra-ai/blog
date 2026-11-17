@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 0.0% | 70.0% | stable |
 | Inflation | neutral | 50.0% | 0.0% | stable |
 
-**Sectors/baskets** — strong: KR_BIO_HEALTH, KR_CONSUMER · weak: KR_UTILITIES, KR_INDUSTRIALS, KR_MATERIALS
+**Sectors/baskets** — strong: bio-health, consumer · weak: Utilities, Industrials, materials
 
 ### This week's calendar
 

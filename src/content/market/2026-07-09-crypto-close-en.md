@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 60.0% | 0.0% | stable |
 | Inflation | bearish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: gaming_nft, defi, meme, layer1 · weak: — · dominance: btc_dominant
+**Sectors/baskets** — strong: gaming nft, defi, meme, layer1 · weak: — · dominance: btc_dominant
 
 ## Desk panel
 - **Macro:** Volatility remains stable with a slight tilt towards bearish readings, while the bond market shows a balanced, stable posture. :macro:

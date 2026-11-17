@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bullish | 90.0% | 0.0% | stable |
 | Inflation | extreme_bullish | 100.0% | 0.0% | stable |
 
-**Sectors/baskets** — strong: meme, oracle_infra, exchange, layer2 · weak: — · dominance: btc_dominant
+**Sectors/baskets** — strong: meme, oracle infra, exchange, layer2 · weak: — · dominance: btc_dominant
 
 _Observation notes: most frequent regime shift in this market so far: neutral → extreme_bullish (9 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 

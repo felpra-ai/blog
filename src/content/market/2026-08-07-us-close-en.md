@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | extreme_bullish | 40.0% | 30.0% | stable |
 | Inflation | neutral | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: Basic Materials, HEALTHCARE, REAL_ESTATE · weak: Utilities, UTILITIES
+**Sectors/baskets** — strong: Basic Materials, Healthcare, Real Estate · weak: Utilities
 
 ### This week's calendar
 
@@ -53,7 +53,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Crypto:** Cryptocurrency sentiment is neutral, with bullish and bearish readings being closely balanced, and the trend remaining stable. :crypto:
 - **Korea:** Korean markets show an extreme bullish reading, with the trend improving. :korea:
 - **US:** US markets are reading as neutral, with a slight bullish bias, and the trend improving. :us:
-- **Sectors:** Basic Materials, HEALTHCARE, and REAL_ESTATE are showing strength, while Utilities and UTILITIES are noted as weak areas. :sectors:
+- **Sectors:** Basic Materials, HEALTHCARE, and Real Estate are showing strength, while Utilities and UTILITIES are noted as weak areas. :sectors:
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The divergence between commodity strength and liquidity weakness is notable, while regional performance shows distinct divergence between Korea and the US. On balance, the market exhibits cautious directional movement across asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />

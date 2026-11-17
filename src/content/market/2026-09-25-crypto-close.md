@@ -28,7 +28,7 @@ altLang: en
 | 원자재 | neutral | 20.0% | 30.0% | stable |
 | 인플레 | bearish | 0.0% | 75.0% | stable |
 
-**섹터·바스켓** — 강세: payments, layer2, oracle_infra, gaming_nft · 약세: — · 도미넌스: btc_dominant
+**섹터·바스켓** — 강세: payments, layer2, oracle infra, gaming nft · 약세: — · 도미넌스: btc_dominant
 
 ### 이번 주 주요 일정
 

@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | extreme_bullish | 50.0% | 20.0% | stable |
 | Inflation | neutral | 25.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: Communication Services, BASIC_MATERIALS · weak: Real Estate, Consumer Cyclical, Financial Services
+**Sectors/baskets** — strong: Communication Services, Basic Materials · weak: Real Estate, Consumer Cyclical, Financial Services
 
 ### This week's calendar
 
@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Bsho(Bonds):** Credit conditions show a clear bullish bias, though bond trends are currently stable and neutral. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
 - **Sham(FX):** Foreign exchange movements are showing a mixed sentiment, with liquidity readings leaning toward bullish. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
 - **Nowel(Commodities):** Commodity pricing exhibits an extreme bullish reading, suggesting strong underlying upward momentum. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are showing signs of deterioration, while the Communication Services and BASIC_MATERIALS sectors are showing strength. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
+- **Maine(US):** US equities are showing signs of deterioration, while the Communication Services and Basic Materials sectors are showing strength. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The macro picture presents a divergence: commodities and credit are showing significant strength, contrasting with the deteriorating trend noted in US equities. The market appears to be balancing bullish commodity flows against caution reflected in volatility and US indices. On balance, the tape suggests a period of selective strength amidst broader uncertainty. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />

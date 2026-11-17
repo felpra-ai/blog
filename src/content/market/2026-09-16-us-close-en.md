@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | extreme_bearish | 20.0% | 50.0% | stable |
 | Inflation | sideways_bearish | 0.0% | 100.0% | stable |
 
-**Sectors/baskets** — strong: COMMUNICATION_SERVICES · weak: REAL_ESTATE, CONSUMER_DEFENSIVE, INDUSTRIALS
+**Sectors/baskets** — strong: Communication Services · weak: Real Estate, Consumer Defensive, Industrials
 
 ### This week's calendar
 
@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Crypto:** Crypto sentiment shows a mixed picture, with a slight leaning toward bearishness despite an improving trend. :crypto:
 - **Korea:** Korean equities are showing a balanced sentiment, with slightly more bearish conviction than bullish conviction. :korea:
 - **US:** US equities are exhibiting a deteriorating trend, with bearish sentiment outweighing bullish sentiment. :us:
-- **Sectors:** Sector analysis indicates strength concentrated in COMMUNICATION_SERVICES, while REAL_ESTATE, CONSUMER_DEFENSIVE, and INDUSTRIALS show weakness. :sectors:
+- **Sectors:** Sector analysis indicates strength concentrated in Communication Services, while Real Estate, Consumer Defensive, and INDUSTRIALS show weakness. :sectors:
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The market data presents a divergence between elevated short-term bullish readings across macro indicators and underlying structural weakness noted in credit, commodities, and US equities. The sector rotation suggests specific areas of relative strength within the broader market structure. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />

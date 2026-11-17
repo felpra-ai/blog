@@ -28,7 +28,7 @@ altLang: en
 | 원자재 | bullish | 80.0% | 20.0% | stable |
 | 인플레 | extreme_bullish | 75.0% | 0.0% | stable |
 
-**섹터·바스켓** — 강세: payments, exchange, meme, gaming_nft · 약세: — · 도미넌스: btc_dominant
+**섹터·바스켓** — 강세: payments, exchange, meme, gaming nft · 약세: — · 도미넌스: btc_dominant
 
 ### 이번 주 주요 일정
 

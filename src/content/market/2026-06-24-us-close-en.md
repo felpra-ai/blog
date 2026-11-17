@@ -28,14 +28,14 @@ altLang: ko
 | Commodities | neutral | 10.0% | 10.0% | stable |
 | Inflation | sideways_bearish | 0.0% | 75.0% | stable |
 
-**Sectors/baskets** — strong: Industrials, FINANCIAL_SERVICES, Utilities, Consumer Cyclical · weak: ENERGY, UTILITIES, COMMUNICATION_SERVICES
+**Sectors/baskets** — strong: Industrials, Financial Services, Utilities, Consumer Cyclical · weak: Energy, Utilities, Communication Services
 
 ## Desk panel
 - **Lovble(Global):** Volatility remains stable, showing a slight tilt toward bearish readings, while overall risk appetite reads neutral. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
 - **Bsho(Bonds):** The bond market exhibits a clear bullish bias, supported by strong credit readings. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
 - **Sham(FX):** Foreign exchange movements are leaning strongly bullish, with liquidity showing a positive, though sideways, bias. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
 - **Nowel(Commodities):** Commodity sentiment is mixed, registering as neutral, while inflation indicators show a distinct bearish leaning. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are reading as neutral overall, with Industrials, FINANCIAL_SERVICES, and Utilities showing strength, while ENERGY and COMMUNICATION_SERVICES are lagging. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Maine(US):** US equities are reading as neutral overall, with Industrials, Financial Services, and Utilities showing strength, while ENERGY and Communication Services are lagging. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The cross-market view suggests underlying strength in fixed income and FX, contrasting with mixed signals in commodities and inflation. The breadth across major asset classes points toward a cautious, range-seeking environment, despite some sector strength noted in US equities. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />

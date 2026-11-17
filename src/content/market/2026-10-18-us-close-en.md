@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 20.0% | 40.0% | stable |
 | Inflation | sideways_bearish | 50.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: Financial Services, Consumer Defensive, Technology, COMMUNICATION_SERVICES · weak: FINANCIAL_SERVICES, TECHNOLOGY, INDUSTRIALS
+**Sectors/baskets** — strong: Financial Services, Consumer Defensive, Technology, Communication Services · weak: Financial Services, Technology, Industrials
 
 ### This week's calendar
 
@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Bsho(Bonds):** Bonds exhibit an extreme bearish reading, though the trend itself is noted as stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
 - **Sham(FX):** FX movements are neutral, with a slight leaning towards bearish sentiment. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
 - **Nowel(Commodities):** Commodities are reading neutral, with a notable degree of bearish leaning. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are showing a sideways bullish pattern, with Financial Services, Consumer Defensive, Technology, and COMMUNICATION_SERVICES showing strength, while FINANCIAL_SERVICES, TECHNOLOGY, and INDUSTRIALS are noted as weak. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Maine(US):** US equities are showing a sideways bullish pattern, with Financial Services, Consumer Defensive, Technology, and Communication Services showing strength, while Financial Services, TECHNOLOGY, and INDUSTRIALS are noted as weak. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The market structure presents a mixed picture: US equities show underlying bullishness despite sector divergence, while fixed income and crypto lean bearish. Liquidity remains supportive, but the underlying commodity and bond readings suggest caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />

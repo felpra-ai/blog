@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 20.0% | 20.0% | stable |
 | Inflation | sideways_bearish | 0.0% | 75.0% | stable |
 
-**Sectors/baskets** — strong: KR_UTILITIES, KR_SEMICONDUCTOR · weak: KR_MATERIALS, KR_CHEMICAL, KR_IT_MEDIA
+**Sectors/baskets** — strong: Utilities, semiconductors · weak: materials, chemicals, IT-media
 
 ## Desk panel
 - **Macro:** Volatility remains predominantly bearish, while bonds show a sideways bias leaning toward bullishness. :macro:

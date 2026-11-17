@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | extreme_bearish | 20.0% | 50.0% | stable |
 | Inflation | bearish | 50.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: Financial Services, Real Estate, Communication Services, Consumer Defensive · weak: Technology, TECHNOLOGY, COMMUNICATION_SERVICES
+**Sectors/baskets** — strong: Financial Services, Real Estate, Communication Services, Consumer Defensive · weak: Technology, Communication Services
 
 ### This week's calendar
 
@@ -53,7 +53,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Crypto:** The cryptocurrency space is in a deteriorating bearish trend, with bearish indicators significantly outweighing bullish ones. :crypto:
 - **Korea:** The Korean market is exhibiting a deteriorating bearish trend, with bearish indicators substantially leading the bullish ones. :korea:
 - **US:** The US market shows an improving bullish trend, with bullish indicators holding a clear majority. :us:
-- **Sectors:** Financial Services, Real Estate, and Consumer Defensive sectors are showing strength, while Technology and COMMUNICATION_SERVICES are lagging. :sectors:
+- **Sectors:** Financial Services, Real Estate, and Consumer Defensive sectors are showing strength, while Technology and Communication Services are lagging. :sectors:
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The US market shows signs of improvement, which is broadly supportive of the broader market structure, although commodity weakness and crypto's deteriorating trend temper overall sentiment. On balance, the tape suggests a cautious, range-seeking environment underpinned by sector rotation favoring defensive and financial names. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />

@@ -28,7 +28,7 @@ altLang: en
 | 원자재 | neutral | 20.0% | 20.0% | stable |
 | 인플레 | sideways_bearish | 0.0% | 75.0% | stable |
 
-**섹터·바스켓** — 강세: layer1, storage · 약세: exchange, oracle_infra · 도미넌스: btc_dominant
+**섹터·바스켓** — 강세: layer1, storage · 약세: exchange, oracle infra · 도미넌스: btc_dominant
 
 ## 데스크 패널
 - **러블(글로벌):** 글로벌 변동성 지수는 약세 우위가 지배적이며, 전반적인 시장 심리는 안정적인 상태를 유지하고 있습니다. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />

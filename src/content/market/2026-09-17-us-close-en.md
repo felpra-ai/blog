@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | sideways_bullish | 30.0% | 50.0% | stable |
 | Inflation | extreme_bearish | 0.0% | 100.0% | stable |
 
-**Sectors/baskets** — strong: Energy · weak: REAL_ESTATE, UTILITIES, Consumer Cyclical
+**Sectors/baskets** — strong: Energy · weak: Real Estate, Utilities, Consumer Cyclical
 
 ### This week's calendar
 
@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Bsho(Bonds):** Credit conditions are registering an extreme bearish reading, while the bond market shows an equal split between bullish and bearish sentiment. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
 - **Sham(FX):** Foreign exchange movements indicate a bullish leaning, with the trend showing signs of improvement. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
 - **Nowel(Commodities):** Commodities are exhibiting a sideways bias with a slight bullish tilt, and inflation readings are strongly bearish. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are showing a neutral stance with an improving trend, while the Energy sector is noted as strong, contrasting with weakness in REAL_ESTATE, UTILITIES, and Consumer Cyclical. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Maine(US):** US equities are showing a neutral stance with an improving trend, while the Energy sector is noted as strong, contrasting with weakness in Real Estate, UTILITIES, and Consumer Cyclical. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The macro picture presents a divergence, with strong bullishness noted in volatility and FX, yet significant bearish pressure is evident across credit, inflation, and commodities. US equities are showing an improving trend amidst this backdrop, though crypto sentiment is deteriorating. Overall, the market structure suggests caution, balancing improving directional signals against deep underlying sector weakness. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />

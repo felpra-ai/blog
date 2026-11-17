@@ -28,7 +28,7 @@ altLang: en
 | 원자재 | extreme_bearish | 20.0% | 60.0% | stable |
 | 인플레 | extreme_bearish | 25.0% | 50.0% | stable |
 
-**섹터·바스켓** — 강세: — · 약세: defi, other, oracle_infra · 도미넌스: btc_dominant
+**섹터·바스켓** — 강세: — · 약세: defi, other, oracle infra · 도미넌스: btc_dominant
 
 ### 이번 주 주요 일정
 

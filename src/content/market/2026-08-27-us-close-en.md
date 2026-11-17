@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bullish | 60.0% | 20.0% | stable |
 | Inflation | extreme_bullish | 75.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: Basic Materials, COMMUNICATION_SERVICES · weak: —
+**Sectors/baskets** — strong: Basic Materials, Communication Services · weak: —
 
 ### This week's calendar
 
@@ -48,10 +48,10 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Bsho(Bonds):** Bonds show a slight leaning towards bearish sentiment, though the trend remains stable. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
 - **Sham(FX):** Foreign exchange exhibits a bearish bias, with the majority of readings pointing in that direction. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
 - **Nowel(Commodities):** Commodities display a bullish leaning, suggesting underlying strength in the sector. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities are showing a neutral posture, while Basic Materials and COMMUNICATION_SERVICES are noted as strong relative areas. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Maine(US):** US equities are showing a neutral posture, while Basic Materials and Communication Services are noted as strong relative areas. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
 ## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a mixed signal: credit and inflation are reading strongly bullish, while FX and bonds lean bearish. The market's underlying liquidity remains robustly bullish, contrasting with the neutral readings observed in US equities and crypto. This suggests sector strength (Basic Materials, COMMUNICATION_SERVICES) is currently providing directional support against broader macro divergence.
+**!QAZ(Chair):** The macro picture presents a mixed signal: credit and inflation are reading strongly bullish, while FX and bonds lean bearish. The market's underlying liquidity remains robustly bullish, contrasting with the neutral readings observed in US equities and crypto. This suggests sector strength (Basic Materials, Communication Services) is currently providing directional support against broader macro divergence.
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

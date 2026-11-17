@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 60.0% | 10.0% | stable |
 | Inflation | neutral | 0.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: ENERGY · weak: —
+**Sectors/baskets** — strong: Energy · weak: —
 
 ### This week's calendar
 

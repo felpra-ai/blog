@@ -28,13 +28,13 @@ altLang: ko
 | Commodities | neutral | 10.0% | 30.0% | stable |
 | Inflation | neutral | 25.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: FINANCIAL_SERVICES, INDUSTRIALS, BASIC_MATERIALS, Utilities · weak: ENERGY
+**Sectors/baskets** — strong: Financial Services, Industrials, Basic Materials, Utilities · weak: Energy
 
 ## Desk panel
 - **Bsho(Bonds):** Bonds exhibit an extreme bullish leaning, while credit maintains a fully bullish posture. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
 - **Sham(FX):** Foreign exchange dynamics show a pronounced bearish bias, though the overall trend remains stable. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
 - **Nowel(Commodities):** Commodities are registering a neutral reading, with bearish sentiment showing a higher weight than bullish. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are showing an improving trend, with strength noted across FINANCIAL_SERVICES, INDUSTRIALS, BASIC_MATERIALS, and Utilities, while ENERGY lagged. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Maine(US):** US equities are showing an improving trend, with strength noted across Financial Services, INDUSTRIALS, Basic Materials, and Utilities, while ENERGY lagged. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
 - **Lovble(Global):** Volatility is reading as neutral, with both bullish and bearish indicators showing equal weight. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
 
 ## Cross-market & !QAZ's verdict

@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 10.0% | 40.0% | stable |
 | Inflation | sideways_bearish | 0.0% | 75.0% | stable |
 
-**Sectors/baskets** — strong: COMMUNICATION_SERVICES · weak: Industrials, FINANCIAL_SERVICES, Energy
+**Sectors/baskets** — strong: Communication Services · weak: Industrials, Financial Services, Energy
 
 ### This week's calendar
 

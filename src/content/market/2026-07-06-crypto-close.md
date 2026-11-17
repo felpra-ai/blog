@@ -28,7 +28,7 @@ altLang: en
 | 원자재 | neutral | 60.0% | 10.0% | stable |
 | 인플레 | neutral | 0.0% | 50.0% | stable |
 
-**섹터·바스켓** — 강세: other, gaming_nft, exchange, layer1 · 약세: — · 도미넌스: btc_dominant
+**섹터·바스켓** — 강세: other, gaming nft, exchange, layer1 · 약세: — · 도미넌스: btc_dominant
 
 ## 데스크 패널
 - **러블(글로벌):** 글로벌 변동성은 약세 우위가 지배적이며, 전반적인 위험 선호 심리는 안정적인 상태를 유지하고 있습니다. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />

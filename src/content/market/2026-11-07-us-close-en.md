@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bearish | 10.0% | 60.0% | stable |
 | Inflation | extreme_bearish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: FINANCIAL_SERVICES, Communication Services, COMMUNICATION_SERVICES, Consumer Defensive · weak: TECHNOLOGY, Technology, ENERGY
+**Sectors/baskets** — strong: Financial Services, Communication Services, Consumer Defensive · weak: Technology, Energy
 
 ### This week's calendar
 

@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 10.0% | 30.0% | stable |
 | Inflation | sideways_bullish | 50.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: oracle_infra · weak: — · dominance: btc_dominant
+**Sectors/baskets** — strong: oracle infra · weak: — · dominance: btc_dominant
 
 ## Desk panel
 - **Bsho(Bonds):** Bonds exhibit an extreme bullish reading, while credit remains firmly bullish. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />

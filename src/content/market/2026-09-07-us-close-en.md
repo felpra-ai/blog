@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | sideways_bullish | 50.0% | 30.0% | stable |
 | Inflation | neutral | 25.0% | 0.0% | stable |
 
-**Sectors/baskets** — strong: ENERGY · weak: Real Estate
+**Sectors/baskets** — strong: Energy · weak: Real Estate
 
 ### This week's calendar
 

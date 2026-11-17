@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 20.0% | 10.0% | stable |
 | Inflation | neutral | 0.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: Utilities, Healthcare, BASIC_MATERIALS · weak: Communication Services, Energy, COMMUNICATION_SERVICES
+**Sectors/baskets** — strong: Utilities, Healthcare, Basic Materials · weak: Communication Services, Energy
 
 ## Desk panel
 - **Macro:** Volatility remains stable with a leaning towards bearish readings, while Credit shows a fully bullish posture. :macro:
@@ -40,7 +40,7 @@ altLang: ko
 - **Crypto:** The cryptocurrency market is reading as neutral, with an improving trend. :crypto:
 - **Korea:** The Korean market is reading as neutral, maintaining a stable trend. :korea:
 - **US:** The US market is reading as neutral, maintaining a stable trend. :us:
-- **Sectors:** Utilities, Healthcare, and BASIC_MATERIALS are showing strength, while Communication Services, Energy, and COMMUNICATION_SERVICES are showing weakness. :sectors:
+- **Sectors:** Utilities, Healthcare, and Basic Materials are showing strength, while Communication Services, Energy, and Communication Services are showing weakness. :sectors:
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The cross-market read suggests underlying strength in credit and foreign exchange, contrasting with neutral readings across major equity and crypto indices. The divergence between sector strength (Utilities/Healthcare) and weakness (Energy/Communication Services) suggests selective rotation within the broader market structure. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />

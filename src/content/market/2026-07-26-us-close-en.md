@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | extreme_bullish | 60.0% | 0.0% | stable |
 | Inflation | sideways_bearish | 50.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: HEALTHCARE · weak: —
+**Sectors/baskets** — strong: Healthcare · weak: —
 
 ### This week's calendar
 

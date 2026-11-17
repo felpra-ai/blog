@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 10.0% | 30.0% | stable |
 | Inflation | sideways_bullish | 50.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: oracle_infra · weak: — · dominance: btc_dominant
+**Sectors/baskets** — strong: oracle infra · weak: — · dominance: btc_dominant
 
 ## Desk panel
 - **Macro:** Bonds show an extreme bullish bias, while volatility and liquidity remain in a neutral state. :macro:

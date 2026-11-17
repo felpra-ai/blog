@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bearish | 0.0% | 70.0% | stable |
 | Inflation | neutral | 0.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: defi, gaming_nft, oracle_infra, payments · weak: — · dominance: btc_dominant
+**Sectors/baskets** — strong: defi, gaming nft, oracle infra, payments · weak: — · dominance: btc_dominant
 
 ### This week's calendar
 

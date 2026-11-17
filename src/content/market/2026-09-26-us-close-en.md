@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 20.0% | 30.0% | stable |
 | Inflation | bearish | 0.0% | 75.0% | stable |
 
-**Sectors/baskets** — strong: — · weak: Healthcare, UTILITIES, Financial Services
+**Sectors/baskets** — strong: — · weak: Healthcare, Utilities, Financial Services
 
 ### This week's calendar
 

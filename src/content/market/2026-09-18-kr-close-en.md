@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | sideways_bearish | 0.0% | 70.0% | stable |
 | Inflation | extreme_bearish | 0.0% | 100.0% | stable |
 
-**Sectors/baskets** — strong: KR_INDUSTRIALS, KR_MATERIALS · weak: —
+**Sectors/baskets** — strong: Industrials, materials · weak: —
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.27) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 

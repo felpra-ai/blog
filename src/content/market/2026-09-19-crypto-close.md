@@ -28,7 +28,7 @@ altLang: en
 | 원자재 | neutral | 10.0% | 40.0% | stable |
 | 인플레 | sideways_bearish | 0.0% | 75.0% | stable |
 
-**섹터·바스켓** — 강세: layer2, oracle_infra · 약세: — · 도미넌스: btc_dominant
+**섹터·바스켓** — 강세: layer2, oracle infra · 약세: — · 도미넌스: btc_dominant
 
 ### 이번 주 주요 일정
 

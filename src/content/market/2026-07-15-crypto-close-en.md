@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bullish | 80.0% | 10.0% | stable |
 | Inflation | sideways_bearish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: gaming_nft, defi, meme, layer1 · weak: — · dominance: btc_dominant
+**Sectors/baskets** — strong: gaming nft, defi, meme, layer1 · weak: — · dominance: btc_dominant
 
 ## Desk panel
 - **Macro:** Volatility remains elevated with a clear bearish tilt across fixed income and credit, while commodities show notable strength. :macro:

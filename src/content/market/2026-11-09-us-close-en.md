@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bearish | 10.0% | 60.0% | stable |
 | Inflation | extreme_bearish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: Financial Services, COMMUNICATION_SERVICES, Consumer Defensive, CONSUMER_CYCLICAL · weak: Communication Services, TECHNOLOGY, Technology
+**Sectors/baskets** — strong: Financial Services, Communication Services, Consumer Defensive, Consumer Cyclical · weak: Communication Services, Technology
 
 ### This week's calendar
 
@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Bsho(Bonds):** Bonds exhibit a neutral reading, with bearish sentiment outweighing bullish indicators, though the trend is stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
 - **Sham(FX):** Foreign exchange shows a bullish leaning, with bullish indicators representing twice the weight of bearish ones, and the trend is stable. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
 - **Nowel(Commodities):** Commodities are reading bearish, with a significant majority of indicators pointing to the downside, and the trend is stable. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are registering a sideways bullish bias, with the overall trend remaining stable, while Financial Services, COMMUNICATION_SERVICES, and Consumer Defensive are showing strength relative to Technology and Technology. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Maine(US):** US equities are registering a sideways bullish bias, with the overall trend remaining stable, while Financial Services, Communication Services, and Consumer Defensive are showing strength relative to Technology and Technology. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The market structure suggests a divergence where US equities show relative strength despite broader commodity weakness and persistent inflationary concerns. The crypto space is exhibiting a clear bearish drift, while the overall liquidity environment remains balanced. The confluence of these readings suggests caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />

@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 50.0% | 10.0% | stable |
 | Inflation | sideways_bearish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: KR_CONSUMER, KR_FINANCIALS, KR_SEMICONDUCTOR, KR_CHEMICAL · weak: —
+**Sectors/baskets** — strong: consumer, financials, semiconductors, chemicals · weak: —
 
 ### This week's calendar
 

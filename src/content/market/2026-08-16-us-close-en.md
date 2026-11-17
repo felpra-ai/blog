@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | sideways_bullish | 90.0% | 0.0% | stable |
 | Inflation | neutral | 25.0% | 0.0% | stable |
 
-**Sectors/baskets** — strong: TECHNOLOGY, Communication Services, HEALTHCARE · weak: —
+**Sectors/baskets** — strong: Technology, Communication Services, Healthcare · weak: —
 
 ### This week's calendar
 

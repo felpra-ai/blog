@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 40.0% | 0.0% | stable |
 | Inflation | neutral | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: — · weak: Utilities, UTILITIES
+**Sectors/baskets** — strong: — · weak: Utilities
 
 ### This week's calendar
 

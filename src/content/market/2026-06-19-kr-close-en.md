@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 10.0% | 30.0% | stable |
 | Inflation | sideways_bullish | 50.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: KR_UTILITIES, KR_IT_MEDIA · weak: —
+**Sectors/baskets** — strong: Utilities, IT-media · weak: —
 
 ## Desk panel
 - **Lovble(Global):** Volatility remains at a neutral reading, with bearish indicators showing a more pronounced presence than bullish ones. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />

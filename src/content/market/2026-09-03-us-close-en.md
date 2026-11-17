@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bullish | 60.0% | 30.0% | stable |
 | Inflation | neutral | 50.0% | 0.0% | stable |
 
-**Sectors/baskets** — strong: Energy, ENERGY, Healthcare · weak: REAL_ESTATE, FINANCIAL_SERVICES, CONSUMER_CYCLICAL
+**Sectors/baskets** — strong: Energy, Healthcare · weak: Real Estate, Financial Services, Consumer Cyclical
 
 ### This week's calendar
 

@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 50.0% | 10.0% | stable |
 | Inflation | neutral | 25.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: ENERGY · weak: REAL_ESTATE, Industrials, COMMUNICATION_SERVICES
+**Sectors/baskets** — strong: Energy · weak: Real Estate, Industrials, Communication Services
 
 ### This week's calendar
 
@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Bsho(Bonds):** Credit remains strongly bullish, while bonds exhibit a neutral stance. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
 - **Sham(FX):** FX sentiment is neutral, with liquidity showing a pronounced bullish tilt. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
 - **Nowel(Commodities):** Commodities are neutral, showing an equal split between bullish and bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are neutral overall, with ENERGY showing strength while REAL_ESTATE, Industrials, and COMMUNICATION_SERVICES are weaker. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Maine(US):** US equities are neutral overall, with ENERGY showing strength while Real Estate, Industrials, and Communication Services are weaker. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The market structure presents a divergence: credit and liquidity are strongly positive, contrasting with the bearish reading on volatility. This suggests underlying support despite elevated risk indicators. The sector strength in ENERGY, juxtaposed with weakness in several consumer/infrastructure areas, points to commodity-driven flows influencing equity positioning. On balance, the tape suggests caution amid divergent macro signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />

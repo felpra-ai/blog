@@ -28,7 +28,7 @@ altLang: en
 | 원자재 | bullish | 80.0% | 10.0% | stable |
 | 인플레 | extreme_bullish | 25.0% | 50.0% | stable |
 
-**섹터·바스켓** — 강세: gaming_nft, defi, meme, layer1 · 약세: — · 도미넌스: btc_dominant
+**섹터·바스켓** — 강세: gaming nft, defi, meme, layer1 · 약세: — · 도미넌스: btc_dominant
 
 ## 데스크 패널
 - **러블(글로벌):** 시장 변동성 지표는 극도의 약세 국면을 나타내고 있으나, 전반적인 추세는 안정적인 상태를 유지하고 있습니다. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />

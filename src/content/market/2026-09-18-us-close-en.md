@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 0.0% | 40.0% | stable |
 | Inflation | extreme_bearish | 0.0% | 75.0% | stable |
 
-**Sectors/baskets** — strong: — · weak: REAL_ESTATE, Financial Services, Real Estate
+**Sectors/baskets** — strong: — · weak: Real Estate, Financial Services
 
 ### This week's calendar
 

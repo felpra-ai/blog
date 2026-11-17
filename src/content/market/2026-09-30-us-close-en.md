@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | sideways_bearish | 10.0% | 70.0% | stable |
 | Inflation | sideways_bearish | 0.0% | 75.0% | stable |
 
-**Sectors/baskets** — strong: Technology, INDUSTRIALS · weak: CONSUMER_CYCLICAL, FINANCIAL_SERVICES, Real Estate
+**Sectors/baskets** — strong: Technology, Industrials · weak: Consumer Cyclical, Financial Services, Real Estate
 
 ### This week's calendar
 

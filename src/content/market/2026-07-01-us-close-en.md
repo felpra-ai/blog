@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 10.0% | 30.0% | stable |
 | Inflation | neutral | 25.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: FINANCIAL_SERVICES, INDUSTRIALS, BASIC_MATERIALS, Utilities · weak: ENERGY
+**Sectors/baskets** — strong: Financial Services, Industrials, Basic Materials, Utilities · weak: Energy
 
 ## Desk panel
 - **Macro:** Volatility remains stable with equal bullish and bearish readings, while bonds show an extreme bullish leaning. :macro:

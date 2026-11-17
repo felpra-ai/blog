@@ -28,7 +28,7 @@ altLang: en
 | 원자재 | sideways_bullish | 80.0% | 0.0% | stable |
 | 인플레 | sideways_bullish | 50.0% | 0.0% | stable |
 
-**섹터·바스켓** — 강세: defi, other, gaming_nft, storage · 약세: — · 도미넌스: btc_dominant
+**섹터·바스켓** — 강세: defi, other, gaming nft, storage · 약세: — · 도미넌스: btc_dominant
 
 ### 이번 주 주요 일정
 

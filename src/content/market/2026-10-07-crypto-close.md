@@ -28,7 +28,7 @@ altLang: en
 | 원자재 | sideways_bearish | 10.0% | 50.0% | stable |
 | 인플레 | neutral | 25.0% | 0.0% | stable |
 
-**섹터·바스켓** — 강세: storage, oracle_infra, gaming_nft · 약세: other, defi, payments · 도미넌스: btc_dominant
+**섹터·바스켓** — 강세: storage, oracle infra, gaming nft · 약세: other, defi, payments · 도미넌스: btc_dominant
 
 ### 이번 주 주요 일정
 

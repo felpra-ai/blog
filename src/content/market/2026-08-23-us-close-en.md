@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | extreme_bullish | 90.0% | 0.0% | stable |
 | Inflation | sideways_bullish | 50.0% | 0.0% | stable |
 
-**Sectors/baskets** — strong: Energy, REAL_ESTATE, Healthcare, CONSUMER_DEFENSIVE · weak: Basic Materials, FINANCIAL_SERVICES, Financial Services
+**Sectors/baskets** — strong: Energy, Real Estate, Healthcare, Consumer Defensive · weak: Basic Materials, Financial Services
 
 ### This week's calendar
 
@@ -53,7 +53,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Crypto:** Cryptocurrency markets display an extreme bullish reading, coupled with a clear improving trend. :crypto:
 - **Korea:** The Korean market shows a neutral reading with a deteriorating trend profile. :korea:
 - **US:** US equities are reading neutral overall, with a slightly higher proportion of bearish readings than bullish ones. :us:
-- **Sectors:** Energy, REAL_ESTATE, Healthcare, and CONSUMER_DEFENSIVE sectors show strength, while Basic Materials and FINANCIAL_SERVICES show weakness. :sectors:
+- **Sectors:** Energy, Real Estate, Healthcare, and Consumer Defensive sectors show strength, while Basic Materials and Financial Services show weakness. :sectors:
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The data suggests strong underlying commodity and crypto momentum, which contrasts with the mixed signals in the US and Korean equity spaces. The macro picture is supported by robust liquidity and commodity strength, though FX tension warrants attention. On balance, the tape suggests cautious momentum building across key asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />

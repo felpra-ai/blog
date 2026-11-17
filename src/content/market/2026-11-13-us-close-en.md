@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bearish | 10.0% | 60.0% | stable |
 | Inflation | bearish | 0.0% | 100.0% | stable |
 
-**Sectors/baskets** — strong: Financial Services, Communication Services, CONSUMER_DEFENSIVE, COMMUNICATION_SERVICES · weak: Technology, TECHNOLOGY, Energy
+**Sectors/baskets** — strong: Financial Services, Communication Services, Consumer Defensive · weak: Technology, Energy
 
 ### This week's calendar
 
@@ -54,7 +54,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Crypto:** Cryptocurrency markets are showing a sideways, bearish trend, with bearish sentiment heavily outweighing bullish readings. :crypto:
 - **Korea:** Korean equities are in a sideways, bearish pattern, with bearish sentiment showing a clear deterioration. :korea:
 - **US:** US equities are in a sideways, bullish pattern, reflecting an improving trend sentiment. :us:
-- **Sectors:** Financial Services, Communication Services, and CONSUMER_DEFENSIVE sectors show strength, while Technology, ENERGY, and TECHNOLOGY sectors exhibit weakness. :sectors:
+- **Sectors:** Financial Services, Communication Services, and Consumer Defensive sectors show strength, while Technology, ENERGY, and TECHNOLOGY sectors exhibit weakness. :sectors:
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** US equities are showing an improving, broadly supportive posture, while commodity and inflation indicators suggest underlying softness. The divergence between US strength and the bearish readings in commodities and crypto suggests caution across asset classes. <img class="emoji-char" src="/characters/v2/orchestrator/face/07_confident.png" alt="!QAZ 호랑이 지휘관" />

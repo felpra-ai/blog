@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | extreme_bullish | 70.0% | 10.0% | stable |
 | Inflation | neutral | 50.0% | 0.0% | stable |
 
-**Sectors/baskets** — strong: defi, meme · weak: storage, gaming_nft, exchange · dominance: btc_dominant
+**Sectors/baskets** — strong: defi, meme · weak: storage, gaming nft, exchange · dominance: btc_dominant
 
 ### This week's calendar
 

@@ -28,14 +28,14 @@ altLang: ko
 | Commodities | neutral | 60.0% | 10.0% | stable |
 | Inflation | neutral | 0.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: Healthcare, FINANCIAL_SERVICES, Utilities, REAL_ESTATE · weak: BASIC_MATERIALS, Technology, ENERGY
+**Sectors/baskets** — strong: Healthcare, Financial Services, Utilities, Real Estate · weak: Basic Materials, Technology, Energy
 
 ## Desk panel
 - **Macro:** Volatility readings suggest a predominantly bearish environment, while the bond and inflation regimes are showing a more balanced, neutral posture. :macro:
 - **Crypto:** The cryptocurrency space exhibits a deteriorating trend, though sentiment remains mixed between bullish and bearish readings. :crypto:
 - **Korea:** South Korean equities are showing a stable regime with a slight leaning toward bullish sentiment. :korea:
 - **US:** US equities are in an improving trend, characterized by a notable bullish skew in the current readings. :us:
-- **Sectors:** Sector performance indicates strength concentrated in Healthcare, FINANCIAL_SERVICES, Utilities, and REAL_ESTATE, while BASIC_MATERIALS, Technology, and ENERGY are showing weakness. :sectors:
+- **Sectors:** Sector performance indicates strength concentrated in Healthcare, Financial Services, Utilities, and Real Estate, while Basic Materials, Technology, and ENERGY are showing weakness. :sectors:
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** US market strength is evident across sectors, providing a supportive backdrop, although the broader liquidity picture remains bearish. The mixed signals across macro indicators suggest that while some areas show resilience, caution regarding systemic liquidity persists. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />

@@ -28,7 +28,7 @@ altLang: en
 | 원자재 | neutral | 20.0% | 10.0% | stable |
 | 인플레 | neutral | 0.0% | 25.0% | stable |
 
-**섹터·바스켓** — 강세: gaming_nft, layer2, defi, oracle_infra · 약세: — · 도미넌스: btc_dominant
+**섹터·바스켓** — 강세: gaming nft, layer2, defi, oracle infra · 약세: — · 도미넌스: btc_dominant
 
 ## 데스크 패널
 - **러블(글로벌):** 글로벌 변동성은 약세 쪽으로 무게가 실리면서도 전반적인 추세는 안정적인 모습을 보이고 있습니다. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />

@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bullish | 80.0% | 10.0% | stable |
 | Inflation | extreme_bullish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: KR_CONSUMER, KR_IT_MEDIA · weak: KR_CHEMICAL, KR_INDUSTRIALS
+**Sectors/baskets** — strong: consumer, IT-media · weak: chemicals, Industrials
 
 ## Desk panel
 - **Lovble(Global):** Volatility readings suggest a predominantly bearish sentiment underpinning the current market structure. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />

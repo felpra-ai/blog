@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | extreme_bullish | 40.0% | 30.0% | stable |
 | Inflation | neutral | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: Technology, INDUSTRIALS, TECHNOLOGY, Basic Materials · weak: UTILITIES, Real Estate, Utilities
+**Sectors/baskets** — strong: Technology, Industrials, Basic Materials · weak: Utilities, Real Estate
 
 ### This week's calendar
 

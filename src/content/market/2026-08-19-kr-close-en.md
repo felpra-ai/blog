@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bullish | 60.0% | 0.0% | stable |
 | Inflation | neutral | 50.0% | 0.0% | stable |
 
-**Sectors/baskets** — strong: KR_MATERIALS, KR_SEMICONDUCTOR, KR_INDUSTRIALS · weak: —
+**Sectors/baskets** — strong: materials, semiconductors, Industrials · weak: —
 
 ### This week's calendar
 

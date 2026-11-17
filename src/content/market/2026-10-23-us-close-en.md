@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 0.0% | 60.0% | stable |
 | Inflation | extreme_bullish | 50.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: Industrials, FINANCIAL_SERVICES, COMMUNICATION_SERVICES, Basic Materials · weak: TECHNOLOGY, Communication Services, Technology
+**Sectors/baskets** — strong: Industrials, Financial Services, Communication Services, Basic Materials · weak: Technology, Communication Services
 
 ### This week's calendar
 
@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Bsho(Bonds):** The bond market exhibits extreme bearish readings, with the trend showing a deterioration. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
 - **Sham(FX):** Foreign exchange movements are registering extreme bearishness, maintaining a stable trend. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
 - **Nowel(Commodities):** Commodities are showing a neutral reading, with the trend remaining stable. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities are reading sideways bullishness, with Industrials, FINANCIAL_SERVICES, COMMUNICATION_SERVICES, and Basic Materials showing strength, while TECHNOLOGY and Communication Services show weakness. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Maine(US):** US equities are reading sideways bullishness, with Industrials, Financial Services, Communication Services, and Basic Materials showing strength, while TECHNOLOGY and Communication Services show weakness. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The data suggests a divergence where credit and liquidity are reading strongly bullish, contrasting with the bearish readings in bonds and FX. US equities show improving momentum, while crypto continues a deteriorating trend. On balance, the market exhibits mixed signals, suggesting caution despite improving underlying liquidity conditions. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />

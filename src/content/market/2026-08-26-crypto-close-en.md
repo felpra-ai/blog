@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bullish | 60.0% | 20.0% | stable |
 | Inflation | extreme_bullish | 75.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: oracle_infra, defi, other, storage · weak: — · dominance: btc_dominant
+**Sectors/baskets** — strong: oracle infra, defi, other, storage · weak: — · dominance: btc_dominant
 
 ### This week's calendar
 

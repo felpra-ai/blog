@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 0.0% | 60.0% | stable |
 | Inflation | neutral | 0.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: COMMUNICATION_SERVICES · weak: Communication Services, CRYPTO, Technology
+**Sectors/baskets** — strong: Communication Services · weak: Communication Services, Crypto, Technology
 
 ### This week's calendar
 

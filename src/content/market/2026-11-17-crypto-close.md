@@ -28,7 +28,7 @@ altLang: en
 | 원자재 | neutral | 10.0% | 50.0% | stable |
 | 인플레 | sideways_bearish | 0.0% | 100.0% | stable |
 
-**섹터·바스켓** — 강세: — · 약세: oracle_infra, other, layer1 · 도미넌스: btc_dominant
+**섹터·바스켓** — 강세: — · 약세: oracle infra, other, layer1 · 도미넌스: btc_dominant
 
 _관측 각주: 이 시장 누적 최다 레짐 전이: sideways_bullish → sideways_bearish (78회 관측) · 거시 상관 관찰: bonds 가 forex 에 1일 선행 (ρ=+0.21) — 검정 210쌍 중 유의 7개뿐(다중비교 미보정), 약한 관측치로만 참고_
 

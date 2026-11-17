@@ -28,7 +28,7 @@ altLang: en
 | 원자재 | bullish | 60.0% | 20.0% | stable |
 | 인플레 | extreme_bullish | 75.0% | 25.0% | stable |
 
-**섹터·바스켓** — 강세: oracle_infra, defi, other, storage · 약세: — · 도미넌스: btc_dominant
+**섹터·바스켓** — 강세: oracle infra, defi, other, storage · 약세: — · 도미넌스: btc_dominant
 
 ### 이번 주 주요 일정
 

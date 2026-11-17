@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 60.0% | 0.0% | stable |
 | Inflation | bearish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: KR_CHEMICAL, KR_IT_MEDIA, KR_CONSUMER, KR_MATERIALS · weak: KR_FINANCIALS, KR_INDUSTRIALS
+**Sectors/baskets** — strong: chemicals, IT-media, consumer, materials · weak: financials, Industrials
 
 ## Desk panel
 - **Macro:** Volatility remains stable with a slight lean towards bearish readings, while the broader macro picture shows a mix of stability across asset classes. :macro:

@@ -28,14 +28,14 @@ altLang: ko
 | Commodities | neutral | 10.0% | 10.0% | stable |
 | Inflation | sideways_bearish | 0.0% | 75.0% | stable |
 
-**Sectors/baskets** — strong: Industrials, FINANCIAL_SERVICES, Utilities, Consumer Cyclical · weak: ENERGY, UTILITIES, COMMUNICATION_SERVICES
+**Sectors/baskets** — strong: Industrials, Financial Services, Utilities, Consumer Cyclical · weak: Energy, Utilities, Communication Services
 
 ## Desk panel
 - **Macro:** Volatility remains stable with a slight leaning toward bearish readings, while Bonds show a clear bullish bias, and Credit maintains a fully bullish posture. :macro:
 - **Crypto:** Crypto exhibits a neutral reading, with bullish sentiment slightly outweighing bearish readings. :crypto:
 - **Korea:** Korea's market sentiment is neutral, showing a slight improvement in the underlying trend. :korea:
 - **US:** US equities are reading as neutral overall, with the overall trend remaining stable. :us:
-- **Sectors:** Industrials, FINANCIAL_SERVICES, Utilities, and Consumer Cyclical show strength, while ENERGY, UTILITIES, and COMMUNICATION_SERVICES are noted as weaker areas. :sectors:
+- **Sectors:** Industrials, Financial Services, Utilities, and Consumer Cyclical show strength, while ENERGY, UTILITIES, and Communication Services are noted as weaker areas. :sectors:
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The macro picture suggests underlying support in credit and bonds, while FX strength and liquidity readings point to a generally supportive, albeit cautious, environment. The market structure shows sector divergence, with cyclical and financial names showing relative strength against energy and communication services. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />

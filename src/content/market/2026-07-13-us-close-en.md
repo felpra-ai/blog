@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bullish | 80.0% | 10.0% | stable |
 | Inflation | extreme_bullish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: REAL_ESTATE, HEALTHCARE, Healthcare, FINANCIAL_SERVICES · weak: TECHNOLOGY
+**Sectors/baskets** — strong: Real Estate, Healthcare, Financial Services · weak: Technology
 
 ## Desk panel
 - **Lovble(Global):** Volatility is showing a pronounced bearish tilt, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />

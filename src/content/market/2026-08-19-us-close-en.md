@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bullish | 80.0% | 0.0% | stable |
 | Inflation | neutral | 25.0% | 0.0% | stable |
 
-**Sectors/baskets** — strong: ENERGY, Energy, Technology, REAL_ESTATE · weak: CONSUMER_CYCLICAL, BASIC_MATERIALS, CONSUMER_DEFENSIVE
+**Sectors/baskets** — strong: Energy, Technology, Real Estate · weak: Consumer Cyclical, Basic Materials, Consumer Defensive
 
 ### This week's calendar
 
@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Bsho(Bonds):** The bond market exhibits a neutral stance, with bullish sentiment slightly outweighing bearish readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
 - **Sham(FX):** Foreign exchange movements are balanced, showing a slight leaning towards bullish positioning. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
 - **Nowel(Commodities):** Commodities are showing a clear bullish bias, indicating positive momentum in that asset class. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are reading as neutral overall, with strength noted in ENERGY, Technology, and REAL_ESTATE, while CONSUMER_CYCLICAL and BASIC_MATERIALS show weakness. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Maine(US):** US equities are reading as neutral overall, with strength noted in ENERGY, Technology, and Real Estate, while Consumer Cyclical and Basic Materials show weakness. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The market structure reflects a divergence: commodities are clearly bullish, while equity performance is mixed, particularly with notable weakness in consumer-facing sectors. The overall sentiment across major asset classes suggests a cautious, range-bound environment despite geopolitical headlines impacting risk assets. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />

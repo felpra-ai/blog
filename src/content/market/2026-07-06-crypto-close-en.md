@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 60.0% | 10.0% | stable |
 | Inflation | neutral | 0.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: other, gaming_nft, exchange, layer1 · weak: — · dominance: btc_dominant
+**Sectors/baskets** — strong: other, gaming nft, exchange, layer1 · weak: — · dominance: btc_dominant
 
 ## Desk panel
 - **Lovble(Global):** Volatility readings suggest a predominantly bearish sentiment across the board, with no discernible shift in the trend. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />

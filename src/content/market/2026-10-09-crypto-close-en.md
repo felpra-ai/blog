@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 10.0% | 40.0% | stable |
 | Inflation | sideways_bearish | 50.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: gaming_nft · weak: other, layer2, layer1 · dominance: btc_dominant
+**Sectors/baskets** — strong: gaming nft · weak: other, layer2, layer1 · dominance: btc_dominant
 
 ### This week's calendar
 

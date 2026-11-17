@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 50.0% | 10.0% | stable |
 | Inflation | bearish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: KR_CONSUMER, KR_IT_MEDIA · weak: KR_CHEMICAL, KR_INDUSTRIALS
+**Sectors/baskets** — strong: consumer, IT-media · weak: chemicals, Industrials
 
 ## Desk panel
 - **VIX:** Volatility remains in a stable, sideways-bearish posture. :vix:

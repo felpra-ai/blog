@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 20.0% | 20.0% | stable |
 | Inflation | sideways_bearish | 0.0% | 75.0% | stable |
 
-**Sectors/baskets** — strong: layer1, storage · weak: exchange, oracle_infra · dominance: btc_dominant
+**Sectors/baskets** — strong: layer1, storage · weak: exchange, oracle infra · dominance: btc_dominant
 
 ## Desk panel
 - **Lovble(Global):** Volatility remains weighted toward the bearish side, while overall risk appetite shows a stable, mixed picture. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />

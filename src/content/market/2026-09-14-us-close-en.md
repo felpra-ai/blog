@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bearish | 20.0% | 40.0% | stable |
 | Inflation | bearish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: — · weak: REAL_ESTATE, Basic Materials, CONSUMER_CYCLICAL
+**Sectors/baskets** — strong: — · weak: Real Estate, Basic Materials, Consumer Cyclical
 
 ### This week's calendar
 

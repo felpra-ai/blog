@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 40.0% | 0.0% | stable |
 | Inflation | neutral | 0.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: ENERGY, FINANCIAL_SERVICES, Healthcare, Financial Services · weak: BASIC_MATERIALS, TECHNOLOGY
+**Sectors/baskets** — strong: Energy, Financial Services, Healthcare · weak: Basic Materials, Technology
 
 ## Desk panel
 - **Lovble(Global):** Volatility remains firmly in the bearish regime, while overall liquidity shows a pronounced bearish leaning. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />

@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bullish | 80.0% | 0.0% | stable |
 | Inflation | neutral | 25.0% | 0.0% | stable |
 
-**Sectors/baskets** — strong: storage, oracle_infra · weak: — · dominance: btc_dominant
+**Sectors/baskets** — strong: storage, oracle infra · weak: — · dominance: btc_dominant
 
 _Observation notes: most frequent regime shift in this market so far: bearish → neutral (8 times observed)_
 

@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | sideways_bullish | 30.0% | 50.0% | stable |
 | Inflation | extreme_bearish | 0.0% | 100.0% | stable |
 
-**Sectors/baskets** — strong: KR_INDUSTRIALS · weak: KR_MATERIALS
+**Sectors/baskets** — strong: Industrials · weak: materials
 
 ### This week's calendar
 

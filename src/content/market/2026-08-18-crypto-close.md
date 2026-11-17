@@ -28,7 +28,7 @@ altLang: en
 | 원자재 | bullish | 80.0% | 0.0% | stable |
 | 인플레 | neutral | 25.0% | 0.0% | stable |
 
-**섹터·바스켓** — 강세: storage, oracle_infra · 약세: — · 도미넌스: btc_dominant
+**섹터·바스켓** — 강세: storage, oracle infra · 약세: — · 도미넌스: btc_dominant
 
 _관측 각주: 이 시장 누적 최다 레짐 전이: bearish → neutral (8회 관측)_
 

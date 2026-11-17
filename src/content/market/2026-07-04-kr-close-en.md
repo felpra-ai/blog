@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 40.0% | 10.0% | stable |
 | Inflation | neutral | 0.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: KR_UTILITIES · weak: —
+**Sectors/baskets** — strong: Utilities · weak: —
 
 ## Desk panel
 - **Lovble(Global):** Volatility readings indicate a predominantly bearish sentiment across the board, with no discernible shift in trend. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />

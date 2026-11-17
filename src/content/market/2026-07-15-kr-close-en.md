@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bullish | 80.0% | 10.0% | stable |
 | Inflation | sideways_bearish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: KR_CONSUMER, KR_IT_MEDIA · weak: KR_CHEMICAL, KR_INDUSTRIALS
+**Sectors/baskets** — strong: consumer, IT-media · weak: chemicals, Industrials
 
 ## Desk panel
 - **Lovble(Global):** Volatility is trending toward the bearish side, while the general risk appetite remains mixed. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />

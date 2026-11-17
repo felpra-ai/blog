@@ -28,7 +28,7 @@ altLang: en
 | 원자재 | extreme_bullish | 90.0% | 0.0% | stable |
 | 인플레 | extreme_bullish | 100.0% | 0.0% | stable |
 
-**섹터·바스켓** — 강세: oracle_infra · 약세: — · 도미넌스: btc_dominant
+**섹터·바스켓** — 강세: oracle infra · 약세: — · 도미넌스: btc_dominant
 
 _관측 각주: 이 시장 누적 최다 레짐 전이: neutral → extreme_bullish (9회 관측) · 거시 상관 관찰: forex 가 vix 에 1일 선행 (ρ=+0.26) — 검정 210쌍 중 유의 4개뿐(다중비교 미보정), 약한 관측치로만 참고_
 

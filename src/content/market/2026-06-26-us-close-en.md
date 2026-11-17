@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 0.0% | 40.0% | stable |
 | Inflation | neutral | 25.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: BASIC_MATERIALS, CONSUMER_DEFENSIVE, FINANCIAL_SERVICES, Utilities · weak: REAL_ESTATE, UTILITIES, ENERGY
+**Sectors/baskets** — strong: Basic Materials, Consumer Defensive, Financial Services, Utilities · weak: Real Estate, Utilities, Energy
 
 ## Desk panel
 - **Lovble(Global):** Volatility remains stable with equal weight assigned to bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />

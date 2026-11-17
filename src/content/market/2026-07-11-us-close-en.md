@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bullish | 60.0% | 10.0% | stable |
 | Inflation | extreme_bullish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: REAL_ESTATE, HEALTHCARE, Healthcare, FINANCIAL_SERVICES · weak: TECHNOLOGY
+**Sectors/baskets** — strong: Real Estate, Healthcare, Financial Services · weak: Technology
 
 ## Desk panel
 - **Macro:** Volatility remains elevated with a clear bearish bias, while the underlying trend structure across major asset classes shows stability. :macro:

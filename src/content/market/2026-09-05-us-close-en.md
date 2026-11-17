@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 60.0% | 10.0% | stable |
 | Inflation | sideways_bullish | 50.0% | 0.0% | stable |
 
-**Sectors/baskets** — strong: COMMUNICATION_SERVICES · weak: INDUSTRIALS, FINANCIAL_SERVICES
+**Sectors/baskets** — strong: Communication Services · weak: Industrials, Financial Services
 
 ### This week's calendar
 
@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Bsho(Bonds):** Bond sentiment is neutral, with a measurable leaning towards bullish conviction. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
 - **Sham(FX):** FX sentiment is mixed, registering a higher proportion of bearish readings than bullish ones. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
 - **Nowel(Commodities):** Commodity sentiment is neutral, with a notable majority leaning towards bullish readings. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities sentiment is neutral, with COMMUNICATION_SERVICES showing strength while INDUSTRIALS and FINANCIAL_SERVICES are weaker. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Maine(US):** US equities sentiment is neutral, with Communication Services showing strength while INDUSTRIALS and Financial Services are weaker. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** Macro indicators suggest underlying caution, particularly in liquidity and credit, despite commodity and bond readings showing some positive leaning. The market structure reflects a degree of indecision across major asset classes, with sector strength in communications contrasting with weakness in industrials and financials. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />

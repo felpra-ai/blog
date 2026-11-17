@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 50.0% | 10.0% | stable |
 | Inflation | bearish | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: gaming_nft, defi, meme, layer1 · weak: — · dominance: btc_dominant
+**Sectors/baskets** — strong: gaming nft, defi, meme, layer1 · weak: — · dominance: btc_dominant
 
 ## Desk panel
 - **Lovble(Global):** Volatility remains in a stable, sideways-bearish posture, suggesting limited directional conviction. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />

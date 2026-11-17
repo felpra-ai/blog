@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 30.0% | 20.0% | stable |
 | Inflation | neutral | 0.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: KR_FINANCIALS, KR_INDUSTRIALS, KR_SEMICONDUCTOR, KR_CONSUMER · weak: CRYPTO, KR_MATERIALS
+**Sectors/baskets** — strong: financials, Industrials, semiconductors, consumer · weak: Crypto, materials
 
 ### This week's calendar
 

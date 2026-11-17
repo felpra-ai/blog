@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 30.0% | 30.0% | stable |
 | Inflation | sideways_bearish | 0.0% | 75.0% | stable |
 
-**Sectors/baskets** — strong: — · weak: HEALTHCARE, UTILITIES, BASIC_MATERIALS
+**Sectors/baskets** — strong: — · weak: Healthcare, Utilities, Basic Materials
 
 ### This week's calendar
 
@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Bsho(Bonds):** Bonds are registering extreme bullish readings, with the trend remaining stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
 - **Sham(FX):** FX is showing extreme bearish readings, though the trend remains stable. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
 - **Nowel(Commodities):** Commodities are showing neutral readings across the board, and the trend remains stable. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are reading neutral, with the trend showing deterioration, while sectors like HEALTHCARE, UTILITIES, and BASIC_MATERIALS are noted as weak. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
+- **Maine(US):** US equities are reading neutral, with the trend showing deterioration, while sectors like HEALTHCARE, UTILITIES, and Basic Materials are noted as weak. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The macro picture presents a divergence: bonds are strongly bullish, while volatility and FX are reading extreme bearishness. US equities are showing signs of deterioration despite crypto exhibiting an improving trend. On balance, the market is exhibiting mixed directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />

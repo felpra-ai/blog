@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | sideways_bullish | 70.0% | 10.0% | stable |
 | Inflation | neutral | 25.0% | 50.0% | stable |
 
-**Sectors/baskets** — strong: ENERGY, Consumer Cyclical, Communication Services, Technology · weak: UTILITIES, Real Estate, CONSUMER_DEFENSIVE
+**Sectors/baskets** — strong: Energy, Consumer Cyclical, Communication Services, Technology · weak: Utilities, Real Estate, Consumer Defensive
 
 ### This week's calendar
 

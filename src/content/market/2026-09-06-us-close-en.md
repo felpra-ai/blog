@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | sideways_bullish | 50.0% | 30.0% | stable |
 | Inflation | neutral | 25.0% | 0.0% | stable |
 
-**Sectors/baskets** — strong: COMMUNICATION_SERVICES · weak: —
+**Sectors/baskets** — strong: Communication Services · weak: —
 
 ### This week's calendar
 
@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Bsho(Bonds):** Bond trends are stable, with bullish conviction slightly outweighing bearish readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
 - **Sham(FX):** FX trends are stable, exhibiting a notable bearish leaning in the current environment. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
 - **Nowel(Commodities):** Commodities show a sideways bias with a moderate bullish tilt. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equity trends are stable, showing a slight bearish tilt, while the COMMUNICATION_SERVICES sector shows strength. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Maine(US):** US equity trends are stable, showing a slight bearish tilt, while the Communication Services sector shows strength. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
 ## Cross-market & !QAZ's verdict
 **!QAZ(Chair):** The cross-market view suggests generalized caution, particularly highlighted by the extreme bearish reading in liquidity. While commodities maintain a slight upward bias, the macro indicators point toward a lack of clear directional conviction across fixed income and FX. The stability across most major asset classes, contrasted with the bearish liquidity reading, suggests underlying tension within the market structure. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />

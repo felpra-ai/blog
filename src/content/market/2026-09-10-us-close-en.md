@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | bullish | 50.0% | 20.0% | stable |
 | Inflation | neutral | 0.0% | 0.0% | stable |
 
-**Sectors/baskets** — strong: REAL_ESTATE, COMMUNICATION_SERVICES, UTILITIES, ENERGY · weak: Communication Services, HEALTHCARE, Technology
+**Sectors/baskets** — strong: Real Estate, Communication Services, Utilities, Energy · weak: Communication Services, Healthcare, Technology
 
 ### This week's calendar
 

@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 10.0% | 30.0% | stable |
 | Inflation | neutral | 25.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: KR_UTILITIES · weak: KR_CHEMICAL, CRYPTO, KR_IT_MEDIA
+**Sectors/baskets** — strong: Utilities · weak: chemicals, Crypto, IT-media
 
 ## Desk panel
 - **Bsho(Bonds):** Bonds exhibit a clear bullish bias, supported by stable trends across credit and liquidity. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />

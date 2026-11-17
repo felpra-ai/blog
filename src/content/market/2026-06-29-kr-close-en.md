@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 10.0% | 30.0% | stable |
 | Inflation | neutral | 25.0% | 25.0% | stable |
 
-**Sectors/baskets** — strong: KR_UTILITIES · weak: KR_MATERIALS, CRYPTO, KR_CHEMICAL
+**Sectors/baskets** — strong: Utilities · weak: materials, Crypto, chemicals
 
 ## Desk panel
 - **Lovble(Global):** Volatility remains stable with balanced bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />

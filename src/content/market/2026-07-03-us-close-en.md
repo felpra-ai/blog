@@ -28,7 +28,7 @@ altLang: ko
 | Commodities | neutral | 20.0% | 20.0% | stable |
 | Inflation | sideways_bearish | 0.0% | 75.0% | stable |
 
-**Sectors/baskets** — strong: HEALTHCARE, BASIC_MATERIALS, CONSUMER_DEFENSIVE, Healthcare · weak: ENERGY
+**Sectors/baskets** — strong: Healthcare, Basic Materials, Consumer Defensive · weak: Energy
 
 ## Desk panel
 - **Lovble(Global):** Volatility remains predominantly bearish, suggesting underlying caution in market sentiment. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
