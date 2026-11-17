@@ -1,7 +1,7 @@
 // 페이지 언어와 KO↔EN 쌍둥이 경로 — Header·Footer 가 함께 쓴다(종전 Header.astro 안의 계산을 그대로 옮김).
 // 블로그는 경로가 곧 언어다: /en/ 프리픽스(상설·목록) 또는 글 슬러그 -en.
 
-const POST_RE = /^\/(journal|market|spotlight|track-record)\/20\d{2}-[^/]+\/$/;
+const POST_RE = /^\/(journal|market|spotlight|track-record|toon)\/20\d{2}-[^/]+\/$/;
 
 // KO 쪽에서 /en/ 쌍이 있는 경로. About(영어 단일 페이지)·tags(KO 전용)는 쌍이 없다.
 const EN_TWIN = [
@@ -9,6 +9,8 @@ const EN_TWIN = [
   /^\/(journal|market|spotlight|track-record)\/(\d+\/)?$/, // 카테고리 목록
   /^\/track-record\/all-time\/$/,
   /^\/(methodology|corrections|anchors)\/$/,
+  /^\/toon\/$/,                                           // 툰 목록
+  /^\/toon\/series\/[a-z-]+\/$/,                          // 툰 시리즈
 ];
 
 export function isPostPath(path: string): boolean {

@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ToonHome from '../../../components/ToonHome.astro';
+const enHref = new URL(Astro.url.pathname, Astro.site).href;
+const koHref = new URL(Astro.url.pathname.replace(/^\/en/, ''), Astro.site).href;
+---
+<BaseLayout title="Toons — OneQAZ" description="One-episode-a-day market toons from the OneQAZ Cat Office (paper-trading research, not investment advice)." lang="en">
+  <link rel="alternate" hreflang="en" href={enHref} slot="head" />
+  <link rel="alternate" hreflang="ko" href={koHref} slot="head" />
+  <link rel="alternate" hreflang="x-default" href={enHref} slot="head" />
+  <section class="head container-wide">
+    <p class="eyebrow">toon</p>
+    <h1>Toons</h1>
+    <p class="muted lede">The Cat Office crew turns each market day into a short comic. Paper-trading research, not investment advice.</p>
+  </section>
+  <ToonHome lang="en" />
+</BaseLayout>
+<style>
+  .head { padding: 52px 24px 8px; }
+  .head h1 { font-size: clamp(28px,4vw,40px); font-weight:700; margin:10px 0; color:var(--text); }
+  .lede { max-width:560px; font-size:14px; }
+</style>

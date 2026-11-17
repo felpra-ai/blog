@@ -25,7 +25,18 @@ const postSchema = z.object({
   altLang: z.enum(['ko', 'en']).optional(),
 });
 
+// 툰(인스타툰 캐러셀을 웹툰처럼 세로로) — 2026-11-18. 시리즈 = 시장별 담당 고양이 일기 (나중에 포맷별 시리즈 추가).
+// 이미지는 public/toon/<slug>/0N.webp (엔딩 카드 제외 5장). 본문 = 대사 원문 + 원문 글 링크 + 면책.
+const toonSchema = postSchema.extend({
+  category: z.literal('toon'),
+  series: z.string(),
+  episode: z.number().int().positive(),
+  images: z.array(z.object({ src: z.string(), alt: z.string() })).min(1),
+  source: z.string().optional(),   // 원문 시황 글 경로
+});
+
 const trackRecord = defineCollection({ type: 'content', schema: postSchema });
+const toon = defineCollection({ type: 'content', schema: toonSchema });
 const market = defineCollection({ type: 'content', schema: postSchema });
 const journal = defineCollection({ type: 'content', schema: postSchema });
 const spotlight = defineCollection({ type: 'content', schema: postSchema });
@@ -35,4 +46,5 @@ export const collections = {
   market,
   journal,
   spotlight,
+  toon,
 };

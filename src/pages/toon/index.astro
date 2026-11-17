@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ToonHome from '../../components/ToonHome.astro';
+const koHref = new URL(Astro.url.pathname, Astro.site).href;
+const enHref = new URL('/en' + Astro.url.pathname, Astro.site).href;
+---
+<BaseLayout title="툰 — OneQAZ" description="OneQAZ 캣오피스 고양이들의 하루 한 편 시황 툰 (모의매매 리서치, 투자 자문 아님).">
+  <link rel="alternate" hreflang="ko" href={koHref} slot="head" />
+  <link rel="alternate" hreflang="en" href={enHref} slot="head" />
+  <link rel="alternate" hreflang="x-default" href={enHref} slot="head" />
+  <section class="head container-wide">
+    <p class="eyebrow">toon</p>
+    <h1>툰</h1>
+    <p class="muted lede">캣오피스 고양이들이 그날 시황을 한 편의 만화로. 모의매매 리서치 기록이며 투자 자문이 아닙니다.</p>
+  </section>
+  <ToonHome lang="ko" />
+</BaseLayout>
+<style>
+  .head { padding: 52px 24px 8px; }
+  .head h1 { font-size: clamp(28px,4vw,40px); font-weight:700; margin:10px 0; color:var(--text); }
+  .lede { max-width:560px; font-size:14px; }
+</style>

@@ -1,0 +1,36 @@
+---
+// 시리즈 회차 목록 — 최신 화부터 (ko·en 공용)
+import { getCollection } from 'astro:content';
+import ToonCard from './ToonCard.astro';
+import { seriesOf } from '../data/toonSeries';
+interface Props { lang: 'ko' | 'en'; series: string }
+const { lang, series } = Astro.props;
+const s = seriesOf(series)!;
+const eps = (await getCollection('toon', ({ data }) => !data.draft && data.lang === lang && data.series === series))
+  .sort((a, b) => b.data.episode - a.data.episode);
+const pfx = lang === 'en' ? '/en' : '';
+---
+<section class="head container-wide">
+  <a class="eyebrow back" href={`${pfx}/toon/`}>&larr; {lang === 'en' ? 'toons' : '툰'}</a>
+  <div class="s-head">
+    <img src={s.face} alt="" width="56" height="56" />
+    <div>
+      <h1>{lang === 'en' ? s.en : s.ko}</h1>
+      <p class="muted">{lang === 'en' ? s.enDesc : s.koDesc} · {lang === 'en' ? `${eps.length} episodes` : `${eps.length}화`}</p>
+    </div>
+  </div>
+</section>
+<section class="feed container-wide">
+  {eps.length === 0 ? <p class="muted">{lang === 'en' ? 'No episodes yet.' : '아직 회차가 없습니다.'}</p>
+    : <div class="grid">{eps.map((e) => <ToonCard entry={e} lang={lang} />)}</div>}
+</section>
+<style>
+  .head { padding: 48px 24px 12px; }
+  .back { display:inline-block; margin-bottom: 14px; opacity:.8; }
+  .s-head { display:flex; align-items:center; gap:14px; }
+  .s-head img { border-radius:50%; background: var(--panel-bg); }
+  .s-head h1 { font-size: clamp(24px,4vw,34px); font-weight:700; margin:0; color: var(--text); }
+  .s-head p { margin: 4px 0 0; font-size: 13px; }
+  .feed { padding: 16px 24px 48px; }
+  .grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 18px; }
+</style>

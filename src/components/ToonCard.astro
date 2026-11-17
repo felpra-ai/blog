@@ -1,0 +1,24 @@
+---
+// 툰 회차 카드 — 표지(1장) 썸네일 + 회차·날짜·제목
+interface Props { entry: any; lang: 'ko' | 'en' }
+const { entry, lang } = Astro.props;
+const d = entry.data;
+const href = `/toon/${entry.slug}/`;
+const date = d.data_as_of ? d.data_as_of.toISOString().slice(0, 10) : d.date.toISOString().slice(0, 10);
+---
+<a class="toon-card" href={href}>
+  <img src={d.images[0].src} alt={d.images[0].alt} loading="lazy" width="1080" height="1440" />
+  <div class="tc-meta">
+    <span class="ep">{lang === 'en' ? `Ep. ${d.episode}` : `${d.episode}화`}</span>
+    <span class="dt">{date}</span>
+  </div>
+  <div class="tc-title">{d.title}</div>
+</a>
+<style>
+  .toon-card { display:flex; flex-direction:column; gap:6px; color: var(--text); text-decoration:none; }
+  .toon-card img { width:100%; height:auto; aspect-ratio:3/4; object-fit:cover; border-radius: var(--radius-md, 10px); border:1px solid var(--border); background: var(--panel-bg); transition: transform .15s; }
+  .toon-card:hover img { transform: translateY(-2px); border-color: var(--amber); }
+  .tc-meta { display:flex; gap:10px; font-size:12px; color: var(--text-muted); }
+  .tc-meta .ep { color: var(--amber); font-weight:600; }
+  .tc-title { font-size:14px; font-weight:600; line-height:1.35; }
+</style>

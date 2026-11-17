@@ -1,0 +1,49 @@
+---
+// 툰 회차 — 웹툰처럼 세로로 이어 보기 + 대사 원문(검색·AI 가 읽는 텍스트) + 이전·다음 화
+import { getCollection } from 'astro:content';
+import PostLayout from '../../layouts/PostLayout.astro';
+import { seriesOf } from '../../data/toonSeries';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('toon', ({ data }) => !data.draft);
+  return entries.map((entry) => {
+    const same = entries.filter((e) => e.data.series === entry.data.series && e.data.lang === entry.data.lang)
+      .sort((a, b) => a.data.episode - b.data.episode);
+    const i = same.findIndex((e) => e.slug === entry.slug);
+    return { params: { slug: entry.slug }, props: { entry, prev: same[i - 1] ?? null, next: same[i + 1] ?? null } };
+  });
+}
+const { entry, prev, next } = Astro.props;
+const { Content } = await entry.render();
+const d = entry.data;
+const en = d.lang === 'en';
+const s = seriesOf(d.series);
+const pfx = en ? '/en' : '';
+---
+<PostLayout title={d.title} description={d.description} date={d.date} category="toon" markets={d.markets} tags={d.tags}
+  lang={d.lang} ogImage={d.ogImage} altUrl={d.altUrl} altLang={d.altLang} updated={d.updated}>
+  <p class="series-line">
+    <a href={`${pfx}/toon/series/${d.series}/`}>{s ? (en ? s.en : s.ko) : d.series}</a>
+    <span>{en ? `Episode ${d.episode}` : `${d.episode}화`}</span>
+  </p>
+  <div class="strip">
+    {d.images.map((im: any, i: number) => (
+      <img src={im.src} alt={im.alt} width="1080" height="1440" loading={i < 2 ? 'eager' : 'lazy'} decoding="async" />
+    ))}
+  </div>
+  <nav class="ep-nav">
+    {prev ? <a href={`/toon/${prev.slug}/`}>&larr; {en ? `Ep. ${prev.data.episode}` : `${prev.data.episode}화`}</a> : <span></span>}
+    <a href={`${pfx}/toon/series/${d.series}/`}>{en ? 'All episodes' : '전체 회차'}</a>
+    {next ? <a href={`/toon/${next.slug}/`}>{en ? `Ep. ${next.data.episode}` : `${next.data.episode}화`} &rarr;</a> : <span></span>}
+  </nav>
+  <Content />
+</PostLayout>
+<style>
+  .series-line { display:flex; gap:12px; align-items:center; font-size:13px; margin: -18px 0 18px; }
+  .series-line a { color: var(--amber); font-weight:600; }
+  .series-line span { color: var(--text-muted); }
+  .strip { display:flex; flex-direction:column; gap: 0; max-width: 540px; margin: 0 auto 24px; }
+  .strip img { width: 100%; height: auto; display:block; }
+  .ep-nav { display:flex; justify-content:space-between; align-items:center; max-width:540px; margin: 0 auto 36px; font-size: 14px; }
+  .ep-nav a { color: var(--amber); }
+</style>

@@ -1,0 +1,15 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ToonSeriesPage from '../../../components/ToonSeriesPage.astro';
+import { TOON_SERIES } from '../../../data/toonSeries';
+export function getStaticPaths() { return TOON_SERIES.map((s) => ({ params: { series: s.id } })); }
+const { series } = Astro.params;
+const s = TOON_SERIES.find((x) => x.id === series)!;
+const koHref = new URL(Astro.url.pathname, Astro.site).href;
+const enHref = new URL('/en' + Astro.url.pathname, Astro.site).href;
+---
+<BaseLayout title={`${s.ko} — OneQAZ 툰`} description={s.koDesc}>
+  <link rel="alternate" hreflang="ko" href={koHref} slot="head" />
+  <link rel="alternate" hreflang="en" href={enHref} slot="head" />
+  <ToonSeriesPage lang="ko" series={series!} />
+</BaseLayout>
