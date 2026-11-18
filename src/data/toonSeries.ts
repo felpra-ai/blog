@@ -17,6 +17,12 @@ export const TOON_SERIES: ToonSeries[] = [
   { id: 'countdown', ko: '러블의 일정 카운트다운', en: "Lovble's Countdown",
     koDesc: '글로벌 뉴스 담당 러블이 알려 주는 큰 일정 D-2. 일정 안내이지 예측이 아니다.', enDesc: 'Lovble (global news desk) flags big scheduled events two days out. A schedule, not a forecast.',
     face: '/characters/v2/news/face/06_neutral.png' },
+  { id: 'clash', ko: '캣오피스 의견 충돌', en: 'Cat Office Clash',
+    koDesc: '어제 AI 토론에서 강세와 약세가 정면으로 갈린 순간. 누가 맞는지는 아직 모른다.', enDesc: 'When yesterday\'s AI desk debate split bullish vs bearish. Nobody knows who is right yet.',
+    face: '/characters/v2/orchestrator/face/10_suspicious.png' },
+  { id: 'decoupling', ko: '따로 노는 날', en: 'Decoupling Day',
+    koDesc: '같이 가던 두 시장이 갈라지거나, 반대로 가다 다시 만난 날.', enDesc: 'The day two markets split up — or came back together.',
+    face: '/characters/v2/us/face/10_suspicious.png' },
 ];
 
 export const seriesOf = (id: string) => TOON_SERIES.find((s) => s.id === id);
