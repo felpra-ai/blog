@@ -1,5 +1,6 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import { getCollection } from 'astro:content';
 import TagList from '../components/TagList.astro';
 
 export interface Props {
@@ -27,7 +28,15 @@ const updatedLabel = updated ? updated.toISOString().slice(0, 10) : null;
 
 // hreflang pairing — let AI/search engines see the KO↔EN versions of this post.
 // 과거 글 frontmatter altUrl 은 슬래시 없음 — trailingSlash always 체계에 맞게 정규화(301 방지).
-const altNorm = altUrl ? (altUrl.endsWith('/') ? altUrl : altUrl + '/') : null;
+const altClaim = altUrl ? (altUrl.endsWith('/') ? altUrl : altUrl + '/') : null;
+// 쌍 글이 실제로 빌드되는지 확인한다(2026-11-19). 한쪽 언어만 발행된 날(예: 툰 2026-11-18-kr)
+// 토글·hreflang 이 404 를 가리키지 않게 — 없으면 쌍 없음으로 보고 상단 토글은 그 언어 목록으로 간다.
+const COLS = ['track-record', 'market', 'journal', 'spotlight', 'toon'];
+let altNorm = altClaim;
+if (altClaim && COLS.includes(category)) {
+  const built = new Set((await getCollection(category as any, ({ data }: any) => !data.draft)).map((e: any) => `/${category}/${e.slug}/`));
+  if (!built.has(altClaim)) altNorm = null;
+}
 const altHref = altNorm ? new URL(altNorm, Astro.site).href : null;
 // x-default = EN (2026-07-23): 글로벌 AI/검색 독자층이 1순위 — 언어 미매칭 사용자에겐 영어판.
 const xDefault = lang === 'en' ? canonical : altHref;
@@ -48,7 +57,7 @@ const jsonLd = {
   keywords: [category, ...markets, ...tags].join(', '),
 };
 ---
-<BaseLayout title={`${title} — OneQAZ`} description={description} lang={lang} ogImage={ogImage}>
+<BaseLayout title={`${title} — OneQAZ`} description={description} lang={lang} ogImage={ogImage} altPath={altNorm}>
   <script type="application/ld+json" slot="head" set:html={JSON.stringify(jsonLd)} />
   {altHref && <link rel="alternate" hreflang={lang} href={canonical} slot="head" />}
   {altHref && <link rel="alternate" hreflang={altLang} href={altHref} slot="head" />}
@@ -59,7 +68,7 @@ const jsonLd = {
     <h1>{title}</h1>
     <div class="meta">
       <time datetime={iso}>{dateLabel}</time>
-      {updatedIso && <a class="updated" href="/corrections/" title={updatedIso}>{lang === 'en' ? 'corrected' : '정정'} <time datetime={updatedIso}>{updatedLabel}</time></a>}
+      {updatedIso && <a class="updated" href={lang === 'en' ? '/en/corrections/' : '/corrections/'} title={updatedIso}>{lang === 'en' ? 'corrected' : '정정'} <time datetime={updatedIso}>{updatedLabel}</time></a>}
       <TagList markets={markets} tags={tags} />
       {altHref && <a class="lang-toggle" href={altNorm} hreflang={altLang}>{toggleLabel}</a>}
     </div>

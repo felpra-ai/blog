@@ -2,12 +2,17 @@
 // OneQAZ 공통 상단 메뉴 — oneqaz.com·api.oneqaz.com 과 같은 항목·순서·라벨(2026-10-15 통일, 사용자 요청).
 // 원본 = landing/index.html 의 oqz:chrome-header. 블로그는 경로가 곧 언어라 라벨·EN/KO 를 빌드 타임에 정한다.
 // 블로그 자체 섹션(트랙 레코드·시황·스포트라이트·매매일지·소개)은 공통 메뉴 밑 두 번째 줄(blog-subnav)에 둔다.
-import { isEnPath, altPathOf } from './siteLang';
+import { isEnPath, altPathOf, fallbackOf } from './siteLang';
+
+export interface Props {
+  /** 다른 언어 쌍 경로 — 생략=경로 규칙, null=쌍 없음 */
+  altPath?: string | null;
+}
 
 const path = Astro.url.pathname;
 const isEn = isEnPath(path);
 const lang = isEn ? 'en' : 'ko';
-const alt = altPathOf(path);
+const alt = Astro.props.altPath !== undefined ? Astro.props.altPath : altPathOf(path);
 const q = `?lang=${lang}`;
 const site = (hash: string) => `https://oneqaz.com/${q}#${hash}`;
 const blogHome = isEn ? '/en/' : '/';
@@ -17,9 +22,9 @@ const T = isEn
   ? { agents: 'Agents', flow: 'How it works', verify: 'Verify', connect: 'Connect', status: 'Status', daily: 'Daily Reads', menu: 'Menu', sections: 'Daily Reads' }
   : { agents: '에이전트', flow: '작동 방식', verify: '검증', connect: '연결', status: '상태', daily: '데일리 리포트', menu: '메뉴', sections: '데일리 리포트' };
 
-// 다른 언어 버튼: 같은 페이지의 쌍둥이 경로, 없으면 그 언어 홈.
-const enHref = isEn ? null : (alt ?? '/en/');
-const koHref = isEn ? (alt ?? '/') : null;
+// 다른 언어 버튼: 같은 페이지의 쌍둥이 경로, 없으면 그 언어의 같은 섹션 목록(그것도 없으면 홈).
+const enHref = isEn ? null : (alt ?? fallbackOf(path));
+const koHref = isEn ? (alt ?? fallbackOf(path)) : null;
 
 const cats = [
   { href: '/track-record/', en: 'Track Record', ko: '트랙 레코드' },
@@ -53,7 +58,7 @@ const isCurrent = (href: string) => path.startsWith(pfx + href) || path.startsWi
     {cats.map((c) => (
       <a href={pfx + c.href} aria-current={isCurrent(c.href) ? 'page' : undefined}>{isEn ? c.en : c.ko}</a>
     ))}
-    <a href="/about/" aria-current={path === '/about/' ? 'page' : undefined}>{isEn ? 'About' : '소개'}</a>
+    <a href={pfx + '/about/'} aria-current={path === pfx + '/about/' ? 'page' : undefined}>{isEn ? 'About' : '소개'}</a>
   </div>
 </nav>
 

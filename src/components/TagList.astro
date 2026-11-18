@@ -1,18 +1,22 @@
 ---
+// 태그 링크는 지금 페이지 언어를 따라간다(EN 글·EN 목록 → /en/tags/). 2026-11-19 — 종전엔 EN 글 태그가 KO 전용
+// /tags/ 로 가서 영어 글이 빠진 한국어 목록이 나왔다. 끝 슬래시 붙임(trailingSlash always, 301 방지).
+import { isEnPath } from './siteLang';
 export interface Props {
   markets?: string[];
   tags?: string[];
 }
 const { markets = [], tags = [] } = Astro.props;
+const pfx = isEnPath(Astro.url.pathname) ? '/en' : '';
 const marketLabels: Record<string, string> = { kr: 'KR', us: 'US', crypto: 'Crypto' };
 ---
 {(markets.length > 0 || tags.length > 0) && (
   <span class="tags">
     {markets.map((m) => (
-      <a href={`/tags/${m}`} class="tag">{marketLabels[m] ?? m}</a>
+      <a href={`${pfx}/tags/${m}/`} class="tag">{marketLabels[m] ?? m}</a>
     ))}
     {tags.map((t) => (
-      <a href={`/tags/${t}`} class="tag">#{t}</a>
+      <a href={`${pfx}/tags/${t}/`} class="tag">#{t}</a>
     ))}
   </span>
 )}

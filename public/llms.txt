@@ -14,4 +14,4 @@ Information only, not investment advice. OneQAZ outputs are paper-trading resear
 
 - [About](https://blog.oneqaz.com/about): what OneQAZ is.
 - [Sitemap](https://blog.oneqaz.com/sitemap-index.xml): full index.
-- [Live MCP + source](https://github.com/wnsod/oneqaz-trading-mcp): connect an AI agent directly to live OneQAZ data.
+- [Live MCP + source](https://github.com/oneqaz-trading/oneqaz-trading-mcp): connect an AI agent directly to live OneQAZ data.

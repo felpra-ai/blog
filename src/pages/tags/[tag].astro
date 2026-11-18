@@ -1,43 +1,35 @@
 ---
-import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
+import { tagPaths } from '../../components/tagPages';
 
 export async function getStaticPaths() {
-  const COLLECTIONS = ['track-record', 'market', 'journal'] as const;
-  const all = [];
-  for (const c of COLLECTIONS) {
-    const entries = await getCollection(c, ({ data }) => !data.draft && data.lang !== 'en');
-    all.push(...entries.map((e) => ({ ...e, _collection: c })));
-  }
-  // a "tag" is any market id OR any free tag
-  const tagMap = new Map();
-  for (const p of all) {
-    const keys = [...(p.data.markets ?? []), ...(p.data.tags ?? [])];
-    for (const k of keys) {
-      if (!tagMap.has(k)) tagMap.set(k, []);
-      tagMap.get(k).push(p);
-    }
-  }
-  return [...tagMap.entries()].map(([tag, posts]) => ({
-    params: { tag },
-    props: { tag, posts: posts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()) },
-  }));
+  return tagPaths('ko');
 }
 
 const { tag, posts } = Astro.props;
+const koHref = new URL(`/tags/${tag}/`, Astro.site).href;
+const enHref = new URL(`/en/tags/${tag}/`, Astro.site).href;
 ---
-<BaseLayout title={`#${tag} — OneQAZ`} description={`OneQAZ posts tagged ${tag}.`}>
+<BaseLayout title={`#${tag} — OneQAZ`} description={`OneQAZ 의 #${tag} 태그 글 목록.`} lang="ko">
+  <link rel="alternate" hreflang="ko" href={koHref} slot="head" />
+  <link rel="alternate" hreflang="en" href={enHref} slot="head" />
+  <link rel="alternate" hreflang="x-default" href={enHref} slot="head" />
   <section class="head container-wide">
-    <p class="eyebrow">Tag</p>
+    <p class="eyebrow">태그</p>
     <h1>#{tag}</h1>
+    <p class="muted">{posts.length}건</p>
   </section>
   <section class="feed container-wide">
-    <div class="grid">
-      {posts.map((p) => (
-        <PostCard href={`/${p._collection}/${p.slug}`} title={p.data.title} description={p.data.description} date={p.data.date} category={p._collection} markets={p.data.markets} tags={p.data.tags} />
-      ))}
-    </div>
+    {posts.length === 0 ? (
+      <p class="muted">이 태그의 한국어 글은 아직 없습니다.</p>
+    ) : (
+      <div class="grid">
+        {posts.map((p) => (
+          <PostCard href={`/${p._collection}/${p.slug}/`} title={p.data.title} description={p.data.description} date={p.data.date} category={p._collection} markets={p.data.markets} tags={p.data.tags} />
+        ))}
+      </div>
+    )}
   </section>
 </BaseLayout>
 <style>

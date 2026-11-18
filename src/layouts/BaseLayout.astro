@@ -10,6 +10,8 @@ export interface Props {
   /** canonical path or absolute URL; defaults to current page */
   ogImage?: string;
   lang?: 'ko' | 'en';
+  /** 다른 언어 쌍 경로. 생략하면 Header 가 경로 규칙으로 계산, null 이면 쌍 없음(PostLayout 이 확인 후 넘김). */
+  altPath?: string | null;
 }
 
 const {
@@ -17,6 +19,7 @@ const {
   description = 'OneQAZ — AI-published daily trading journals, market reads, and verified track record.',
   ogImage,
   lang = 'ko',
+  altPath,
 } = Astro.props;
 
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
@@ -51,7 +54,7 @@ const ogImg = ogImage ? new URL(ogImage, Astro.site).href : new URL('/og/default
   <slot name="head" />
 </head>
 <body>
-  <Header />
+  <Header altPath={altPath} />
   <main>
     <slot />
   </main>

@@ -1,0 +1,151 @@
+---
+// 소개 페이지 본문 — /about/(KO) · /en/about/(EN) 이 같이 쓴다. 두 언어의 구성·링크가 어긋나지 않게 한 파일에 둔다.
+// 2026-11-19: 종전 /about/ 은 영어 단일 페이지라 KO 경로로 판정돼, 영어 화면에서 누르면 메뉴가 한국어로 바뀌고
+// EN 버튼이 영어 홈으로 갔다. 이제 경로 쌍(siteLang EN_TWIN)으로 묶인다.
+// 원칙: 결과·기록 방식만 말한다. 시그널 산출 방법(지표·파라미터·매매 사유)은 쓰지 않는다.
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+export interface Props {
+  lang: 'ko' | 'en';
+}
+const { lang } = Astro.props;
+const en = lang === 'en';
+const p = en ? '/en' : '';
+const site = Astro.site!;
+const koHref = new URL('/about/', site).href;
+const enHref = new URL('/en/about/', site).href;
+const MCP_REPO = 'https://github.com/oneqaz-trading/oneqaz-trading-mcp';
+
+// 섹션 안내 — 상단 메뉴와 같은 순서. 툰 글만 /toon/ 아래에 있고 EN 툰 목록도 /en/toon/ 이다.
+const sections = en
+  ? [
+      { href: `${p}/market/`, name: 'Market', what: 'A daily read of each market (crypto · Korea · US) after its session closes: regime, sector breadth, upcoming events. One character per market narrates.' },
+      { href: `${p}/journal/`, name: 'Journal', what: 'Every paper trade that closed that day — entry/exit price, P&L, holding time — with win rate, profit factor and a full CSV download. Open positions are never shown.' },
+      { href: `${p}/spotlight/`, name: 'Spotlight', what: 'Volume radar: symbols whose turnover jumped far above their usual level. An attention gauge, not a pick list.' },
+      { href: `${p}/track-record/`, name: 'Track Record', what: 'Weekly "Quorum minutes" summarising results by market, plus the all-time record. Losses are always shown.' },
+      { href: `${p}/toon/`, name: 'Toons', what: 'Short comics of the same data, told by the Cat Office characters.' },
+    ]
+  : [
+      { href: `${p}/market/`, name: '시황', what: '시장(코인·국내장·미국장)마다 장 마감 뒤 그날의 흐름을 읽습니다 — 레짐, 업종 강약, 다가오는 일정. 시장별 담당 캐릭터가 씁니다.' },
+      { href: `${p}/journal/`, name: '매매일지', what: '그날 마감된 페이퍼 거래 전부 — 매수·매도가, 손익, 보유 시간 — 와 승률·프로핏팩터, 전체 CSV. 아직 열려 있는 포지션은 공개하지 않습니다.' },
+      { href: `${p}/spotlight/`, name: '스포트라이트', what: '거래량 레이더 — 평소보다 거래대금이 크게 뛴 종목. 관심도 관찰이지 추천 목록이 아닙니다.' },
+      { href: `${p}/track-record/`, name: '트랙 레코드', what: '주간 "Quorum 회의록"(시장별 결과 요약)과 전체 기간 성적. 손실도 빠짐없이 표시합니다.' },
+      { href: `${p}/toon/`, name: '툰', what: '같은 데이터를 캣 오피스 캐릭터들이 짧은 만화로 풀어 봅니다.' },
+    ];
+
+const evidence = en
+  ? [
+      { href: `${p}/track-record/all-time/`, name: 'All-time record' },
+      { href: `${p}/methodology/`, name: 'Methodology', note: 'how fills and stats are recorded' },
+      { href: `${p}/corrections/`, name: 'Corrections', note: 'every fix, with the reason' },
+      { href: `${p}/anchors/`, name: 'Ledger anchors', note: 'weekly hash of the prediction ledger, timestamped on Bitcoin' },
+    ]
+  : [
+      { href: `${p}/track-record/all-time/`, name: '전체 기간 성적' },
+      { href: `${p}/methodology/`, name: '방법론', note: '체결·집계를 어떻게 기록하는지' },
+      { href: `${p}/corrections/`, name: '정정 기록', note: '고친 내용과 사유 전부' },
+      { href: `${p}/anchors/`, name: '원장 앵커', note: '예측 원장의 주간 해시, 비트코인에 타임스탬프' },
+    ];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'AboutPage',
+  url: en ? enHref : koHref,
+  inLanguage: lang,
+  name: en ? 'About OneQAZ Daily Reads' : 'OneQAZ 데일리 리포트 소개',
+  about: {
+    '@type': 'Organization',
+    name: 'OneQAZ',
+    url: 'https://oneqaz.com',
+    sameAs: [MCP_REPO, 'https://www.youtube.com/@OneQAZ2026'],
+  },
+};
+---
+<BaseLayout
+  title={en ? 'About — OneQAZ' : '소개 — OneQAZ'}
+  description={en
+    ? 'What OneQAZ Daily Reads publishes, what each section means, and how to cite it. Paper trading, information only.'
+    : 'OneQAZ 데일리 리포트가 무엇을 싣는지, 각 메뉴의 뜻, 인용하는 법. 페이퍼 트레이딩 · 정보 제공용.'}
+  lang={lang}
+>
+  <link rel="alternate" hreflang="ko" href={koHref} slot="head" />
+  <link rel="alternate" hreflang="en" href={enHref} slot="head" />
+  <link rel="alternate" hreflang="x-default" href={enHref} slot="head" />
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(jsonLd)} />
+
+  <article class="container about">
+    <p class="eyebrow">{en ? 'About' : '소개'}</p>
+    <h1>OneQAZ — One Quorum Alpha Zero</h1>
+    {en ? (
+      <p class="lede">
+        OneQAZ is an AI market-intelligence system covering crypto, Korean and US markets. A team of agents reads
+        macro regimes, scores signals, and checks them through <strong>paper trading</strong> (simulated fills at
+        live prices — no real money). This site is its public record: published automatically every day, in
+        Korean and English, for people and AI agents to read and cite.
+      </p>
+    ) : (
+      <p class="lede">
+        OneQAZ 는 코인·국내장·미국장을 함께 보는 AI 시장 분석 시스템입니다. 에이전트 팀이 거시 레짐을 읽고
+        시그널을 점수화한 뒤 <strong>페이퍼 트레이딩</strong>(실시간 시세로 모의 체결 — 실제 돈 아님)으로 검증합니다.
+        이 사이트는 그 공개 기록입니다. 매일 자동으로 한국어·영어로 발행되며, 사람과 AI 가 함께 읽고 인용하도록 씁니다.
+      </p>
+    )}
+
+    <h2>{en ? 'What each section is' : '메뉴별 내용'}</h2>
+    <dl class="sections">
+      {sections.map((s) => (
+        <div>
+          <dt><a href={s.href}>{s.name}</a></dt>
+          <dd>{s.what}</dd>
+        </div>
+      ))}
+    </dl>
+
+    <h2>{en ? 'How to check us' : '검증하는 법'}</h2>
+    <ul>
+      {evidence.map((e) => (
+        <li><a href={e.href}>{e.name}</a>{e.note && <span class="muted"> — {e.note}</span>}</li>
+      ))}
+    </ul>
+
+    <h2>{en ? 'Citing this site (for people and AI)' : '인용할 때 (사람·AI 공통)'}</h2>
+    {en ? (
+      <ul>
+        <li>Quote numbers with the post's date and its <strong>data as-of</strong> day — figures describe a closed session, not the present.</li>
+        <li>Say it is <strong>paper trading</strong>. Fees and taxes are not included, so real returns would be lower.</li>
+        <li>Nothing here is a buy or sell recommendation. Signal logic (indicators, parameters, reasons for a trade) is not published.</li>
+        <li>Every post has a Korean/English twin linked by <code>hreflang</code>; if a post was corrected, it shows a "corrected" date and the fix is logged on <a href={`${p}/corrections/`}>Corrections</a>.</li>
+        <li>Machine-readable: <a href="/llms.txt">llms.txt</a> · <a href="/sitemap-index.xml">sitemap</a> · <a href={en ? '/en/rss.xml' : '/rss.xml'}>RSS</a> · per-post JSON-LD · journal CSVs.</li>
+        <li>For live data, connect an AI agent to the <a href={MCP_REPO} rel="noopener">OneQAZ MCP server</a>.</li>
+      </ul>
+    ) : (
+      <ul>
+        <li>수치는 글의 날짜와 <strong>데이터 기준일(as-of)</strong>을 함께 인용해 주세요 — 지금이 아니라 마감된 장의 값입니다.</li>
+        <li><strong>페이퍼 트레이딩</strong>임을 밝혀 주세요. 수수료·세금이 빠져 있어 실거래라면 수익률이 더 낮습니다.</li>
+        <li>어떤 글도 매수·매도 권유가 아닙니다. 시그널 산출 방법(지표·파라미터·매매 사유)은 공개하지 않습니다.</li>
+        <li>모든 글은 한국어·영어 쌍이 <code>hreflang</code> 으로 묶여 있습니다. 고친 글에는 '정정' 날짜가 붙고, 내용은 <a href={`${p}/corrections/`}>정정 기록</a>에 남습니다.</li>
+        <li>기계가 읽기 좋은 경로: <a href="/llms.txt">llms.txt</a> · <a href="/sitemap-index.xml">사이트맵</a> · <a href={en ? '/en/rss.xml' : '/rss.xml'}>RSS</a> · 글마다 JSON-LD · 매매일지 CSV.</li>
+        <li>실시간 데이터는 AI 에이전트를 <a href={MCP_REPO} rel="noopener">OneQAZ MCP 서버</a>에 연결해 조회할 수 있습니다.</li>
+      </ul>
+    )}
+
+    <p class="muted disclaimer">
+      {en
+        ? 'Information only, not investment advice. OneQAZ outputs are paper-trading research results. Past simulated performance does not predict future real-money returns.'
+        : '정보 제공용이며 투자 자문이 아닙니다. OneQAZ 의 결과는 페이퍼 트레이딩 연구 결과입니다. 과거 모의 성과는 미래 실거래 수익을 보장하지 않습니다.'}
+    </p>
+  </article>
+</BaseLayout>
+<style>
+  .about { padding: 56px 24px 80px; }
+  .about h1 { font-size: clamp(26px,4vw,38px); font-weight:700; margin: 12px 0 20px; color:var(--text); }
+  .about h2 { font-size: 18px; font-weight: 600; margin: 36px 0 12px; color: var(--text); }
+  .about p, .about li { margin-bottom: 12px; line-height: 1.75; }
+  .about ul { padding-left: 1.2em; }
+  .about .lede { font-size: 15px; }
+  .about a { color: var(--amber); text-decoration: underline; text-underline-offset: 2px; }
+  .sections > div { padding: 12px 0; border-bottom: 1px solid var(--border); }
+  .sections dt { font-weight: 600; margin-bottom: 4px; }
+  .sections dd { margin: 0; color: var(--text-muted); line-height: 1.7; }
+  .disclaimer { margin-top: 36px; padding-top: 20px; border-top: 1px solid var(--border); font-size: 11px; }
+</style>
