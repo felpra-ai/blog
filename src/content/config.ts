@@ -25,7 +25,7 @@ const postSchema = z.object({
   altLang: z.enum(['ko', 'en']).optional(),
 });
 
-// 툰(인스타툰 캐러셀을 웹툰처럼 세로로) — 2026-11-18. 시리즈 = 시장별 담당 고양이 일기 (나중에 포맷별 시리즈 추가).
+// 툰(인스타툰 캐러셀을 웹툰처럼 세로로) — 2026-11-18. 시리즈 = 시장별 담당 고양이 일기 + 거래량 레이더(radar) · 일정 카운트다운(countdown) (11-18).
 // 이미지는 public/toon/<slug>/0N.webp (엔딩 카드 제외 5장). 본문 = 대사 원문 + 원문 글 링크 + 면책.
 const toonSchema = postSchema.extend({
   category: z.literal('toon'),
