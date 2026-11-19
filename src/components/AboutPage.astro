@@ -101,7 +101,7 @@ const jsonLd = {
       ))}
     </dl>
 
-    <h2>{en ? 'How to check us' : '검증하는 법'}</h2>
+    <h2 id="evidence">{en ? 'How to check us' : '검증하는 법'}</h2>
     <ul>
       {evidence.map((e) => (
         <li><a href={e.href}>{e.name}</a>{e.note && <span class="muted"> — {e.note}</span>}</li>

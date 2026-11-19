@@ -1,0 +1,77 @@
+---
+// 홈 첫 화면 — 시장별 최신 시황·매매일지(+CSV)와 이번 주 글(트랙 레코드·스포트라이트·앵커·툰).
+// 매 발행마다 빌드되므로 따로 갱신할 것이 없다. 날짜는 데이터 기준일(data_as_of) — 발행일과 다를 수 있다.
+import { entries, latestByMarket, journalCsv, latestAnchor, anchorHref } from './feedData';
+import { CAT, MKT, hrefOf, type Lang } from './feedCore';
+
+export interface Props { lang: Lang }
+const { lang } = Astro.props;
+const en = lang === 'en';
+const pfx = en ? '/en' : '';
+const [market, journal, spotlight, track, toon] = await Promise.all(
+  (['market', 'journal', 'spotlight', 'track-record', 'toon'] as const).map((c) => entries(lang, [c])),
+);
+const mk = Object.fromEntries(latestByMarket(market));
+const jn = Object.fromEntries(latestByMarket(journal));
+const cards = (['crypto', 'kr', 'us'] as const).filter((m) => mk[m] || jn[m]).map((m) => ({
+  m, market: mk[m], journal: jn[m], csv: jn[m] ? journalCsv(jn[m]) : null,
+}));
+const asOf = (e?: { a?: string; d: string }) => (e ? (e.a ?? e.d).slice(5) : '');
+const spots = latestByMarket(spotlight, ['kr', 'us']);
+const anchor = latestAnchor();
+const T = en
+  ? { h: 'Latest reads', sub: 'Most recent close in each market · dates are the data day', week: 'This week', asof: 'as of', anchor: 'Ledger anchor', all: 'All', spot: 'Volume spotlight' }
+  : { h: '최신 리포트', sub: '시장마다 가장 최근 장 마감 기준 · 날짜는 데이터 기준일', week: '이번 주', asof: '기준', anchor: '원장 앵커', all: '전체', spot: '거래량 스포트라이트' };
+const strip = (t: string) => t.replace(/^\d{4}-\d{2}-\d{2}\s*/, '');
+---
+<section class="today container-wide" aria-labelledby="todayH">
+  <div class="th">
+    <h2 id="todayH">{T.h}</h2>
+    <p class="muted">{T.sub}</p>
+  </div>
+  <div class="grid">
+    {cards.map((c) => (
+      <article class="card">
+        <h3>{MKT[lang][c.m]}</h3>
+        {c.market && <a class="ln" href={hrefOf(c.market)}><span>{CAT[lang].market}</span><time>{asOf(c.market)}</time></a>}
+        {c.journal && <a class="ln" href={hrefOf(c.journal)}><span>{CAT[lang].journal}</span><time>{asOf(c.journal)}</time></a>}
+        {c.csv && <a class="csv" href={c.csv} download>CSV</a>}
+      </article>
+    ))}
+  </div>
+  <article class="card week">
+    <h3>{T.week}</h3>
+    {track[0] && <a class="ln" href={hrefOf(track[0])}><span><b>{CAT[lang]['track-record']}</b> {strip(track[0].t)}</span><time>{asOf(track[0])} {T.asof}</time></a>}
+    {spots.map(([m, e]) => (
+      <a class="ln" href={hrefOf(e)}><span><b>{T.spot}</b> {MKT[lang][m]}</span><time>{asOf(e)} {T.asof}</time></a>
+    ))}
+    {anchor && <a class="ln" href={anchorHref(anchor, lang)}><span><b>{T.anchor}</b> {anchor}</span><time>{anchor.slice(5)}</time></a>}
+    {toon[0] && <a class="ln" href={hrefOf(toon[0])}><span><b>{CAT[lang].toon}</b> {toon[0].t}</span><time>{asOf(toon[0])}</time></a>}
+  </article>
+</section>
+
+<style>
+  .today { padding: 4px 24px 8px; }
+  .th { display:flex; flex-wrap:wrap; align-items:baseline; gap:4px 14px; margin-bottom:12px; }
+  .th h2 { font-size:18px; font-weight:600; margin:0; color: var(--text); }
+  .th p { font-size:12px; margin:0; }
+  .grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap:12px; }
+  .card { border:1px solid var(--border); border-radius:12px; padding:12px 14px; background: var(--panel-bg); }
+  .card h3 { font-size:14px; font-weight:600; margin:0 0 6px; color: var(--amber); letter-spacing:.5px; }
+  .ln { display:flex; justify-content:space-between; gap:10px; padding:6px 0; font-size:14px; color: var(--text); border-bottom:1px solid color-mix(in srgb, var(--border) 55%, transparent); }
+  .ln:last-child { border-bottom:none; }
+  .ln:hover span { color: var(--amber); }
+  .ln b { font-weight:600; font-size:12px; color: var(--text-muted); margin-right:6px; }
+  .ln time { flex:0 0 auto; font-family: var(--font-mono); font-size:12px; color: var(--text-muted); }
+  .csv { display:inline-block; margin-top:6px; font-family: var(--font-mono); font-size:11px; padding:2px 8px; border:1px solid var(--border); border-radius:999px; color: var(--text-muted); }
+  .csv:hover { color: var(--amber); border-color: rgba(212,168,83,.5); }
+  .week { margin-top:12px; }
+  .week .ln span { overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  @media (max-width:560px) {
+    .grid { gap:8px; }
+    .grid .card { display:flex; flex-wrap:wrap; align-items:center; gap:2px 16px; padding:10px 12px; }
+    .grid .card h3 { flex:0 0 36px; margin:0; }
+    .grid .ln { border:none; padding:4px 0; gap:6px; }
+    .grid .csv { margin:0; }
+  }
+</style>

@@ -26,15 +26,29 @@ const T = isEn
 const enHref = isEn ? null : (alt ?? fallbackOf(path));
 const koHref = isEn ? (alt ?? fallbackOf(path)) : null;
 
-const cats = [
-  { href: '/track-record/', en: 'Track Record', ko: '트랙 레코드' },
-  { href: '/market/', en: 'Market', ko: '시황' },
-  { href: '/spotlight/', en: 'Spotlight', ko: '스포트라이트' },
-  { href: '/journal/', en: 'Journal', ko: '매매일지' },
-  { href: '/toon/', en: 'Toons', ko: '툰' },
+// 블로그 메뉴 (2026-11-19 재구성): 발행 주기로 묶는다 — 오늘(홈) · 매일(시황·매매일지) · 매주(트랙 레코드·스포트라이트)
+// · 성적·검증(펼침: 전체 기간 성적·방법론·정정·앵커) · 툰 · 소개. 주소는 그대로.
+const groups = [
+  { label: isEn ? 'Daily' : '매일', items: [
+    { href: '/market/', en: 'Market', ko: '시황' },
+    { href: '/journal/', en: 'Journal', ko: '매매일지' },
+  ] },
+  { label: isEn ? 'Weekly' : '매주', items: [
+    { href: '/track-record/', en: 'Track Record', ko: '트랙 레코드' },
+    { href: '/spotlight/', en: 'Spotlight', ko: '스포트라이트' },
+  ] },
+];
+const verify = [
+  { href: '/track-record/all-time/', en: 'All-time record', ko: '전체 기간 성적' },
+  { href: '/methodology/', en: 'Methodology', ko: '방법론' },
+  { href: '/corrections/', en: 'Corrections', ko: '정정 기록' },
+  { href: '/anchors/', en: 'Ledger anchors', ko: '원장 앵커' },
 ];
 // EN 글은 /en/ 없이 /market/…-en/ 에 있으므로 두 형태를 모두 본다.
-const isCurrent = (href: string) => path.startsWith(pfx + href) || path.startsWith(href);
+const under = (href: string) => path.startsWith(pfx + href) || path.startsWith(href);
+const inVerify = verify.some((v) => under(v.href));
+const isCurrent = (href: string) => under(href) && !(href === '/track-record/' && inVerify);
+const isHome = path === blogHome || /^\/(en\/)?\d+\/$/.test(path);
 ---
 <header class="oqz-header" id="oqzHeader">
   <a class="oqz-brand" href={`https://oneqaz.com/${q}`}><img src="https://oneqaz.com/images/opt/logo-128.webp" alt="" width="26" height="28" /><span>OneQAZ</span></a>
@@ -54,11 +68,25 @@ const isCurrent = (href: string) => path.startsWith(pfx + href) || path.startsWi
 </header>
 <nav class="blog-subnav" aria-label={T.sections}>
   <div class="container-wide">
-    <span class="label">{T.sections}</span>
-    {cats.map((c) => (
-      <a href={pfx + c.href} aria-current={isCurrent(c.href) ? 'page' : undefined}>{isEn ? c.en : c.ko}</a>
+    <a href={blogHome} aria-current={isHome ? 'page' : undefined}>{isEn ? 'Today' : '오늘'}</a>
+    {groups.map((g) => (
+      <span class="grp" role="group" aria-label={g.label}>
+        <span class="glabel" aria-hidden="true">{g.label}</span>
+        {g.items.map((c) => (
+          <a href={pfx + c.href} aria-current={isCurrent(c.href) ? 'page' : undefined}>{isEn ? c.en : c.ko}</a>
+        ))}
+      </span>
     ))}
+    <a class="vtoggle" href={pfx + '/about/#evidence'} aria-controls="blogVerify" aria-expanded={inVerify ? 'true' : 'false'} data-open={inVerify ? '' : undefined}>{isEn ? 'Results & proof' : '성적·검증'}<span class="caret" aria-hidden="true"></span></a>
+    <a href={pfx + '/toon/'} aria-current={isCurrent('/toon/') ? 'page' : undefined}>{isEn ? 'Toons' : '툰'}</a>
     <a href={pfx + '/about/'} aria-current={path === pfx + '/about/' ? 'page' : undefined}>{isEn ? 'About' : '소개'}</a>
+  </div>
+  <div class="blog-verify" id="blogVerify" hidden={!inVerify}>
+    <div class="container-wide">
+      {verify.map((v) => (
+        <a href={pfx + v.href} aria-current={under(v.href) ? 'page' : undefined}>{isEn ? v.en : v.ko}</a>
+      ))}
+    </div>
   </div>
 </nav>
 
@@ -78,6 +106,15 @@ const isCurrent = (href: string) => path.startsWith(pfx + href) || path.startsWi
     window.addEventListener('resize', function () { if (window.innerWidth > 860) setOpen(false); });
     header.querySelector('.oqz-menu').addEventListener('click', function (e) {
       if (e.target.closest && e.target.closest('a')) setOpen(false);
+    });
+    // 성적·검증 펼침 — JS 가 없으면 링크(소개 › 검증하는 법)로 동작한다.
+    var vt = document.querySelector('.blog-subnav .vtoggle');
+    var vp = document.getElementById('blogVerify');
+    if (vt && vp) vt.addEventListener('click', function (e) {
+      e.preventDefault();
+      var open = vp.hidden;
+      vp.hidden = !open;
+      vt.setAttribute('aria-expanded', open ? 'true' : 'false');
     });
     // 언어를 고르면 기억해 둔다(oneqaz.com 과 같은 키) — 같은 출처 안에서만 유효하다.
     var langs = header.querySelectorAll('.oqz-lang a');

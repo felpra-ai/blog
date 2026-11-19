@@ -1,0 +1,150 @@
+---
+// 블로그 홈 (KO / EN 공용). 첫 페이지 = 최신 리포트 카드 → 전체 글(날짜별).
+// 필터는 전체 기간 기준: 고르면 /posts.json(빌드 때 생성)을 받아 같은 renderDays 로 그린다.
+// 고른 필터는 ?type=&mkt= 로 주소에 남겨 공유·뒤로가기가 된다.
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostList from './PostList.astro';
+import Pager from './Pager.astro';
+import HomeToday from './HomeToday.astro';
+import { CAT, MKT, type Lang } from './feedCore';
+import { entries } from './feedData';
+
+export interface Props { lang: Lang; page: any }
+const { lang, page } = Astro.props;
+const en = lang === 'en';
+const koPath = en ? Astro.url.pathname.replace(/^\/en/, '') || '/' : Astro.url.pathname;
+const koHref = new URL(koPath, Astro.site).href;
+const enHref = new URL('/en' + koPath, Astro.site).href;
+// 두 언어의 글 수가 다를 수 있다(EN 이 없는 툰 등) → 뒤쪽 페이지 번호는 한쪽에만 있을 수 있다.
+const otherPages = Math.max(1, Math.ceil((await entries(en ? 'ko' : 'en')).length / page.size));
+const hasTwin = page.currentPage <= otherPages;
+const altPath = hasTwin ? (en ? koPath : '/en' + koPath) : (en ? '/' : '/en/');
+const T = en
+  ? { eyebrow: 'OneQAZ Daily Reads', h1: 'Daily, in the open.', lede: 'Market reads and every paper trade that closed, auto-published after each close — losses included, built for people and AI to read and cite.', all: 'All posts', type: 'Type', mkt: 'Market', any: 'All', more: 'Show more', bydate: 'grouped by data day', empty: 'No posts match this filter.' }
+  : { eyebrow: 'OneQAZ 데일리 리포트', h1: '매일, 공개적으로.', lede: '장 마감 뒤 시황과 그날 마감된 모의 거래 전부를 자동으로 발행합니다. 손실도 그대로 보여 주고, 사람과 AI 가 읽고 인용하기 쉽게 만듭니다.', all: '전체 글', type: '유형', mkt: '시장', any: '전체', more: '더 보기', bydate: '날짜 = 데이터 기준일', empty: '이 조건에 맞는 글이 없습니다.' };
+const types = ['market', 'journal', 'track-record', 'spotlight', 'toon'] as const;
+const first = page.currentPage === 1;
+---
+<BaseLayout title={en ? 'OneQAZ — Daily Market Intelligence' : 'OneQAZ 데일리 리포트 — 시황·매매일지·트랙 레코드'} description={T.lede} lang={lang} altPath={altPath}>
+  {(hasTwin || !en) && <link rel="alternate" hreflang="ko" href={koHref} slot="head" />}
+  {(hasTwin || en) && <link rel="alternate" hreflang="en" href={enHref} slot="head" />}
+  {hasTwin && <link rel="alternate" hreflang="x-default" href={enHref} slot="head" />}
+  {first && (
+    <section class="hero container-wide">
+      <p class="eyebrow">{T.eyebrow}</p>
+      <h1>{T.h1}</h1>
+      <p class="lede muted">{T.lede}</p>
+    </section>
+  )}
+  {first && <HomeToday lang={lang} />}
+
+  <section class="feed container-wide" id="feed" data-lang={lang} data-src={`${en ? '/en' : ''}/posts.json`}>
+    <h2 class="fh">{T.all} <span class="fsub muted">{T.bydate}</span></h2>
+    <div class="filters" id="filters">
+      <div class="fgroup" data-filter="type">
+        <span class="flabel muted">{T.type}</span>
+        <button type="button" class="chip active" data-val="all" aria-pressed="true">{T.any}</button>
+        {types.map((t) => <button type="button" class="chip" data-val={t} aria-pressed="false">{CAT[lang][t]}</button>)}
+      </div>
+      <div class="fgroup" data-filter="mkt">
+        <span class="flabel muted">{T.mkt}</span>
+        <button type="button" class="chip active" data-val="all" aria-pressed="true">{T.any}</button>
+        {(['crypto', 'kr', 'us'] as const).map((m) => <button type="button" class="chip" data-val={m} aria-pressed="false">{MKT[lang][m]}</button>)}
+      </div>
+    </div>
+    <p class="fhint muted" id="fhint" aria-live="polite"></p>
+    <div id="fresults" hidden></div>
+    <button type="button" class="more" id="fmore" hidden>{T.more}</button>
+    <p class="muted empty" id="fempty" hidden>{T.empty}</p>
+
+    <div id="fpaged">
+      {page.data.length === 0
+        ? <p class="empty muted">{en ? 'No posts yet. The pipeline publishes here daily.' : '아직 글이 없습니다. 매일 이곳에 발행됩니다.'}</p>
+        : <PostList posts={page.data} lang={lang} />}
+      <Pager page={page} lang={lang} />
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero { padding: 48px 24px 18px; }
+  .hero h1 { font-size: clamp(28px,5vw,42px); font-weight:700; line-height:1.15; color: var(--text); margin:10px 0; }
+  .lede { font-size:14px; max-width:600px; line-height:1.75; }
+  .feed { padding: 24px 24px 40px; }
+  .fh { font-size:18px; font-weight:600; margin:0 0 10px; color: var(--text); }
+  .fsub { font-size:12px; font-weight:400; margin-left:8px; }
+  .empty { padding:24px 0; }
+  .filters { display:flex; flex-wrap:wrap; gap:12px 28px; align-items:center; margin: 0 0 4px; padding-bottom:12px; }
+  .fgroup { display:flex; flex-wrap:wrap; align-items:center; gap:6px; }
+  .flabel { font-size:11px; letter-spacing:.6px; margin-right:4px; }
+  .chip { font-size:12px; padding:5px 12px; border:1px solid var(--border); border-radius:999px; background:transparent; color: var(--text-muted); cursor:pointer; transition: all .15s; }
+  .chip:hover { color: var(--text); }
+  .chip.active { background: var(--amber); color:#1a1408; border-color: var(--amber); font-weight:600; }
+  .fhint { font-size:12px; margin:0 0 12px; min-height:1em; }
+  .more { display:block; margin:16px auto 0; font-size:13px; padding:7px 18px; border:1px solid var(--border); border-radius:999px; background:transparent; color: var(--text); cursor:pointer; }
+  .more[hidden] { display:none; }
+  .more:hover { border-color: rgba(212,168,83,.5); color: var(--amber); }
+</style>
+
+<script>
+  import { groupDays, renderDays, type Entry, type Lang } from './feedCore';
+
+  const STEP = 30; // 한 번에 그리는 날짜 수
+  const root = document.getElementById('feed')!;
+  const lang = root.dataset.lang as Lang;
+  const src = root.dataset.src!;
+  const $ = (id: string) => document.getElementById(id)!;
+  const results = $('fresults'), more = $('fmore'), empty = $('fempty'), paged = $('fpaged'), hint = $('fhint');
+  const state: Record<string, string> = { type: 'all', mkt: 'all' };
+  let all: Entry[] | null = null;
+  let shownDays = STEP;
+
+  function setChips() {
+    document.querySelectorAll<HTMLElement>('#filters .fgroup').forEach((g) => {
+      g.querySelectorAll<HTMLButtonElement>('.chip').forEach((c) => {
+        const on = c.dataset.val === state[g.dataset.filter!];
+        c.classList.toggle('active', on);
+        c.setAttribute('aria-pressed', String(on));
+      });
+    });
+  }
+
+  async function apply() {
+    setChips();
+    const filtered = state.type !== 'all' || state.mkt !== 'all';
+    const u = new URL(location.href);
+    for (const k of ['type', 'mkt']) state[k] === 'all' ? u.searchParams.delete(k) : u.searchParams.set(k, state[k]);
+    history.replaceState(null, '', u);
+    paged.hidden = filtered;
+    results.hidden = !filtered;
+    if (!filtered) { more.hidden = true; empty.hidden = true; hint.textContent = ''; return; }
+    if (!all) {
+      hint.textContent = lang === 'en' ? 'Loading…' : '불러오는 중…';
+      const r = await fetch(src);
+      if (!r.ok) { hint.textContent = lang === 'en' ? `Could not load the post index (${r.status}).` : `글 목록을 불러오지 못했습니다(${r.status}).`; return; }
+      all = (await r.json()) as Entry[];
+    }
+    const hits = all.filter((e) => (state.type === 'all' || e.c === state.type) && (state.mkt === 'all' || e.m.includes(state.mkt)));
+    const days = groupDays(hits);
+    results.innerHTML = renderDays(days.slice(0, shownDays), lang, state.type === 'market' || state.type === 'journal');
+    more.hidden = days.length <= shownDays;
+    empty.hidden = hits.length > 0;
+    hint.textContent = lang === 'en' ? `${hits.length} posts across all dates` : `전체 기간 ${hits.length}건`;
+  }
+
+  document.querySelectorAll<HTMLButtonElement>('#filters .chip').forEach((chip) => {
+    chip.addEventListener('click', () => {
+      state[chip.closest<HTMLElement>('.fgroup')!.dataset.filter!] = chip.dataset.val!;
+      shownDays = STEP;
+      apply();
+    });
+  });
+  more.addEventListener('click', () => { shownDays += STEP; apply(); });
+
+  const q = new URLSearchParams(location.search);
+  for (const k of ['type', 'mkt']) {
+    const v = q.get(k);
+    if (v && document.querySelector(`#filters [data-filter="${k}"] [data-val="${CSS.escape(v)}"]`)) state[k] = v;
+  }
+  if (state.type !== 'all' || state.mkt !== 'all') apply();
+</script>

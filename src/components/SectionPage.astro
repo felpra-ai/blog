@@ -1,0 +1,58 @@
+---
+// 섹션 목록 본문 (시황·매매일지·스포트라이트·트랙 레코드 × KO/EN 8곳 공용).
+// 2026-11-19: 8개 파일이 문구까지 복제돼 KO 목록에 영어 제목·설명이 나오고, 매매일지 설명이
+// "what the system did and why"(사유 비공개 원칙과 어긋남)였다. 문구는 여기 한 곳.
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostList from './PostList.astro';
+import Pager from './Pager.astro';
+import type { Lang } from './feedCore';
+
+type Sec = 'market' | 'journal' | 'spotlight' | 'track-record';
+export interface Props { col: Sec; lang: Lang; page: any }
+const { col, lang, page } = Astro.props;
+
+const TEXT: Record<Lang, Record<Sec, { eyebrow: string; title: string; desc: string }>> = {
+  ko: {
+    market: { eyebrow: '매일 · 시황', title: '시황', desc: '장 마감 뒤 시장별(코인·국장·미장) 레짐, 업종 흐름, 다가오는 일정을 정리합니다.' },
+    journal: { eyebrow: '매일 · 매매일지', title: '매매일지', desc: '그날 마감된 모의 거래 전부(진입·청산, 손익, 보유 시간)와 승률·손익비, 전체 거래 CSV 입니다. 수수료·세금은 빠져 있습니다.' },
+    spotlight: { eyebrow: '매주 · 스포트라이트', title: '스포트라이트', desc: '평소보다 거래대금이 크게 몰린 종목을 주 1회 정리합니다(국장·미장). 관심도 지표일 뿐 추천 목록이 아닙니다.' },
+    'track-record': { eyebrow: '매주 · 트랙 레코드', title: '트랙 레코드', desc: '시장별 결과를 주 1회 요약합니다(Quorum 회의록).' },
+  },
+  en: {
+    market: { eyebrow: 'Daily · Market', title: 'Market', desc: "Each market's read after the close — regime, sector breadth and upcoming events for crypto, Korea and US." },
+    journal: { eyebrow: 'Daily · Journal', title: 'Journal', desc: 'Every paper trade that closed that day (entry/exit, P&L, holding time), win rate and profit factor, with a CSV of all trades. Fees and taxes not included.' },
+    spotlight: { eyebrow: 'Weekly · Spotlight', title: 'Spotlight', desc: 'Weekly volume radar (Korea, US) — symbols trading far above their usual turnover. An attention gauge, not a pick list.' },
+    'track-record': { eyebrow: 'Weekly · Track Record', title: 'Track Record', desc: 'Weekly summary of results by market (Quorum minutes).' },
+  },
+};
+const T = TEXT[lang][col];
+const en = lang === 'en';
+const koPath = en ? Astro.url.pathname.replace(/^\/en/, '') : Astro.url.pathname;
+const koHref = new URL(koPath, Astro.site).href;
+const enHref = new URL('/en' + koPath, Astro.site).href;
+const allTime = col === 'track-record' ? { href: `${en ? '/en' : ''}/track-record/all-time/`, label: en ? 'All-time record →' : '전체 기간 성적 →' } : null;
+---
+<BaseLayout title={`${T.title} — OneQAZ`} description={T.desc} lang={lang}>
+  <link rel="alternate" hreflang="ko" href={koHref} slot="head" />
+  <link rel="alternate" hreflang="en" href={enHref} slot="head" />
+  <link rel="alternate" hreflang="x-default" href={enHref} slot="head" />
+  <section class="head container-wide">
+    <p class="eyebrow">{T.eyebrow}</p>
+    <h1>{T.title}</h1>
+    <p class="muted lede">{T.desc} {allTime && <a href={allTime.href}>{allTime.label}</a>}</p>
+  </section>
+  <section class="feed container-wide">
+    {page.data.length === 0
+      ? <p class="muted empty">{en ? 'No posts yet.' : '아직 글이 없습니다.'}</p>
+      : <PostList posts={page.data} lang={lang} inline={col === 'market' || col === 'journal'} />}
+    <Pager page={page} lang={lang} />
+  </section>
+</BaseLayout>
+<style>
+  .head { padding: 52px 24px 16px; }
+  .head h1 { font-size: clamp(28px,4vw,40px); font-weight:700; margin:10px 0; color:var(--text); }
+  .lede { max-width:560px; font-size:14px; }
+  .lede a { color: var(--amber); }
+  .feed { padding: 8px 24px 40px; }
+  .empty { padding:32px 0; }
+</style>

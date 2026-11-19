@@ -1,61 +1,39 @@
 ---
-// 날짜별 그룹 + 컴팩트 행 리스트 (홈·카테고리 공용). data-* 속성으로 클라이언트 필터 지원.
-export interface Props { posts: any[] }
-const { posts } = Astro.props;
-const CAT: Record<string, string> = { 'track-record': 'Track Record', market: 'Market', journal: 'Journal', spotlight: 'Spotlight' };
-const CAT_ORDER: Record<string, number> = { 'track-record': 0, market: 1, spotlight: 2, journal: 3 };
-const MKT_ORDER: Record<string, number> = { crypto: 0, kr: 1, us: 2 };
-const byDate = new Map<string, any[]>();
-for (const p of posts) {
-  const d = p.data.date.toISOString().slice(0, 10);
-  if (!byDate.has(d)) byDate.set(d, []);
-  byDate.get(d)!.push(p);
-}
-for (const list of byDate.values()) {
-  list.sort((a, b) =>
-    ((CAT_ORDER[a._collection] ?? 9) - (CAT_ORDER[b._collection] ?? 9)) ||
-    ((MKT_ORDER[a.data.markets?.[0]] ?? 9) - (MKT_ORDER[b.data.markets?.[0]] ?? 9)));
-}
-const days = [...byDate.entries()];
-const stripDate = (t: string) => t.replace(/^\d{4}-\d{2}-\d{2}\s*/, '');
+// 날짜별 목록 (홈·섹션 목록 공용). 마크업은 feedCore.renderDays 한 곳에서 만든다 —
+// 홈 전체 기간 필터가 브라우저에서 같은 함수로 그리므로 스타일은 전역(.fd-*)이다.
+import { groupDays, renderDays, type Entry, type Lang } from './feedCore';
+export interface Props { posts: Entry[]; lang?: Lang; inline?: boolean }
+const { posts, lang = 'ko', inline = false } = Astro.props;
+const html = renderDays(groupDays(posts), lang, inline);
 ---
-{days.map(([date, list]) => (
-  <div class="day" data-day>
-    <div class="day-head"><time datetime={date}>{date}</time><span class="day-count muted">{list.length}</span></div>
-    <ul class="rows">
-      {list.map((p) => (
-        <li data-row data-cat={p._collection} data-mkt={(p.data.markets ?? []).join(' ')}>
-          <a class="row" href={`/${p._collection}/${p.slug}/`}>
-            <span class={`cat cat-${p._collection}`}>{CAT[p._collection]}</span>
-            <span class="title">{stripDate(p.data.title)}</span>
-            <span class="mk muted">{(p.data.markets ?? []).map((m: string) => `#${m}`).join(' ')}</span>
-          </a>
-        </li>
-      ))}
-    </ul>
-  </div>
-))}
+<div class="fd" set:html={html} />
 
-<style>
-  .day { margin-bottom: 20px; }
-  .day-head { display:flex; align-items:center; gap:10px; margin:0 0 6px; padding-bottom:6px; border-bottom:1px solid var(--border); }
-  .day-head time { font-family: var(--font-mono); font-size:13px; font-weight:600; color: var(--amber); letter-spacing:.5px; }
-  .day-count { font-size:11px; }
-  .rows { list-style:none; margin:0; padding:0; }
-  .rows li { border-bottom:1px solid color-mix(in srgb, var(--border) 55%, transparent); }
-  .rows li:last-child { border-bottom:none; }
-  .row { display:flex; align-items:center; gap:12px; padding:9px 6px; border-radius:8px; transition: background .15s; }
-  .row:hover { background: var(--panel-bg); }
-  .cat { flex:0 0 96px; font-size:10px; font-weight:600; letter-spacing:.6px; text-transform:uppercase; padding:3px 8px; border-radius:999px; text-align:center; border:1px solid var(--border); color: var(--text-muted); }
-  .cat-track-record { color:#d4a853; border-color: rgba(212,168,83,.4); }
-  .cat-market { color:#5aa9e6; border-color: rgba(90,169,230,.4); }
-  .cat-spotlight { color:#c98ae6; border-color: rgba(201,138,230,.4); }
-  .cat-journal { color:#8a8f98; }
-  .title { flex:1 1 auto; font-size:14px; color: var(--text); line-height:1.4; }
-  .mk { flex:0 0 auto; font-family: var(--font-mono); font-size:11px; letter-spacing:.3px; }
+<style is:global>
+  .fd-day { margin-bottom: 20px; }
+  .fd-head { display:flex; align-items:center; gap:10px; margin:0 0 6px; padding-bottom:6px; border-bottom:1px solid var(--border); }
+  .fd-head time { font-family: var(--font-mono); font-size:13px; font-weight:600; color: var(--amber); letter-spacing:.5px; }
+  .fd-n { font-size:11px; color: var(--text-muted); }
+  .fd-lines { list-style:none; margin:0; padding:0; }
+  .fd-line { display:flex; align-items:center; gap:12px; padding:7px 6px; border-bottom:1px solid color-mix(in srgb, var(--border) 55%, transparent); }
+  .fd-line:last-child { border-bottom:none; }
+  .fd-cat { flex:0 0 96px; font-size:10px; font-weight:600; letter-spacing:.6px; text-transform:uppercase; padding:3px 8px; border-radius:999px; text-align:center; border:1px solid var(--border); color: var(--text-muted); white-space:nowrap; }
+  .fd-track-record { color:#d4a853; border-color: rgba(212,168,83,.4); }
+  .fd-market { color:#5aa9e6; border-color: rgba(90,169,230,.4); }
+  .fd-spotlight { color:#c98ae6; border-color: rgba(201,138,230,.4); }
+  .fd-journal { color:#8a8f98; }
+  .fd-toon { color:#e6a05a; border-color: rgba(230,160,90,.4); }
+  .fd-chips { display:flex; flex-wrap:wrap; gap:6px; }
+  .fd-chip { font-size:13px; padding:3px 12px; border:1px solid var(--border); border-radius:999px; color: var(--text); transition: border-color .15s, color .15s; }
+  .fd-chip:hover { border-color: rgba(212,168,83,.5); color: var(--amber); }
+  .fd-title { flex:1 1 auto; font-size:14px; color: var(--text); line-height:1.4; }
+  .fd-title:hover { color: var(--amber); }
+  .fd-mk { flex:0 0 auto; font-size:11px; color: var(--text-muted); }
+  .fd-inline { list-style:none; margin:0; padding:0; }
+  .fd-iday { display:flex; align-items:center; gap:16px; padding:8px 6px; border-bottom:1px solid color-mix(in srgb, var(--border) 55%, transparent); }
+  .fd-iday time { flex:0 0 auto; font-family: var(--font-mono); font-size:13px; font-weight:600; color: var(--amber); letter-spacing:.5px; }
   @media (max-width:560px) {
-    .row { flex-wrap:wrap; gap:6px 10px; padding:8px 4px; }
-    .cat { flex-basis:auto; }
-    .title { flex-basis:100%; order:3; font-size:13px; }
+    .fd-line { flex-wrap:wrap; gap:6px 10px; padding:8px 4px; }
+    .fd-cat { flex-basis:auto; }
+    .fd-title { flex-basis:100%; order:3; font-size:13px; }
   }
 </style>

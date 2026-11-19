@@ -4,55 +4,20 @@
 // 이제 빌드 때 만든다 — 매 발행(push → Pages 빌드)마다 '최신 글' 목록이 저절로 갱신된다.
 // 원칙: 결과·기록 방식만. 시그널 산출 방법(지표·파라미터·매매 사유)은 쓰지 않는다.
 // 링크는 EN 을 기본으로(글로벌 AI 독자, x-default=EN 과 같은 이유), KO 쌍은 규칙으로 안내.
-import { getCollection } from 'astro:content';
-import fs from 'node:fs';
-import path from 'node:path';
+import { entries, latestByMarket, journalCsv, latestAnchor } from '../components/feedData';
 
 const SITE = 'https://blog.oneqaz.com';
 const MCP_URL = 'https://api.oneqaz.com/mcp';
 const MCP_REPO = 'https://github.com/oneqaz-trading/oneqaz-trading-mcp';
 const MARKET_EN = { crypto: 'Crypto', kr: 'Korea', us: 'US' };
 
-const day = (d) => (d ? new Date(d).toISOString().slice(0, 10) : '');
-const url = (col, slug) => `${SITE}/${col}/${slug}/`;
-
-async function enPosts(col) {
-  const xs = await getCollection(col, ({ data }) => !data.draft && data.lang === 'en');
-  return xs.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
-}
-
-function asOf(p) {
-  return p.data.data_as_of ? ` (data as of ${day(p.data.data_as_of)})` : '';
-}
-
-/** 시장별 최신 1건 — 시장이 여럿인 글은 첫 시장 기준. */
-function latestByMarket(posts) {
-  const out = {};
-  for (const p of posts) {
-    const m = (p.data.markets ?? [])[0];
-    if (m && !out[m]) out[m] = p;
-  }
-  return ['crypto', 'kr', 'us'].filter((m) => out[m]).map((m) => [m, out[m]]);
-}
-
-function journalCsv(p) {
-  // 생성기 규약: /data/journal/<data_as_of>-<market>.csv (있을 때만 링크)
-  const m = (p.data.markets ?? [])[0];
-  const d = day(p.data.data_as_of);
-  if (!m || !d) return '';
-  const rel = `/data/journal/${d}-${m}.csv`;
-  return fs.existsSync(path.join(process.cwd(), 'public', rel)) ? ` · [CSV](${SITE}${rel})` : '';
-}
-
-function latestAnchor() {
-  const files = Object.keys(import.meta.glob('./anchors/20*-en.astro'));
-  const days = files.map((f) => f.match(/(20\d{2}-\d{2}-\d{2})-en\.astro$/)?.[1]).filter(Boolean).sort();
-  return days.length ? days[days.length - 1] : null;
-}
+const url = (e) => `${SITE}/${e.c}/${e.s}/`;
+const asOf = (e) => (e.a ? ` (data as of ${e.a})` : '');
+const csv = (e) => { const rel = journalCsv(e); return rel ? ` · [CSV](${SITE}${rel})` : ''; };
 
 export async function GET() {
   const [market, journal, spotlight, track, toon] = await Promise.all(
-    ['market', 'journal', 'spotlight', 'track-record', 'toon'].map(enPosts),
+    ['market', 'journal', 'spotlight', 'track-record', 'toon'].map((c) => entries('en', [c])),
   );
   const tr = track[0];
   const sp = spotlight[0];
@@ -60,13 +25,11 @@ export async function GET() {
   const anchor = latestAnchor();
 
   const latest = [
-    tr && `- [${tr.data.title}](${url('track-record', tr.slug)})${asOf(tr)}: latest weekly track record.`,
-    ...latestByMarket(market).map(([m, p]) =>
-      `- [${p.data.title}](${url('market', p.slug)})${asOf(p)}: latest ${MARKET_EN[m]} market read.`),
-    ...latestByMarket(journal).map(([m, p]) =>
-      `- [${p.data.title}](${url('journal', p.slug)})${asOf(p)}${journalCsv(p)}: latest ${MARKET_EN[m]} trading journal.`),
-    sp && `- [${sp.data.title}](${url('spotlight', sp.slug)})${asOf(sp)}: latest volume spotlight.`,
-    tn && `- [${tn.data.title}](${url('toon', tn.slug)}): latest toon episode.`,
+    tr && `- [${tr.t}](${url(tr)})${asOf(tr)}: latest weekly track record.`,
+    ...latestByMarket(market).map(([m, p]) => `- [${p.t}](${url(p)})${asOf(p)}: latest ${MARKET_EN[m]} market read.`),
+    ...latestByMarket(journal).map(([m, p]) => `- [${p.t}](${url(p)})${asOf(p)}${csv(p)}: latest ${MARKET_EN[m]} trading journal.`),
+    sp && `- [${sp.t}](${url(sp)})${asOf(sp)}: latest volume spotlight.`,
+    tn && `- [${tn.t}](${url(tn)}): latest toon episode.`,
     anchor && `- [Ledger anchor ${anchor}](${SITE}/anchors/${anchor}-en/): latest weekly hash anchor.`,
   ].filter(Boolean);
 
@@ -108,6 +71,7 @@ ${latest.join('\n')}
 - [Sitemap](${SITE}/sitemap-index.xml): every page in both languages.
 - [RSS (English)](${SITE}/en/rss.xml) · [RSS (Korean)](${SITE}/rss.xml): latest 40 posts.
 - Each post embeds JSON-LD (Article: datePublished, dateModified when corrected, inLanguage).
+- [Post index (English)](${SITE}/en/posts.json) · [Post index (Korean)](${SITE}/posts.json): every post, newest first — d=publish date, c=section, m=markets, s=slug (URL = /<c>/<s>/), t=title, a=data as-of day.
 - Journal CSVs: ${SITE}/data/journal/<YYYY-MM-DD>-<crypto|kr|us>.csv (one file per market per day, all closed trades).
 
 ## Live data
