@@ -42,8 +42,8 @@ altLang: ko
 - **US:** US equities are registering as neutral, with an improving trend observed. :us:
 - **Sector:** Korean utilities and semiconductors show strength, while materials, chemical, and IT media sectors are weaker. :sector:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure reflects a divergence: underlying macro indicators point to significant bearish pressure, particularly in liquidity and inflation, contrasting with improving trends observed across major asset classes like crypto and US equities. The sector data highlights clear internal strength within Korean tech while other areas lag. On balance, the tape suggests caution amidst underlying structural divergence. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure reflects a divergence: underlying macro indicators point to significant bearish pressure, particularly in liquidity and inflation, contrasting with improving trends observed across major asset classes like crypto and US equities. The sector data highlights clear internal strength within Korean tech while other areas lag. On balance, the tape suggests caution amidst underlying structural divergence. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

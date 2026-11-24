@@ -37,8 +37,8 @@ altLang: ko
 - **US:** US equities are reading as neutral overall, but the underlying trend is noted as improving. :us:
 - **Sectors:** Financial Services, Industrials, Basic Materials, and Utilities show strength, while Energy is noted as weak. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence, with bonds showing strong positive readings contrasting with bearish readings in the FX space. US equities show an improving trend amidst this, while the Korean market reflects deteriorating momentum. The sector strength is concentrated in cyclical and utility names, suggesting underlying resilience in certain industrial areas. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence, with bonds showing strong positive readings contrasting with bearish readings in the FX space. US equities show an improving trend amidst this, while the Korean market reflects deteriorating momentum. The sector strength is concentrated in cyclical and utility names, suggesting underlying resilience in certain industrial areas. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

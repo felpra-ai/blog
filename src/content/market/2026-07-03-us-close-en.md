@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities show a neutral reading, with equal distribution between bullish and bearish indicators. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities are reading neutral overall, with Healthcare, Basic Materials, and Consumer Defensive showing strength, while Energy is showing weakness. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture shows significant bearish leanings in liquidity and inflation, despite bonds showing some upward bias. US equities are holding a neutral posture supported by defensive and material sectors, while crypto activity is also neutral. The overall market tone suggests caution amidst structural shifts in liquidity and inflation expectations. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture shows significant bearish leanings in liquidity and inflation, despite bonds showing some upward bias. US equities are holding a neutral posture supported by defensive and material sectors, while crypto activity is also neutral. The overall market tone suggests caution amidst structural shifts in liquidity and inflation expectations. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

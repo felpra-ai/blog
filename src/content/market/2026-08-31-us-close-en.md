@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodity pricing exhibits an extreme bullish reading, suggesting strong underlying upward momentum. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are showing signs of deterioration, while the Communication Services and Basic Materials sectors are showing strength. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence: commodities and credit are showing significant strength, contrasting with the deteriorating trend noted in US equities. The market appears to be balancing bullish commodity flows against caution reflected in volatility and US indices. On balance, the tape suggests a period of selective strength amidst broader uncertainty. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence: commodities and credit are showing significant strength, contrasting with the deteriorating trend noted in US equities. The market appears to be balancing bullish commodity flows against caution reflected in volatility and US indices. On balance, the tape suggests a period of selective strength amidst broader uncertainty. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

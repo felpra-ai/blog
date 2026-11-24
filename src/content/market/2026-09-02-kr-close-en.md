@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities exhibit a clear bullish leaning, contrasting with the overall bearish tilt in liquidity. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Kosho(KR):** Korean equities are showing an improving trend, with materials sector strength noted against utilities weakness. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: commodities and macro indicators like VIX suggest underlying strength or stability, while credit and liquidity point toward significant caution. The cross-market read shows US and Crypto remaining in a neutral state, while Korea exhibits a positive directional shift. This suggests sector-specific strength is currently overriding broader systemic concerns.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: commodities and macro indicators like VIX suggest underlying strength or stability, while credit and liquidity point toward significant caution. The cross-market read shows US and Crypto remaining in a neutral state, while Korea exhibits a positive directional shift. This suggests sector-specific strength is currently overriding broader systemic concerns.
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

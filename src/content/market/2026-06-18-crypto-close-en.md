@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities are neutral, with a noticeable tilt towards bearish indicators. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is neutral overall, with the overall trend showing signs of deterioration, and the market dominance remains concentrated in BTC. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The fixed income and credit sectors suggest underlying strength, contrasting with the neutral and softening signals observed in the cryptocurrency space. On balance, the market presents a mixed picture, with macro indicators pointing to cautious stability across several asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The fixed income and credit sectors suggest underlying strength, contrasting with the neutral and softening signals observed in the cryptocurrency space. On balance, the market presents a mixed picture, with macro indicators pointing to cautious stability across several asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 ---
 

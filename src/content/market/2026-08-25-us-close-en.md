@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities show a sideways bullish bias, with a high proportion of readings indicating bullish sentiment. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Maine(US):** US equities are reading as neutral overall, with Financial Services, Basic Materials, ENERGY, and Communication Services showing strength, while UTILITIES appear weaker. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market indicators suggest a generally supportive environment, particularly noted in the strong bullish leaning of commodities and liquidity. While the US market reads as neutral, the underlying strength in certain sectors and the improving trend in crypto suggest underlying directional conviction, though caution remains warranted given the geopolitical focus. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market indicators suggest a generally supportive environment, particularly noted in the strong bullish leaning of commodities and liquidity. While the US market reads as neutral, the underlying strength in certain sectors and the improving trend in crypto suggest underlying directional conviction, though caution remains warranted given the geopolitical focus. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

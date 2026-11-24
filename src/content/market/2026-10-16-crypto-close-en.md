@@ -45,8 +45,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are showing a neutral reading, with the bearish indicators holding significantly more weight than the bullish ones. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** The crypto space is reading sideways bearish, with the overall trend showing deterioration, while the US market reads sideways bullish. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents mixed signals; while US equities show a sideways bullish bias, the bond sector reads extremely bearish, and crypto is showing clear signs of weakness. The overall market sentiment suggests caution, particularly given the outflows reported in crypto funds following the CPI data.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents mixed signals; while US equities show a sideways bullish bias, the bond sector reads extremely bearish, and crypto is showing clear signs of weakness. The overall market sentiment suggests caution, particularly given the outflows reported in crypto funds following the CPI data.
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

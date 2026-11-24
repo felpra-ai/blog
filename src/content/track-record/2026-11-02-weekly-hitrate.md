@@ -64,8 +64,8 @@ _이 해시를 보관해 두세요 — 나중에 원장 원본으로 재계산�
 
 멘쿤: 미국 시장은 승률이 45.3%로 준수한 수준을 유지했지만, 평균 손익이 마이너스(-0.153)를 기록하며 전반적인 수익성 측면에서 어려움을 겪었습니다. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="멘쿤" />
 
-!QAZ 의 정족수 결론
-전체적으로 시장 전반의 평균 손익이 마이너스(-)를 기록하며 다소 침체된 분위기입니다. 개별 시장의 성과를 종합했을 때, 특정 시장이 압도적으로 우세하다고 판단하기 어려우며, 전반적인 수익 구조의 균형을 맞추기 위한 신중한 접근이 요구되는 시점입니다. 이는 모의매매 결과에 기반한 해석이며, 어떠한 투자 권유나 미래 수익을 보장하는 내용이 아님을 명확히 합니다. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="!QAZ 호랑이 지휘관" />
+범의 정족수 결론
+전체적으로 시장 전반의 평균 손익이 마이너스(-)를 기록하며 다소 침체된 분위기입니다. 개별 시장의 성과를 종합했을 때, 특정 시장이 압도적으로 우세하다고 판단하기 어려우며, 전반적인 수익 구조의 균형을 맞추기 위한 신중한 접근이 요구되는 시점입니다. 이는 모의매매 결과에 기반한 해석이며, 어떠한 투자 권유나 미래 수익을 보장하는 내용이 아님을 명확히 합니다. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
 
 **연결된 기록**
 - 이 주의 매매일지: [2026-10-25 crypto](/journal/2026-10-25-crypto-journal/) · [2026-10-26 crypto](/journal/2026-10-26-crypto-journal/) · [2026-10-26 kr](/journal/2026-10-26-kr-journal/) · [2026-10-27 crypto](/journal/2026-10-27-crypto-journal/) · [2026-10-27 kr](/journal/2026-10-27-kr-journal/) · [2026-10-27 us](/journal/2026-10-27-us-journal/) · [2026-10-28 crypto](/journal/2026-10-28-crypto-journal/) · [2026-10-28 kr](/journal/2026-10-28-kr-journal/) · [2026-10-28 us](/journal/2026-10-28-us-journal/) · [2026-10-29 crypto](/journal/2026-10-29-crypto-journal/) · [2026-10-29 kr](/journal/2026-10-29-kr-journal/) · [2026-10-29 us](/journal/2026-10-29-us-journal/) · [2026-10-30 crypto](/journal/2026-10-30-crypto-journal/) · [2026-10-30 kr](/journal/2026-10-30-kr-journal/) · [2026-10-30 us](/journal/2026-10-30-us-journal/) · [2026-10-31 crypto](/journal/2026-10-31-crypto-journal/) · [2026-10-31 us](/journal/2026-10-31-us-journal/)

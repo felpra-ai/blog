@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** US equities are in a deteriorating trend, showing a clear bias towards bearish sentiment. :us:
 - **Sectors:** Technology remains a strong sector, contrasting with weakness noted in Basic Materials, Real Estate, and Communication Services. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence, with bonds showing strong upward momentum while credit and inflation signal caution. Equity markets, both in the US and Korea, are showing signs of weakening trends. The sector strength remains concentrated in technology, suggesting underlying structural support within that area, even as broader risk indicators are mixed. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence, with bonds showing strong upward momentum while credit and inflation signal caution. Equity markets, both in the US and Korea, are showing signs of weakening trends. The sector strength remains concentrated in technology, suggesting underlying structural support within that area, even as broader risk indicators are mixed. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

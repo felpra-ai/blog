@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** The US market is in a sideways-bullish posture, reflecting an improving trend. :us:
 - **Sector:** Sector strength is concentrated, with clear weakness observed in the 'other, meme, gaming_nft' baskets, while BTC dominance is noted. :sector:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators present a divergence: while US equities show improving momentum, underlying commodity and inflation readings suggest significant downward pressure. The crypto space mirrors this caution, remaining in a bearish drift, while the relative strength in the US market provides a counter-narrative. Overall, the tape suggests caution amid mixed underlying pressures. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators present a divergence: while US equities show improving momentum, underlying commodity and inflation readings suggest significant downward pressure. The crypto space mirrors this caution, remaining in a bearish drift, while the relative strength in the US market provides a counter-narrative. Overall, the tape suggests caution amid mixed underlying pressures. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities maintain a neutral reading, with the trend remaining stable. :us:
 - **Commodities:** Commodities are strongly bullish across the board, suggesting robust underlying strength. :commodities:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: commodities and inflation signal significant strength, while fixed income and credit indicators point toward bearish pressure. US equities are stable, but the overall picture suggests caution amidst diverging sector strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: commodities and inflation signal significant strength, while fixed income and credit indicators point toward bearish pressure. US equities are stable, but the overall picture suggests caution amidst diverging sector strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-20](/track-record/2026-07-20-weekly-hitrate-en/)

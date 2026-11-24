@@ -39,8 +39,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Commodities:** Commodities are registering a bearish leaning, with the bearish indicators showing a more pronounced reading than bullish ones. :commodities:
 - **Crypto:** The cryptocurrency space is showing a distinctly bearish trend, with the bearish indicators heavily outweighing the bullish ones. :crypto:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence, with bonds showing strength while commodities and crypto suggest caution. The US market's slight bullishness contrasts with the bearish leanings observed in crypto and commodities. Overall, the tape suggests a period of mixed directional conviction across asset classes. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence, with bonds showing strength while commodities and crypto suggest caution. The US market's slight bullishness contrasts with the bearish leanings observed in crypto and commodities. Overall, the tape suggests a period of mixed directional conviction across asset classes. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

@@ -49,8 +49,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities exhibit a neutral reading, leaning significantly toward bearish sentiment. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are showing a sideways and bearish tendency, with the overall market structure suggesting caution. <img class="emoji-char" src="/characters/us/10_suspicious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents divergence, with bonds showing strong upward momentum contrasting against bearish readings in credit and commodities. Equities across major regions, including the US, are exhibiting sideways and bearish characteristics. The overall tape suggests a period of consolidation amid mixed underlying asset class signals. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents divergence, with bonds showing strong upward momentum contrasting against bearish readings in credit and commodities. Equities across major regions, including the US, are exhibiting sideways and bearish characteristics. The overall tape suggests a period of consolidation amid mixed underlying asset class signals. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

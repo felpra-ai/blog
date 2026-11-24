@@ -37,8 +37,8 @@ altLang: ko
 - **Kosho(KR):** Korean equities show a neutral overall reading, but the underlying sectors indicate utilities are strong while materials and chemicals are weak. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
 - **Lovble(Global):** Volatility is reading neutral, and the US market shows an improving trend, though crypto remains neutral. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The data suggests a divergence where fixed income and credit structures are showing strong directional support, contrasting with bearish signals in the FX space. The US market's improving trend provides a backdrop of relative stability, even as specific regional equity sectors show mixed strength. Overall, the market structure appears to be navigating conflicting directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The data suggests a divergence where fixed income and credit structures are showing strong directional support, contrasting with bearish signals in the FX space. The US market's improving trend provides a backdrop of relative stability, even as specific regional equity sectors show mixed strength. Overall, the market structure appears to be navigating conflicting directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 ---
 

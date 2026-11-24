@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodity indicators are balanced, with equal weight observed across bullish and bearish readings, suggesting a neutral regime. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Cryptocurrency sentiment is neutral overall, with the layer1 and storage sectors showing strength, while the exchange and oracle_infra sectors exhibited weakness, with BTC maintaining dominance. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure reflects a divergence: while US and Korean equities show improving momentum, underlying macro indicators point toward significant bearish pressure, particularly concerning liquidity and inflation. The crypto space mirrors this mixed sentiment, showing sector divergence but overall stability. The prevailing theme is one of cautious consolidation amidst conflicting macro signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure reflects a divergence: while US and Korean equities show improving momentum, underlying macro indicators point toward significant bearish pressure, particularly concerning liquidity and inflation. The crypto space mirrors this mixed sentiment, showing sector divergence but overall stability. The prevailing theme is one of cautious consolidation amidst conflicting macro signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

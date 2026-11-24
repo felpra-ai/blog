@@ -42,8 +42,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Korea:** Korean market sentiment reads bearish with stable underlying trends. <img class="emoji-char" src="/characters/crypto/10_suspicious.png" alt="벵갈" />
 - **US:** The US market sentiment reads bullish with stable underlying trends. <img class="emoji-char" src="/characters/crypto/10_suspicious.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The US market shows a distinct bullish lean, contrasting with the bearish readings observed in both the cryptocurrency and Korean markets. Macro indicators like inflation and volatility are leaning bearish, suggesting caution despite the US equity strength. Overall, the market structure suggests a divergence between regional equity strength and broader risk asset weakness. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The US market shows a distinct bullish lean, contrasting with the bearish readings observed in both the cryptocurrency and Korean markets. Macro indicators like inflation and volatility are leaning bearish, suggesting caution despite the US equity strength. Overall, the market structure suggests a divergence between regional equity strength and broader risk asset weakness. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

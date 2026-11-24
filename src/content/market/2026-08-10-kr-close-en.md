@@ -55,8 +55,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities are showing a neutral stance overall, with the trend remaining stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 - **US:** US equities are displaying a neutral reading, with the trend remaining stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents conflicting signals, notably bearish readings in liquidity and FX contrasting with stable credit strength. While regional equities show neutral readings, the improving trend in crypto suggests some underlying directional shift in risk assets. The overall tape suggests a period of consolidation amidst varied underlying pressures. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents conflicting signals, notably bearish readings in liquidity and FX contrasting with stable credit strength. While regional equities show neutral readings, the improving trend in crypto suggests some underlying directional shift in risk assets. The overall tape suggests a period of consolidation amidst varied underlying pressures. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

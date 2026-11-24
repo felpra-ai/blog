@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities are showing an extreme bullish reading, suggesting strong upward momentum across the board. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Maine(US):** US equities are currently reading as neutral, with the sector breakdown highlighting strength in Basic Materials. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The data presents a divergence: commodities and inflation are showing extreme bullish readings, contrasting with the bearish signals in credit and the neutral readings across major asset classes like US equities and crypto. The macro picture suggests significant geopolitical overhangs influencing cost structures, while the underlying market breadth remains mixed. On balance, the tape appears to be digesting strong commodity-driven inflationary pressures against softer risk appetite indicators. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The data presents a divergence: commodities and inflation are showing extreme bullish readings, contrasting with the bearish signals in credit and the neutral readings across major asset classes like US equities and crypto. The macro picture suggests significant geopolitical overhangs influencing cost structures, while the underlying market breadth remains mixed. On balance, the tape appears to be digesting strong commodity-driven inflationary pressures against softer risk appetite indicators. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-20](/track-record/2026-07-20-weekly-hitrate-en/)

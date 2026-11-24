@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are positioned in a sideways-bullish regime, indicating more bullish sentiment than bearish. :us:
 - **Commodities:** Commodities are trending bearish, as evidenced by the distribution of market sentiment. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests underlying strength in fixed income assets, contrasting with bearish momentum observed in commodities and digital assets. The US market shows a slight positive bias, while Korean equities reflect a more cautious, downward-leaning range. Overall, the market structure suggests divergence between traditional asset classes and risk assets. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests underlying strength in fixed income assets, contrasting with bearish momentum observed in commodities and digital assets. The US market shows a slight positive bias, while Korean equities reflect a more cautious, downward-leaning range. Overall, the market structure suggests divergence between traditional asset classes and risk assets. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

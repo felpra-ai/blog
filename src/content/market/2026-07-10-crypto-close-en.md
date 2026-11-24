@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities are registering a bullish bias, contrasting with the mixed signals seen in inflation readings. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is showing a neutral posture, with dominance concentrated in Bitcoin, while the US market reads as neutral but improving. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence: commodities and FX show bullish leanings, yet liquidity and VIX point toward caution. The underlying US market shows signs of improvement, but the overall tape suggests a need for careful observation across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence: commodities and FX show bullish leanings, yet liquidity and VIX point toward caution. The underlying US market shows signs of improvement, but the overall tape suggests a need for careful observation across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodity sentiment is mixed, with no strong directional bias observed. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities show a neutral reading, with Basic Materials exhibiting strength while Utilities appears weaker. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure reflects significant bearish pressure across liquidity and volatility metrics, despite some underlying strength noted in specific sectors like Basic Materials. The mixed signals from the Federal Reserve survey and the notable shift in gold and bond pricing suggest underlying uncertainty is being priced in. Overall, the tape suggests a period of consolidation amidst directional divergence. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure reflects significant bearish pressure across liquidity and volatility metrics, despite some underlying strength noted in specific sectors like Basic Materials. The mixed signals from the Federal Reserve survey and the notable shift in gold and bond pricing suggest underlying uncertainty is being priced in. Overall, the tape suggests a period of consolidation amidst directional divergence. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

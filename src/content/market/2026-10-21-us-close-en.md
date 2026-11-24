@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** US equities are showing an improving trend, with bullish sentiment holding a clear majority. :us:
 - **Sectors:** Financial Services, Consumer Cyclical, Basic Materials, and Energy are showing strength, while Technology and Communication Services are lagging. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market picture suggests divergent momentum, with US equities showing improving structure contrasted against softening crypto and Korean indices. The strength noted in cyclical and energy sectors suggests underlying commodity or consumer demand support, while the macro view points toward a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market picture suggests divergent momentum, with US equities showing improving structure contrasted against softening crypto and Korean indices. The strength noted in cyclical and energy sectors suggests underlying commodity or consumer demand support, while the macro view points toward a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

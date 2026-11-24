@@ -23,15 +23,15 @@ images:
 - src: /toon/2026-11-17-radar-crypto-en/01.webp
   alt: 1/Cover — Who's Packed Today?
 - src: /toon/2026-11-17-radar-crypto-en/02.webp
-  alt: '2/Talk — !QAZ: Anything on the radar? / Bengal: Huma Finance. Packed! / !QAZ:
+  alt: '2/Talk — Beom: Anything on the radar? / Bengal: Huma Finance. Packed! / Beom:
     How packed? / Bengal: 7.3x its usual volume.'
 - src: /toon/2026-11-17-radar-crypto-en/03.webp
-  alt: '3/Talk — !QAZ: And the price that day? / Bengal: Up 5.2%. Busy and green.
-    / !QAZ: Any others? / Bengal: 1 out of 444. Just Huma.'
+  alt: '3/Talk — Beom: And the price that day? / Bengal: Up 5.2%. Busy and green.
+    / Beom: Any others? / Bengal: 1 out of 444. Just Huma.'
 - src: /toon/2026-11-17-radar-crypto-en/04.webp
   alt: 4/Key point — 7.3x the usual crowd!
 - src: /toon/2026-11-17-radar-crypto-en/05.webp
-  alt: '5/Last word — !QAZ: So why the crowd? / Bengal: Nobody left a note.'
+  alt: '5/Last word — Beom: So why the crowd? / Bengal: Nobody left a note.'
 ---
 
 | Name | × usual turnover | Day change |

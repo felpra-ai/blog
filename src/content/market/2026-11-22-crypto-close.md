@@ -47,8 +47,8 @@ _관측 각주: 이 시장 누적 최다 레짐 전이: sideways_bullish → sid
 - **노웰(원자재):** 원자재가 약세로 기울면서 물가 쪽도 덩달아 아래로 무게가 실렸습니다. 다만 인플레는 옆걸음에 가까워서, 계절이 바뀌는 길목처럼 방향이 아직 정해지지 않았습니다. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **벵갈(코인):** 제일 크게 미끄러진 건 코인입니다. 약세가 82.1%로 열 중 여덟을 넘고, 추세도 나빠지는 중입니다. 국장과 미장도 아래로 눌려 있는데, 거래가 붙지 않아 치고 나갈 데가 보이지 않습니다. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 러블은 변동성이 커지는 쪽으로 기운 가운데 코인과 주식이 함께 약세라는 점을 먼저 짚었습니다. 브숏은 신용과 원자재의 약세를, 벵갈은 나빠지고 있는 코인을 꼽았습니다. 샤암은 유동성 하나만 강세라는 점에 주목했습니다. 열려 있는 돈줄이 언제 위험자산으로 옮겨 갈지는 아직 답이 없습니다. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 러블은 변동성이 커지는 쪽으로 기운 가운데 코인과 주식이 함께 약세라는 점을 먼저 짚었습니다. 브숏은 신용과 원자재의 약세를, 벵갈은 나빠지고 있는 코인을 꼽았습니다. 샤암은 유동성 하나만 강세라는 점에 주목했습니다. 열려 있는 돈줄이 언제 위험자산으로 옮겨 갈지는 아직 답이 없습니다. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **연결된 기록**
 - 직전 주간 트랙레코드: [2026-11-16](/track-record/2026-11-16-weekly-hitrate/)

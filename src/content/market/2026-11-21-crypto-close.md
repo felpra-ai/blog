@@ -47,8 +47,8 @@ _관측 각주: 이 시장 누적 최다 레짐 전이: sideways_bullish → sid
 - **노웰(원자재):** 원자재는 늦가을 들판처럼 식어 있습니다. 약세가 강세의 두 배입니다. 호르무즈와 오만만에서 교전 소식이 이어지는데도 실물 가격은 위로 반응하지 않았고, 인플레 역시 약세 쪽으로 기울어 있습니다. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **벵갈(코인):** 가장 크게 빠진 곳은 코인입니다. 약세 88.1%에 추세까지 나빠지고 있습니다. 스토리지, 레이어1, 디파이가 모두 약세이고 자금은 BTC 쪽으로 몰립니다. 미장도 열 번 중 여덟 번은 약세입니다. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 러블과 벵갈은 코인을 선두로 세 시장이 함께 약세라는 점을 짚었습니다. 브숏은 신용과 원자재의 약세를 먼저 꼽았고, 샤암은 유동성이 아직 받쳐 주고 있다는 점을 봤습니다. 중동 교전이 격해지는 가운데 변동성은 커지는 쪽인데, 유동성이 넉넉한 상태와 위험자산 약세가 어떻게 맞물릴지는 아직 열려 있습니다. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 러블과 벵갈은 코인을 선두로 세 시장이 함께 약세라는 점을 짚었습니다. 브숏은 신용과 원자재의 약세를 먼저 꼽았고, 샤암은 유동성이 아직 받쳐 주고 있다는 점을 봤습니다. 중동 교전이 격해지는 가운데 변동성은 커지는 쪽인데, 유동성이 넉넉한 상태와 위험자산 약세가 어떻게 맞물릴지는 아직 열려 있습니다. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **연결된 기록**
 - 직전 주간 트랙레코드: [2026-11-16](/track-record/2026-11-16-weekly-hitrate/)

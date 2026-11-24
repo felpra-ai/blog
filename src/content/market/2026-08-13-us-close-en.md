@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are in a sideways bullish regime, leaning toward the upside. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are neutral, with Energy, Consumer Cyclical, Communication Services, and Technology showing strength, while Utilities, Real Estate, and Consumer Defensive are lagging. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests underlying caution, evidenced by bearish liquidity readings, though commodity strength and a bullish FX bias offer some support. The divergence between the US equity's neutral reading and the sector strength suggests internal rotation within the market structure. On balance, the tape appears to be consolidating within established boundaries. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests underlying caution, evidenced by bearish liquidity readings, though commodity strength and a bullish FX bias offer some support. The divergence between the US equity's neutral reading and the sector strength suggests internal rotation within the market structure. On balance, the tape appears to be consolidating within established boundaries. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

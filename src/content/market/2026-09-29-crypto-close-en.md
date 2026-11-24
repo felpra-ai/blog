@@ -51,8 +51,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Korea:** The Korean market is neutral, but the trend momentum is deteriorating, leaning toward the downside. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
 - **US:** The US market reads bearish, with the trend showing deterioration and bearish sentiment dominating. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators present a mixed picture, with notable bearish leanings in credit, commodities, and inflation, while the US and Korean equity trends are both deteriorating. The market structure shows payments and gaming_nft as areas of strength, while the overall crypto dominance remains evident. The confluence of deteriorating equity trends against a backdrop of bearish macro readings suggests caution. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators present a mixed picture, with notable bearish leanings in credit, commodities, and inflation, while the US and Korean equity trends are both deteriorating. The market structure shows payments and gaming_nft as areas of strength, while the overall crypto dominance remains evident. The confluence of deteriorating equity trends against a backdrop of bearish macro readings suggests caution. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

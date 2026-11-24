@@ -56,8 +56,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** The US market is reading sideways bullish, with bullish indicators showing a notably higher proportion than bearish ones, and the trend is improving. :us:
 - **Sectors:** Strong performance is noted in Communication Services, CRYPTO, Consumer Defensive, and Financial Services, while TECHNOLOGY and Communication Services show weakness. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The US market shows improving momentum and broad support, which contrasts with the deteriorating trend observed in crypto and the bearish readings in bonds and Korea. On balance, the cross-market picture suggests caution amid divergent sector strength. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The US market shows improving momentum and broad support, which contrasts with the deteriorating trend observed in crypto and the bearish readings in bonds and Korea. On balance, the cross-market picture suggests caution amid divergent sector strength. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

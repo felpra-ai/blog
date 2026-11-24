@@ -44,8 +44,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **US:** The US market sentiment is balanced, showing more bullish leaning than bearish, with a stable trend. :us:
 - **Sectors:** The exchange sector shows strength, while payments lags, and Bitcoin maintains dominance within the crypto space. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure shows underlying strength in certain areas, such as exchanges, contrasting with broader bearish signals in liquidity and FX. The general tone suggests caution, balancing sector strength against macro headwinds. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure shows underlying strength in certain areas, such as exchanges, contrasting with broader bearish signals in liquidity and FX. The general tone suggests caution, balancing sector strength against macro headwinds. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

@@ -37,8 +37,8 @@ altLang: en
 - **노웰(원자재):** 원자재 시장은 강세와 약세의 비중이 비교적 균형을 이루고 있으며, 인플레이션 역시 중립적인 상태를 유지하고 있습니다. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **벵갈(코인):** 암호화폐 시장은 중립 국면에 머물러 있으며, 국내 주식 시장은 약세가 우세하나 추세가 약화되는 양상을 보이고, 미국 주식 시장은 개선세를 보이고 있습니다. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 거시적 관점에서 채권과 유동성은 강한 지지 기반을 보여주는 반면, 외환 시장에서는 약세 압력이 관찰됩니다. 종합적으로 볼 때, 미국 시장의 개선세가 두드러지나, 전체적인 시장 심리는 신중한 관망 국면으로 해석됩니다. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 거시적 관점에서 채권과 유동성은 강한 지지 기반을 보여주는 반면, 외환 시장에서는 약세 압력이 관찰됩니다. 종합적으로 볼 때, 미국 시장의 개선세가 두드러지나, 전체적인 시장 심리는 신중한 관망 국면으로 해석됩니다. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

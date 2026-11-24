@@ -53,8 +53,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Korea:** The Korean market is in a sideways-bearish pattern, suggesting weakening momentum. :korea:
 - **US:** US equities are positioned in a sideways-bullish pattern, maintaining a stable trend. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** US equities are showing relative strength compared to the crypto and Korean markets, while macro indicators suggest a general lack of conviction across asset classes. The market appears to be consolidating within defined boundaries. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** US equities are showing relative strength compared to the crypto and Korean markets, while macro indicators suggest a general lack of conviction across asset classes. The market appears to be consolidating within defined boundaries. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

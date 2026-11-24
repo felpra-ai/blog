@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities exhibit a leaning toward bullishness, while inflation metrics show a pronounced bullish bias. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Kosho(KR):** Korean equities show a neutral reading, with consumer and IT/media sectors demonstrating relative strength compared to chemicals and industrials. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The data suggests a divergence where FX and Inflation are strongly bullish, contrasting with the bearish lean in Credit and the mixed signals from the US and Crypto. The market structure appears to be absorbing geopolitical risk, as evidenced by the focus on energy trade flows and AI infrastructure developments. Overall, the tape suggests caution amid sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The data suggests a divergence where FX and Inflation are strongly bullish, contrasting with the bearish lean in Credit and the mixed signals from the US and Crypto. The market structure appears to be absorbing geopolitical risk, as evidenced by the focus on energy trade flows and AI infrastructure developments. Overall, the tape suggests caution amid sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

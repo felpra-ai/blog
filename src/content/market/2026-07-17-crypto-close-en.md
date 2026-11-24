@@ -45,8 +45,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Nowel(Commodities):** Commodity sentiment is neutral, showing a slight leaning toward bullishness. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is showing a neutral posture, with the dominance structure remaining concentrated in Bitcoin. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a mixed signal, characterized by bearish leanings in FX and Inflation, while commodities maintain a slight upward bias. The underlying market sentiment across US and Crypto remains neutral, suggesting a period of consolidation or indecision across major asset classes.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a mixed signal, characterized by bearish leanings in FX and Inflation, while commodities maintain a slight upward bias. The underlying market sentiment across US and Crypto remains neutral, suggesting a period of consolidation or indecision across major asset classes.
 
 ---
 

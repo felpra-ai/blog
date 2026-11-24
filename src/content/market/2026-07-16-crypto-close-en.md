@@ -39,8 +39,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Nowel(Commodities):** Commodities are registering extreme bullishness, suggesting strong upward momentum across the board. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is showing a neutral stance, with sector dominance currently concentrated in Bitcoin. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: commodities and FX are showing pronounced directional bias, while volatility suggests underlying caution. The US market remains neutral, mirroring the broader stability observed in the crypto space. On balance, the tape suggests caution amidst divergent asset class signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: commodities and FX are showing pronounced directional bias, while volatility suggests underlying caution. The US market remains neutral, mirroring the broader stability observed in the crypto space. On balance, the tape suggests caution amidst divergent asset class signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

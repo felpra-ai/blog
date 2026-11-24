@@ -53,8 +53,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral â†
 - **Korea:** Korean equities show a neutral reading, with a stable trend. :korea:
 - **US:** US equities display a neutral reading, and the trend remains stable. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents mixed signals, notably bearish readings in both FX and Liquidity, contrasting with stable, sideways readings in Credit and Commodities. The underlying equity markets, both US and Korean, are registering neutral sentiment, while the VIX points toward sustained bearishness in volatility expectations. This suggests a market environment characterized by indecision across major asset classes, despite some underlying sector strength noted in Korean industrials and materials.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents mixed signals, notably bearish readings in both FX and Liquidity, contrasting with stable, sideways readings in Credit and Commodities. The underlying equity markets, both US and Korean, are registering neutral sentiment, while the VIX points toward sustained bearishness in volatility expectations. This suggests a market environment characterized by indecision across major asset classes, despite some underlying sector strength noted in Korean industrials and materials.
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

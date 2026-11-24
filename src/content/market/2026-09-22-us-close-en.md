@@ -49,8 +49,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** US equities are exhibiting a deteriorating trend, with significantly more bearish indicators noted than bullish ones. :us:
 - **Sector:** Sector analysis indicates weakness across Communication Services, Healthcare, and Energy, while no sectors registered as strong. :sector:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro view presents a divergence, with FX showing clear strength while inflation leans bearish. US equities are showing signs of deterioration against a backdrop of mixed sector performance. Overall, the market structure suggests caution amid divergent cross-asset signals. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro view presents a divergence, with FX showing clear strength while inflation leans bearish. US equities are showing signs of deterioration against a backdrop of mixed sector performance. Overall, the market structure suggests caution amid divergent cross-asset signals. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

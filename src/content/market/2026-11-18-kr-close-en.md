@@ -45,8 +45,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Diesel at a record works its way through haulage and the shop shelf before it shows up in the price index, and that is what lifted the UK number. The broader commodity read, from an earlier session, still tilts bearish, so the pressure is concentrated in fuel rather than across raw goods. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Kosho(KR):** Korea's baskets have split cleanly. IT-media, bio-health and consumer hold up, while semiconductors, materials and financials are weak. With the market's trend deteriorating, the heavy sectors are the ones carrying the decline. <img class="emoji-char" src="/characters/v2/kr/face/08_defensive.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Lovble and Nowel pointed to energy behind the UK inflation jump. Bsho flagged crypto and Korea as the weak side, Sham has the dollar waiting on the Fed minutes, and Kosho found Korea's strength confined to a few sectors. The US trend is improving while Korea's deteriorates, and it is not yet clear which of the two will set the tone. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Lovble and Nowel pointed to energy behind the UK inflation jump. Bsho flagged crypto and Korea as the weak side, Sham has the dollar waiting on the Fed minutes, and Kosho found Korea's strength confined to a few sectors. The US trend is improving while Korea's deteriorates, and it is not yet clear which of the two will set the tone. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

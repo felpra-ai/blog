@@ -39,8 +39,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Nowel(Commodities):** Commodities exhibit a sideways bias leaning towards bullish territory, suggesting underlying support. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is neutral overall, with storage and exchange sectors showing strength, while payments and layer2 are lagging. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: credit and commodities suggest underlying strength, while volatility indicators point to caution. The US market reads as neutral, and the crypto space is consolidating around specific sectors. On balance, the tape suggests a period of measured movement between established support and resistance levels. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: credit and commodities suggest underlying strength, while volatility indicators point to caution. The US market reads as neutral, and the crypto space is consolidating around specific sectors. On balance, the tape suggests a period of measured movement between established support and resistance levels. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

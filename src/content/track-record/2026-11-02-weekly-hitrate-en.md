@@ -64,12 +64,12 @@ _Archive this hash — recomputing it later from the raw ledger must reproduce t
 
 **Maine:** US equities maintained a win rate of 45.3%, which is comparable to the other markets. However, the average P&L was negative at -0.153, indicating that while wins are occurring, the losses are eroding the gains. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="멘쿤" />
 
-**!QAZ the Tiger Commander:**
+**Beom:**
 The collective reading for this period indicates a challenging environment across all tracked assets. While the win rates across crypto, Korean equities, and US equities are clustered in a similar range, the consistent negative average P&L across the board suggests that the magnitude of losses is currently outweighing the gains realized. The overall profit factor of 0.75 confirms this tendency toward net negative returns.
 
 The data reflects a pattern where successful trades are being tempered by larger or more frequent losses, leading to the overall 'down' mood observed in the summary statistics. The performance across the three markets, while showing some resilience in win rate, points toward a period of caution regarding directional conviction.
 
-This summary represents a review of past paper-trading performance and should not be construed as investment advice or a prediction of future market movements. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="!QAZ 호랑이 지휘관" />
+This summary represents a review of past paper-trading performance and should not be construed as investment advice or a prediction of future market movements. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
 
 **Related**
 - This week's journals: [2026-10-25 crypto](/journal/2026-10-25-crypto-journal-en/) · [2026-10-26 crypto](/journal/2026-10-26-crypto-journal-en/) · [2026-10-26 kr](/journal/2026-10-26-kr-journal-en/) · [2026-10-27 crypto](/journal/2026-10-27-crypto-journal-en/) · [2026-10-27 kr](/journal/2026-10-27-kr-journal-en/) · [2026-10-27 us](/journal/2026-10-27-us-journal-en/) · [2026-10-28 crypto](/journal/2026-10-28-crypto-journal-en/) · [2026-10-28 kr](/journal/2026-10-28-kr-journal-en/) · [2026-10-28 us](/journal/2026-10-28-us-journal-en/) · [2026-10-29 crypto](/journal/2026-10-29-crypto-journal-en/) · [2026-10-29 kr](/journal/2026-10-29-kr-journal-en/) · [2026-10-29 us](/journal/2026-10-29-us-journal-en/) · [2026-10-30 crypto](/journal/2026-10-30-crypto-journal-en/) · [2026-10-30 kr](/journal/2026-10-30-kr-journal-en/) · [2026-10-30 us](/journal/2026-10-30-us-journal-en/) · [2026-10-31 crypto](/journal/2026-10-31-crypto-journal-en/) · [2026-10-31 us](/journal/2026-10-31-us-journal-en/)

@@ -39,8 +39,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Energy is what lifted UK prices, yet the commodity board itself leans bearish, half the basket down, so the heat at the pump has not yet worked its way back into raw materials. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is the weak spot, 83.9% bearish and still sliding. Layer1 and oracle infra lag, and Bitcoin holds the room by dominance rather than strength. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Bsho starts from volatility leaning up, Sham from a lopsided dollar, Nowel from energy-led inflation against soft commodities, and Bengal from crypto's slide. What stays open is whether UK energy inflation reaches markets already leaning weak, with Korea deteriorating and only the US improving. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Bsho starts from volatility leaning up, Sham from a lopsided dollar, Nowel from energy-led inflation against soft commodities, and Bengal from crypto's slide. What stays open is whether UK energy inflation reaches markets already leaning weak, with Korea deteriorating and only the US improving. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

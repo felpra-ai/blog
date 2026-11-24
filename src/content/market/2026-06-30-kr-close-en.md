@@ -37,8 +37,8 @@ altLang: ko
 - **Kosho(KR):** Korean equities are showing a neutral overall picture, but with a notable deterioration in the underlying trend. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
 - **Lovble(Global):** Volatility remains neutral, and liquidity conditions are reading as fully bullish. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The bond market shows significant positive momentum, contrasting with the bearish read on FX. US equities are showing signs of improvement, though crypto activity is currently neutral. On balance, the market exhibits mixed signals, suggesting caution despite strong liquidity readings. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The bond market shows significant positive momentum, contrasting with the bearish read on FX. US equities are showing signs of improvement, though crypto activity is currently neutral. On balance, the market exhibits mixed signals, suggesting caution despite strong liquidity readings. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 ---
 

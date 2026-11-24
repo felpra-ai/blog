@@ -45,7 +45,7 @@ altLang: ko
 
 **Maine:** US equities recorded the lowest win rate at 22.7%, and the average P&L was -0.293, suggesting that while the average loss was less severe than in the other markets, the frequency of losses was high. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
 
-**!QAZ the Tiger Commander:** The overall performance across the tracked markets reflects a challenging period, evidenced by the negative average P&L across the board and a low aggregate win rate of 27.2%. While the crypto sector maintained the highest win rate, all three markets experienced substantial losses relative to their gains, suggesting that the prevailing market regime was difficult for the current strategy parameters. This analysis pertains strictly to paper-trading research and does not constitute investment advice. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="!QAZ 호랑이 지휘관" />
+**Beom:** The overall performance across the tracked markets reflects a challenging period, evidenced by the negative average P&L across the board and a low aggregate win rate of 27.2%. While the crypto sector maintained the highest win rate, all three markets experienced substantial losses relative to their gains, suggesting that the prevailing market regime was difficult for the current strategy parameters. This analysis pertains strictly to paper-trading research and does not constitute investment advice. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
 
 ---
 

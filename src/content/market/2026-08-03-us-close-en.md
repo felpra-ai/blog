@@ -55,8 +55,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** US market trends are registering as neutral, with indicators showing stability. :us:
 - **Sectors:** Communication Services and Consumer Cyclical sectors appear strong, while Energy shows weakness. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The divergence between extreme bullish liquidity and bearish FX/Crypto suggests underlying structural tension. Macro indicators point toward cautious stability, while sector strength is concentrated in specific consumer and communication areas. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The divergence between extreme bullish liquidity and bearish FX/Crypto suggests underlying structural tension. Macro indicators point toward cautious stability, while sector strength is concentrated in specific consumer and communication areas. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

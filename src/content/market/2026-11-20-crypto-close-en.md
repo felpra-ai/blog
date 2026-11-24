@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Raw materials carry a soft bias, the way a field looks before a late frost, and inflation readings sit neutral with the weight leaning lower. <img class="emoji-char" src="/characters/v2/commodity/face/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto moved fastest, and its trend is deteriorating, with storage, oracle infra and layer2 the weakest baskets while bitcoin holds dominance. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Bsho flagged the extreme currency reading and Lovble and Nowel the soft commodity tone. Sham found liquidity neutral, and Bengal pointed to crypto sliding with bitcoin dominant. Volatility leans bullish, which here means rising, and the US, Korea and crypto all tilt bearish. Still open is whether weak commodities meet any support from liquidity that has yet to choose a side. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Bsho flagged the extreme currency reading and Lovble and Nowel the soft commodity tone. Sham found liquidity neutral, and Bengal pointed to crypto sliding with bitcoin dominant. Volatility leans bullish, which here means rising, and the US, Korea and crypto all tilt bearish. Still open is whether weak commodities meet any support from liquidity that has yet to choose a side. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities exhibit a neutral posture, leaning slightly more toward bullish indicators. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities show a sideways bias with a slight bullish lean, while strong sectors include Communication Services and Technology, contrasting with weakness in Consumer Defensive and Real Estate. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests a period of consolidation, as evidenced by the sideways nature across major indices. While US equities maintain a slight bullish bias, the underlying macro indicators point to caution, particularly in the crypto space which shows deteriorating trends. The overall picture suggests range-bound trading dynamics are prevailing. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests a period of consolidation, as evidenced by the sideways nature across major indices. While US equities maintain a slight bullish bias, the underlying macro indicators point to caution, particularly in the crypto space which shows deteriorating trends. The overall picture suggests range-bound trading dynamics are prevailing. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

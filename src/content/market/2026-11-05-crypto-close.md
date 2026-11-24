@@ -46,8 +46,8 @@ _관측 각주: 이 시장 누적 최다 레짐 전이: sideways_bullish → sid
 - **노웰(원자재):** 원자재 시장은 극도의 약세 국면에 머물러 있으며, 인플레이션 지표 역시 약세 쪽으로 무게가 실린 중립 상태입니다. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **벵갈(코인):** 암호화폐 시장은 약세 쪽으로 무게가 쏠리며 횡보하고 있으며, 국내 주식 시장 역시 약세 쪽으로 기울며 횡보하는 모습입니다. <img class="emoji-char" src="/characters/crypto/10_suspicious.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 미국 주식 시장은 개선되는 흐름을 보이며 시장 전반에 우호적인 배경을 형성하고 있으나, 암호화폐 시장은 약세 우위 속에서 횡보하고 있습니다. 종합적으로 볼 때, 시장 참여자들은 신중한 관망 국면에 머무르는 것으로 해석됩니다. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 미국 주식 시장은 개선되는 흐름을 보이며 시장 전반에 우호적인 배경을 형성하고 있으나, 암호화폐 시장은 약세 우위 속에서 횡보하고 있습니다. 종합적으로 볼 때, 시장 참여자들은 신중한 관망 국면에 머무르는 것으로 해석됩니다. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
 
 **연결된 기록**
 - 직전 주간 트랙레코드: [2026-11-02](/track-record/2026-11-02-weekly-hitrate/)

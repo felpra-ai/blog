@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodity sentiment is balanced, with a noticeable bullish leaning across the board. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities are showing an improving trend, with real estate, healthcare, and financial services exhibiting strength while technology lags. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence: while US equities show signs of improvement, credit remains significantly bearish, and inflation carries a bearish weight. Commodities provide a degree of counter-balance to the caution seen elsewhere. On balance, the market structure suggests a cautious, range-seeking tape underpinned by sector rotation rather than broad directional conviction. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence: while US equities show signs of improvement, credit remains significantly bearish, and inflation carries a bearish weight. Commodities provide a degree of counter-balance to the caution seen elsewhere. On balance, the market structure suggests a cautious, range-seeking tape underpinned by sector rotation rather than broad directional conviction. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

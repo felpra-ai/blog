@@ -45,8 +45,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodity sentiment leans slightly positive, though bearish readings are also present. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Cryptocurrency activity is characterized by sideways movement with a notable bearish leaning, while the broader tech and semi sectors show dominance. <img class="emoji-char" src="/characters/crypto/10_suspicious.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators suggest a period of consolidation, with most asset classes exhibiting neutral directional bias. The market structure shows US and Korean equities maintaining a sideways bias with a slight bullish lean, contrasting with the more bearish leaning observed in the crypto space. The persistent geopolitical risk noted in the news flow continues to underpin caution across asset classes.
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators suggest a period of consolidation, with most asset classes exhibiting neutral directional bias. The market structure shows US and Korean equities maintaining a sideways bias with a slight bullish lean, contrasting with the more bearish leaning observed in the crypto space. The persistent geopolitical risk noted in the news flow continues to underpin caution across asset classes.
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Maine(US):** US equities show an improving trend, with the underlying market structure suggesting positive momentum despite mixed sector strength. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
 - **Crypto:** Cryptocurrency indicators reflect a deteriorating trend, showing a slightly higher weighting towards bearish signals. :crypto:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market exhibits a divergence where commodities and US equities show signs of underlying strength, while crypto suggests weakening momentum. The broader macro picture remains balanced across most asset classes, pointing toward a period of consolidation punctuated by sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market exhibits a divergence where commodities and US equities show signs of underlying strength, while crypto suggests weakening momentum. The broader macro picture remains balanced across most asset classes, pointing toward a period of consolidation punctuated by sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Commodities:** Commodities are in an extreme bearish state, with bearish indicators showing a clear majority. :commodities:
 - **Inflation:** Inflation readings are showing a neutral state, with bullish and bearish indicators balancing out. :inflation:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The divergence between the US market's improving bullish posture and the bearish readings across commodities and crypto suggests underlying sector rotation pressure. The macro indicators point to a complex environment where volatility is high but directional conviction is mixed, particularly given the extreme bearishness in commodities. On balance, the tape appears to be navigating distinct, diverging trends across asset classes. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The divergence between the US market's improving bullish posture and the bearish readings across commodities and crypto suggests underlying sector rotation pressure. The macro indicators point to a complex environment where volatility is high but directional conviction is mixed, particularly given the extreme bearishness in commodities. On balance, the tape appears to be navigating distinct, diverging trends across asset classes. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

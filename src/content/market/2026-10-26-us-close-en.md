@@ -55,8 +55,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** The US market shows an improving bullish trend, with bullish indicators holding a clear majority. :us:
 - **Sectors:** Financial Services, Real Estate, and Consumer Defensive sectors are showing strength, while Technology and Communication Services are lagging. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The US market shows signs of improvement, which is broadly supportive of the broader market structure, although commodity weakness and crypto's deteriorating trend temper overall sentiment. On balance, the tape suggests a cautious, range-seeking environment underpinned by sector rotation favoring defensive and financial names. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The US market shows signs of improvement, which is broadly supportive of the broader market structure, although commodity weakness and crypto's deteriorating trend temper overall sentiment. On balance, the tape suggests a cautious, range-seeking environment underpinned by sector rotation favoring defensive and financial names. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

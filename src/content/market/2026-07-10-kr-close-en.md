@@ -39,8 +39,8 @@ altLang: ko
 - **Crypto:** Cryptocurrency activity reads as neutral, maintaining a slight bullish tilt. :crypto:
 - **US:** US equities are showing a neutral stance, with underlying momentum appearing to be improving. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests diverging forces: commodities and FX are showing distinct bullish leanings, while liquidity and volatility point toward caution. The relative strength noted in specific Korean sectors, alongside the improving US backdrop, suggests underlying pockets of support amidst broader systemic caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests diverging forces: commodities and FX are showing distinct bullish leanings, while liquidity and volatility point toward caution. The relative strength noted in specific Korean sectors, alongside the improving US backdrop, suggests underlying pockets of support amidst broader systemic caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities are showing a neutral read, with the trend remaining stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are showing a neutral read, with the trend improving. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Liquidity is reading extremely bullish, which contrasts with the deteriorating trend observed in Crypto and Korea, while US equities show signs of improvement. The sector data indicates strength in Healthcare, Real Estate, Consumer Defensive, and Consumer Cyclical, while Utilities and Energy are showing relative weakness.
+## Cross-market & Beom's verdict
+**Beom(Chair):** Liquidity is reading extremely bullish, which contrasts with the deteriorating trend observed in Crypto and Korea, while US equities show signs of improvement. The sector data indicates strength in Healthcare, Real Estate, Consumer Defensive, and Consumer Cyclical, while Utilities and Energy are showing relative weakness.
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

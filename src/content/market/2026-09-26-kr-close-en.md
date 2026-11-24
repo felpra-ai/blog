@@ -48,8 +48,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Commodities:** Commodity indicators point toward a neutral stance, with inflation sentiment leaning bearish. :commodities:
 - **Korea:** Korean equities are registering a neutral state, with industrials, consumer, chemical, and materials sectors showing relative strength compared to semiconductors. :korea:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The divergence between strong bond positioning and bearish readings across volatility and FX suggests underlying structural tension. While crypto shows signs of improvement, the broader US market context remains mixed, pointing toward a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The divergence between strong bond positioning and bearish readings across volatility and FX suggests underlying structural tension. While crypto shows signs of improvement, the broader US market context remains mixed, pointing toward a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

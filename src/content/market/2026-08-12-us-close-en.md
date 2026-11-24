@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** US equities are reading as neutral overall, with the trend remaining stable. :us:
 - **Sectors:** Strength is noted in Communication Services and Basic Materials, while Utilities shows weakness. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence, with bearish signals noted across FX and liquidity, contrasting with bullish readings in bonds. The relative strength in Korean markets stands out against the neutral readings in US equities and crypto. On balance, the market structure suggests caution amidst differing directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence, with bearish signals noted across FX and liquidity, contrasting with bullish readings in bonds. The relative strength in Korean markets stands out against the neutral readings in US equities and crypto. On balance, the market structure suggests caution amidst differing directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

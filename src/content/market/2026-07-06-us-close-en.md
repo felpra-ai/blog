@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities are positioned neutrally, showing a clear majority leaning toward bullish expectations. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are reading neutral overall, with energy and financial services showing strength while basic materials and technology are lagging. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests divergence, with crypto showing strong bullish momentum contrasting against bearish readings in liquidity and volatility. The sector strength noted in energy and financials suggests resilience in commodity-linked and credit-sensitive areas, while the broader macro backdrop remains cautious. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests divergence, with crypto showing strong bullish momentum contrasting against bearish readings in liquidity and volatility. The sector strength noted in energy and financials suggests resilience in commodity-linked and credit-sensitive areas, while the broader macro backdrop remains cautious. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

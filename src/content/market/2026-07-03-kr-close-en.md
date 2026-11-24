@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities are positioned neutrally, showing slightly more bullish leaning than bearish. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Kosho(KR):** Korean equities are showing a neutral stance, with utilities showing relative strength while materials and chemicals lagged. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests a period of consolidation, as evidenced by the neutral readings across FX and Crypto, while underlying liquidity sentiment leans bearish. The divergence between the stable, neutral readings in major asset classes and the specific sector rotation noted in Korea suggests caution is warranted, keeping the focus on relative strength plays.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests a period of consolidation, as evidenced by the neutral readings across FX and Crypto, while underlying liquidity sentiment leans bearish. The divergence between the stable, neutral readings in major asset classes and the specific sector rotation noted in Korea suggests caution is warranted, keeping the focus on relative strength plays.
 
 ---
 

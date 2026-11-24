@@ -48,8 +48,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities are positioned neutrally, exhibiting an equal split between bullish and bearish sentiment. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Kosho(KR):** Korean equities are reading as neutral overall, with materials showing strength while utilities appear weaker. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence where credit and liquidity are exhibiting pronounced bullishness, while volatility and bonds maintain a more measured, neutral posture. This suggests underlying support from credit cycles despite caution in rate-sensitive assets. The reading across major markets—US, Crypto, and Korea—is generally neutral, pointing toward consolidation within established ranges.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence where credit and liquidity are exhibiting pronounced bullishness, while volatility and bonds maintain a more measured, neutral posture. This suggests underlying support from credit cycles despite caution in rate-sensitive assets. The reading across major markets—US, Crypto, and Korea—is generally neutral, pointing toward consolidation within established ranges.
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

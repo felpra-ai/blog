@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodity sentiment is balanced, showing no discernible directional bias. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Cryptocurrency is reading as neutral overall, with Bitcoin showing clear dominance across the basket. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market data presents a mixed picture: fixed income and FX lean strongly positive, while inflation signals a bearish drift. The overall market structure suggests underlying support from liquidity and credit, despite varied signals across asset classes. On balance, the tape appears to be consolidating within established ranges. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market data presents a mixed picture: fixed income and FX lean strongly positive, while inflation signals a bearish drift. The overall market structure suggests underlying support from liquidity and credit, despite varied signals across asset classes. On balance, the tape appears to be consolidating within established ranges. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

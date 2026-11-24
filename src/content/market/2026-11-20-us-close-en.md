@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** The commodity complex feels like a field after an early frost, with six in ten readings bearish, and energy carries that chill into the wider market. <img class="emoji-char" src="/characters/v2/commodity/face/06_neutral.png" alt="노웰" />
 - **Maine(US):** Step back and both the US and Korea are drifting lower with worsening trends, and the US is the heavier of the two at 71.4% bearish. <img class="emoji-char" src="/characters/v2/us/face/08_defensive.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Volatility leans toward rising, and the desk sees trends worsening in the US, Korea and crypto, with crypto weakest. The open question is where this broad bearish pressure is coming from. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Volatility leans toward rising, and the desk sees trends worsening in the US, Korea and crypto, with crypto weakest. The open question is where this broad bearish pressure is coming from. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

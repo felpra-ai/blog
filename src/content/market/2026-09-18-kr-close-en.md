@@ -43,8 +43,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities show a neutral reading, with slightly more bullish sentiment than bearish sentiment, and the trend remains stable. :korea:
 - **US:** US equities are neutral, yet the trend is deteriorating, evidenced by a higher proportion of bearish readings compared to bullish ones. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents diverging signals; while bonds maintain a relatively stable, slightly positive bias, the extreme bearishness in inflation and FX, coupled with deteriorating trends in both US and Crypto, suggests underlying structural headwinds across asset classes. The stability observed in the Korean market contrasts with the weakening directional momentum seen in US and Crypto indices. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents diverging signals; while bonds maintain a relatively stable, slightly positive bias, the extreme bearishness in inflation and FX, coupled with deteriorating trends in both US and Crypto, suggests underlying structural headwinds across asset classes. The stability observed in the Korean market contrasts with the weakening directional momentum seen in US and Crypto indices. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

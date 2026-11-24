@@ -55,8 +55,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** US market sentiment is sideways and bullish, indicating an improving trend. :us:
 - **Sectors:** Financial Services, Consumer Cyclical, and Industrials show strength, while Technology sectors show weakness. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence, with strong liquidity and credit support contrasting sharply with bearish commodity readings and softening crypto. US equities show underlying strength amidst sector rotation, suggesting caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence, with strong liquidity and credit support contrasting sharply with bearish commodity readings and softening crypto. US equities show underlying strength amidst sector rotation, suggesting caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

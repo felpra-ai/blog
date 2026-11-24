@@ -38,10 +38,10 @@ _관측 각주: 이 시장 누적 최다 레짐 전이: sideways_bullish → sid
 - **샤암(외환):** 외환이 강세 쪽으로 세게 기울어 있습니다. 그런데 유동성은 왜 따라오지 않을까요? 중립에서 꼼짝하지 않고 있으니, 달러의 힘이 아직 돈의 흐름까지 번지지는 않았다고 봅니다. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="샤암" />
 - **노웰(원자재):** 원자재는 가을 들판처럼 무게가 아래로 처져 있습니다. 인플레 쪽은 더 분명해서, 위로 밀어 올리는 손이 하나도 보이지 않습니다. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **벵갈(코인):** 제일 크게 움직인 건 코인입니다. 열 번 중 아홉 번이 약세 쪽이고, 흐름은 계속 나빠지고 있습니다. 그래서 먼저 거기를 봅니다. 미장은 강세와 약세가 엎치락뒤치락하며 옆으로 걷고 있어서, 솔직히 좀 답답합니다. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
-- **!QAZ(의장):** 정리하겠습니다. 브숏과 샤암은 채권과 외환이 강세 쪽에 있다고 봤고, 노웰과 벵갈은 원자재와 코인의 약세를 짚었습니다. 방향은 한곳으로 모이지 않았습니다. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+- **범(의장):** 정리하겠습니다. 브숏과 샤암은 채권과 외환이 강세 쪽에 있다고 봤고, 노웰과 벵갈은 원자재와 코인의 약세를 짚었습니다. 방향은 한곳으로 모이지 않았습니다. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 채권과 외환은 강세 쪽에 서 있고, 코인과 원자재는 반대편으로 기울어 서로를 밀어내고 있습니다. 오늘 시장은 어느 한쪽 손을 들어 주지 않았습니다. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 채권과 외환은 강세 쪽에 서 있고, 코인과 원자재는 반대편으로 기울어 서로를 밀어내고 있습니다. 오늘 시장은 어느 한쪽 손을 들어 주지 않았습니다. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **연결된 기록**
 - 직전 주간 트랙레코드: [2026-11-16](/track-record/2026-11-16-weekly-hitrate/)

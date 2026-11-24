@@ -46,8 +46,8 @@ _관측 각주: 이 시장 누적 최다 레짐 전이: bearish → neutral (8�
 - **노웰(원자재):** 인플레이션은 강세 쪽으로 기울어져 있으나, 전반적인 원자재의 강세가 시장의 주요 동인으로 작용하고 있습니다. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **벵갈(코인):** 암호화폐 시장은 추세가 약화되는 가운데, 강세 섹터로는 디파이와 밈(meme) 관련 자산이 두드러지게 나타나고 있습니다. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 미장과 국장은 비교적 안정적인 추세를 유지하고 있으나, 코인 시장은 추세가 쇠퇴하는 양상을 보이고 있습니다. 종합적으로 볼 때, 원자재의 강세가 시장 전반의 주요한 배경으로 작용하고 있으나, 신용 및 코인 시장의 약세 신호가 관찰되는 신중한 국면입니다. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 미장과 국장은 비교적 안정적인 추세를 유지하고 있으나, 코인 시장은 추세가 쇠퇴하는 양상을 보이고 있습니다. 종합적으로 볼 때, 원자재의 강세가 시장 전반의 주요한 배경으로 작용하고 있으나, 신용 및 코인 시장의 약세 신호가 관찰되는 신중한 국면입니다. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 ---
 

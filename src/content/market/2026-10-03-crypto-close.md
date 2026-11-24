@@ -47,8 +47,8 @@ _관측 각주: 이 시장 누적 최다 레짐 전이: bearish → neutral (15�
 - **노웰(원자재):** 원자재 시장은 약세 우위가 뚜렷하며, 인플레이션 지표는 중립적인 상태를 나타냈습니다. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **벵갈(코인):** 암호화폐 시장은 약세와 강세가 혼재하며 횡보하는 경향을 보였고, 국장과 미장 모두 약세 쪽으로의 비중이 높으며 추세가 약화되고 있습니다. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 채권과 외환 시장에서 뚜렷한 방향성(강한 약세/강한 강세)이 관찰된 반면, 주식 시장 전반은 약세 쪽으로의 무게가 실리며 추세 약화가 나타났습니다. 종합적으로 볼 때, 시장 전반은 신중한 관망 국면을 유지하고 있습니다. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 채권과 외환 시장에서 뚜렷한 방향성(강한 약세/강한 강세)이 관찰된 반면, 주식 시장 전반은 약세 쪽으로의 무게가 실리며 추세 약화가 나타났습니다. 종합적으로 볼 때, 시장 전반은 신중한 관망 국면을 유지하고 있습니다. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **연결된 기록**
 - 직전 주간 트랙레코드: [2026-09-28](/track-record/2026-09-28-weekly-hitrate/)

@@ -48,8 +48,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodity sentiment is moderately positive, though with visible bearish undertones. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Kosho(KR):** Korean equities exhibit a stable, slightly bullish posture, with financials, industrials, semiconductors, and consumer sectors showing strength while materials lag. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The broader macro picture suggests stability across key metrics, though the crypto asset class shows clear signs of weakening momentum. The market structure appears to be consolidating within defined boundaries, with regional equity strength providing a counterpoint to asset class weakness. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The broader macro picture suggests stability across key metrics, though the crypto asset class shows clear signs of weakening momentum. The market structure appears to be consolidating within defined boundaries, with regional equity strength providing a counterpoint to asset class weakness. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

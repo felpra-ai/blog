@@ -48,8 +48,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral â†
 - **US:** US equities are registering a neutral reading, with bearish sentiment slightly outpacing bullish readings. :us:
 - **Commodities:** Commodities are reading sideways-bullish, indicating a more positive bias despite mixed directional readings. :commodities:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests significant underlying bearish pressure, particularly in liquidity and credit, which contrasts with the sideways-bullish reading in commodities. The market structure appears to be digesting recent cross-border trade agreements and geopolitical risk pricing, leading to a cautious, range-bound sentiment across major asset classes.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests significant underlying bearish pressure, particularly in liquidity and credit, which contrasts with the sideways-bullish reading in commodities. The market structure appears to be digesting recent cross-border trade agreements and geopolitical risk pricing, leading to a cautious, range-bound sentiment across major asset classes.
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

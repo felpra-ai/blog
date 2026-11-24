@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **US:** The US market registers a stable, neutral state, with bullish indicators slightly outweighing bearish ones. :us:
 - **Commodities:** Commodities are strongly bullish, showing significant positive momentum across the board. :commodities:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The divergence in sentiment is notable; while fixed income and credit show significant bearish pressure, commodities and inflation point strongly positive. The cross-market picture suggests underlying commodity strength is counterbalancing weakness in traditional credit metrics, leading to a mixed, cautious reading. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The divergence in sentiment is notable; while fixed income and credit show significant bearish pressure, commodities and inflation point strongly positive. The cross-market picture suggests underlying commodity strength is counterbalancing weakness in traditional credit metrics, leading to a mixed, cautious reading. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-20](/track-record/2026-07-20-weekly-hitrate-en/)

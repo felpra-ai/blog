@@ -55,8 +55,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities are neutral overall, with consumer, semiconductor, utilities, and financials showing strength. :korea:
 - **US:** US equities are neutral, maintaining a stable trend. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The divergence between commodities/inflation strength and credit weakness is notable. While macro indicators suggest underlying inflationary pressure and commodity strength, the broader market sentiment, particularly in credit, suggests caution. The cross-market picture is one of divergence, where certain asset classes show strong directional conviction while others remain range-bound. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The divergence between commodities/inflation strength and credit weakness is notable. While macro indicators suggest underlying inflationary pressure and commodity strength, the broader market sentiment, particularly in credit, suggests caution. The cross-market picture is one of divergence, where certain asset classes show strong directional conviction while others remain range-bound. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodity sentiment is balanced, with no discernible directional bias noted from the data. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are reading neutral, with Technology and Communication Services showing strength while Utilities are lagging. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests caution, evidenced by the bearish tilt in liquidity and FX, even as core asset classes like US equities remain range-bound. The divergence in central bank policies, particularly noted in the Australian dollar's movement, adds a layer of complexity to the cross-asset picture. The current environment appears to favor measured, tactical positioning rather than broad directional bets. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests caution, evidenced by the bearish tilt in liquidity and FX, even as core asset classes like US equities remain range-bound. The divergence in central bank policies, particularly noted in the Australian dollar's movement, adds a layer of complexity to the cross-asset picture. The current environment appears to favor measured, tactical positioning rather than broad directional bets. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

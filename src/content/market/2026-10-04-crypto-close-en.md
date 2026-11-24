@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Nowel(Commodities):** Commodities are reading bearish, indicating a clear lean toward downside momentum. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is showing a neutral stance, with the overall market structure being dominated by Bitcoin. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence, with bonds showing significant strength while credit and commodities suggest weakness. Equity markets in both Korea and the US are showing signs of deteriorating momentum. The overall market sentiment appears cautious, balancing underlying asset strength against sector-specific weakness. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence, with bonds showing significant strength while credit and commodities suggest weakness. Equity markets in both Korea and the US are showing signs of deteriorating momentum. The overall market sentiment appears cautious, balancing underlying asset strength against sector-specific weakness. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

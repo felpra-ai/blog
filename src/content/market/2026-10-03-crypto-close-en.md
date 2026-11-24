@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Bengal(Crypto):** Crypto activity suggests a sideways bias with underlying bullish tendencies, while sector dominance remains concentrated in BTC. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="벵갈" />
 - **Lovble(Global):** Overall market volatility is reading neutral, though the broader US market shows signs of deteriorating bearish momentum. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The reading across macro assets presents a divergence: bonds are strongly bullish while credit and commodities are bearish. The US market structure suggests underlying weakness despite crypto showing some bullish resilience. On balance, the tape reflects caution amid conflicting directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The reading across macro assets presents a divergence: bonds are strongly bullish while credit and commodities are bearish. The US market structure suggests underlying weakness despite crypto showing some bullish resilience. On balance, the tape reflects caution amid conflicting directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

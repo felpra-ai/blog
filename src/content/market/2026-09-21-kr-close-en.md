@@ -45,8 +45,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities are positioned at neutral, showing an equal measure of bullish and bearish participation. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Kosho(KR):** Korean equities are neutral, with materials showing strength while financials are lagging. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents notable divergence, with extreme bearish readings noted in volatility and FX, contrasted by neutral readings across bonds, liquidity, and commodities. US equities show a deteriorating trend despite a neutral reading, while crypto suggests an improving trend. The overall market tone suggests caution amid varied directional signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents notable divergence, with extreme bearish readings noted in volatility and FX, contrasted by neutral readings across bonds, liquidity, and commodities. US equities show a deteriorating trend despite a neutral reading, while crypto suggests an improving trend. The overall market tone suggests caution amid varied directional signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

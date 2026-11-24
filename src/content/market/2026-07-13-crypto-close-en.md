@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodity sentiment is mixed, showing a moderate bullish bias with limited bearish conviction. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto assets show a neutral reading, with the broader market structure indicating a dominance pattern centered on Bitcoin. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market exhibits a divergence where FX and Inflation show strong bullish tilts, contrasting with the bearish leanings seen in VIX and Credit. US market sentiment is reading as improving, while crypto remains range-bound. Overall, the data suggests underlying structural support in certain areas despite persistent caution reflected across multiple asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market exhibits a divergence where FX and Inflation show strong bullish tilts, contrasting with the bearish leanings seen in VIX and Credit. US market sentiment is reading as improving, while crypto remains range-bound. Overall, the data suggests underlying structural support in certain areas despite persistent caution reflected across multiple asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

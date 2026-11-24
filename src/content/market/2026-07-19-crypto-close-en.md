@@ -46,8 +46,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Nowel(Commodities):** Commodities exhibit a pronounced bullish leaning, suggesting underlying strength in physical assets. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto shows a neutral reading, with a slight leaning towards bearish sentiment, while the overall market structure indicates Bitcoin dominance. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence: commodities and FX show strong directional leanings, while volatility and credit remain balanced. The underlying narrative, supported by news regarding potential geopolitical escalation and hawkish commentary, suggests elevated risk factors are being priced into the system, creating a complex environment for cross-asset positioning.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence: commodities and FX show strong directional leanings, while volatility and credit remain balanced. The underlying narrative, supported by news regarding potential geopolitical escalation and hawkish commentary, suggests elevated risk factors are being priced into the system, creating a complex environment for cross-asset positioning.
 
 ---
 

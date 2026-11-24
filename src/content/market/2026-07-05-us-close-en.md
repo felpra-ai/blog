@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities are neutral, with bullish readings representing a notable portion of the activity. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are neutral overall, with basic materials, consumer defensive, healthcare, and financial services showing strength. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests caution, as evidenced by bearish readings in volatility and liquidity, despite some underlying strength noted in specific sectors like basic materials and healthcare. The mixed signals across macro indicators point toward a period of consolidation rather than a clear directional move. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests caution, as evidenced by bearish readings in volatility and liquidity, despite some underlying strength noted in specific sectors like basic materials and healthcare. The mixed signals across macro indicators point toward a period of consolidation rather than a clear directional move. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

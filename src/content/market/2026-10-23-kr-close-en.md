@@ -55,8 +55,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities are in a deteriorating trend, with bearish readings dominating the sentiment. :korea:
 - **US:** US equities are in an improving trend, showing a clear bullish bias despite some mixed signals. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: while credit and liquidity appear robustly bullish, the commodity and crypto sectors show clear weakness. The US market shows signs of improvement, contrasting with the deteriorating trend observed in Korean equities. Overall, the tape suggests caution amid mixed cross-asset signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: while credit and liquidity appear robustly bullish, the commodity and crypto sectors show clear weakness. The US market shows signs of improvement, contrasting with the deteriorating trend observed in Korean equities. Overall, the tape suggests caution amid mixed cross-asset signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

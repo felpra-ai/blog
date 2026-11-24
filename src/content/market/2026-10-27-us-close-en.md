@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are registering an extreme bearish reading, pointing towards significant downward pressure. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Maine(US):** US equities are showing a bullish trend, while the Technology sector within the US basket is noted as weak. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: US equities show improving bullish momentum, while commodities and crypto exhibit significant bearish readings. Macro indicators suggest improving inflation readings alongside strong liquidity, though bond positioning remains mixed. The overall picture points to underlying strength in the US market contrasting with weakness in global commodity and digital asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: US equities show improving bullish momentum, while commodities and crypto exhibit significant bearish readings. Macro indicators suggest improving inflation readings alongside strong liquidity, though bond positioning remains mixed. The overall picture points to underlying strength in the US market contrasting with weakness in global commodity and digital asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

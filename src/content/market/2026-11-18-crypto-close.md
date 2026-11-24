@@ -39,8 +39,8 @@ _관측 각주: 이 시장 누적 최다 레짐 전이: sideways_bullish → sid
 - **노웰(원자재):** 원자재와 인플레이션이 나란히 약세로 가라앉아 있습니다. 그런데 영국에서는 에너지 가격을 타고 물가가 일 년 만의 최고치로 올라왔습니다. 땅 위의 실물은 식어 가는데, 기름값이 지핀 불씨는 물가로 번지고 있습니다. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **벵갈(코인):** 코인이 제일 빠르게 꺾였습니다. 열 개 중 여덟 개 넘게 약세 쪽입니다. 국장도 같이 나빠지고 있습니다. 미장만 아직 약세 우위인데도 추세는 나아지는 쪽으로 돌았습니다. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 러블과 벵갈은 코인과 국장의 동반 약세를, 브숏과 노웰은 원자재·인플레이션의 하락을 짚었습니다. 변동성 지표는 위험회피 쪽으로 기울어 있습니다. 미장 하나만 다른 방향으로 움직이는 것이 오래 갈지는 아직 답이 없습니다. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 러블과 벵갈은 코인과 국장의 동반 약세를, 브숏과 노웰은 원자재·인플레이션의 하락을 짚었습니다. 변동성 지표는 위험회피 쪽으로 기울어 있습니다. 미장 하나만 다른 방향으로 움직이는 것이 오래 갈지는 아직 답이 없습니다. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **연결된 기록**
 - 직전 주간 트랙레코드: [2026-11-16](/track-record/2026-11-16-weekly-hitrate/)

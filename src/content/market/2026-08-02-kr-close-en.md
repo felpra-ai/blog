@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities are registering a neutral stance, with bullish indicators slightly outweighing bearish ones. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Kosho(KR):** US equities show a neutral reading with a slight bullish leaning, while Korean equities are also neutral but showing signs of deterioration. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: liquidity is robustly positive, which contrasts with the bearish readings observed in FX and the deteriorating trend noted in crypto. The bond market's bullish posture provides a counter-narrative to the caution seen elsewhere. Overall, the tape suggests a cautious environment where underlying liquidity supports asset classes despite directional headwinds in currency and digital assets. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: liquidity is robustly positive, which contrasts with the bearish readings observed in FX and the deteriorating trend noted in crypto. The bond market's bullish posture provides a counter-narrative to the caution seen elsewhere. Overall, the tape suggests a cautious environment where underlying liquidity supports asset classes despite directional headwinds in currency and digital assets. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

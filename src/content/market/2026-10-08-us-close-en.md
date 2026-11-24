@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities exhibit a sideways-bearish posture, with bearish indicators holding a clear majority. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are in a sideways-bearish pattern, while the Technology and Communication Services sectors show mixed strength, with Utilities providing some support. <img class="emoji-char" src="/characters/us/10_suspicious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests stability across most measured variables, though commodities and crypto show clear downward pressure. The market structure reflects caution, particularly in US equities, despite some sectoral resilience noted in technology. On balance, the tape suggests a period of consolidation within established ranges. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests stability across most measured variables, though commodities and crypto show clear downward pressure. The market structure reflects caution, particularly in US equities, despite some sectoral resilience noted in technology. On balance, the tape suggests a period of consolidation within established ranges. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

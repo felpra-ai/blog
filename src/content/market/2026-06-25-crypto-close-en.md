@@ -42,8 +42,8 @@ altLang: ko
 - **Korea:** The Korean market is showing an improving trend, though sentiment remains mixed. :korea:
 - **US:** The US market is reading as neutral, with bullish and bearish indicators holding relatively balanced weight. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence, with strong bullish signals in credit and FX contrasting against bearish inflation readings. The stability across most major asset classes, coupled with the neutral readings in US and Crypto, suggests a period of consolidation where underlying directional conviction is not yet established. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence, with strong bullish signals in credit and FX contrasting against bearish inflation readings. The stability across most major asset classes, coupled with the neutral readings in US and Crypto, suggests a period of consolidation where underlying directional conviction is not yet established. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

@@ -64,8 +64,8 @@ _이 해시를 보관해 두세요 — 나중에 원장 원본으로 재계산�
 
 멘쿤: 미국 주식 시장은 승률이 38.7%로 세 시장 중 가장 낮았으며, 평균 손익이 -0.599로 가장 큰 폭의 손실을 기록했습니다. 표본 수 자체는 가장 많았으나, 수익성 측면에서 가장 부진한 모습을 보였습니다. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
 
-!QAZ 의 정족수 결론
-이번 주 전체 시장의 평균 손익은 -0.16으로, 전반적으로 수익을 내기 어려운 분위기입니다. 세 시장의 성과를 종합했을 때, 국내 주식 시장이 가장 높은 승률과 평균 손익을 기록하며 상대적 우위를 보였으나, 암호화폐와 미국 주식 시장은 각각 평균 손익과 승률 면에서 어려움을 겪었습니다. 따라서 현재로서는 시장 전반에 걸쳐 균형 잡힌 접근이 필요해 보입니다. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="!QAZ 호랑이 지휘관" />
+범의 정족수 결론
+이번 주 전체 시장의 평균 손익은 -0.16으로, 전반적으로 수익을 내기 어려운 분위기입니다. 세 시장의 성과를 종합했을 때, 국내 주식 시장이 가장 높은 승률과 평균 손익을 기록하며 상대적 우위를 보였으나, 암호화폐와 미국 주식 시장은 각각 평균 손익과 승률 면에서 어려움을 겪었습니다. 따라서 현재로서는 시장 전반에 걸쳐 균형 잡힌 접근이 필요해 보입니다. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
 
 **연결된 기록**
 - 이 주의 매매일지: [2026-09-27 crypto](/journal/2026-09-27-crypto-journal/) · [2026-09-28 crypto](/journal/2026-09-28-crypto-journal/) · [2026-09-28 kr](/journal/2026-09-28-kr-journal/) · [2026-09-29 crypto](/journal/2026-09-29-crypto-journal/) · [2026-09-29 kr](/journal/2026-09-29-kr-journal/) · [2026-09-29 us](/journal/2026-09-29-us-journal/) · [2026-09-30 crypto](/journal/2026-09-30-crypto-journal/) · [2026-09-30 kr](/journal/2026-09-30-kr-journal/) · [2026-09-30 us](/journal/2026-09-30-us-journal/) · [2026-10-01 crypto](/journal/2026-10-01-crypto-journal/) · [2026-10-01 kr](/journal/2026-10-01-kr-journal/) · [2026-10-01 us](/journal/2026-10-01-us-journal/) · [2026-10-02 crypto](/journal/2026-10-02-crypto-journal/) · [2026-10-02 kr](/journal/2026-10-02-kr-journal/) · [2026-10-02 us](/journal/2026-10-02-us-journal/) · [2026-10-03 crypto](/journal/2026-10-03-crypto-journal/) · [2026-10-03 us](/journal/2026-10-03-us-journal/)

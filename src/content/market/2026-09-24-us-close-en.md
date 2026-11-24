@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** US market sentiment is showing a deteriorating trend, with bearish indicators significantly outweighing bullish ones. :us:
 - **Sectors:** Communication Services shows strength, while Industrials and Financial Services exhibit weakness. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests underlying caution, particularly noted by the bearish tilt in inflation readings, despite stable bond and credit regimes. US equities are showing clear signs of weakening momentum relative to other asset classes, while the strength in Communication Services contrasts with weakness in key industrial and financial areas. The overall market suggests a period of divergence and caution. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests underlying caution, particularly noted by the bearish tilt in inflation readings, despite stable bond and credit regimes. US equities are showing clear signs of weakening momentum relative to other asset classes, while the strength in Communication Services contrasts with weakness in key industrial and financial areas. The overall market suggests a period of divergence and caution. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

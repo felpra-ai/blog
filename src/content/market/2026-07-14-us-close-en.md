@@ -43,8 +43,8 @@ altLang: ko
 - **US:** US market indicators suggest a neutral regime, with a slight upward trend improvement noted. :us:
 - **Sectors:** Real Estate, Healthcare, and Financial Services show strength, while Technology exhibits weakness. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market exhibits mixed signals, with notable strength in certain sectors and commodities, contrasted by bearish readings in credit and volatility. The improving US trend provides some support, but the divergence across asset classes suggests caution. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market exhibits mixed signals, with notable strength in certain sectors and commodities, contrasted by bearish readings in credit and volatility. The improving US trend provides some support, but the divergence across asset classes suggests caution. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

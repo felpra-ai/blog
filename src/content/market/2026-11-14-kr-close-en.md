@@ -48,8 +48,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are in a sideways-bullish state, maintaining a stable trend. :us:
 - **Commodities:** Commodities are registering a bearish reading, with the majority sentiment leaning toward the downside. :commodities:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence, with bonds showing strength while commodities and inflation point toward weakness. US equities maintain a stable, slightly positive bias, contrasting with the deteriorating trend observed in crypto. The overall market structure suggests caution, balancing underlying strength in certain asset classes against clear downside pressures elsewhere. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence, with bonds showing strength while commodities and inflation point toward weakness. US equities maintain a stable, slightly positive bias, contrasting with the deteriorating trend observed in crypto. The overall market structure suggests caution, balancing underlying strength in certain asset classes against clear downside pressures elsewhere. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

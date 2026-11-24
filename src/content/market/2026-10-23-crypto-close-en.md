@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Korea:** The Korean market sentiment is bearish, with the majority reading pointing toward weakness. :korea:
 - **US:** The US market shows an improving, sideways-bullish reading. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators present a mixed picture, with strong bullish readings in volatility and credit contrasting sharply with bearish signals in FX and commodities. The US market shows signs of improvement, while crypto and Korean indices are exhibiting deteriorating trends. On balance, the cross-market reading suggests caution amidst divergent sector strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators present a mixed picture, with strong bullish readings in volatility and credit contrasting sharply with bearish signals in FX and commodities. The US market shows signs of improvement, while crypto and Korean indices are exhibiting deteriorating trends. On balance, the cross-market reading suggests caution amidst divergent sector strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

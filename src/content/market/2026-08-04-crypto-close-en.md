@@ -45,8 +45,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Nowel(Commodities):** Commodity sentiment is balanced, showing equal weight between bullish and bearish indicators. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Cryptocurrency remains neutral overall, with the exchange and payments sectors showing relative strength, while oracle infrastructure lags. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence: while bonds show underlying strength and commodities are balanced, the prevailing bearishness in volatility and liquidity suggests underlying risk aversion. The extreme bearishness observed in FX, juxtaposed with the neutral readings across major equity markets (US, Crypto), points toward a period of consolidation amid diverging directional pressures.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence: while bonds show underlying strength and commodities are balanced, the prevailing bearishness in volatility and liquidity suggests underlying risk aversion. The extreme bearishness observed in FX, juxtaposed with the neutral readings across major equity markets (US, Crypto), points toward a period of consolidation amid diverging directional pressures.
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

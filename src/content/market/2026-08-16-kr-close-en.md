@@ -50,10 +50,10 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Inflation:** Inflation sentiment is neutral, with a slight bullish inclination observed, and the trend is stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 - **Crypto:** Cryptocurrency sentiment is improving, showing a moderate bullish bias against a smaller bearish component. :crypto:
 - **Korea:** Korean equities show a predominantly bullish reading, with a stable trend observed. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
-- **US:** US equities sentiment is improving, reflecting a moderate bullish bias against a smaller bearish component. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+- **US:** US equities sentiment is improving, reflecting a moderate bullish bias against a smaller bearish component. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: credit and commodities show clear bullish conviction, while volatility remains skewed bearish. The improving sentiment in both US and Crypto, juxtaposed against the stable, mixed readings in FX and Liquidity, suggests underlying directional uncertainty despite sector strength noted in Korean industrials and materials. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: credit and commodities show clear bullish conviction, while volatility remains skewed bearish. The improving sentiment in both US and Crypto, juxtaposed against the stable, mixed readings in FX and Liquidity, suggests underlying directional uncertainty despite sector strength noted in Korean industrials and materials. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

@@ -51,8 +51,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities are reading as neutral overall, with the trend remaining stable. :korea:
 - **US:** US equities are displaying a neutral reading, with the trend remaining stable. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests underlying caution, evidenced by the bearish readings in FX and Liquidity, despite commodities showing some upward momentum. The divergence between the stable, neutral readings in major equity indices (US, Korea) and the improving trend in Crypto suggests varied underlying risk appetite across asset classes. The overall tape appears to be navigating a period of mixed directional conviction. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests underlying caution, evidenced by the bearish readings in FX and Liquidity, despite commodities showing some upward momentum. The divergence between the stable, neutral readings in major equity indices (US, Korea) and the improving trend in Crypto suggests varied underlying risk appetite across asset classes. The overall tape appears to be navigating a period of mixed directional conviction. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

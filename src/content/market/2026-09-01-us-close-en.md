@@ -53,8 +53,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Korea:** Korean markets show a deteriorating trend, with a neutral sentiment reading. :korea:
 - **US:** US equities are reading neutral, maintaining a stable trend. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators suggest underlying strength in credit and liquidity, while volatility remains subdued. The divergence between the stable, bullish macro backdrop and the deteriorating trend noted in Korean markets suggests sector-specific caution is warranted. Overall, the market exhibits a mixed picture, requiring close attention to cross-asset divergences. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators suggest underlying strength in credit and liquidity, while volatility remains subdued. The divergence between the stable, bullish macro backdrop and the deteriorating trend noted in Korean markets suggests sector-specific caution is warranted. Overall, the market exhibits a mixed picture, requiring close attention to cross-asset divergences. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

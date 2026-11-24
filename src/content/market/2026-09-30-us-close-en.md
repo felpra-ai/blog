@@ -56,8 +56,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** The US market reads bearish, and the trend is deteriorating. :us:
 - **Sectors:** Technology and Industrials show strength, while Consumer Cyclical, Financial Services, and Real Estate show weakness. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents diverging signals, with credit, commodities, and inflation leaning bearish despite stable trends. The deterioration noted in both US and Korean markets, coupled with sector weakness in cyclical and financial areas, suggests caution. The overall tape appears to be navigating conflicting signals between stable macro indicators and deteriorating regional market trends. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents diverging signals, with credit, commodities, and inflation leaning bearish despite stable trends. The deterioration noted in both US and Korean markets, coupled with sector weakness in cyclical and financial areas, suggests caution. The overall tape appears to be navigating conflicting signals between stable macro indicators and deteriorating regional market trends. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

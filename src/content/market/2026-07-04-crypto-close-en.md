@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities are reading as neutral, with a slight bullish tilt noted. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto remains neutral overall, with Bitcoin showing dominance across the measured baskets. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests caution, evidenced by the bearish readings in volatility and liquidity, even as bonds maintain a sideways-bullish bias. The relative stability across major asset classes, contrasted with the deteriorating trend noted in the Korean market, suggests underlying divergence in regional health. Overall, the environment points toward a period of consolidation rather than directional conviction. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests caution, evidenced by the bearish readings in volatility and liquidity, even as bonds maintain a sideways-bullish bias. The relative stability across major asset classes, contrasted with the deteriorating trend noted in the Korean market, suggests underlying divergence in regional health. Overall, the environment points toward a period of consolidation rather than directional conviction. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

@@ -45,8 +45,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Crypto:** The crypto space is showing a deteriorating trend, with bearish sentiment dominating the observed metrics. :crypto:
 - **Commodities:** Commodities are trending bearishly, as evidenced by the higher proportion of bearish readings. :commodities:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence, with strong underlying liquidity and credit strength contrasting against softening crypto and commodity trends. The US market's improving trend offers a point of contrast against the deteriorating signals seen in crypto and Korea. Overall, the market structure suggests caution amidst divergent sector strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence, with strong underlying liquidity and credit strength contrasting against softening crypto and commodity trends. The US market's improving trend offers a point of contrast against the deteriorating signals seen in crypto and Korea. Overall, the market structure suggests caution amidst divergent sector strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities sit in an extreme bearish state, like a cold field before planting, and that chill tends to reach prices well before it reaches earnings. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Kosho(KR):** US readings are the weakest of the three markets, with only a sliver bullish, while the stronger baskets are bio-health, utilities and materials and the weaker ones are IT-media, financials and industrials. <img class="emoji-char" src="/characters/v2/kr/face/10_suspicious.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Lovble and Bsho point to rising volatility and soft credit, Sham and Nowel to pressure in FX and commodities, and Kosho to a weak US tape with defensive sectors holding. What stays open is how full liquidity sits beside so many soft asset classes. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Lovble and Bsho point to rising volatility and soft credit, Sham and Nowel to pressure in FX and commodities, and Kosho to a weak US tape with defensive sectors holding. What stays open is how full liquidity sits beside so many soft asset classes. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

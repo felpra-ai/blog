@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodity sentiment is currently balanced, showing no clear directional bias from the data. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities show signs of deterioration, while the crypto asset class maintains a clear upward trajectory. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: bonds and crypto show distinct positive momentum, while US equities and FX point toward caution. Liquidity appears to be finding a supportive, yet uncommitted, footing. The overall picture suggests underlying asset class rotation is occurring amidst varied macro signals. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: bonds and crypto show distinct positive momentum, while US equities and FX point toward caution. Liquidity appears to be finding a supportive, yet uncommitted, footing. The overall picture suggests underlying asset class rotation is occurring amidst varied macro signals. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

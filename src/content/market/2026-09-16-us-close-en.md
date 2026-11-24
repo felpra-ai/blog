@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** US equities are exhibiting a deteriorating trend, with bearish sentiment outweighing bullish sentiment. :us:
 - **Sectors:** Sector analysis indicates strength concentrated in Communication Services, while Real Estate, Consumer Defensive, and INDUSTRIALS show weakness. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market data presents a divergence between elevated short-term bullish readings across macro indicators and underlying structural weakness noted in credit, commodities, and US equities. The sector rotation suggests specific areas of relative strength within the broader market structure. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market data presents a divergence between elevated short-term bullish readings across macro indicators and underlying structural weakness noted in credit, commodities, and US equities. The sector rotation suggests specific areas of relative strength within the broader market structure. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are currently in a neutral state, with bearish readings holding more weight than bullish ones. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities exhibit a bullish bias overall, with Financial Services, Communication Services, Communication Services, and Consumer Defensive showing relative strength compared to Technology and Energy. <img class="emoji-char" src="/characters/v2/us/face/07_confident.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators suggest underlying support across liquidity and credit, although inflation readings lean bearish. The divergence between the US equity strength and the softening crypto sentiment suggests caution is warranted, pointing toward a range-bound market structure. <img class="emoji-char" src="/characters/v2/orchestrator/face/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators suggest underlying support across liquidity and credit, although inflation readings lean bearish. The divergence between the US equity strength and the softening crypto sentiment suggests caution is warranted, pointing toward a range-bound market structure. <img class="emoji-char" src="/characters/v2/orchestrator/face/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

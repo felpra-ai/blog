@@ -46,8 +46,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Nowel(Commodities):** Commodity metrics point toward an extreme bullish regime, contrasting with inflation readings that remain neutral. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto shows a deteriorating trend, with a clear dominance observed in Bitcoin relative to other baskets. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market exhibits divergence: commodities are showing strong upward momentum, while credit metrics suggest caution. The broader market sentiment is characterized by stability across most macro factors, though crypto's trend is weakening. The overall picture suggests a cautious environment where asset class performance is highly differentiated. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market exhibits divergence: commodities are showing strong upward momentum, while credit metrics suggest caution. The broader market sentiment is characterized by stability across most macro factors, though crypto's trend is weakening. The overall picture suggests a cautious environment where asset class performance is highly differentiated. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 ---
 

@@ -53,8 +53,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities are reading as neutral, with consumer and materials sectors showing relative strength. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 - **US:** US equities are showing a neutral reading, with a slight bearish tilt. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market data presents a divergence: commodities and crypto show signs of underlying strength, while liquidity and credit metrics point toward significant tightening. The macro picture suggests caution is warranted despite some sector-specific strength observed in Asian equities. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market data presents a divergence: commodities and crypto show signs of underlying strength, while liquidity and credit metrics point toward significant tightening. The macro picture suggests caution is warranted despite some sector-specific strength observed in Asian equities. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

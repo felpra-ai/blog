@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodity sentiment is neutral, with a notable majority leaning towards bullish readings. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Maine(US):** US equities sentiment is neutral, with Communication Services showing strength while INDUSTRIALS and Financial Services are weaker. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators suggest underlying caution, particularly in liquidity and credit, despite commodity and bond readings showing some positive leaning. The market structure reflects a degree of indecision across major asset classes, with sector strength in communications contrasting with weakness in industrials and financials. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators suggest underlying caution, particularly in liquidity and credit, despite commodity and bond readings showing some positive leaning. The market structure reflects a degree of indecision across major asset classes, with sector strength in communications contrasting with weakness in industrials and financials. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

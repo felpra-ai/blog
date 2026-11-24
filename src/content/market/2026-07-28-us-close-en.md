@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities are in an extreme bullish state, while inflation indicators suggest a sideways bias leaning bearishly. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities are reading as neutral overall, with energy being the standout strong sector, while Korean markets show an improving trend. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The divergence between commodity strength and credit weakness is notable, suggesting underlying asset strength amid elevated systemic risk concerns. On balance, the market presents a mixed picture, characterized by sector-specific strength against broader credit caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The divergence between commodity strength and credit weakness is notable, suggesting underlying asset strength amid elevated systemic risk concerns. On balance, the market presents a mixed picture, characterized by sector-specific strength against broader credit caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

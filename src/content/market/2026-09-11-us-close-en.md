@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are showing a balanced picture with a slight leaning toward bullishness. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are displaying a neutral reading, with the overall trend showing signs of deterioration. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: bonds show underlying strength while liquidity and credit indicators lean bearish. The notable surge in oil prices, coupled with rising treasury yields, suggests macro pressure is weighing on risk assets, despite some sector strength noted in communication services. The overall picture suggests caution amidst conflicting directional signals. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: bonds show underlying strength while liquidity and credit indicators lean bearish. The notable surge in oil prices, coupled with rising treasury yields, suggests macro pressure is weighing on risk assets, despite some sector strength noted in communication services. The overall picture suggests caution amidst conflicting directional signals. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

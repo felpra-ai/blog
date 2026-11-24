@@ -50,7 +50,7 @@ altLang: ko
 
 **Maine:** US equities demonstrated the highest win rate at 55.9%, and notably, this was the only market to show a positive average PnL of 1.067. <img class="emoji-char" src="/characters/us/09_excited.png" alt="멘쿤" />
 
-## !QAZ quorum verdict
+## Beom's quorum verdict
 
 The overall performance summary indicates a challenging period, reflected in the negative overall average PnL and a profit factor below parity. While the win rate across the board is mixed, the disparity in performance between the three sectors is clear.
 
@@ -58,7 +58,7 @@ The data suggests that the US equities segment outperformed the others significa
 
 Overall, the aggregate picture points to a 'down' sentiment for the week. The variance in performance, particularly the divergence between Maine's positive average return and the negative averages seen elsewhere, suggests that market conditions were not uniformly favorable across asset classes.
 
-*This research represents a review of historical paper-trading data and should not be construed as investment advice.* <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="!QAZ 호랑이 지휘관" />
+*This research represents a review of historical paper-trading data and should not be construed as investment advice.* <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
 
 ---
 

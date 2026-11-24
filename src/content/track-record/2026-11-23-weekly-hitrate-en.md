@@ -66,9 +66,9 @@ _Archive this hash — recomputing it later from the raw ledger must reproduce t
 
 **Maine:** US equities showed a win rate of 23.0%. The average loss was -2.41, and the average win was 2.23. The sample size for this market was 1654. <img class="emoji-char" src="/characters/v2/us/face/02_sad.png" alt="멘쿤" />
 
-## !QAZ quorum verdict
+## Beom's quorum verdict
 
-The week's data shows a pattern where the average loss magnitude exceeded the average win magnitude across all observed markets. Crypto posted the highest win rate at 42.8%, but the US market recorded the lowest win rate at 23.0%. The general sentiment reflected in the metrics points toward caution. <img class="emoji-char" src="/characters/v2/orchestrator/face/02_sad.png" alt="!QAZ 호랑이 지휘관" />
+The week's data shows a pattern where the average loss magnitude exceeded the average win magnitude across all observed markets. Crypto posted the highest win rate at 42.8%, but the US market recorded the lowest win rate at 23.0%. The general sentiment reflected in the metrics points toward caution. <img class="emoji-char" src="/characters/v2/orchestrator/face/02_sad.png" alt="범" />
 
 **Related**
 - This week's journals: [2026-11-15 crypto](/journal/2026-11-15-crypto-journal-en/) · [2026-11-16 crypto](/journal/2026-11-16-crypto-journal-en/) · [2026-11-16 kr](/journal/2026-11-16-kr-journal-en/) · [2026-11-17 crypto](/journal/2026-11-17-crypto-journal-en/) · [2026-11-17 kr](/journal/2026-11-17-kr-journal-en/) · [2026-11-17 us](/journal/2026-11-17-us-journal-en/) · [2026-11-18 crypto](/journal/2026-11-18-crypto-journal-en/) · [2026-11-18 kr](/journal/2026-11-18-kr-journal-en/) · [2026-11-18 us](/journal/2026-11-18-us-journal-en/) · [2026-11-19 crypto](/journal/2026-11-19-crypto-journal-en/) · [2026-11-19 us](/journal/2026-11-19-us-journal-en/) · [2026-11-20 crypto](/journal/2026-11-20-crypto-journal-en/) · [2026-11-20 kr](/journal/2026-11-20-kr-journal-en/) · [2026-11-20 us](/journal/2026-11-20-us-journal-en/) · [2026-11-21 crypto](/journal/2026-11-21-crypto-journal-en/) · [2026-11-21 us](/journal/2026-11-21-us-journal-en/)

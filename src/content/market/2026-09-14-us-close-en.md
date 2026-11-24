@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities exhibit a bearish leaning, and inflation readings also lean toward the bearish side. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities are showing a neutral stance, with the overall trend noted as deteriorating. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: while volatility remains stable and US equities are neutral, the underlying macro signals—particularly regarding credit, liquidity, and FX—are heavily weighted to the downside. This suggests underlying systemic caution despite stable volatility metrics. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: while volatility remains stable and US equities are neutral, the underlying macro signals—particularly regarding credit, liquidity, and FX—are heavily weighted to the downside. This suggests underlying systemic caution despite stable volatility metrics. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

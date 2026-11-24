@@ -46,8 +46,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Nowel(Commodities):** Commodities exhibit a neutral reading, with bullish indicators showing a notable presence relative to bearish ones. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** The crypto space reads as neutral overall, with the meme sector showing strength and storage showing weakness, while Bitcoin maintains dominance. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** US market indicators suggest an improving trend, while crypto shows a deteriorating trend. Macro factors present a mixed picture, with FX leaning bearish but other areas remaining neutral. The overall market tone suggests caution amidst sector divergence. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** US market indicators suggest an improving trend, while crypto shows a deteriorating trend. Macro factors present a mixed picture, with FX leaning bearish but other areas remaining neutral. The overall market tone suggests caution amidst sector divergence. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 ---
 

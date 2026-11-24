@@ -21,15 +21,15 @@ images:
 - src: /toon/2026-11-17-decoupling-en/01.webp
   alt: 1/Cover — No Longer Opposites?
 - src: /toon/2026-11-17-decoupling-en/02.webp
-  alt: '2/Talk — !QAZ: You two stopped fighting? / Maine: Not opposite anymore. /
-    !QAZ: Crypto, what changed? / Bengal: Bearish to range-bound.'
+  alt: '2/Talk — Beom: You two stopped fighting? / Maine: Not opposite anymore. /
+    Beom: Crypto, what changed? / Bengal: Bearish to range-bound.'
 - src: /toon/2026-11-17-decoupling-en/03.webp
   alt: '3/Talk — Bengal: Range-bound, same as you. / Maine: My bull share slid to
-    44%. / !QAZ: Same weather, then? / Maine: Same label. Different sky.'
+    44%. / Beom: Same weather, then? / Maine: Same label. Different sky.'
 - src: /toon/2026-11-17-decoupling-en/04.webp
   alt: 4/Key point — The gap shrank to 92 pts.
 - src: /toon/2026-11-17-decoupling-en/05.webp
-  alt: '5/Last word — !QAZ: So, friends again? / Maine: Neighbors. Let''s not hug.'
+  alt: '5/Last word — Beom: So, friends again? / Maine: Neighbors. Let''s not hug.'
 ---
 
 | Market | Day | Regime | Bull | Bear |

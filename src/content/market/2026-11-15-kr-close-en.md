@@ -48,8 +48,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Kosho(KR):** Korean equities display a mixed picture, with the IT/Media and Bio/Health sectors showing relative strength while Semiconductors, Industrials, and Financials appear weaker. <img class="emoji-char" src="/characters/v2/kr/face/10_suspicious.png" alt="코숏" />
 - **Lovble(Global):** Overall market volatility remains neutral, while the broader US equity market shows a slight bullish tilt. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="러블" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests underlying strength in fixed income and US equities, contrasting with bearish momentum observed in commodities and crypto. The mixed signals across global equities, particularly in Korea, point toward caution despite some sector-specific resilience. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests underlying strength in fixed income and US equities, contrasting with bearish momentum observed in commodities and crypto. The mixed signals across global equities, particularly in Korea, point toward caution despite some sector-specific resilience. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

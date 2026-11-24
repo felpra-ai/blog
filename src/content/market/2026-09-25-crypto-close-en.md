@@ -46,8 +46,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities are registering a neutral state, with bearish indicators showing a slightly higher weight than bullish ones. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is reading as neutral overall, with the dominance structure showing a clear preference for Bitcoin. <img class="emoji-char" src="/characters/crypto/12_relieved.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence: bonds show clear strength while inflation and FX signal caution. The US market sentiment is deteriorating, contrasting with the improving trend noted in the crypto space. Overall, the market appears to be absorbing conflicting signals, suggesting a period of consolidation or range-bound movement pending key economic data releases.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence: bonds show clear strength while inflation and FX signal caution. The US market sentiment is deteriorating, contrasting with the improving trend noted in the crypto space. Overall, the market appears to be absorbing conflicting signals, suggesting a period of consolidation or range-bound movement pending key economic data releases.
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

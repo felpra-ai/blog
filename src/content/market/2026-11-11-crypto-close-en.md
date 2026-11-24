@@ -45,8 +45,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are showing a neutral regime, though the bearish indicators are more pronounced than the bullish ones. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is in a sideways-bearish state, with bearish readings significantly dominating the bullish ones, while the US market shows a sideways-bullish bias. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents mixed signals; while US equities show a slight bullish tilt, inflation readings are decidedly bearish, and crypto is deteriorating. The overall market structure suggests caution, with underlying sector strength noted in the crypto space, but macro headwinds persist. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents mixed signals; while US equities show a slight bullish tilt, inflation readings are decidedly bearish, and crypto is deteriorating. The overall market structure suggests caution, with underlying sector strength noted in the crypto space, but macro headwinds persist. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are showing a clear bullish bias, indicating positive momentum in that asset class. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are reading as neutral overall, with strength noted in ENERGY, Technology, and Real Estate, while Consumer Cyclical and Basic Materials show weakness. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure reflects a divergence: commodities are clearly bullish, while equity performance is mixed, particularly with notable weakness in consumer-facing sectors. The overall sentiment across major asset classes suggests a cautious, range-bound environment despite geopolitical headlines impacting risk assets. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure reflects a divergence: commodities are clearly bullish, while equity performance is mixed, particularly with notable weakness in consumer-facing sectors. The overall sentiment across major asset classes suggests a cautious, range-bound environment despite geopolitical headlines impacting risk assets. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

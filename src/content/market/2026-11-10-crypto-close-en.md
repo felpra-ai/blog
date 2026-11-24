@@ -46,8 +46,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are reading as extremely bearish, despite a moderate bullish component. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is showing a deteriorating sideways-bearish trend, while the US market maintains a stable sideways-bullish reading. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents divergence, with strong support noted in credit and bonds, contrasting sharply with bearish readings in commodities and crypto. The US equity market shows resilience, while the overall cross-asset sentiment suggests caution despite some underlying strength in fixed income. On balance, the tape appears to be navigating mixed signals between macro support and asset-specific weakness. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents divergence, with strong support noted in credit and bonds, contrasting sharply with bearish readings in commodities and crypto. The US equity market shows resilience, while the overall cross-asset sentiment suggests caution despite some underlying strength in fixed income. On balance, the tape appears to be navigating mixed signals between macro support and asset-specific weakness. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

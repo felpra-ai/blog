@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities are registering an extreme bearish reading, while inflation remains in a neutral state. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Kosho(KR):** Korean equities show a bearish bias, with strength concentrated in Bio/Health, Utilities, Consumer, and Financials, while Chemicals, Materials, and Industrials lag. <img class="emoji-char" src="/characters/kr/10_suspicious.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The US market structure suggests an improving trend, which is broadly supportive of the overall environment, though the crypto space is showing a bearish drift. The underlying asset class readings present a mixed picture, with strong credit and bonds contrasting sharply with bearish commodity readings.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The US market structure suggests an improving trend, which is broadly supportive of the overall environment, though the crypto space is showing a bearish drift. The underlying asset class readings present a mixed picture, with strong credit and bonds contrasting sharply with bearish commodity readings.
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

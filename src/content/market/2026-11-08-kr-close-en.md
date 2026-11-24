@@ -53,8 +53,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities are in a deteriorating trend, showing a clear bearish bias. :korea:
 - **US:** US equities are in a stable, sideways-bullish regime, with bullish indicators holding a slight edge. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents divergence: while US equities maintain a stable, slightly positive bias, underlying inflation expectations are strongly bearish, and commodity sentiment is decidedly weak. The mixed signals across asset classes suggest caution is warranted, despite some localized strength in US indices. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents divergence: while US equities maintain a stable, slightly positive bias, underlying inflation expectations are strongly bearish, and commodity sentiment is decidedly weak. The mixed signals across asset classes suggest caution is warranted, despite some localized strength in US indices. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

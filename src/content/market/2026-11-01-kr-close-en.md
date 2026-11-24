@@ -53,8 +53,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities are in a sideways-bearish state, marked by a pronounced deterioration in the trend. :korea:
 - **US:** US equities are in a sideways-bullish state, indicating an improving trend profile. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: US equities show signs of improvement, while commodities and inflation suggest underlying weakness. The high volatility reading, coupled with the bearish tilt in crypto and Korean sectors, suggests caution is warranted despite the improving US backdrop. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: US equities show signs of improvement, while commodities and inflation suggest underlying weakness. The high volatility reading, coupled with the bearish tilt in crypto and Korean sectors, suggests caution is warranted despite the improving US backdrop. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

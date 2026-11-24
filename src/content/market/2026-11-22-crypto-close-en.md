@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities feel like a field after a cold snap, with most of the reading leaning soft. Inflation carries the same lean, half of it bearish, as the weakness in raw goods works its way into prices. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is the one sliding fastest, 82.1% bearish and getting worse. The US is right there with it at 81.4%, and neither shows a bounce yet. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Bsho and Sham both point to liquidity standing fully bullish. Bsho sees credit leaning bearish, Lovble and Nowel see it in commodities, and Bengal sees it in crypto and the US. What stays open is which side gives way first, the liquidity or the pressure building against it. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Bsho and Sham both point to liquidity standing fully bullish. Bsho sees credit leaning bearish, Lovble and Nowel see it in commodities, and Bengal sees it in crypto and the US. What stays open is which side gives way first, the liquidity or the pressure building against it. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

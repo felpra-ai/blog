@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are showing a sideways bias, with bullish indicators holding a slight edge. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are neutral overall, with the ENERGY sector showing strength while Real Estate exhibits weakness. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a mixed picture: while commodities and crypto show signs of stabilization or improvement, the underlying liquidity environment reads as significantly bearish. The relative strength observed in ENERGY contrasts with the weakness noted in Real Estate, suggesting sector rotation dynamics are at play. On balance, the tape appears cautious, digesting the prevailing bearish liquidity backdrop. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a mixed picture: while commodities and crypto show signs of stabilization or improvement, the underlying liquidity environment reads as significantly bearish. The relative strength observed in ENERGY contrasts with the weakness noted in Real Estate, suggesting sector rotation dynamics are at play. On balance, the tape appears cautious, digesting the prevailing bearish liquidity backdrop. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

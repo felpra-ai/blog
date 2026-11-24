@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities lie in a deep bearish slump, the kind of winter field where input prices sit cold and little of the real economy's warmth reaches the market. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Kosho(KR):** The US market leans clearly weak, with 81.4% of readings bearish. Korea leans the same way, and the strength gathers only in bio-health, consumer and utilities while materials, IT-media and financials trail. <img class="emoji-char" src="/characters/v2/kr/face/10_suspicious.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Lovble and Sham pointed to rising volatility and a bearish FX tilt. Bsho and Nowel flagged weak credit and commodities, and Kosho noted the soft US tape. What remains open is why full liquidity sits alongside assets this heavy. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Lovble and Sham pointed to rising volatility and a bearish FX tilt. Bsho and Nowel flagged weak credit and commodities, and Kosho noted the soft US tape. What remains open is why full liquidity sits alongside assets this heavy. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

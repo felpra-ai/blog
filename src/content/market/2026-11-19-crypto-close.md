@@ -47,8 +47,8 @@ _관측 각주: 이 시장 누적 최다 레짐 전이: sideways_bullish → sid
 - **노웰(원자재):** 원자재는 열 종목 중 일곱이 약세 쪽에 서 있습니다. 인플레이션도 약세 쪽으로 기울어, 실물 쪽 온기가 금융 쪽으로 번져 올 기미는 아직 보이지 않습니다. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **벵갈(코인):** 코인이 가장 크게 밀렸습니다. 약세가 86.9%로 거의 전부이고 추세도 더 나빠지는 중입니다. 국장도 약세가 절반을 넘습니다. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 러블과 벵갈은 코인과 국장의 약세와 악화 추세를 짚었고, 브숏과 노웰은 원자재와 인플레이션이 약세 쪽에 서 있다고 봤습니다. 샤암은 외환 약세와 유동성 강세가 엇갈린다는 점을 꺼냈습니다. 변동성 지표는 위험회피 쪽인 강세 비중이 높습니다. 이 긴장이 주요 시장의 약세로 그대로 이어질지는 아직 답이 없는 물음으로 남아 있습니다. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 러블과 벵갈은 코인과 국장의 약세와 악화 추세를 짚었고, 브숏과 노웰은 원자재와 인플레이션이 약세 쪽에 서 있다고 봤습니다. 샤암은 외환 약세와 유동성 강세가 엇갈린다는 점을 꺼냈습니다. 변동성 지표는 위험회피 쪽인 강세 비중이 높습니다. 이 긴장이 주요 시장의 약세로 그대로 이어질지는 아직 답이 없는 물음으로 남아 있습니다. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **연결된 기록**
 - 직전 주간 트랙레코드: [2026-11-16](/track-record/2026-11-16-weekly-hitrate/)

@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities are reading as neutral, with a slight leaning towards bullishness. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Kosho(KR):** Korean equities are showing a neutral reading, though the underlying trend is noted as deteriorating. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators present a mixed picture; while bonds show some underlying support, liquidity and volatility suggest caution. The relative stability across major asset classes, juxtaposed with the deteriorating trend noted in Korean equities, points toward a period of consolidation and selective strength. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators present a mixed picture; while bonds show some underlying support, liquidity and volatility suggest caution. The relative stability across major asset classes, juxtaposed with the deteriorating trend noted in Korean equities, points toward a period of consolidation and selective strength. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 ---
 

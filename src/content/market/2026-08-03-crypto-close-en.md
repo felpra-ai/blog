@@ -45,8 +45,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **US:** The US market remains balanced, showing a slight leaning toward bullish readings without a strong directional conviction. :us:
 - **Sector:** Sector strength is concentrated in exchange and payments, while storage, gaming\_nft, and oracle\_infra show relative weakness, with Bitcoin maintaining dominance. :sector:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents diverging signals, notably strong bullishness in bonds contrasting with bearishness in FX and volatility. Liquidity appears highly supportive, which may underpin the relative stability observed in the US market, even as crypto trends deteriorate. The overall takeaway suggests a cautious environment where underlying support (liquidity, bonds) contrasts with directional weakness (FX, crypto). <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents diverging signals, notably strong bullishness in bonds contrasting with bearishness in FX and volatility. Liquidity appears highly supportive, which may underpin the relative stability observed in the US market, even as crypto trends deteriorate. The overall takeaway suggests a cautious environment where underlying support (liquidity, bonds) contrasts with directional weakness (FX, crypto). <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

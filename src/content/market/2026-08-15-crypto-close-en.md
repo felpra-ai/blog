@@ -39,8 +39,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Nowel(Commodities):** Commodities exhibit a sideways bullish posture, suggesting underlying upward pressure without clear directional commitment. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto shows a neutral reading with a deteriorating trend, while the sector breakdown indicates exchange strength and payments/layer2 weakness, with Bitcoin maintaining dominance. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence: credit and commodities lean positive, contrasting with the deteriorating trend observed in crypto. US market sentiment is noted as improving, while volatility remains highly bearish. The overall tape suggests underlying structural support in certain areas despite mixed directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence: credit and commodities lean positive, contrasting with the deteriorating trend observed in crypto. US market sentiment is noted as improving, while volatility remains highly bearish. The overall tape suggests underlying structural support in certain areas despite mixed directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

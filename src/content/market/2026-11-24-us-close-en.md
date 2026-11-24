@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are thawing slowly, like ground in early spring, with the trend in energy and metals edging up rather than breaking out. <img class="emoji-char" src="/characters/v2/commodity/face/06_neutral.png" alt="노웰" />
 - **Maine(US):** Stepping back from the day, the US market is losing ground in its trend, and with technology, healthcare and consumer cyclicals all sitting among the weak baskets, the weakness looks broad rather than confined to one corner. <img class="emoji-char" src="/characters/v2/us/face/08_defensive.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Crypto, Korea and the US all lean bearish, and Bsho and Sham both set that against a liquidity reading that stays fully bullish. Nowel sees commodities warming slowly, and Maine points to the breadth of the US weakness. What remains open is whether that liquidity can hold up against selling this widespread. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Crypto, Korea and the US all lean bearish, and Bsho and Sham both set that against a liquidity reading that stays fully bullish. Nowel sees commodities warming slowly, and Maine points to the breadth of the US weakness. What remains open is whether that liquidity can hold up against selling this widespread. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-23](/track-record/2026-11-23-weekly-hitrate-en/)

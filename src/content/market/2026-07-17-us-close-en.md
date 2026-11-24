@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities are registering extreme bullish readings, maintaining a stable trend. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are showing a neutral stance, with ENERGY, Real Estate, Financial Services, and HEALTHCARE sectors showing strength. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market exhibits a divergence where commodities are strongly bullish while volatility and FX are reading extreme bearishness. US equities are maintaining a neutral posture despite sector strength. On balance, the tape suggests caution amid mixed directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market exhibits a divergence where commodities are strongly bullish while volatility and FX are reading extreme bearishness. US equities are maintaining a neutral posture despite sector strength. On balance, the tape suggests caution amid mixed directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

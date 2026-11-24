@@ -45,8 +45,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** The US market is reading as sideways-bullish, maintaining a stable trend with a slight bullish tilt. :us:
 - **Sectors:** Sector analysis shows strength concentrated in one area, while other, DeFi, and exchange-related segments are reading as weak. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests underlying stability across most asset classes, though the crypto and Korean markets signal notable weakness. The US market provides a mild bullish backdrop, while commodity price movements suggest potential easing in energy tensions. Overall, the market structure appears to be navigating a period of cautious consolidation. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests underlying stability across most asset classes, though the crypto and Korean markets signal notable weakness. The US market provides a mild bullish backdrop, while commodity price movements suggest potential easing in energy tensions. Overall, the market structure appears to be navigating a period of cautious consolidation. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

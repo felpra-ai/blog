@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodity indicators reflect an extreme bearish reading, maintaining a stable trend. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Kosho(KR):** Korean equities show a bearish reading with a deteriorating trend, while consumer sectors are noted as strong. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The US market exhibits a bullish reading with an improving trend, contrasting with the bearish and deteriorating trend noted in Korean equities. While liquidity and credit show positive leanings, the extreme bearishness in commodities and the bearish tilt in crypto suggest caution across asset classes. The overall picture points to divergent sector strength against broader macro headwinds. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The US market exhibits a bullish reading with an improving trend, contrasting with the bearish and deteriorating trend noted in Korean equities. While liquidity and credit show positive leanings, the extreme bearishness in commodities and the bearish tilt in crypto suggest caution across asset classes. The overall picture points to divergent sector strength against broader macro headwinds. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

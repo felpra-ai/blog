@@ -38,8 +38,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** The US market exhibits a mixed picture, with a noticeable improvement in the underlying trend structure. :us:
 - **Strong:** The strong basket shows no directional bias, while the weak basket is characterized by meme, defi, and layer1 components, with Bitcoin maintaining dominance. :strong:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure reflects a divergence: while volatility and FX suggest underlying strength, credit and inflation point to significant headwinds. The cross-market view is one of cautious consolidation, digesting mixed signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure reflects a divergence: while volatility and FX suggest underlying strength, credit and inflation point to significant headwinds. The cross-market view is one of cautious consolidation, digesting mixed signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

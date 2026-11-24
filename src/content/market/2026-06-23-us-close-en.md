@@ -42,8 +42,8 @@ altLang: ko
 - **US:** The US market is reading as neutral, maintaining a stable trend. :us:
 - **Sectors:** Utilities, Healthcare, and Basic Materials are showing strength, while Communication Services, Energy, and Communication Services are showing weakness. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market read suggests underlying strength in credit and foreign exchange, contrasting with neutral readings across major equity and crypto indices. The divergence between sector strength (Utilities/Healthcare) and weakness (Energy/Communication Services) suggests selective rotation within the broader market structure. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market read suggests underlying strength in credit and foreign exchange, contrasting with neutral readings across major equity and crypto indices. The divergence between sector strength (Utilities/Healthcare) and weakness (Energy/Communication Services) suggests selective rotation within the broader market structure. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

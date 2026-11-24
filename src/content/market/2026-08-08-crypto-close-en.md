@@ -51,8 +51,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Korea:** The Korean market shows a generally neutral reading, with bullish indicators holding more weight. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 - **US:** The US market sentiment is neutral, with a slight tilt toward bullish readings. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a complex picture: while underlying liquidity and volatility suggest caution, credit and sector strength provide some support. The divergence between macro bearishness (liquidity, FX) and sector/geopolitical narratives warrants careful observation. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a complex picture: while underlying liquidity and volatility suggest caution, credit and sector strength provide some support. The divergence between macro bearishness (liquidity, FX) and sector/geopolitical narratives warrants careful observation. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

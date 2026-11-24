@@ -55,8 +55,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** The Korean market shows a neutral reading, with a slight improvement noted in the trend. :korea:
 - **US:** US equities are reading neutral, with a slight majority of bullish readings, and the trend is stable. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market exhibits mixed signals, characterized by elevated volatility readings and a bearish read on credit, despite liquidity remaining bullish. The sector data highlights energy as a point of strength, while the broader equity picture remains range-bound across major indices. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market exhibits mixed signals, characterized by elevated volatility readings and a bearish read on credit, despite liquidity remaining bullish. The sector data highlights energy as a point of strength, while the broader equity picture remains range-bound across major indices. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

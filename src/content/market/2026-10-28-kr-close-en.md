@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodity sentiment leans bearish, with the majority of readings indicating downward pressure. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Kosho(KR):** Korean equities show a deteriorating trend, with bearish readings significantly outweighing bullish ones. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The broader macro picture presents mixed signals, with strong support noted in liquidity and credit, contrasting with bearish momentum in commodities and crypto. US equities maintain a stable, slightly bullish posture, while the overall market structure suggests caution amid divergent sector strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The broader macro picture presents mixed signals, with strong support noted in liquidity and credit, contrasting with bearish momentum in commodities and crypto. US equities maintain a stable, slightly bullish posture, while the overall market structure suggests caution amid divergent sector strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

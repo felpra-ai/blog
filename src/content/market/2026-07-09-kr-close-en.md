@@ -40,8 +40,8 @@ altLang: ko
 - **Korea:** Korean equities are reading neutral, with bullish and bearish sentiments holding relatively balanced ground. :korea:
 - **US:** US market sentiment is reading neutral, but with a noted improving trend bias. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market exhibits a complex interplay where underlying liquidity stress is evident, contrasting with sector-specific strength noted in Korean materials and IT media. The overall picture suggests caution, with macro indicators pointing to stability but lacking strong directional conviction across the board. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market exhibits a complex interplay where underlying liquidity stress is evident, contrasting with sector-specific strength noted in Korean materials and IT media. The overall picture suggests caution, with macro indicators pointing to stability but lacking strong directional conviction across the board. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

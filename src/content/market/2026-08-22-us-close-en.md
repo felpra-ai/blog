@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities exhibit a pronounced bullish bias, indicating strong underlying support. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Maine(US):** US equities show a mixed picture, with a higher incidence of bearish readings than bullish ones, while energy and healthcare sectors show relative strength. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Inflation and commodities are showing significant bullish conviction across the board, contrasting with the mixed signals in US equities. The divergence between the strong bullish readings in inflation and commodities, against the more neutral or mixed signals in US and Korean markets, suggests sector-specific strength is currently driving market dynamics. The overall tape appears to be navigating differing levels of conviction across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Inflation and commodities are showing significant bullish conviction across the board, contrasting with the mixed signals in US equities. The divergence between the strong bullish readings in inflation and commodities, against the more neutral or mixed signals in US and Korean markets, suggests sector-specific strength is currently driving market dynamics. The overall tape appears to be navigating differing levels of conviction across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

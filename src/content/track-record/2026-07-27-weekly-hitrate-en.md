@@ -66,13 +66,13 @@ _Archive this hash — recomputing it later from the raw ledger must reproduce t
 
 **Maine:** US equities posted the lowest win rate at 25.1%, coupled with the largest average loss of -0.269, suggesting that the recent trading activity in this segment was particularly difficult to navigate. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
 
-## !QAZ quorum verdict
+## Beom's quorum verdict
 
 The aggregate performance across all tracked markets indicates a challenging period, reflected in the overall win rate of 32.2% and a negative average P&L of -0.235. The data suggests that while profitable trades occurred, the frequency and magnitude of losses across crypto, Korean equities, and US equities weighed heavily on the cumulative results.
 
 The variance in performance across the three sectors—with US equities showing the lowest win rate and largest average loss, and crypto showing a slightly higher win rate—suggests that no single market segment provided consistent positive momentum this cycle. The sample size for US equities, at 669 observations, is notably smaller compared to the other two markets.
 
-In synthesis, the current reading points toward a broadly cautious regime. The collective results emphasize the difficulty in maintaining positive net returns when losses are frequent and substantial across multiple asset classes. This analysis remains purely a review of past paper-trading performance and does not constitute investment advice. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="!QAZ 호랑이 지휘관" />
+In synthesis, the current reading points toward a broadly cautious regime. The collective results emphasize the difficulty in maintaining positive net returns when losses are frequent and substantial across multiple asset classes. This analysis remains purely a review of past paper-trading performance and does not constitute investment advice. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
 
 **Related**
 - This week's journals: [2026-07-19 crypto](/journal/2026-07-19-crypto-journal-en/) · [2026-07-20 crypto](/journal/2026-07-20-crypto-journal-en/) · [2026-07-20 kr](/journal/2026-07-20-kr-journal-en/) · [2026-07-21 crypto](/journal/2026-07-21-crypto-journal-en/) · [2026-07-21 kr](/journal/2026-07-21-kr-journal-en/) · [2026-07-21 us](/journal/2026-07-21-us-journal-en/) · [2026-07-22 crypto](/journal/2026-07-22-crypto-journal-en/) · [2026-07-22 kr](/journal/2026-07-22-kr-journal-en/) · [2026-07-22 us](/journal/2026-07-22-us-journal-en/) · [2026-07-23 crypto](/journal/2026-07-23-crypto-journal-en/) · [2026-07-23 kr](/journal/2026-07-23-kr-journal-en/) · [2026-07-23 us](/journal/2026-07-23-us-journal-en/) · [2026-07-24 crypto](/journal/2026-07-24-crypto-journal-en/) · [2026-07-24 kr](/journal/2026-07-24-kr-journal-en/) · [2026-07-24 us](/journal/2026-07-24-us-journal-en/) · [2026-07-25 crypto](/journal/2026-07-25-crypto-journal-en/) · [2026-07-25 us](/journal/2026-07-25-us-journal-en/)

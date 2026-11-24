@@ -54,8 +54,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** US equities are displaying a sideways-bullish pattern, with the bullish indicators holding a clear majority. :us:
 - **Sectors:** Defensive consumer staples and communication services show relative strength, while technology and industrials appear weaker. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** US market structure appears supportive, contrasting with the clear weakness observed in the crypto and Korean segments. The overall macro picture suggests caution, given the mixed signals across inflation and bonds, despite the relative stability in volatility. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** US market structure appears supportive, contrasting with the clear weakness observed in the crypto and Korean segments. The overall macro picture suggests caution, given the mixed signals across inflation and bonds, despite the relative stability in volatility. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

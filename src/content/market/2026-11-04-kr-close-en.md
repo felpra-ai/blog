@@ -56,8 +56,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral â†
 - **US:** US equities are in a sideways-bullish state, with bullish indicators showing a clear majority and an improving trend. :us:
 - **Sectors:** Strong performance is noted in Korean financials, while crypto, Korean IT media, and Korean chemicals are showing weakness. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market view suggests a divergence, with US equities showing improving breadth contrasting against deteriorating trends in crypto and Korean indices. The macro picture is characterized by elevated volatility and significant bearish pressure emanating from commodity and inflation readings, suggesting underlying caution despite stable credit readings.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market view suggests a divergence, with US equities showing improving breadth contrasting against deteriorating trends in crypto and Korean indices. The macro picture is characterized by elevated volatility and significant bearish pressure emanating from commodity and inflation readings, suggesting underlying caution despite stable credit readings.
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

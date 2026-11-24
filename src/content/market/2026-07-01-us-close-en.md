@@ -42,8 +42,8 @@ altLang: ko
 - **US:** US markets display a neutral reading overall, though the underlying trend is noted as improving. :us:
 - **Sectors:** Financial Services, Industrials, Basic Materials, and Utilities read as strong, while Energy shows weakness. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence: strong liquidity and credit support are juxtaposed against a bearish tilt in FX and a deteriorating trend in Korea. US markets show signs of improvement, which is generally supportive, but the sector strength is concentrated away from energy. On balance, the tape suggests caution amidst underlying structural support in certain credit and liquidity areas. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence: strong liquidity and credit support are juxtaposed against a bearish tilt in FX and a deteriorating trend in Korea. US markets show signs of improvement, which is generally supportive, but the sector strength is concentrated away from energy. On balance, the tape suggests caution amidst underlying structural support in certain credit and liquidity areas. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities exhibit a slight upward bias, maintaining a sideways but positive directional posture. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are showing signs of weakening momentum, while specific sectors like Real Estate and Utilities show relative strength. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a complex picture: commodities show underlying support, but liquidity conditions are notably strained. US equities reflect a deteriorating trend, contrasting with improving momentum seen in Crypto and Korea. The overall tape suggests caution, balancing sector strength against broader macro headwinds. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a complex picture: commodities show underlying support, but liquidity conditions are notably strained. US equities reflect a deteriorating trend, contrasting with improving momentum seen in Crypto and Korea. The overall tape suggests caution, balancing sector strength against broader macro headwinds. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

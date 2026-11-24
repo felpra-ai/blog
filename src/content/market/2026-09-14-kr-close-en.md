@@ -46,8 +46,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Kosho(KR):** Korean equities show a neutral posture, with materials exhibiting strength while utilities lag. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 - **US:** US market sentiment is neutral, though the underlying trend is noted as deteriorating. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market view presents a divergence: bonds show strong underlying support while credit and liquidity metrics register significant bearish pressure. The US market's deteriorating trend contrasts with the relative stability observed in volatility measures. On balance, the tape suggests caution, with macro pressures pulling against underlying asset strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market view presents a divergence: bonds show strong underlying support while credit and liquidity metrics register significant bearish pressure. The US market's deteriorating trend contrasts with the relative stability observed in volatility measures. On balance, the tape suggests caution, with macro pressures pulling against underlying asset strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

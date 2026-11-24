@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities are reading as sideways-bullish, suggesting underlying upward pressure despite mixed signals. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto shows a neutral reading, with the overall sector leaning slightly more toward bullish sentiment than bearish. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Liquidity conditions are registering as extremely bearish, which contrasts with the sideways-bullish reading observed in commodities. The macro picture suggests caution, as evidenced by the bearish tilt in both credit and FX, even as crypto remains relatively balanced.
+## Cross-market & Beom's verdict
+**Beom(Chair):** Liquidity conditions are registering as extremely bearish, which contrasts with the sideways-bullish reading observed in commodities. The macro picture suggests caution, as evidenced by the bearish tilt in both credit and FX, even as crypto remains relatively balanced.
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

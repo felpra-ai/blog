@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities show a strong bullish leaning, while inflation readings are extremely bullish. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Maine(US):** US equities are showing a neutral reading, with the underlying strength concentrated in the crypto space. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence, with strong bullish signals in commodities and inflation contrasting with bearish signals in FX and bonds. The underlying liquidity and credit conditions read strongly bullish, which supports the improving trend observed in crypto and US markets, despite the sector weakness noted in technology and communication services. On balance, the market structure suggests underlying strength supported by liquidity, but caution is warranted given the mixed signals across fixed income and FX. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence, with strong bullish signals in commodities and inflation contrasting with bearish signals in FX and bonds. The underlying liquidity and credit conditions read strongly bullish, which supports the improving trend observed in crypto and US markets, despite the sector weakness noted in technology and communication services. On balance, the market structure suggests underlying strength supported by liquidity, but caution is warranted given the mixed signals across fixed income and FX. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

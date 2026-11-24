@@ -52,8 +52,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Korea:** The Korean market is showing a deteriorating trend, with bearish indicators significantly outweighing the bullish ones. :korea:
 - **US:** The US market is showing an improving trend, with bullish indicators holding a notable advantage. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents divergence, with elevated volatility and bearish commodity readings contrasting against stable liquidity and a bullish US trend. The crypto and Korean markets are showing signs of deterioration, while the US remains a point of relative strength. On balance, the tape suggests caution amid varied directional signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents divergence, with elevated volatility and bearish commodity readings contrasting against stable liquidity and a bullish US trend. The crypto and Korean markets are showing signs of deterioration, while the US remains a point of relative strength. On balance, the tape suggests caution amid varied directional signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

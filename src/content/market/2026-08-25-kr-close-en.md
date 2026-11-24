@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities exhibit an extreme bullish reading, contrasting with inflation which shows a clear bullish bias. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Kosho(KR):** Korean equities are showing a neutral reading overall, with the utilities and industrials sectors registering strength. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The data indicates broad underlying strength across several asset classes, particularly commodities and crypto, while macro indicators suggest supportive liquidity and inflation readings. The divergence between the extreme bullish readings in commodities and the more mixed signals in regional equities suggests varied directional conviction across global markets. On balance, the tape reflects a cautious, yet fundamentally supported, risk appetite. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The data indicates broad underlying strength across several asset classes, particularly commodities and crypto, while macro indicators suggest supportive liquidity and inflation readings. The divergence between the extreme bullish readings in commodities and the more mixed signals in regional equities suggests varied directional conviction across global markets. On balance, the tape reflects a cautious, yet fundamentally supported, risk appetite. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

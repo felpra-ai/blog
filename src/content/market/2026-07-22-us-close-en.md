@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities exhibit an extreme bullish reading, suggesting strong upward momentum across the basket. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are registering a neutral reading, while the strong sector observed was Basic Materials. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: commodities show significant bullish strength, contrasting with bearish readings in credit and FX, while US equities remain range-bound. The stability across most macro indicators suggests a period of consolidation rather than a clear directional shift. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: commodities show significant bullish strength, contrasting with bearish readings in credit and FX, while US equities remain range-bound. The stability across most macro indicators suggests a period of consolidation rather than a clear directional shift. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

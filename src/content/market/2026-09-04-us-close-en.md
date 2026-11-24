@@ -51,8 +51,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Korea:** The Korean market is neutral, with bearish readings showing a greater weight than bullish ones. :korea:
 - **US:** The US market is neutral overall, with bullish readings slightly trailing the bearish ones. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market picture suggests divergence, with commodities showing clear strength while credit and liquidity point to significant underlying caution. The sector data indicates relative strength in Communication Services and Energy, contrasting with weakness observed in Utilities and Industrials. On balance, the market appears to be navigating a period of cautious consolidation amid differing asset class signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market picture suggests divergence, with commodities showing clear strength while credit and liquidity point to significant underlying caution. The sector data indicates relative strength in Communication Services and Energy, contrasting with weakness observed in Utilities and Industrials. On balance, the market appears to be navigating a period of cautious consolidation amid differing asset class signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

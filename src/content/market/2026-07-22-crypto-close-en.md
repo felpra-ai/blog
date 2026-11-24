@@ -52,8 +52,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **US:** The US market sentiment is neutral, maintaining a stable reading. :us:
 - **Sectors:** Meme assets show strength, while storage assets appear weak, with Bitcoin maintaining dominance. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The divergence between commodity strength and credit weakness is notable. While inflation and commodities point strongly upward, the underlying credit picture remains bearish, suggesting potential pockets of strength amid broader caution. The market structure appears to be digesting these mixed signals. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The divergence between commodity strength and credit weakness is notable. While inflation and commodities point strongly upward, the underlying credit picture remains bearish, suggesting potential pockets of strength amid broader caution. The market structure appears to be digesting these mixed signals. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

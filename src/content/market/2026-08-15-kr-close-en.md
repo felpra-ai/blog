@@ -52,8 +52,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities are reading as neutral overall, with the semiconductor, industrials, chemical, and materials sectors showing strength. :korea:
 - **US:** US equities are showing an improving trend, with bullish sentiment slightly outweighing bearish readings. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: credit and commodities show clear bullish support, while crypto is exhibiting weakening momentum. The macro picture suggests underlying stability in key areas like credit and inflation, though geopolitical factors remain a notable overhang. On balance, the tape suggests caution, balancing sector strength against broader asset class divergence. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: credit and commodities show clear bullish support, while crypto is exhibiting weakening momentum. The macro picture suggests underlying stability in key areas like credit and inflation, though geopolitical factors remain a notable overhang. On balance, the tape suggests caution, balancing sector strength against broader asset class divergence. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

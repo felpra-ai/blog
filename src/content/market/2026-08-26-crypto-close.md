@@ -46,8 +46,8 @@ _관측 각주: 이 시장 누적 최다 레짐 전이: neutral → bearish (11�
 - **노웰(원자재):** 원자재 시장은 강세 쪽으로의 비중이 높아지며 긍정적인 흐름을 보이고 있습니다. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **벵갈(코인):** 암호화폐 시장은 강세 쪽으로의 비중이 높아지며 개선되는 추세를 보이고, 주요 섹터에서는 오라클 인프라, 디파이, 스토리지 등이 강세를 주도하고 있습니다. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 비트코인 관련해서는 역사적 공매도 랠리와 더불어 특정 촉매제가 상승장 전환의 신호를 줄 수 있다는 분석이 제기되고 있습니다. 종합적으로 볼 때, 미디어 시장은 중립적이며, 전반적인 시장 심리는 신중한 관망 국면을 형성하고 있습니다. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 비트코인 관련해서는 역사적 공매도 랠리와 더불어 특정 촉매제가 상승장 전환의 신호를 줄 수 있다는 분석이 제기되고 있습니다. 종합적으로 볼 때, 미디어 시장은 중립적이며, 전반적인 시장 심리는 신중한 관망 국면을 형성하고 있습니다. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **연결된 기록**
 - 직전 주간 트랙레코드: [2026-08-24](/track-record/2026-08-24-weekly-hitrate/)

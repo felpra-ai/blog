@@ -49,8 +49,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities are displaying a neutral posture, with consumer, semiconductor, utilities, and financials showing relative strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
 - **Macro:** Foreign exchange remains balanced, while commodities and inflation both exhibit pronounced bullish readings. :macro:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: underlying commodity and inflation readings are strongly positive, contrasting with significant bearish readings in fixed income and credit metrics. The relative stability in US and Crypto, alongside improving trends in both, suggests underlying structural shifts are being digested, leading to a cautious, multi-asset approach. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: underlying commodity and inflation readings are strongly positive, contrasting with significant bearish readings in fixed income and credit metrics. The relative stability in US and Crypto, alongside improving trends in both, suggests underlying structural shifts are being digested, leading to a cautious, multi-asset approach. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-20](/track-record/2026-07-20-weekly-hitrate-en/)

@@ -37,8 +37,8 @@ altLang: ko
 - **Kosho(KR):** Korean equities show a neutral overall reading, with utilities showing strength while materials, crypto, and chemicals are weak. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
 - **Lovble(Global):** Volatility is reading as neutral, with the overall trend remaining stable across bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence: bonds and credit suggest strong underlying support, contrasting with the bearish readings in FX and the softening trend noted in Korean equities. The US market shows an improving trend, while commodities remain range-bound. On balance, the tape suggests caution amidst differing directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence: bonds and credit suggest strong underlying support, contrasting with the bearish readings in FX and the softening trend noted in Korean equities. The US market shows an improving trend, while commodities remain range-bound. On balance, the tape suggests caution amidst differing directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 ---
 

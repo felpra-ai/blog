@@ -35,8 +35,8 @@ altLang: ko
 - **Markets:** US market sentiment shows signs of improvement, contrasting with the deteriorating trend observed in Korea. :markets:
 - **Sectors:** Strength is concentrated in the 'strong' basket, while 'meme' shows weakness, with Bitcoin maintaining dominance. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Bond strength and liquidity readings suggest underlying support, though the bearish skew in FX warrants attention. The divergence between US improvement and Korean deterioration suggests varied regional dynamics across asset classes. Overall, the market structure appears to be finding a stable, albeit cautious, equilibrium. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Bond strength and liquidity readings suggest underlying support, though the bearish skew in FX warrants attention. The divergence between US improvement and Korean deterioration suggests varied regional dynamics across asset classes. Overall, the market structure appears to be finding a stable, albeit cautious, equilibrium. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

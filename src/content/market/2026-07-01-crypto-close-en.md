@@ -37,8 +37,8 @@ altLang: ko
 - **US:** The US market reads as neutral, though the underlying trend shows signs of improvement. :us:
 - **Sector:** Sector analysis indicates a clear dominance within Bitcoin, while meme assets are reading as weak. :sector:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The data presents a mixed picture: strong underlying support from liquidity and credit, juxtaposed against notable weakness in the Korean market and bearish signals in FX. The US shows signs of improving momentum, while the crypto space remains indecisive. On balance, the market structure suggests caution amid divergent regional and asset class signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The data presents a mixed picture: strong underlying support from liquidity and credit, juxtaposed against notable weakness in the Korean market and bearish signals in FX. The US shows signs of improving momentum, while the crypto space remains indecisive. On balance, the market structure suggests caution amid divergent regional and asset class signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

@@ -66,13 +66,13 @@ _Archive this hash — recomputing it later from the raw ledger must reproduce t
 
 **Maine:** The US equities market recorded the lowest win rate among the three sectors at 34.4%, and the average profit per trade was negative. The sample size here is also relatively small compared to the other markets. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
 
-## !QAZ quorum verdict
+## Beom's quorum verdict
 
 The overall market sentiment, based on the synthesis of the individual reads, suggests a period of mixed performance across the analyzed sectors. The crypto market stands out with its higher win rate and positive average return. Conversely, both the Korean and US equities markets registered negative average returns, though the sample size for both was noted as being smaller than the crypto sector.
 
 The overall track record reflects a positive profit factor of 1.24 for the period, indicating that gains generally outweighed losses across the board. However, the divergence in performance between the crypto asset class and the two equity markets suggests differing underlying dynamics at play.
 
-This summary reflects the paper-trading research conducted over the last seven days and should not be construed as investment advice. The quorum observes a confident, yet cautious, reading of the current market regime. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+This summary reflects the paper-trading research conducted over the last seven days and should not be construed as investment advice. The quorum observes a confident, yet cautious, reading of the current market regime. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - This week's journals: [2026-09-20 crypto](/journal/2026-09-20-crypto-journal-en/) · [2026-09-21 crypto](/journal/2026-09-21-crypto-journal-en/) · [2026-09-21 kr](/journal/2026-09-21-kr-journal-en/) · [2026-09-22 crypto](/journal/2026-09-22-crypto-journal-en/) · [2026-09-22 kr](/journal/2026-09-22-kr-journal-en/) · [2026-09-23 crypto](/journal/2026-09-23-crypto-journal-en/) · [2026-09-23 kr](/journal/2026-09-23-kr-journal-en/) · [2026-09-23 us](/journal/2026-09-23-us-journal-en/) · [2026-09-24 crypto](/journal/2026-09-24-crypto-journal-en/) · [2026-09-24 us](/journal/2026-09-24-us-journal-en/) · [2026-09-25 crypto](/journal/2026-09-25-crypto-journal-en/) · [2026-09-25 us](/journal/2026-09-25-us-journal-en/) · [2026-09-26 crypto](/journal/2026-09-26-crypto-journal-en/) · [2026-09-26 us](/journal/2026-09-26-us-journal-en/)

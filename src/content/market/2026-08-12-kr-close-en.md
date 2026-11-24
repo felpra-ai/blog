@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodity pricing exhibits a sideways bias with a notable bullish leaning, supported by geopolitical headlines. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Kosho(KR):** Korean equities show a sideways-bullish pattern, with the IT/Media, Chemical, Consumer, and Materials sectors displaying relative strength. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a mixed picture: geopolitical tension is supporting commodities, while liquidity and FX suggest caution. The divergence between the strength noted in Korean industrials and the bearish lean in FX warrants attention, all within a backdrop of stable, yet cautious, macro readings. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a mixed picture: geopolitical tension is supporting commodities, while liquidity and FX suggest caution. The divergence between the strength noted in Korean industrials and the bearish lean in FX warrants attention, all within a backdrop of stable, yet cautious, macro readings. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** The Korean market is showing a neutral stance with stable directional readings. :korea:
 - **US:** The US market is showing an improving trend with a neutral overall sentiment. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests underlying strength in credit and inflation, contrasting with a more cautious, bearish leaning in the FX space. Crypto shows improving momentum, while US and Korean equities are settling into neutral, range-bound patterns. The overall market tone suggests a period of consolidation underpinned by stable, if mixed, macro indicators. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests underlying strength in credit and inflation, contrasting with a more cautious, bearish leaning in the FX space. Crypto shows improving momentum, while US and Korean equities are settling into neutral, range-bound patterns. The overall market tone suggests a period of consolidation underpinned by stable, if mixed, macro indicators. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

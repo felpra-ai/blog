@@ -53,8 +53,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral â†
 - **Korea:** Korean equities are showing a deteriorating trend, with a bearish tilt across the board. :korea:
 - **US:** US equities are displaying a stable, slightly bullish bias. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure shows divergence, with US equities maintaining a stable, slightly positive bias while commodity and crypto sectors exhibit clear weakness. The macro picture is characterized by elevated volatility and persistent bearish readings in inflation, suggesting underlying caution despite stable liquidity.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure shows divergence, with US equities maintaining a stable, slightly positive bias while commodity and crypto sectors exhibit clear weakness. The macro picture is characterized by elevated volatility and persistent bearish readings in inflation, suggesting underlying caution despite stable liquidity.
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

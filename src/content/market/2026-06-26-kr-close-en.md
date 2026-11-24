@@ -37,8 +37,8 @@ altLang: ko
 - **Kosho(KR):** Korean equities are showing a deteriorating trend, with utilities maintaining relative strength while chemical and IT media sectors lag. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
 - **Lovble(Global):** Overall volatility remains contained, with both bullish and bearish readings registering at a neutral level. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators present a backdrop of robust liquidity and credit health, though this strength is not uniformly reflected across all asset classes, notably in the deteriorating trends observed in crypto and Korean equities. The market structure suggests caution is warranted despite underlying supportive macro conditions. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators present a backdrop of robust liquidity and credit health, though this strength is not uniformly reflected across all asset classes, notably in the deteriorating trends observed in crypto and Korean equities. The market structure suggests caution is warranted despite underlying supportive macro conditions. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 ---
 

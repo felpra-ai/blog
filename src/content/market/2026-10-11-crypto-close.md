@@ -45,8 +45,8 @@ _관측 각주: 이 시장 누적 최다 레짐 전이: sideways_bullish → sid
 - **노웰(원자재):** 원자재 시장은 강세와 약세가 비교적 고르게 분포하며, 인플레이션 측면에서는 약세 쪽으로의 경향이 두드러집니다. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **벵갈(코인):** 암호화폐 시장은 약세 쪽으로의 비중이 현저히 높게 나타나며, 국장과 미장 시장은 강세 쪽으로의 비중이 높아지며 중립적 강세 국면을 형성하고 있습니다. <img class="emoji-char" src="/characters/crypto/10_suspicious.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 지정학적 리스크와 관련된 외교부의 출국 권고 발표가 주요 이슈로 부각되었으나, 전반적인 시장 심리는 코인 시장의 약세 우위와 대비되는 미장 및 국장의 상대적 강세 우위가 공존하는 복합적인 국면입니다. 종합적으로 볼 때, 시장 참여자들은 신중한 관망 태도를 유지하는 모습입니다. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 지정학적 리스크와 관련된 외교부의 출국 권고 발표가 주요 이슈로 부각되었으나, 전반적인 시장 심리는 코인 시장의 약세 우위와 대비되는 미장 및 국장의 상대적 강세 우위가 공존하는 복합적인 국면입니다. 종합적으로 볼 때, 시장 참여자들은 신중한 관망 태도를 유지하는 모습입니다. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
 
 **연결된 기록**
 - 직전 주간 트랙레코드: [2026-10-05](/track-record/2026-10-05-weekly-hitrate/)

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are neutral, showing an equal split between bullish and bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are neutral overall, with ENERGY showing strength while Real Estate, Industrials, and Communication Services are weaker. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: credit and liquidity are strongly positive, contrasting with the bearish reading on volatility. This suggests underlying support despite elevated risk indicators. The sector strength in ENERGY, juxtaposed with weakness in several consumer/infrastructure areas, points to commodity-driven flows influencing equity positioning. On balance, the tape suggests caution amid divergent macro signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: credit and liquidity are strongly positive, contrasting with the bearish reading on volatility. This suggests underlying support despite elevated risk indicators. The sector strength in ENERGY, juxtaposed with weakness in several consumer/infrastructure areas, points to commodity-driven flows influencing equity positioning. On balance, the tape suggests caution amid divergent macro signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

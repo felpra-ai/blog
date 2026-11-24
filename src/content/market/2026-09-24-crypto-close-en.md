@@ -45,8 +45,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities are registering a neutral stance, with slightly more bearish readings than bullish ones. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto shows an improving trend with a majority bullish reading, while US market sentiment is deteriorating. <img class="emoji-char" src="/characters/crypto/12_relieved.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The bond market presents a clear bullish signal, contrasting with the deteriorating trend observed in the US market. Crypto exhibits improving momentum, while inflation readings suggest a persistent bearish bias. Overall, the cross-market picture suggests underlying strength in fixed income despite broader equity weakness. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The bond market presents a clear bullish signal, contrasting with the deteriorating trend observed in the US market. Crypto exhibits improving momentum, while inflation readings suggest a persistent bearish bias. Overall, the cross-market picture suggests underlying strength in fixed income despite broader equity weakness. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

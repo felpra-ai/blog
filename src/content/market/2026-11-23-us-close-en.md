@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Energy costs are keeping the Bank of England under pressure, yet the commodity complex as a whole has gone soft, like a cold field under a warm sky. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Maine(US):** The US tape leans bearish across the board, with eight in ten readings on the down side, and money has drifted into consumer defensive while technology and communication services trail behind. <img class="emoji-char" src="/characters/v2/us/face/10_suspicious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Lovble and Bsho put the weight on rising volatility and weak credit, Sham on a bearish dollar picture against full liquidity, Nowel on soft commodities, and Maine on a defensive rotation in a bearish US market, with crypto leaning the same way. What remains open is how sticky inflation squares with liquidity this loose. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Lovble and Bsho put the weight on rising volatility and weak credit, Sham on a bearish dollar picture against full liquidity, Nowel on soft commodities, and Maine on a defensive rotation in a bearish US market, with crypto leaning the same way. What remains open is how sticky inflation squares with liquidity this loose. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-23](/track-record/2026-11-23-weekly-hitrate-en/)

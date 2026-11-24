@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities are showing a significantly bullish leaning, contrasting with the overall stability noted in the trend. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Kosho(KR):** Korean equities show a neutral overall reading, with consumer, financials, semiconductor, and chemical sectors exhibiting strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The data presents a divergence where commodities and FX lean strongly bullish, while volatility suggests underlying bearishness. The macro picture indicates cooling inflation is a notable factor, supporting the dollar's movement to a one-month low. On balance, the market structure suggests caution amidst sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The data presents a divergence where commodities and FX lean strongly bullish, while volatility suggests underlying bearishness. The macro picture indicates cooling inflation is a notable factor, supporting the dollar's movement to a one-month low. On balance, the market structure suggests caution amidst sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

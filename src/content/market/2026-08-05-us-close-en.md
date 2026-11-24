@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Commodities:** Commodities are displaying a neutral stance, with bullish readings slightly outweighing bearish ones. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Equities:** US equities are positioned neutrally, with the overall market structure showing a slight bullish bias. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market picture suggests a divergence where fixed income and US equities show relative support, contrasting with bearish readings in liquidity and FX. The sector analysis points to strength in Industrials, Consumer Defensive, Basic Materials, and Healthcare, while Utilities and Real Estate show relative weakness. On balance, the market appears to be navigating a period of mixed signals, with underlying structural support visible in certain asset classes despite broader caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market picture suggests a divergence where fixed income and US equities show relative support, contrasting with bearish readings in liquidity and FX. The sector analysis points to strength in Industrials, Consumer Defensive, Basic Materials, and Healthcare, while Utilities and Real Estate show relative weakness. On balance, the market appears to be navigating a period of mixed signals, with underlying structural support visible in certain asset classes despite broader caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

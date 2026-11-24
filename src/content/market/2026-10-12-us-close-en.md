@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are showing a neutral reading, with a slight bullish tilt observed. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are displaying a sideways-bullish pattern, with Communication Services and Technology sectors showing relative strength. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The broader macro picture suggests a period of consolidation, with inflation concerns keeping sentiment weighted toward the cautious side. US equities show underlying support despite the mixed signals from crypto and the general market indecision. On balance, the tape appears to be settling into a range-bound pattern amid key inflation data awaiting release. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The broader macro picture suggests a period of consolidation, with inflation concerns keeping sentiment weighted toward the cautious side. US equities show underlying support despite the mixed signals from crypto and the general market indecision. On balance, the tape appears to be settling into a range-bound pattern amid key inflation data awaiting release. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

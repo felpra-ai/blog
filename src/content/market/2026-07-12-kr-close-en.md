@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities exhibit a notably bullish posture, suggesting underlying strength in real asset pricing. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Kosho(KR):** Korean equities present a mixed picture, with consumer and IT media sectors showing relative strength while chemicals and industrials lag. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence: FX and Commodities are pointing strongly bullish, while Credit and Liquidity show significant bearish leaning. US equities are registering an improving trend, though the broader market sentiment remains cautious, suggesting selective strength across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence: FX and Commodities are pointing strongly bullish, while Credit and Liquidity show significant bearish leaning. US equities are registering an improving trend, though the broader market sentiment remains cautious, suggesting selective strength across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

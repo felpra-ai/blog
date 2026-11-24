@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities exhibit an extremely bullish reading, while inflation sentiment is entirely bullish. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Maine(US):** US equities are reading as neutral overall, with Energy and Communication Services showing strength, while Utilities and Financial Services are weaker. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market view suggests strong underlying commodity and liquidity support, contrasting with mixed signals in regional equity performance. The divergence between the extreme bullishness in commodities and the neutral readings in major equity indices suggests caution regarding immediate directional conviction. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market view suggests strong underlying commodity and liquidity support, contrasting with mixed signals in regional equity performance. The divergence between the extreme bullishness in commodities and the neutral readings in major equity indices suggests caution regarding immediate directional conviction. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

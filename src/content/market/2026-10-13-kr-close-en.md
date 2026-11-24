@@ -48,8 +48,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodity sentiment is mixed, with a notable bullish leaning despite some bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Kosho(KR):** Korean equities show a bearish tilt, with semiconductor sectors exhibiting relative strength compared to financials, bio-health, and industrials. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: US equities show signs of improvement, while both Crypto and Korean equities are exhibiting deteriorating trends. Macro indicators are largely neutral, suggesting that sector-specific or localized drivers are currently dominating the broader flow. The relative strength noted in Korean semiconductors suggests continued focus on technology components within that region. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: US equities show signs of improvement, while both Crypto and Korean equities are exhibiting deteriorating trends. Macro indicators are largely neutral, suggesting that sector-specific or localized drivers are currently dominating the broader flow. The relative strength noted in Korean semiconductors suggests continued focus on technology components within that region. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

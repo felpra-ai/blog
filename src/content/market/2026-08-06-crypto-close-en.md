@@ -46,8 +46,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Nowel(Commodities):** Commodities exhibit an extremely bullish reading, suggesting strong upward momentum, and the trend is stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** The crypto landscape reads as neutral overall, with a clear dominance observed in Bitcoin, while other sectors show mixed signals. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: commodities are strongly bullish, contrasting with bearish readings in FX and liquidity. While the US market shows a neutral reading, the Korean market exhibits a markedly improving, bullish trend. The overall picture suggests underlying caution despite commodity strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: commodities are strongly bullish, contrasting with bearish readings in FX and liquidity. While the US market shows a neutral reading, the Korean market exhibits a markedly improving, bullish trend. The overall picture suggests underlying caution despite commodity strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

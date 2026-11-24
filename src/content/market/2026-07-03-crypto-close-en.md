@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodity sentiment is neutral, showing a slight bullish lean with stable trends across the board. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto assets are showing a neutral stance overall, with the Bitcoin basket maintaining dominance. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators present a mixed picture; while volatility and liquidity signal caution, the bond and commodity sectors show underlying stability. The market structure suggests a period of consolidation, with differing directional biases across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators present a mixed picture; while volatility and liquidity signal caution, the bond and commodity sectors show underlying stability. The market structure suggests a period of consolidation, with differing directional biases across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

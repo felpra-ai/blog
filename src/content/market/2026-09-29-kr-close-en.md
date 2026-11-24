@@ -46,8 +46,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities are in a sideways bearish regime, with bearish indicators significantly outweighing bullish ones. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Kosho(KR):** Korean equities are neutral overall, with industrials, semiconductors, and materials showing strength while bio-health lags. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents mixed signals; while volatility and liquidity are stable, significant bearish readings persist across credit, FX, and inflation. The underlying equity markets, including US and Korean indices, are showing signs of deteriorating trends, despite sector-specific strength noted in Korean industrials and semiconductors. The overall tape suggests caution amid persistent inflationary concerns highlighted by central bank commentary. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents mixed signals; while volatility and liquidity are stable, significant bearish readings persist across credit, FX, and inflation. The underlying equity markets, including US and Korean indices, are showing signs of deteriorating trends, despite sector-specific strength noted in Korean industrials and semiconductors. The overall tape suggests caution amid persistent inflationary concerns highlighted by central bank commentary. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

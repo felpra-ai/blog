@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are positioned neutrally, with a slight bullish leaning. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are showing a sideways-bullish pattern, while the technology sector shows strength. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests stability across most asset classes, though the bearish tilt in FX and the deteriorating trend in crypto warrant attention. US equities show underlying support, contrasting with the mixed signals from other domains. The overall market tone appears range-bound, digesting recent movements. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests stability across most asset classes, though the bearish tilt in FX and the deteriorating trend in crypto warrant attention. US equities show underlying support, contrasting with the mixed signals from other domains. The overall market tone appears range-bound, digesting recent movements. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

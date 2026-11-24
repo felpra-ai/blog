@@ -46,9 +46,9 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Sham(FX):** The dollar side is running hot, half the FX read bullish, but liquidity hasn't followed, so who is actually funding the move? <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="샤암" />
 - **Nowel(Commodities):** Commodities feel like a field after first frost: half the board leans bearish, and the inflation gauge has gone fully cold. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Kosho(KR):** Locally the money is sitting in bio-health, consumer and IT-media, and it has walked away from chemicals and utilities; crypto is empty, nine in ten bearish and getting worse. <img class="emoji-char" src="/characters/v2/kr/face/10_suspicious.png" alt="코숏" />
-- **!QAZ(Chair):** Bsho has bonds holding, Sham a strong currency with thin liquidity, Nowel cooling commodities, and Kosho a narrow rotation at home with crypto sliding. Cautious consolidation. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+- **Beom(Chair):** Bsho has bonds holding, Sham a strong currency with thin liquidity, Nowel cooling commodities, and Kosho a narrow rotation at home with crypto sliding. Cautious consolidation. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
 
-## Cross-market & !QAZ's verdict
+## Cross-market & Beom's verdict
 Bonds and crypto pull in opposite directions. The bond bid is firm and stable, while crypto keeps deteriorating. FX is at an extreme bullish reading, yet liquidity stays neutral, so the strength has little cash behind it. Commodities lean lower and inflation reads entirely bearish, which fits the news that long-term inflation expectations are easing. Korea sits sideways-to-bearish, with roughly two-thirds of names weak, and the strength is confined to a few sectors. The US holds a mild bullish tilt. The verdict is a guarded market, firm in bonds and soft at the edges.
 
 **Related**

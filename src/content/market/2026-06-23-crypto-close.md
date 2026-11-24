@@ -37,8 +37,8 @@ altLang: en
 - **노웰(원자재):** 원자재는 강세와 약세가 균형을 이루는 중립 상태이며, 인플레이션 지표는 약세 쪽으로 기울고 있습니다. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **벵갈(코인):** 암호화폐 시장은 중립적인 흐름을 보이고 있으며, 시장 전반적으로는 비트코인에 대한 지배력이 확인됩니다. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 채권과 외환, 신용 등 거시 지표 전반에서 강세 기조가 관찰되나, 인플레이션과 변동성 지표에서는 약세 쪽으로의 무게감이 감지됩니다. 종합적으로 시장은 전반적인 방향성을 탐색하는 신중한 국면으로 해석됩니다. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 채권과 외환, 신용 등 거시 지표 전반에서 강세 기조가 관찰되나, 인플레이션과 변동성 지표에서는 약세 쪽으로의 무게감이 감지됩니다. 종합적으로 시장은 전반적인 방향성을 탐색하는 신중한 국면으로 해석됩니다. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

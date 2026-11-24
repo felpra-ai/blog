@@ -39,8 +39,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Nowel(Commodities):** Commodities exhibit a strong bullish leaning, suggesting robust underlying demand strength. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto sentiment is neutral overall, with the sector showing a slight bullish tilt, while the underlying dominance remains concentrated in Bitcoin. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market view suggests underlying strength in real assets, evidenced by the bullish commodity readings, while FX and credit maintain a generally positive tilt. The mixed signals across macro indicators, particularly the neutral readings in liquidity and bonds, suggest that while certain sectors are showing directional conviction, the broader market remains in a state of measured consolidation.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market view suggests underlying strength in real assets, evidenced by the bullish commodity readings, while FX and credit maintain a generally positive tilt. The mixed signals across macro indicators, particularly the neutral readings in liquidity and bonds, suggest that while certain sectors are showing directional conviction, the broader market remains in a state of measured consolidation.
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

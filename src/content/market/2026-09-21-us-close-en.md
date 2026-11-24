@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodity readings suggest a soft bias, with bearish indicators showing a notable weight. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equity sentiment is showing a deteriorating trend, with specific sectors like Industrials, Real Estate, and Financial Services showing weakness. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure shows notable divergence, with US equities exhibiting clear deterioration despite other asset classes maintaining a neutral or balanced posture. The confluence of bearish readings in FX and the weakness observed in key US sectors suggests underlying caution across multiple fronts. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure shows notable divergence, with US equities exhibiting clear deterioration despite other asset classes maintaining a neutral or balanced posture. The confluence of bearish readings in FX and the weakness observed in key US sectors suggests underlying caution across multiple fronts. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are registering an extreme bearish reading, and inflation is also reading extremely bearish. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities show a sideways bullish reading, with Financial Services, Technology, and Healthcare reading strong, while Technology is noted as weak. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: US equities show improving momentum amidst macro indicators pointing toward bearishness in commodities and inflation. The high reading in volatility suggests underlying uncertainty, despite the mixed sector strength observed in US names. On balance, the tape suggests caution, with underlying macro pressures counterbalancing localized strength. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: US equities show improving momentum amidst macro indicators pointing toward bearishness in commodities and inflation. The high reading in volatility suggests underlying uncertainty, despite the mixed sector strength observed in US names. On balance, the tape suggests caution, with underlying macro pressures counterbalancing localized strength. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are exhibiting a bearish bias, with only a moderate bullish component present. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities are registering a neutral state, but the underlying trend shows signs of deterioration. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents divergence: bonds show strong bullish leaning while credit and liquidity are leaning bearish. US equities reflect this caution with a deteriorating trend, while commodities and inflation also lean bearish. The overall tape suggests caution is warranted amidst conflicting signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents divergence: bonds show strong bullish leaning while credit and liquidity are leaning bearish. US equities reflect this caution with a deteriorating trend, while commodities and inflation also lean bearish. The overall tape suggests caution is warranted amidst conflicting signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

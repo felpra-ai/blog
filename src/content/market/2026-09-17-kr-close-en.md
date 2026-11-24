@@ -40,8 +40,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral â†
 - **Korea:** Korean equities sentiment is neutral, maintaining a stable trend. :korea:
 - **US:** US market sentiment is neutral, with the trend showing signs of improvement. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence where volatility and FX suggest underlying strength, contrasting with significant bearish readings in credit and inflation. The cross-market view suggests a cautious environment where improving US sentiment is tempered by deteriorating crypto trends and macro headwinds.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence where volatility and FX suggest underlying strength, contrasting with significant bearish readings in credit and inflation. The cross-market view suggests a cautious environment where improving US sentiment is tempered by deteriorating crypto trends and macro headwinds.
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

@@ -50,10 +50,10 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Commodities:** Commodities are reading bearish, with bearish indicators representing a significantly higher proportion than bullish ones, pointing to downward pressure. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
 - **Crypto:** Cryptocurrency is in a sideways-bearish regime, with bearish indicators heavily outweighing bullish ones, showing deteriorating momentum. :crypto:
 - **Korea:** Korean equities are in a sideways-bullish regime, with bullish indicators showing a notable edge over bearish ones, suggesting underlying stability. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
-- **US:** US equities are in a sideways-bearish regime, with bearish indicators slightly outweighing bullish ones, indicating a lack of strong directional conviction. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+- **US:** US equities are in a sideways-bearish regime, with bearish indicators slightly outweighing bullish ones, indicating a lack of strong directional conviction. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests caution, particularly evident in the commodity weakness and the mixed signals across major asset classes. While Korean equities show a slight bullish tilt, the underlying US and Crypto readings point toward consolidation within established ranges. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests caution, particularly evident in the commodity weakness and the mixed signals across major asset classes. While Korean equities show a slight bullish tilt, the underlying US and Crypto readings point toward consolidation within established ranges. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

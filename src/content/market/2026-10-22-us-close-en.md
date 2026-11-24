@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities show a neutral reading, with a stable trend. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are reading bullish, showing an improving trend, while sectors show strength in Financial Services, Communication Services, and Healthcare. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure shows divergence, with US equities reading bullish while crypto shows a deteriorating, sideways-bearish pattern. Bonds are reading strongly bullish, contrasting with the bearish readings in FX and the mixed signals across commodities. The overall picture suggests underlying strength in certain asset classes despite broader sector weakness. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure shows divergence, with US equities reading bullish while crypto shows a deteriorating, sideways-bearish pattern. Bonds are reading strongly bullish, contrasting with the bearish readings in FX and the mixed signals across commodities. The overall picture suggests underlying strength in certain asset classes despite broader sector weakness. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

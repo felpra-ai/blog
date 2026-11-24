@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are signaling an extreme bullish regime, contrasting with inflation which remains neutral. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are showing a neutral reading, with Technology and Industrials sectors demonstrating strength, while Utilities and Real Estate are lagging. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: commodities and credit show clear strength, yet liquidity and FX are signaling significant bearish pressure. US equities are balanced, but the underlying macro signals suggest caution, particularly given the hawkish tone from Fed officials noted in the news flow. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: commodities and credit show clear strength, yet liquidity and FX are signaling significant bearish pressure. US equities are balanced, but the underlying macro signals suggest caution, particularly given the hawkish tone from Fed officials noted in the news flow. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

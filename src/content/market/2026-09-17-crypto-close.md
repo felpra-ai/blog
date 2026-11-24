@@ -39,8 +39,8 @@ _관측 각주: 이 시장 누적 최다 레짐 전이: neutral → bearish (14�
 - **노웰(원자재):** 인플레이션 지표는 극도의 약세 영역에 있으며, 이는 전반적인 경기 둔화 우려를 반영하고 있습니다. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **벵갈(코인):** 암호화폐 시장은 약세 쪽으로 무게가 실리며 추세가 쇠퇴하고 있고, 미장 시장은 개선되는 모습을 보이고 있습니다. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 거시 환경 전반에서 신용과 인플레이션 측면의 약세 신호가 두드러지며, 시장 전반의 심리는 신중한 관망 국면을 지지합니다. 다만, 미장 시장은 개선 추세를 보이고 있으나, 암호화폐 시장은 약세 우위가 뚜렷합니다. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 거시 환경 전반에서 신용과 인플레이션 측면의 약세 신호가 두드러지며, 시장 전반의 심리는 신중한 관망 국면을 지지합니다. 다만, 미장 시장은 개선 추세를 보이고 있으나, 암호화폐 시장은 약세 우위가 뚜렷합니다. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **연결된 기록**
 - 직전 주간 트랙레코드: [2026-09-14](/track-record/2026-09-14-weekly-hitrate/)

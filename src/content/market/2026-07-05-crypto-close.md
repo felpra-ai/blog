@@ -37,8 +37,8 @@ altLang: en
 - **노웰(원자재):** 원자재 시장은 강세와 약세가 비교적 고르게 분포하며 추세는 안정적입니다. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **벵갈(코인):** 암호화폐 시장은 강세와 약세가 낮은 수준으로 나타나 추세는 안정적이며, 국장과 미장은 중립적 흐름을 보입니다. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 거시 환경 전반에서 변동성 지표가 약세 우위를 나타내며 전반적인 위험 회피 심리가 관찰됩니다. 다만, 암호화폐 시장 자체의 추세는 안정성을 유지하고 있으며, 주요 시장들에서는 명확한 방향성보다는 중립적인 흐름이 지배적입니다. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 거시 환경 전반에서 변동성 지표가 약세 우위를 나타내며 전반적인 위험 회피 심리가 관찰됩니다. 다만, 암호화폐 시장 자체의 추세는 안정성을 유지하고 있으며, 주요 시장들에서는 명확한 방향성보다는 중립적인 흐름이 지배적입니다. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities lean down, and that means less pressure on the raw inputs that feed through to factories and shelves, while inflation also tilts lower, like a cooling season working its way through the supply chain. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is moving fastest, and downward, with nearly nine in ten readings bearish and the trend getting worse. Korea is weakening too. What strength there is sits in BTC. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The desk sees bearish tilts in FX and commodities, with crypto and Korea both deteriorating. Bonds lean the opposite way. How far that gap between bonds and FX runs is still open. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The desk sees bearish tilts in FX and commodities, with crypto and Korea both deteriorating. Bonds lean the opposite way. How far that gap between bonds and FX runs is still open. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

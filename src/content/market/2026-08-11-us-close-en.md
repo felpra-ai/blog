@@ -49,8 +49,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are registering a neutral reading, indicating no strong directional bias across the board. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are showing a neutral reading overall, with Technology and Communication Services showing strength while Utilities and Energy appear weaker. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests divergence, with elevated bearish readings in volatility and liquidity contrasting against more stable or bullish readings in credit. The underlying asset classes show mixed signals, pointing toward a period of cautious consolidation across major indices. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests divergence, with elevated bearish readings in volatility and liquidity contrasting against more stable or bullish readings in credit. The underlying asset classes show mixed signals, pointing toward a period of cautious consolidation across major indices. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

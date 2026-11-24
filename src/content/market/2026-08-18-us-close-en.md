@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are exhibiting a sideways bias leaning toward bullishness, with inflation remaining in a neutral zone. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are showing a neutral trend that is improving, with strength observed in Industrials, Energy, and Communication Services, while Consumer Defensive appears weaker. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: credit and commodities lean positive, while volatility remains elevated. The notable upward movement in long-term Treasury yields, alongside gold gains linked to a lower dollar, suggests underlying shifts in rate expectations that are influencing risk assets. Overall, the tape suggests caution amidst sectoral strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: credit and commodities lean positive, while volatility remains elevated. The notable upward movement in long-term Treasury yields, alongside gold gains linked to a lower dollar, suggests underlying shifts in rate expectations that are influencing risk assets. Overall, the tape suggests caution amidst sectoral strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

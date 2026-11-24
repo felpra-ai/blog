@@ -37,8 +37,8 @@ altLang: ko
 - **US:** US equities are reading as neutral overall, with the overall trend remaining stable. :us:
 - **Sectors:** Industrials, Financial Services, Utilities, and Consumer Cyclical show strength, while ENERGY, UTILITIES, and Communication Services are noted as weaker areas. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests underlying support in credit and bonds, while FX strength and liquidity readings point to a generally supportive, albeit cautious, environment. The market structure shows sector divergence, with cyclical and financial names showing relative strength against energy and communication services. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests underlying support in credit and bonds, while FX strength and liquidity readings point to a generally supportive, albeit cautious, environment. The market structure shows sector divergence, with cyclical and financial names showing relative strength against energy and communication services. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

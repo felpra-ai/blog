@@ -46,8 +46,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Kosho(KR):** Korean equities show a neutral posture overall, with consumer and materials sectors exhibiting relative strength while utilities lag. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 - **US:** US equities are showing a neutral reading, but the underlying trend is noted as deteriorating. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence: while volatility suggests underlying stability and bonds lean bullish, credit, liquidity, and commodities all point toward bearish conditions. This suggests caution is warranted across asset classes, despite some regional strength noted in Korean consumer and materials sectors. The market appears to be digesting conflicting signals between cyclical strength and systemic caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence: while volatility suggests underlying stability and bonds lean bullish, credit, liquidity, and commodities all point toward bearish conditions. This suggests caution is warranted across asset classes, despite some regional strength noted in Korean consumer and materials sectors. The market appears to be digesting conflicting signals between cyclical strength and systemic caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

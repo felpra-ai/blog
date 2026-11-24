@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: extreme_be
 - **US:** The US market reads as neutral, with bearish sentiment showing a higher proportion than bullish readings, though the trend is stable. :us:
 - **Sectors:** The digital asset space shows strength concentrated in DeFi, other, gaming\_nft, and storage, with Bitcoin maintaining dominance. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents mixed signals, with strong directional bias noted in FX and commodities, contrasting with the more cautious readings in US and Korea. The crypto space stands out with its strong bullish reading, while the underlying asset classes suggest a period of consolidation or directional indecision across several fronts.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents mixed signals, with strong directional bias noted in FX and commodities, contrasting with the more cautious readings in US and Korea. The crypto space stands out with its strong bullish reading, while the underlying asset classes suggest a period of consolidation or directional indecision across several fronts.
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

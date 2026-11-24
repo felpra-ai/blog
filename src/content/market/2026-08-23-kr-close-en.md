@@ -55,8 +55,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities show a neutral reading, with a slight deterioration noted in the trend. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
 - **US:** US equities show a neutral reading, with a slightly higher proportion of bearish readings than bullish ones. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: commodities and crypto exhibit strong bullish momentum, while broader equity indices like US and Korea remain in neutral or mixed readings. The macro picture is supported by strong liquidity and commodity readings, suggesting underlying strength despite mixed equity signals. On balance, the tape suggests cautious breadth, with underlying commodity strength providing a floor. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: commodities and crypto exhibit strong bullish momentum, while broader equity indices like US and Korea remain in neutral or mixed readings. The macro picture is supported by strong liquidity and commodity readings, suggesting underlying strength despite mixed equity signals. On balance, the tape suggests cautious breadth, with underlying commodity strength providing a floor. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

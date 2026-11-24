@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodity markets exhibit a strong bullish leaning, contrasting with the neutral readings observed for inflation. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Kosho(KR):** Korean equities show a markedly bullish leaning, with the industrial, IT media, and chemical sectors showing strength, while consumer segments lag. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: commodities and Korean equities show distinct bullish momentum, while broader risk indicators like FX and liquidity point toward caution. The underlying stability in macro trends suggests that sector-specific strength may be driving current price action, rather than a broad consensus shift.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: commodities and Korean equities show distinct bullish momentum, while broader risk indicators like FX and liquidity point toward caution. The underlying stability in macro trends suggests that sector-specific strength may be driving current price action, rather than a broad consensus shift.
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

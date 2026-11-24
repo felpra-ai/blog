@@ -64,8 +64,8 @@ _이 해시를 보관해 두세요 — 나중에 원장 원본으로 재계산�
 
 멘쿤: 미국 주식 시장은 승률 37.5%로 비교적 안정적인 모습을 보였으나, 평균 손익이 -0.216으로 가장 적은 손실폭을 기록했습니다. 다만, 전체 거래 건수(1010건)가 가장 적어 시장의 대표성을 해석할 때 유의해야 할 부분이 있습니다. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
 
-!QAZ 의 정족수 결론:
-이번 주 전체적인 모의매매 성적을 종합해 볼 때, 세 시장 모두 평균 손익 측면에서 마이너스(-)를 기록하며 전반적인 수익성 측면에서 어려움이 있었음이 확인됩니다. 특히 코숏 시장의 평균 손실 폭이 가장 크게 나타났습니다. 다만, 벵갈과 멘쿤 시장은 비교적 높은 승률을 유지하며 시장 참여의 균형을 잡으려 노력한 모습입니다. 전반적으로 시장의 변동성이 크고 수익을 내기 어려운 흐름이었던 것으로 판단됩니다. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="!QAZ 호랑이 지휘관" />
+범의 정족수 결론:
+이번 주 전체적인 모의매매 성적을 종합해 볼 때, 세 시장 모두 평균 손익 측면에서 마이너스(-)를 기록하며 전반적인 수익성 측면에서 어려움이 있었음이 확인됩니다. 특히 코숏 시장의 평균 손실 폭이 가장 크게 나타났습니다. 다만, 벵갈과 멘쿤 시장은 비교적 높은 승률을 유지하며 시장 참여의 균형을 잡으려 노력한 모습입니다. 전반적으로 시장의 변동성이 크고 수익을 내기 어려운 흐름이었던 것으로 판단됩니다. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
 
 **연결된 기록**
 - 이 주의 매매일지: [2026-07-26 crypto](/journal/2026-07-26-crypto-journal/) · [2026-07-27 crypto](/journal/2026-07-27-crypto-journal/) · [2026-07-27 kr](/journal/2026-07-27-kr-journal/) · [2026-07-28 crypto](/journal/2026-07-28-crypto-journal/) · [2026-07-28 kr](/journal/2026-07-28-kr-journal/) · [2026-07-28 us](/journal/2026-07-28-us-journal/) · [2026-07-29 crypto](/journal/2026-07-29-crypto-journal/) · [2026-07-29 kr](/journal/2026-07-29-kr-journal/) · [2026-07-29 us](/journal/2026-07-29-us-journal/) · [2026-07-30 crypto](/journal/2026-07-30-crypto-journal/) · [2026-07-30 kr](/journal/2026-07-30-kr-journal/) · [2026-07-30 us](/journal/2026-07-30-us-journal/) · [2026-07-31 crypto](/journal/2026-07-31-crypto-journal/) · [2026-07-31 kr](/journal/2026-07-31-kr-journal/) · [2026-07-31 us](/journal/2026-07-31-us-journal/) · [2026-08-01 crypto](/journal/2026-08-01-crypto-journal/) · [2026-08-01 us](/journal/2026-08-01-us-journal/)

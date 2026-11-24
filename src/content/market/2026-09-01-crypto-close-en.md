@@ -47,12 +47,12 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodity sentiment is balanced, showing equal weight between bullish and bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Cryptocurrency activity is neutral overall, with Bitcoin showing clear dominance across the basket. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
+## Cross-market & Beom's verdict
 The macro picture presents a divergence in sentiment. Credit remains strongly bullish, suggesting underlying confidence in lending and corporate health, contrasting with the stable, yet slightly bearish, reading in volatility. Liquidity indicators point to an extremely bullish environment, which is noteworthy given the mixed signals across other asset classes.
 
 Market-wise, the US and Korean indices are reading neutral, suggesting consolidation or indecision in those regional markets. Crypto sentiment mirrors this neutrality, though the dominance of Bitcoin within that space is apparent. The overall stability across most measured regimes—VIX, Bonds, FX, Commodities, Inflation—suggests a period of equilibrium rather than a strong directional move.
 
-!QAZ: The data reflects a backdrop of robust liquidity and credit strength underpinning a generally neutral, range-bound market structure across major asset classes. The primary tension appears to be between the strong underlying credit appetite and the mixed signals from volatility and regional indices. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+Beom: The data reflects a backdrop of robust liquidity and credit strength underpinning a generally neutral, range-bound market structure across major asset classes. The primary tension appears to be between the strong underlying credit appetite and the mixed signals from volatility and regional indices. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

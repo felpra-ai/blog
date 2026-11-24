@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Korea:** The Korean market is showing a neutral stance, with bullish indicators holding a notable majority. :korea:
 - **US:** The US market is reading as neutral, with a slight leaning towards bullish indicators. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market view presents a divergence: while credit and the US market show underlying stability or mild positive leaning, macro liquidity and FX are signaling caution. The crypto space is showing signs of improvement despite broader macro headwinds. On balance, the tape suggests a period of consolidation amidst varied sector strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market view presents a divergence: while credit and the US market show underlying stability or mild positive leaning, macro liquidity and FX are signaling caution. The crypto space is showing signs of improvement despite broader macro headwinds. On balance, the tape suggests a period of consolidation amidst varied sector strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

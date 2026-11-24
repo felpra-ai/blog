@@ -47,13 +47,13 @@ altLang: ko
 
 **Maine:** US equities registered the lowest win rate at 27.2%, accompanied by an average loss of -0.333. The higher frequency of losses relative to wins suggests considerable downward pressure over the period analyzed. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
 
-## !QAZ quorum verdict
+## Beom's quorum verdict
 
 The overall performance across the tracked markets indicates a challenging period, reflected in the negative average profit and loss across all sectors. While the crypto market maintained the highest win rate, the negative average P&L suggests that the magnitude of losses is currently outweighing the gains. The US equities market exhibited the weakest performance metrics in terms of win rate.
 
 The quorum synthesizes that the prevailing sentiment across the board leans toward caution, as evidenced by the collective negative average P&L. The disparity in performance metrics, particularly the low win rates in Kosho and Maine, suggests that directional conviction was difficult to maintain across different asset classes this week.
 
-This summary represents a review of past paper-trading results and should not be construed as investment advice or a prediction of future market movements. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="!QAZ 호랑이 지휘관" />
+This summary represents a review of past paper-trading results and should not be construed as investment advice or a prediction of future market movements. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
 
 ---
 

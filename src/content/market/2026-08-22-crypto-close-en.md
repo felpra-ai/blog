@@ -45,8 +45,8 @@ _Observation notes: most frequent regime shift in this market so far: extreme_be
 - **Nowel(Commodities):** Commodities display an extreme bullish reading, contrasting with the stable inflation picture. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto shows an extreme bullish reading with an improving trend, while the US market is reading as neutral with a slight bearish tilt. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The data suggests strong directional conviction in commodities and crypto, supported by bullish liquidity readings. The divergence between the extreme bullish readings in commodities and crypto, contrasted with the neutral or slightly bearish readings in US equities, suggests sector-specific strength is currently dominating the broader market sentiment. The stable trend indicators across most macro variables point toward a period of consolidation or measured movement rather than a clear directional break.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The data suggests strong directional conviction in commodities and crypto, supported by bullish liquidity readings. The divergence between the extreme bullish readings in commodities and crypto, contrasted with the neutral or slightly bearish readings in US equities, suggests sector-specific strength is currently dominating the broader market sentiment. The stable trend indicators across most macro variables point toward a period of consolidation or measured movement rather than a clear directional break.
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

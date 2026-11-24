@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodity sentiment is predominantly bearish, pointing to sustained downward pressure across the basket. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities show a slight bullish bias, while the sector breakdown indicates relative strength in Financial Services and Communication Services, contrasting with weakness in Technology and Energy. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents diverging signals; while US equities maintain a slight positive bias, commodity weakness and persistent bearish readings in inflation and crypto suggest underlying caution. The relative strength noted in certain US sectors contrasts with the deteriorating trend observed in the crypto space. On balance, the market appears to be navigating a period of mixed directional conviction. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents diverging signals; while US equities maintain a slight positive bias, commodity weakness and persistent bearish readings in inflation and crypto suggest underlying caution. The relative strength noted in certain US sectors contrasts with the deteriorating trend observed in the crypto space. On balance, the market appears to be navigating a period of mixed directional conviction. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

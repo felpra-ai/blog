@@ -48,8 +48,8 @@ _Observation notes: most frequent regime shift in this market so far: extreme_be
 - **Korea:** The Korean market sentiment is neutral, with slightly more bearish readings than bullish ones. :korea:
 - **US:** The US market sentiment is neutral, but the underlying trend is showing signs of deterioration. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: while bond strength and volatility suggest underlying stability, the pronounced bearish readings in credit and liquidity temper broader risk appetite. The US market's deteriorating trend contrasts with the neutral readings across crypto and Korea, suggesting sector-specific or regional caution is prevailing. Overall, the tape suggests a period of consolidation within defined boundaries. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: while bond strength and volatility suggest underlying stability, the pronounced bearish readings in credit and liquidity temper broader risk appetite. The US market's deteriorating trend contrasts with the neutral readings across crypto and Korea, suggesting sector-specific or regional caution is prevailing. Overall, the tape suggests a period of consolidation within defined boundaries. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

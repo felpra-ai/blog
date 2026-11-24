@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Nowel(Commodities):** Commodities show a pronounced bearish tilt across the board. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto exhibits a sideways bias with a slight bullish leaning, while the US market shows a deteriorating bearish trend. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
+## Cross-market & Beom's verdict
 The macro readings present a mixed picture, characterized by significant bearish signals in credit, commodities, and inflation, contrasted by a stable, slightly bullish reading in liquidity. The FX regime is notably bearish, suggesting persistent directional pressure in currency markets.
 
 Market performance mirrors this divergence; while crypto remains in a sideways, slightly bullish pattern, both the US and Korean indices are showing deteriorating bearish trends. The sector analysis indicates strength concentrated in gaming/NFT, other, defi, and payments, with a notable dominance pattern favoring Bitcoin.

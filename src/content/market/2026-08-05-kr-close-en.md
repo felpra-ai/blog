@@ -54,8 +54,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities show an extremely bullish leaning, with a high degree of bullish conviction, and the trend is improving. :korea:
 - **US:** US market sentiment is neutral, displaying a slight bullish edge against bearish readings, and the trend remains stable. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: commodities and Korean equities show pronounced strength, while liquidity and FX point toward significant headwinds. The general backdrop suggests caution despite localized strength. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: commodities and Korean equities show pronounced strength, while liquidity and FX point toward significant headwinds. The general backdrop suggests caution despite localized strength. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

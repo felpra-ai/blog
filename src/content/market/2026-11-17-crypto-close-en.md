@@ -39,8 +39,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are sagging, half of them bearish, like a field going quiet before the frost, and the inflation gauge has turned fully bearish with them. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto fell hardest, 90.2% bearish and still getting worse, so that's the risk to count before anything else. The US holds a modest upward lean, though nothing that gets my feet moving. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Bsho has bonds holding firm, Sham sees FX pressing up with liquidity steady, Nowel has commodities easing, and Bengal marks crypto as the weak spot. The verdict is consolidation within established ranges. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Bsho has bonds holding firm, Sham sees FX pressing up with liquidity steady, Nowel has commodities easing, and Bengal marks crypto as the weak spot. The verdict is consolidation within established ranges. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

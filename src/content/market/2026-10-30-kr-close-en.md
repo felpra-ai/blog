@@ -55,8 +55,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities sentiment is deteriorating, with a strong majority of bearish indicators. :korea:
 - **US:** US equities sentiment is improving, with a clear majority of bullish indicators. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence: credit and liquidity are strongly supportive, while commodities and crypto show signs of weakness. US equities appear to be finding some footing, contrasting with the deteriorating trends noted in Korean markets. Overall, the market structure suggests caution amidst underlying liquidity strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence: credit and liquidity are strongly supportive, while commodities and crypto show signs of weakness. US equities appear to be finding some footing, contrasting with the deteriorating trends noted in Korean markets. Overall, the market structure suggests caution amidst underlying liquidity strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

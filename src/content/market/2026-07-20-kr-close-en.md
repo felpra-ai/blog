@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Kosho(KR):** Korean equities show a stable, neutral regime, with consumer, semiconductor, and chemical sectors exhibiting strength. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 - **US:** US equities are in a neutral state, displaying an improving trend. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests caution, with FX leaning bearish and crypto showing signs of deterioration. US market structure appears supportive, while the overall tape suggests a range-bound, watchful period. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests caution, with FX leaning bearish and crypto showing signs of deterioration. US market structure appears supportive, while the overall tape suggests a range-bound, watchful period. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

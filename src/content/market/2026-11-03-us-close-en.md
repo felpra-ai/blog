@@ -49,8 +49,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** US equities are showing a sideways-bullish pattern, indicating an improving trend. :us:
 - **Sector:** Financial services and communication services show relative strength compared to technology. :sector:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests divergence; while US equities show signs of improvement, commodity and inflation readings point toward underlying softness. The relative strength observed in financial and communication services warrants attention against the backdrop of deteriorating momentum in Asian and crypto assets. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests divergence; while US equities show signs of improvement, commodity and inflation readings point toward underlying softness. The relative strength observed in financial and communication services warrants attention against the backdrop of deteriorating momentum in Asian and crypto assets. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

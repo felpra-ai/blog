@@ -23,19 +23,19 @@ images:
 - src: /toon/2026-11-20-radar-crypto-en/01.webp
   alt: 1/Cover — What got so crowded?
 - src: /toon/2026-11-20-radar-crypto-en/02.webp
-  alt: '2/Talk — !QAZ: Crow, anything on the radar? / Crow: Caldera traded 98x its
-    usual turnover. That''s attention, not a direction. / !QAZ: So the crowd showed
+  alt: '2/Talk — Beom: Kkau, anything on the radar? / Kkau: Caldera traded 98x its
+    usual turnover. That''s attention, not a direction. / Beom: So the crowd showed
     up there? / Bengal: Superwalk hit 17x usual too. A crowd, sure, but crowds don''t
     pick a side.'
 - src: /toon/2026-11-20-radar-crypto-en/03.webp
-  alt: '3/Talk — Crow: Caldera''s price? Barely budged! / Bengal: Superwalk rose hard
-    that day. The day''s change shows direction, volume doesn''t. / !QAZ: How many
-    names lit up overall? / Crow: Just 4 of 446 screened. Fewer names over the line
+  alt: '3/Talk — Kkau: Caldera''s price? Barely budged! / Bengal: Superwalk rose hard
+    that day. The day''s change shows direction, volume doesn''t. / Beom: How many
+    names lit up overall? / Kkau: Just 4 of 446 screened. Fewer names over the line
     means a rarer day.'
 - src: /toon/2026-11-20-radar-crypto-en/04.webp
   alt: '4/Key point — Caldera: 98.2x its usual turnover!'
 - src: /toon/2026-11-20-radar-crypto-en/05.webp
-  alt: '5/Last word — !QAZ: So why did Caldera get crowded? / Bengal: It''s that day
+  alt: '5/Last word — Beom: So why did Caldera get crowded? / Bengal: It''s that day
     versus the prior 10 sessions'' average. The data doesn''t say why. / Bengal: ...I
     just count the crowd.'
 ---

@@ -51,8 +51,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Korea:** The Korean market is registering as bearish, with the trend showing signs of deterioration. :korea:
 - **US:** The US market is reading as bullish, with a notable improvement in its underlying trend. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The divergence between the US market's improving bullish reading and the weakness seen in crypto and Korea suggests sector rotation may be a key dynamic. Macro indicators show underlying strength in credit and liquidity, contrasting sharply with bearish signals in commodities. On balance, the market appears to be navigating divergent regional and asset class performances. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The divergence between the US market's improving bullish reading and the weakness seen in crypto and Korea suggests sector rotation may be a key dynamic. Macro indicators show underlying strength in credit and liquidity, contrasting sharply with bearish signals in commodities. On balance, the market appears to be navigating divergent regional and asset class performances. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

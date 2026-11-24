@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities exhibit a clear bullish leaning, while inflation readings are significantly bullish. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is showing a neutral posture, with the overall market structure remaining stable. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The data presents a divergence where commodity and inflation signals are strongly positive, contrasting with the bearish tilt observed in credit and volatility. FX strength and the US market's improving trend suggest underlying directional support, though the overall picture remains mixed across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The data presents a divergence where commodity and inflation signals are strongly positive, contrasting with the bearish tilt observed in credit and volatility. FX strength and the US market's improving trend suggest underlying directional support, though the overall picture remains mixed across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

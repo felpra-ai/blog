@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Missiles over Saudi fields put a price on every barrel, and that cost travels into freight and factory bills. The broader commodity reading still sits deep in bearish ground, like a cold field that one warm afternoon has not yet thawed. <img class="emoji-char" src="/characters/v2/commodity/face/06_neutral.png" alt="노웰" />
 - **Kosho(KR):** The basket data separates cleanly. Bio-health, utilities and consumer hold up, while IT-media, chemicals and industrials lag. The talks between Korea and the EU on supply chains and carbon rules point toward that export-facing group, though the data does not yet reflect it. <img class="emoji-char" src="/characters/v2/kr/face/10_suspicious.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Lovble and Nowel start from the oil spike, Bsho and Sham from bearish commodity and currency readings with volatility rising, and Kosho from a defensive sector split. The open question is whether higher oil prices can shift a commodity regime that still reads bearish. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Lovble and Nowel start from the oil spike, Bsho and Sham from bearish commodity and currency readings with volatility rising, and Kosho from a defensive sector split. The open question is whether higher oil prices can shift a commodity regime that still reads bearish. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

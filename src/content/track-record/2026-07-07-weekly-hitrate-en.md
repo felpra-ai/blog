@@ -47,13 +47,13 @@ altLang: ko
 
 **Maine:** US equities recorded the lowest win rate at 22.7%, and the average profit and loss also points toward a negative outcome for the week. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
 
-## !QAZ quorum verdict
+## Beom's quorum verdict
 
 The overall performance across the analyzed markets reflects a challenging period, evidenced by the negative average profit and loss across all sectors. While Bengal maintained the highest win rate among the three markets, the cumulative results show that the average loss magnitude was substantial relative to the gains achieved. The data suggests a prevailing downward sentiment across the board this week.
 
 The analysis of the trading activity shows that the frequency of losses outweighed the frequency of wins when considering the overall portfolio metrics. This confluence of lower win rates and negative average P&L across the board points toward a cautious or bearish regime interpretation for the immediate term.
 
-This summary represents a review of paper-trading research and does not constitute investment advice. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="!QAZ 호랑이 지휘관" />
+This summary represents a review of paper-trading research and does not constitute investment advice. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
 
 ---
 

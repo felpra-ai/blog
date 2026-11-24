@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Maine(US):** US equities show a bearish leaning with deteriorating trend characteristics, while Technology and HEALTHCARE sectors demonstrated relative strength. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="멘쿤" />
 - **Crypto:** Digital assets are showing a sideways-bearish posture with a stable trend. :crypto:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: fixed income remains strongly bullish, contrasting with bearish readings across credit, commodities, and US equities. The relative strength observed in Technology and Healthcare within US equities suggests pockets of resilience amidst broader weakness. On balance, the tape reflects caution, with underlying macro signals pointing toward headwinds despite localized sector strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: fixed income remains strongly bullish, contrasting with bearish readings across credit, commodities, and US equities. The relative strength observed in Technology and Healthcare within US equities suggests pockets of resilience amidst broader weakness. On balance, the tape reflects caution, with underlying macro signals pointing toward headwinds despite localized sector strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

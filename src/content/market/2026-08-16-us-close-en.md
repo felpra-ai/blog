@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are displaying a sideways bullish regime, with strong bullish conviction noted. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are showing a neutral reading with an improving trend, while technology and communication services sectors are noted as strong. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a mixed signal, characterized by high bearish readings in volatility contrasting with strong bullishness in credit and commodities. The US market shows an improving trend amidst this backdrop, though crypto sentiment remains balanced. Overall, the data suggests a period of cautious consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a mixed signal, characterized by high bearish readings in volatility contrasting with strong bullishness in credit and commodities. The US market shows an improving trend amidst this backdrop, though crypto sentiment remains balanced. Overall, the data suggests a period of cautious consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

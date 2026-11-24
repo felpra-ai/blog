@@ -48,8 +48,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Kosho(KR):** Korean equities are reading as neutral overall, with materials showing strength. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 - **Lovble(Global):** Volatility is stable with equal bullish and bearish readings, and liquidity leans bullish. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests underlying strength in commodity pricing and inflation expectations, supported by a bullish credit regime. However, the mixed signals across FX and the neutral readings in major equity indices suggest a period of consolidation or directional uncertainty. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests underlying strength in commodity pricing and inflation expectations, supported by a bullish credit regime. However, the mixed signals across FX and the neutral readings in major equity indices suggest a period of consolidation or directional uncertainty. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

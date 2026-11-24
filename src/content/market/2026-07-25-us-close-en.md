@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities are reading as extremely bullish, contrasting with the inflation reading which is simply bullish. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Maine(US):** US equities are reading as neutral overall, with basic materials showing relative strength. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The data presents a divergence where commodities and bonds show pronounced strength indicators, while credit remains notably weak. US equities are holding a neutral stance amidst these differing macro signals, suggesting caution across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The data presents a divergence where commodities and bonds show pronounced strength indicators, while credit remains notably weak. US equities are holding a neutral stance amidst these differing macro signals, suggesting caution across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-20](/track-record/2026-07-20-weekly-hitrate-en/)

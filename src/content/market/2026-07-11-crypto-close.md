@@ -37,8 +37,8 @@ altLang: en
 - **노웰(원자재):** 원자재 시장은 매우 강세적인 모습을 보이고 있으며, 인플레이션 지표는 극도의 강세 국면을 나타내고 있습니다. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **벵갈(코인):** 암호화폐 시장은 중립 국면을 유지하고 있으며, 국장과 미장 모두 중립적인 흐름 속에서 추세는 안정적입니다. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 국제 유가에 대한 기대감으로 인해 일부 원자재 가격이 하락 압력을 받았으며, 거시 경제 전망에 대한 연준 의장의 발언이 주목받을 것으로 예상됩니다. 전반적으로 시장은 신중한 관망 국면을 유지하고 있습니다. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 국제 유가에 대한 기대감으로 인해 일부 원자재 가격이 하락 압력을 받았으며, 거시 경제 전망에 대한 연준 의장의 발언이 주목받을 것으로 예상됩니다. 전반적으로 시장은 신중한 관망 국면을 유지하고 있습니다. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

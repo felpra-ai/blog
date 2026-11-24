@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities are in a neutral state, with bearish indications showing a higher frequency than bullish ones. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is neutral overall, with the overall market structure showing a clear dominance from BTC. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The bond market's pronounced bullishness contrasts with the more balanced readings across FX and commodities, suggesting underlying structural support despite mixed sector signals. The improving trends noted in both Korea and the US markets suggest localized strength, while the overall crypto landscape remains range-bound.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The bond market's pronounced bullishness contrasts with the more balanced readings across FX and commodities, suggesting underlying structural support despite mixed sector signals. The improving trends noted in both Korea and the US markets suggest localized strength, while the overall crypto landscape remains range-bound.
 
 ---
 

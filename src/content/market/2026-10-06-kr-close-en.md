@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Kosho(KR):** Korean equities show a sideways bias leaning towards bullishness, with specific sectors like Biotechnology, Semiconductors, Industrials, and Financials showing relative strength. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
 - **Lovble(Global):** Overall market volatility is reading as neutral, though bearish readings are more pronounced than bullish ones. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents divergence, notably strong support for bonds contrasting with clear weakness in credit metrics. Equity performance shows mixed signals, with regional markets exhibiting sideways tendencies against a backdrop of macroeconomic caution. The overall market tone suggests a period of consolidation amidst varied directional pressures. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents divergence, notably strong support for bonds contrasting with clear weakness in credit metrics. Equity performance shows mixed signals, with regional markets exhibiting sideways tendencies against a backdrop of macroeconomic caution. The overall market tone suggests a period of consolidation amidst varied directional pressures. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

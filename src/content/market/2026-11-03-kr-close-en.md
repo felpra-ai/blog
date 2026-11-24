@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities are exhibiting a predominantly bearish leaning, and the trend is stable. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Kosho(KR):** Korean equities display a bearish leaning, and the trend is deteriorating. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The US market shows an improving bias, which is broadly supportive of the overall environment, though crypto is showing signs of deterioration. On balance, the market appears to be seeking range-bound consolidation amidst mixed macro signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The US market shows an improving bias, which is broadly supportive of the overall environment, though crypto is showing signs of deterioration. On balance, the market appears to be seeking range-bound consolidation amidst mixed macro signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

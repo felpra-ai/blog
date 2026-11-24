@@ -45,7 +45,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodity movements are predominantly bearish, indicating softening sentiment across the basket. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto remains neutral overall, with infrastructure showing strength while meme and exchange segments are weaker. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
+## Cross-market & Beom's verdict
 The macro picture presents a divergence in risk appetite. While volatility metrics suggest underlying bullish pressure, the readings for credit, FX, and commodities lean heavily into bearish territory. The US market itself is showing signs of deterioration, contrasting with the infrastructure strength observed in the crypto space.
 
 The liquidity environment is registering as neutral, which tempers the bearish signals emanating from several key asset classes. The consistent bearish lean across credit and commodities suggests caution is warranted across broad risk assets, even as the VIX suggests underlying tension remains high.

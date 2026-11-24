@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities show an extreme bullish bias, with bullish readings comprising the majority of the observed sentiment. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are reading neutral overall, with energy, real estate, financial services, and healthcare showing strength. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence where commodities and FX show pronounced bullish signals, while US equities remain range-bound. The macro environment suggests elevated geopolitical risk, which is reflected in the commodity strength. The overall picture points toward cautious consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence where commodities and FX show pronounced bullish signals, while US equities remain range-bound. The macro environment suggests elevated geopolitical risk, which is reflected in the commodity strength. The overall picture points toward cautious consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

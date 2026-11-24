@@ -49,10 +49,10 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Inflation:** Inflation readings are neutral, showing an equal weight distribution between bullish and bearish indicators. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Crypto:** Cryptocurrency sentiment is neutral, with bullish and bearish indicators maintaining a relatively close balance. :crypto:
 - **Korea:** Korean equities show a predominantly bullish reading, with minimal bearish influence noted. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
-- **US:** US equities sentiment reads neutral, with a slightly higher weighting toward bullish indicators compared to bearish ones. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+- **US:** US equities sentiment reads neutral, with a slightly higher weighting toward bullish indicators compared to bearish ones. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: credit strength and Korean sector strength contrast with bearish readings in liquidity and VIX. The general sentiment across major asset classes suggests caution within a mixed directional flow. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: credit strength and Korean sector strength contrast with bearish readings in liquidity and VIX. The general sentiment across major asset classes suggests caution within a mixed directional flow. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

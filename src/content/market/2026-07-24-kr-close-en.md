@@ -54,8 +54,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral â†
 - **Korea:** Korean equities are showing an improving trend, with bullish sentiment leading bearish readings. :korea:
 - **US:** US equities are maintaining a neutral stance, with bullish sentiment slightly exceeding bearish readings. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence, with commodities and bonds showing pronounced bullishness contrasting against extreme bearish readings in credit. The equity markets, both US and Korea, are exhibiting improving or neutral momentum, while the overall liquidity remains supportive. This suggests underlying asset strength is being supported by commodity demand, even as credit concerns persist.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence, with commodities and bonds showing pronounced bullishness contrasting against extreme bearish readings in credit. The equity markets, both US and Korea, are exhibiting improving or neutral momentum, while the overall liquidity remains supportive. This suggests underlying asset strength is being supported by commodity demand, even as credit concerns persist.
 
 **Related**
 - Latest weekly track record: [2026-07-20](/track-record/2026-07-20-weekly-hitrate-en/)

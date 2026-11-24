@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** The US market is reading as neutral, but the underlying trend is noted as deteriorating. :us:
 - **Sectors:** Strength is concentrated in gaming_nft, layer1, storage, and payments, with Bitcoin maintaining dominance across the board. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market exhibits a divergence where FX strength and crypto's improving trend contrast with deteriorating US momentum and bearish inflation signals. On balance, the cross-market picture suggests caution amidst sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market exhibits a divergence where FX strength and crypto's improving trend contrast with deteriorating US momentum and bearish inflation signals. On balance, the cross-market picture suggests caution amidst sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

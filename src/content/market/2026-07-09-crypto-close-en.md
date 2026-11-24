@@ -41,8 +41,8 @@ altLang: ko
 - **US:** The US market reads as neutral, showing an improving trend profile. :us:
 - **strong:** The strong basket components, including gaming_nft, defi, meme, and layer1, suggest continued relative strength. :strong:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents mixed signals; while US sentiment shows improvement and crypto remains stable, the bearish reading in liquidity and inflation warrants attention. The overall picture suggests caution, balancing sector strength against macro headwinds. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents mixed signals; while US sentiment shows improvement and crypto remains stable, the bearish reading in liquidity and inflation warrants attention. The overall picture suggests caution, balancing sector strength against macro headwinds. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

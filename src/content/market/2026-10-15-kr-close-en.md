@@ -53,8 +53,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities are registering an extreme bearish reading, with bearish sentiment substantially dominating the observed activity. :korea:
 - **US:** US equities are positioned in a sideways-bullish regime, showing a slight tilt towards bullish conviction. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: US equities maintain a slightly bullish bias, while both Crypto and Korean equities exhibit clear deterioration and bearish dominance. Macro indicators are largely neutral, save for bonds showing bearishness. This suggests that while underlying macro conditions are balanced, risk asset sentiment is bifurcated, with specific regional and asset classes under notable downward pressure. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: US equities maintain a slightly bullish bias, while both Crypto and Korean equities exhibit clear deterioration and bearish dominance. Macro indicators are largely neutral, save for bonds showing bearishness. This suggests that while underlying macro conditions are balanced, risk asset sentiment is bifurcated, with specific regional and asset classes under notable downward pressure. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

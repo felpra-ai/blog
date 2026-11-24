@@ -48,8 +48,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Liquidity:** Liquidity metrics indicate a clear bullish bias, suggesting supportive conditions across the board. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Korea:** Korean equities are showing a deteriorating trend, with bullish and bearish momentum nearly balanced. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The broader US market sentiment reads as improving, offering a degree of support to the overall tape, though the crypto asset class shows a clear deterioration in its trend. On balance, the confluence of strong liquidity support against mixed directional signals suggests a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The broader US market sentiment reads as improving, offering a degree of support to the overall tape, though the crypto asset class shows a clear deterioration in its trend. On balance, the confluence of strong liquidity support against mixed directional signals suggests a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

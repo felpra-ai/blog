@@ -51,8 +51,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Korea:** Korean markets exhibit a predominantly bearish leaning with limited bullish support. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
 - **US:** US equities show a generally improving trend, leaning bullish despite underlying caution. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: US equities show improving momentum, while commodities and crypto are exhibiting clear deterioration. The overall picture suggests caution is warranted, balancing sector strength in defensive areas against broader asset weakness. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: US equities show improving momentum, while commodities and crypto are exhibiting clear deterioration. The overall picture suggests caution is warranted, balancing sector strength in defensive areas against broader asset weakness. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

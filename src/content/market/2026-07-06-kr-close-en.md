@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities display a majority bullish reading, indicating underlying strength in that asset class. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Kosho(KR):** Korean equities show a mixed picture, with utility, chemical, and bio-health sectors exhibiting relative strength compared to semiconductors. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators present a mixed picture, characterized by bearish readings in liquidity and inflation, while commodities maintain a bullish bias. The divergence between the crypto asset class showing strong bullish momentum and the broader market readings suggests sector-specific divergence. On balance, the market exhibits a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators present a mixed picture, characterized by bearish readings in liquidity and inflation, while commodities maintain a bullish bias. The divergence between the crypto asset class showing strong bullish momentum and the broader market readings suggests sector-specific divergence. On balance, the market exhibits a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

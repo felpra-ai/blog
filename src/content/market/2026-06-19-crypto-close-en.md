@@ -37,7 +37,7 @@ altLang: ko
 - **Bengal(Crypto):** Cryptocurrency is showing a neutral overall reading, with the underlying dominance remaining concentrated in Bitcoin. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
 - **Lovble(Global):** Volatility is reading as neutral, indicating a stable trend across the spectrum. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
 
-## Cross-market & !QAZ's verdict
+## Cross-market & Beom's verdict
 The macro picture suggests underlying strength in fixed income and credit, contrasting with a more cautious reading in commodities and FX. The market structure shows both US and Korean indices are in an improving trend, while crypto's trend is noted as deteriorating. The overall liquidity reading is neutral, suggesting a balanced environment despite the differing sectorial signals.
 
 ---

@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodity pricing leans bearish, indicating downward pressure across the basket. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Kosho(KR):** Korean equities show a sideways bias with a deteriorating trend, while the semiconductor and financials sectors exhibit relative strength. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence: bonds are strongly positioned bullishly, yet credit and commodities are bearish, while FX shows extreme bearishness. Equity markets, including US and Korea, are displaying deteriorating sideways patterns. The overall sentiment suggests caution amidst underlying structural shifts in fixed income and currency markets. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence: bonds are strongly positioned bullishly, yet credit and commodities are bearish, while FX shows extreme bearishness. Equity markets, including US and Korea, are displaying deteriorating sideways patterns. The overall sentiment suggests caution amidst underlying structural shifts in fixed income and currency markets. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

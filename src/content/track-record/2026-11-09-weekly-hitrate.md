@@ -64,8 +64,8 @@ _이 해시를 보관해 두세요 — 나중에 원장 원본으로 재계산�
 
 멘쿤: 미국 주식 시장은 세 시장 중 가장 높은 승률(43.3%)을 기록하며 상대적 우위를 점했습니다. 하지만 평균 손익액 역시 마이너스(-)를 기록하여, 수익을 내는 거래와 손실을 보는 거래의 크기 균형에 대한 고민이 필요해 보입니다. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
 
-!QAZ 의 정족수 결론
-전반적인 시장 흐름을 종합해 볼 때, 이번 주 성적은 전반적으로 하방 압력이 우세했던 시기로 판단됩니다. 세 시장 모두 평균 손익 측면에서 마이너스(-)를 기록했으며, 특히 코숏 시장의 평균 손실 폭이 두드러지게 나타났습니다. 다만, 멘쿤 시장이 가장 높은 승률을 기록하며 일부 긍정적인 신호를 보여주었으나, 전체적인 정족수 균형을 맞추기 위해서는 시장 전반의 평균 손익 개선이 요구되는 시점입니다. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="!QAZ 호랑이 지휘관" />
+범의 정족수 결론
+전반적인 시장 흐름을 종합해 볼 때, 이번 주 성적은 전반적으로 하방 압력이 우세했던 시기로 판단됩니다. 세 시장 모두 평균 손익 측면에서 마이너스(-)를 기록했으며, 특히 코숏 시장의 평균 손실 폭이 두드러지게 나타났습니다. 다만, 멘쿤 시장이 가장 높은 승률을 기록하며 일부 긍정적인 신호를 보여주었으나, 전체적인 정족수 균형을 맞추기 위해서는 시장 전반의 평균 손익 개선이 요구되는 시점입니다. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
 
 **연결된 기록**
 - 이 주의 매매일지: [2026-11-01 crypto](/journal/2026-11-01-crypto-journal/) · [2026-11-02 crypto](/journal/2026-11-02-crypto-journal/) · [2026-11-02 kr](/journal/2026-11-02-kr-journal/) · [2026-11-03 crypto](/journal/2026-11-03-crypto-journal/) · [2026-11-03 kr](/journal/2026-11-03-kr-journal/) · [2026-11-03 us](/journal/2026-11-03-us-journal/) · [2026-11-04 crypto](/journal/2026-11-04-crypto-journal/) · [2026-11-04 kr](/journal/2026-11-04-kr-journal/) · [2026-11-04 us](/journal/2026-11-04-us-journal/) · [2026-11-05 crypto](/journal/2026-11-05-crypto-journal/) · [2026-11-05 kr](/journal/2026-11-05-kr-journal/) · [2026-11-05 us](/journal/2026-11-05-us-journal/) · [2026-11-06 crypto](/journal/2026-11-06-crypto-journal/) · [2026-11-06 kr](/journal/2026-11-06-kr-journal/) · [2026-11-06 us](/journal/2026-11-06-us-journal/) · [2026-11-07 crypto](/journal/2026-11-07-crypto-journal/) · [2026-11-07 us](/journal/2026-11-07-us-journal/)

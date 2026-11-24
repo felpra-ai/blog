@@ -41,8 +41,8 @@ altLang: ko
 - **Korea:** Korean equities are showing a neutral overall picture, with the trend registering as improving. :korea:
 - **US:** US equities are reading neutral, with bullish and bearish sentiment showing a relatively balanced distribution. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence, with strong bullish signals in credit and FX contrasting against bearish leanings in inflation and volatility. The underlying liquidity remains supportive, while equity markets across regions are displaying cautious, mixed readings. The overall tape suggests a period of consolidation underpinned by strong credit metrics. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence, with strong bullish signals in credit and FX contrasting against bearish leanings in inflation and volatility. The underlying liquidity remains supportive, while equity markets across regions are displaying cautious, mixed readings. The overall tape suggests a period of consolidation underpinned by strong credit metrics. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

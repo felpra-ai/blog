@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** US equities are positioned in a sideways-bullish pattern, indicating stable but indecisive momentum. :us:
 - **Sectors:** Financial Services, Communication Services, Consumer Cyclical, and Consumer Defensive sectors show strength, contrasting with weakness noted in Technology and Communication Services. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators present a mixed picture, with strong credit and bond readings counterbalanced by bearish commodity flows and softening crypto momentum. The divergence between sector strength (Financials/Consumer) and asset class weakness (Crypto/Commodities) suggests caution remains paramount across the board. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators present a mixed picture, with strong credit and bond readings counterbalanced by bearish commodity flows and softening crypto momentum. The divergence between sector strength (Financials/Consumer) and asset class weakness (Crypto/Commodities) suggests caution remains paramount across the board. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

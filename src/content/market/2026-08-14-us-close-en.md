@@ -54,8 +54,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Korea:** Korean equities are displaying a bullish trend, with the sentiment reading as improving. :korea:
 - **US:** US equities are currently in a neutral state, with a slight bullish bias observed. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a mixed picture: underlying commodity strength and improving Korean equity momentum contrast with bearish inflation readings and elevated VIX bearishness. The overall tape suggests caution, balancing sector strength in Basic Materials, Healthcare, and Communication Services against broader macro uncertainty. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a mixed picture: underlying commodity strength and improving Korean equity momentum contrast with bearish inflation readings and elevated VIX bearishness. The overall tape suggests caution, balancing sector strength in Basic Materials, Healthcare, and Communication Services against broader macro uncertainty. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

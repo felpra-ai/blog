@@ -46,8 +46,8 @@ _관측 각주: 이 시장 누적 최다 레짐 전이: bearish → neutral (8�
 - **노웰(원자재):** 원자재 시장은 극도의 강세 국면에 위치하며, 인플레이션 기대감은 중립적인 흐름을 보이고 있습니다. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **벵갈(코인):** 국내 주식 시장은 극도의 강세 국면에 있으며, 코인 시장은 추세가 악화되는 가운데 중립적인 모습을 보입니다. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 전반적인 시장 환경은 유동성 측면에서 극도의 약세 압력을 받고 있으나, 원자재와 국내 주식 시장은 강한 상승 모멘텀을 보여주고 있습니다. 종합적으로는 시장 전반의 신중한 관망 국면이 우세합니다. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 전반적인 시장 환경은 유동성 측면에서 극도의 약세 압력을 받고 있으나, 원자재와 국내 주식 시장은 강한 상승 모멘텀을 보여주고 있습니다. 종합적으로는 시장 전반의 신중한 관망 국면이 우세합니다. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **연결된 기록**
 - 직전 주간 트랙레코드: [2026-08-03](/track-record/2026-08-03-weekly-hitrate/)

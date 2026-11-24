@@ -48,8 +48,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities exhibit a sideways bias with a notable bullish leaning, suggesting underlying support. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Kosho(KR):** Korean equities are showing a clear bullish trend improvement, with semiconductor, industrials, bio-health, and materials sectors demonstrating strength. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests underlying strength in developed Asian equities, contrasting with softening sentiment observed in the cryptocurrency space. Macro indicators point to caution, particularly regarding inflation, while commodity positioning remains supportive. The overall picture suggests a period of selective strength amidst broader uncertainty. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests underlying strength in developed Asian equities, contrasting with softening sentiment observed in the cryptocurrency space. Macro indicators point to caution, particularly regarding inflation, while commodity positioning remains supportive. The overall picture suggests a period of selective strength amidst broader uncertainty. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

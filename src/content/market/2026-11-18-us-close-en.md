@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities have turned the way a field does after harvest: half the read bearish, inflation leaning the same way, and gold simply holding its ground near $3,850. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Maine(US):** Step back and the equity tone is a slow sideways sag rather than a break; the US is the one market whose trend is improving, while crypto keeps sliding with nearly nine in ten bearish. <img class="emoji-char" src="/characters/v2/us/face/10_suspicious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Lovble and Nowel put the split between firm bonds and soft commodities up front, Bsho pointed to the bearish lean under a neutral credit read, Sham flagged an extreme FX reading with flat liquidity, and Maine set an improving US against a sliding crypto market. The open question is whether bond strength and commodity weakness keep pulling apart. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Lovble and Nowel put the split between firm bonds and soft commodities up front, Bsho pointed to the bearish lean under a neutral credit read, Sham flagged an extreme FX reading with flat liquidity, and Maine set an improving US against a sliding crypto market. The open question is whether bond strength and commodity weakness keep pulling apart. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

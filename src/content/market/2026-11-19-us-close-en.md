@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Raw materials are cooling like a field after harvest, with commodities leaning soft and inflation tilted the same way. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Maine(US):** Stepping back, US equities drift sideways with a bearish lean, and the money has settled in Utilities, Consumer Defensive and Communication Services. <img class="emoji-char" src="/characters/v2/us/face/10_suspicious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Bsho points to the bullish tilt in bonds against a crypto trend that keeps deteriorating, and Lovble and Nowel both see commodities going soft. Whether that softness holds is still open. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Bsho points to the bullish tilt in bonds against a crypto trend that keeps deteriorating, and Lovble and Nowel both see commodities going soft. Whether that softness holds is still open. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

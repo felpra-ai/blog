@@ -44,8 +44,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** The US market is showing a sideways bias with a notable bearish leaning, and its trend is currently deteriorating. :us:
 - **Sector:** Sector strength is concentrated in gaming_nft, while other sectors including layer2 and layer1 are showing weakness, with Bitcoin maintaining dominance. :sector:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators suggest a cautious environment, particularly given the mixed signals from commodities and the deteriorating trend noted in the US market. The divergence between sector strength in gaming_nft and the broader weakness in other areas warrants attention. On balance, the tape appears range-bound with underlying macro uncertainty. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators suggest a cautious environment, particularly given the mixed signals from commodities and the deteriorating trend noted in the US market. The divergence between sector strength in gaming_nft and the broader weakness in other areas warrants attention. On balance, the tape appears range-bound with underlying macro uncertainty. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

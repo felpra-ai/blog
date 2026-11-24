@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodity indicators show an extreme bullish reading, contrasting with inflation which is exhibiting a sideways-bearish posture. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Kosho(KR):** Korean equities are reading as neutral overall, with utilities showing strength while other sectors are not highlighted. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: commodities and bonds lean strongly positive, yet credit remains entirely negative. US equities are neutral, mirroring the overall cautious tone, while the macro backdrop suggests underlying tension despite stable volatility readings. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: commodities and bonds lean strongly positive, yet credit remains entirely negative. US equities are neutral, mirroring the overall cautious tone, while the macro backdrop suggests underlying tension despite stable volatility readings. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-20](/track-record/2026-07-20-weekly-hitrate-en/)

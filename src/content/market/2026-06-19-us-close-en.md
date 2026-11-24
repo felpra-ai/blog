@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities are showing a neutral stance, with a noticeable bearish leaning. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Maine(US):** US equities are reading neutral overall, with Financial Services and Utilities showing strength. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The bond market's strong bullishness contrasts with the more mixed signals across FX and commodities. US market readings suggest an improving trend, while the deteriorating trend noted in crypto warrants attention. Overall, the tape suggests a cautious, range-seeking environment underpinned by relative strength in certain sectors. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The bond market's strong bullishness contrasts with the more mixed signals across FX and commodities. US market readings suggest an improving trend, while the deteriorating trend noted in crypto warrants attention. Overall, the tape suggests a cautious, range-seeking environment underpinned by relative strength in certain sectors. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

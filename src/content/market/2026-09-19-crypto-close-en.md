@@ -45,8 +45,8 @@ _Observation notes: most frequent regime shift in this market so far: extreme_be
 - **Nowel(Commodities):** Commodities exhibit a bearish leaning, while inflation indicators suggest a persistent downward bias. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is showing a neutral read, with the underlying dominance structure remaining concentrated in BTC. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market readings suggest underlying caution, evidenced by the bearish lean in inflation and FX, despite crypto maintaining a neutral posture. The US market shows a deteriorating trend reading, contrasting with the more stable readings observed in bonds and liquidity. On balance, the tape suggests a period of consolidation under elevated macro uncertainty. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market readings suggest underlying caution, evidenced by the bearish lean in inflation and FX, despite crypto maintaining a neutral posture. The US market shows a deteriorating trend reading, contrasting with the more stable readings observed in bonds and liquidity. On balance, the tape suggests a period of consolidation under elevated macro uncertainty. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

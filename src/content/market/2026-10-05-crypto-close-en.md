@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Nowel(Commodities):** Commodities are in a neutral state, with a notable skew towards bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is showing a sideways-bearish pattern, with underlying sector strength concentrated in gaming_nft, layer1, defi, and oracle_infra, while BTC maintains dominance. <img class="emoji-char" src="/characters/crypto/10_suspicious.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: fixed income remains strongly bullish, contrasting sharply with bearish readings across credit and FX. Equities in both the US and Korea are exhibiting deteriorating, sideways-bearish trends, while crypto mirrors this caution. The overall picture suggests caution, with underlying macro signals pointing to differentiated strength across asset classes. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: fixed income remains strongly bullish, contrasting sharply with bearish readings across credit and FX. Equities in both the US and Korea are exhibiting deteriorating, sideways-bearish trends, while crypto mirrors this caution. The overall picture suggests caution, with underlying macro signals pointing to differentiated strength across asset classes. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

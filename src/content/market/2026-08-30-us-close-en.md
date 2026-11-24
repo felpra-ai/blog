@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities exhibit an extreme bullish reading, suggesting strong underlying demand. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are showing a deteriorating trend, with real estate being a relative strength while consumer cyclical, financial services, and industrials are lagging. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market view suggests robust commodity strength and improving liquidity, contrasting with deteriorating US equity momentum. The macro picture is characterized by strong credit and commodity support, while underlying volatility remains elevated. On balance, the market exhibits mixed directional signals, requiring caution. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market view suggests robust commodity strength and improving liquidity, contrasting with deteriorating US equity momentum. The macro picture is characterized by strong credit and commodity support, while underlying volatility remains elevated. On balance, the market exhibits mixed directional signals, requiring caution. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

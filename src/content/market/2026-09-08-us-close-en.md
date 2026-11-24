@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities show a sideways bias with a moderate bullish tilt. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities show a stable, neutral reading, with sector strength noted in areas outside of Financial Services. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure reflects persistent bearish undertones across liquidity and foreign exchange, despite commodities showing some upward momentum. US equities are holding a neutral stance amidst these broader directional pressures. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure reflects persistent bearish undertones across liquidity and foreign exchange, despite commodities showing some upward momentum. US equities are holding a neutral stance amidst these broader directional pressures. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

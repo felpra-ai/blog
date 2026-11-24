@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are exhibiting a sideways bias with a slight bullish tilt, and inflation readings are strongly bearish. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities are showing a neutral stance with an improving trend, while the Energy sector is noted as strong, contrasting with weakness in Real Estate, UTILITIES, and Consumer Cyclical. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence, with strong bullishness noted in volatility and FX, yet significant bearish pressure is evident across credit, inflation, and commodities. US equities are showing an improving trend amidst this backdrop, though crypto sentiment is deteriorating. Overall, the market structure suggests caution, balancing improving directional signals against deep underlying sector weakness. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence, with strong bullishness noted in volatility and FX, yet significant bearish pressure is evident across credit, inflation, and commodities. US equities are showing an improving trend amidst this backdrop, though crypto sentiment is deteriorating. Overall, the market structure suggests caution, balancing improving directional signals against deep underlying sector weakness. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

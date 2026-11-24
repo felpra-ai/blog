@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities are neutral, with a slight leaning towards bullish sentiment. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is neutral overall, with a clear dominance observed in the BTC sector. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The US market exhibits strong bullish readings, contrasting with the overall bearish lean in volatility and liquidity. The macro picture suggests underlying caution despite localized strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The US market exhibits strong bullish readings, contrasting with the overall bearish lean in volatility and liquidity. The macro picture suggests underlying caution despite localized strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities are registering a neutral stance, with a noticeable tilt towards bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is showing a neutral overall picture, with the dominance structure pointing toward Bitcoin. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests strong support from liquidity and bonds, contrasting with a neutral read on commodities and crypto. The US market shows signs of improvement, while Korea's trend is noted as deteriorating. On balance, the cross-market flow suggests underlying structural support despite varied sector performance. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests strong support from liquidity and bonds, contrasting with a neutral read on commodities and crypto. The US market shows signs of improvement, while Korea's trend is noted as deteriorating. On balance, the cross-market flow suggests underlying structural support despite varied sector performance. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities read as extremely bullish, showing a strong directional leaning away from bearish indicators. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Maine(US):** US equities are reading as neutral overall, with Energy, Healthcare, and Basic Materials showing strength while Utilities and Financial Services are lagging. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure indicates strong underlying commodity strength and improving sentiment within the crypto asset class. The cross-market readings suggest a cautious environment, particularly given the focus areas noted for the upcoming week. On balance, the tape appears range-bound with notable sector divergence. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure indicates strong underlying commodity strength and improving sentiment within the crypto asset class. The cross-market readings suggest a cautious environment, particularly given the focus areas noted for the upcoming week. On balance, the tape appears range-bound with notable sector divergence. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are showing a neutral posture, with bearish indicators holding a more pronounced weight. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities are displaying a sideways bias with a bullish leaning, while the financial services sector shows strength, contrasting with weakness in real estate. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** US market structure appears to be improving, providing a supportive backdrop to the broader market, though the crypto asset class is showing signs of deterioration. Overall, the market sentiment suggests a cautious, range-seeking environment. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** US market structure appears to be improving, providing a supportive backdrop to the broader market, though the crypto asset class is showing signs of deterioration. Overall, the market sentiment suggests a cautious, range-seeking environment. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

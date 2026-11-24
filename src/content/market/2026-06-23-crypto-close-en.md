@@ -37,8 +37,8 @@ altLang: ko
 - **US:** The US market sentiment is neutral, with bullish and bearish readings showing a relatively balanced distribution. :us:
 - **Commodities:** Commodity sentiment is neutral, indicating an even split between bullish and bearish readings. :commodities:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a mixed signal, with strong bullish readings in credit and liquidity contrasting against bearish readings in inflation. The market structure suggests a period of consolidation, where directional conviction is lacking across major asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a mixed signal, with strong bullish readings in credit and liquidity contrasting against bearish readings in inflation. The market structure suggests a period of consolidation, where directional conviction is lacking across major asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

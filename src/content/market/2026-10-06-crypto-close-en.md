@@ -45,8 +45,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Markets:** The US market structure reads as sideways with a notable bearish tilt, while Korea shows a slight bullish leaning. :markets:
 - **Sectors:** The gaming_nft and defi sectors are showing strength, while the overall market dominance remains concentrated in btc. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The data presents a divergence where fixed income indicators are strongly positive, contrasting with bearish readings in credit and the US equity structure. The crypto space mirrors this caution with a sideways-bearish posture. Overall, the market exhibits mixed signals, suggesting caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The data presents a divergence where fixed income indicators are strongly positive, contrasting with bearish readings in credit and the US equity structure. The crypto space mirrors this caution with a sideways-bearish posture. Overall, the market exhibits mixed signals, suggesting caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

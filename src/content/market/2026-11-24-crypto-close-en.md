@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Barrels are flowing again out of Libya and oil has come off, though the Hormuz warnings out of Seoul mean the Gulf has not cleared, and commodities as a group stay neutral. <img class="emoji-char" src="/characters/v2/commodity/face/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is the heaviest of the three, with eight in ten readings bearish at 80.2%, and bitcoin is holding dominance while payments and oracle infra lag. <img class="emoji-char" src="/characters/v2/crypto/face/10_suspicious.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Bsho and Lovble see the US and Korea deteriorating, Sham and Bsho both point to liquidity at 100.0% bullish, and Bengal finds crypto the weakest. Still open: whether cheaper oil eases anything while crypto stays this bearish. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Bsho and Lovble see the US and Korea deteriorating, Sham and Bsho both point to liquidity at 100.0% bullish, and Bengal finds crypto the weakest. Still open: whether cheaper oil eases anything while crypto stays this bearish. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-23](/track-record/2026-11-23-weekly-hitrate-en/)

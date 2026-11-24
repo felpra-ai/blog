@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodity sentiment registers a clear bullish leaning, suggesting underlying strength in physical assets. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities show a pronounced bearish bias, with notable weakness observed in the Technology sector, while Real Estate, Utilities, and Energy exhibit relative strength. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market exhibits divergence; while commodities and crypto show signs of underlying strength or improvement, the broader US equity picture is deteriorating, and liquidity signals bearish pressure. The underlying macro picture suggests caution, particularly given the contrasting signals between asset classes and the general liquidity environment. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market exhibits divergence; while commodities and crypto show signs of underlying strength or improvement, the broader US equity picture is deteriorating, and liquidity signals bearish pressure. The underlying macro picture suggests caution, particularly given the contrasting signals between asset classes and the general liquidity environment. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

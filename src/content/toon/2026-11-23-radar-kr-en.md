@@ -23,17 +23,17 @@ images:
 - src: /toon/2026-11-23-radar-kr-en/01.webp
   alt: 1/Cover — Who got so crowded?
 - src: /toon/2026-11-23-radar-kr-en/02.webp
-  alt: '2/Talk — !QAZ: Anything crowded on the radar? / Crow: 휴림로봇 traded 17x its
+  alt: '2/Talk — Beom: Anything crowded on the radar? / Kkau: 휴림로봇 traded 17x its
     usual. That''s seventeen normal days in one! / Kosho: Any reason it got so crowded?
-    / Crow: 스튜디오드래곤 hit 7x too. Crowded means attention. Data doesn''t say why.'
+    / Kkau: 스튜디오드래곤 hit 7x too. Crowded means attention. Data doesn''t say why.'
 - src: /toon/2026-11-23-radar-kr-en/03.webp
-  alt: '3/Talk — !QAZ: And how did 휴림로봇''s price do? / Kosho: It ended way up that
-    day. Direction comes from price, not volume. / !QAZ: How much of the market lit
-    up? / Crow: Only 2 of 314 screened names lit up. Fewer hits means a rarer crowd.'
+  alt: '3/Talk — Beom: And how did 휴림로봇''s price do? / Kosho: It ended way up that
+    day. Direction comes from price, not volume. / Beom: How much of the market lit
+    up? / Kkau: Only 2 of 314 screened names lit up. Fewer hits means a rarer crowd.'
 - src: /toon/2026-11-23-radar-kr-en/04.webp
   alt: 4/Key point — 16.7x usual turnover in one day
 - src: /toon/2026-11-23-radar-kr-en/05.webp
-  alt: '5/Last word — !QAZ: Any news behind 휴림로봇''s crowd? / Kosho: None in our data.
+  alt: '5/Last word — Beom: Any news behind 휴림로봇''s crowd? / Kosho: None in our data.
     17x says how busy it got, not where it''s headed. / Kosho: ...All that trading.
     Nap time.'
 ---

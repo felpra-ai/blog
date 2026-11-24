@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are showing a predominantly bearish trend. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities are displaying a bearish bias, with cyclical and technology sectors showing relative strength compared to others. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests underlying caution, evidenced by the bearish readings across commodities, inflation, and US equities, despite some improving sentiment in crypto. The divergence between stable bond readings and bearish credit/commodity readings suggests underlying asset class divergence. On balance, the tape appears range-bound with notable sector weakness in US equities. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests underlying caution, evidenced by the bearish readings across commodities, inflation, and US equities, despite some improving sentiment in crypto. The divergence between stable bond readings and bearish credit/commodity readings suggests underlying asset class divergence. On balance, the tape appears range-bound with notable sector weakness in US equities. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

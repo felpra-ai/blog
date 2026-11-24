@@ -48,8 +48,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Korea:** The Korean market displays a deteriorating trend, with bearish readings slightly outpacing bullish ones. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
 - **US:** The US market is in an improving trend, with bullish readings showing a noticeable advantage. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The underlying liquidity environment reads as supportive, contrasting with the deteriorating trend observed in the crypto space. While the US market shows signs of improvement, the broader asset mix suggests caution is warranted. The overall tape appears to be consolidating within established ranges. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The underlying liquidity environment reads as supportive, contrasting with the deteriorating trend observed in the crypto space. While the US market shows signs of improvement, the broader asset mix suggests caution is warranted. The overall tape appears to be consolidating within established ranges. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

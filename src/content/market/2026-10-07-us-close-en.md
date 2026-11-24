@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are showing a neutral stance, with a notable weight on the bearish side. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities are in a sideways bearish regime, with Healthcare and Communication Services showing relative strength compared to Financial Services and Crypto. <img class="emoji-char" src="/characters/us/10_suspicious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: bonds show significant strength while credit remains cautious. US equities are range-bound with underlying sector strength noted in healthcare and communications, contrasting with the softer readings in crypto. On balance, the tape suggests a period of consolidation under mixed macro signals. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: bonds show significant strength while credit remains cautious. US equities are range-bound with underlying sector strength noted in healthcare and communications, contrasting with the softer readings in crypto. On balance, the tape suggests a period of consolidation under mixed macro signals. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

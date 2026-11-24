@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities show a sideways bias with a moderate bullish tilt. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equity trends are stable, showing a slight bearish tilt, while the Communication Services sector shows strength. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market view suggests generalized caution, particularly highlighted by the extreme bearish reading in liquidity. While commodities maintain a slight upward bias, the macro indicators point toward a lack of clear directional conviction across fixed income and FX. The stability across most major asset classes, contrasted with the bearish liquidity reading, suggests underlying tension within the market structure. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market view suggests generalized caution, particularly highlighted by the extreme bearish reading in liquidity. While commodities maintain a slight upward bias, the macro indicators point toward a lack of clear directional conviction across fixed income and FX. The stability across most major asset classes, contrasted with the bearish liquidity reading, suggests underlying tension within the market structure. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

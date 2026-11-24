@@ -53,8 +53,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** The US market is showing a neutral reading, but the bearish indicators are significantly dominating the bullish ones. :us:
 - **Sectors:** Communication Services is noted as a strong sector, while Industrials, Real Estate, and Energy are flagged as weak. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents significant divergence, particularly in the extreme bearish readings for Credit and Inflation, contrasting with the neutral readings observed in Volatility and Bonds. The US market's deteriorating trend, coupled with the sector weakness in Industrials and Real Estate, suggests caution, while the relative strength in Communication Services provides a notable counterpoint.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents significant divergence, particularly in the extreme bearish readings for Credit and Inflation, contrasting with the neutral readings observed in Volatility and Bonds. The US market's deteriorating trend, coupled with the sector weakness in Industrials and Real Estate, suggests caution, while the relative strength in Communication Services provides a notable counterpoint.
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

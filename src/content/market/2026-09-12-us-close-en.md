@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities exhibit a bullish leaning, though bearish indicators hold a greater weight, and the overall trend remains stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are reading as neutral overall, with the broader market showing signs of deterioration, while specific sectors indicate weakness in Real Estate and Consumer Cyclical. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents diverging signals; while volatility suggests strong underlying confidence, credit and liquidity readings point toward bearish pressure. The US market's deteriorating trend contrasts with the mixed signals across other asset classes, suggesting a period of caution and divergence in market positioning. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents diverging signals; while volatility suggests strong underlying confidence, credit and liquidity readings point toward bearish pressure. The US market's deteriorating trend contrasts with the mixed signals across other asset classes, suggesting a period of caution and divergence in market positioning. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

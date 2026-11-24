@@ -49,8 +49,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities present a mixed picture, with bullish sentiment outweighing bearish readings. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Kosho(KR):** Korean equities show a neutral posture, with consumer, financials, semiconductors, and chemicals exhibiting strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market view suggests caution, highlighted by the bearish skew in FX and Inflation, even as commodity sentiment remains relatively positive. The US market appears stable, while the Korean sector strength is concentrated within specific industrial and financial segments. Overall, the tape suggests a period of consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market view suggests caution, highlighted by the bearish skew in FX and Inflation, even as commodity sentiment remains relatively positive. The US market appears stable, while the Korean sector strength is concentrated within specific industrial and financial segments. Overall, the tape suggests a period of consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

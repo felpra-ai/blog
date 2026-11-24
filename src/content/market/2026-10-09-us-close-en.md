@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are registering a bearish regime, with the majority of sentiment pointing downward. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are in a sideways-bearish pattern, while the Technology and Energy sectors showed relative strength. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests caution, with commodities showing clear weakness and crypto exhibiting deteriorating momentum. The strength noted in Technology and Energy within US equities provides a counterpoint to the broader bearish drift observed in the US index. Overall, the tape appears range-bound with underlying sector divergence. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests caution, with commodities showing clear weakness and crypto exhibiting deteriorating momentum. The strength noted in Technology and Energy within US equities provides a counterpoint to the broader bearish drift observed in the US index. Overall, the tape appears range-bound with underlying sector divergence. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

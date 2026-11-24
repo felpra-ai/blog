@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities exhibit a clear bullish bias, with the majority of readings pointing upward. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities show a deteriorating trend, with bearish indicators significantly outweighing bullish ones. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: commodities are showing clear strength, while the broader US equity picture is deteriorating. Liquidity remains notably constrained, and while macro indicators are mixed, the underlying sentiment suggests caution across several asset classes. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: commodities are showing clear strength, while the broader US equity picture is deteriorating. Liquidity remains notably constrained, and while macro indicators are mixed, the underlying sentiment suggests caution across several asset classes. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

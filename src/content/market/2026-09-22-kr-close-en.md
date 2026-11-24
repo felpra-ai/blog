@@ -52,8 +52,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are in a deteriorating trend, as evidenced by the significantly higher weight of bearish indicators. :us:
 - **Sector:** Korean Industrials, Consumer, and Materials sectors show relative strength, while Financials appear to be lagging. :sector:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market view suggests divergence, with FX strength contrasting against deteriorating US equity momentum and bearish inflation readings. The improving trend in Crypto and Korea offers pockets of relative strength against broader macro caution. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market view suggests divergence, with FX strength contrasting against deteriorating US equity momentum and bearish inflation readings. The improving trend in Crypto and Korea offers pockets of relative strength against broader macro caution. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

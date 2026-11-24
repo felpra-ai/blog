@@ -55,8 +55,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities are reading neutral overall, with the industrials, chemical, IT media, and materials sectors showing strength while consumer sectors are lagging. :korea:
 - **US:** US equities are reading neutral, with bullish sentiment showing a slight edge and an improving trend. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests underlying caution, evidenced by the extreme bearish readings in volatility and liquidity, even as US equities show signs of improvement. The divergence between the bearish tilt in FX and the neutral/slightly bullish readings in US and Korea warrants observation. On balance, the tape suggests a period of consolidation within defined boundaries. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests underlying caution, evidenced by the extreme bearish readings in volatility and liquidity, even as US equities show signs of improvement. The divergence between the bearish tilt in FX and the neutral/slightly bullish readings in US and Korea warrants observation. On balance, the tape suggests a period of consolidation within defined boundaries. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

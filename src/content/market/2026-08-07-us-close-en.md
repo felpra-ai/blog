@@ -55,8 +55,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** US markets are reading as neutral, with a slight bullish bias, and the trend improving. :us:
 - **Sectors:** Basic Materials, HEALTHCARE, and Real Estate are showing strength, while Utilities and UTILITIES are noted as weak areas. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The divergence between commodity strength and liquidity weakness is notable, while regional performance shows distinct divergence between Korea and the US. On balance, the market exhibits cautious directional movement across asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The divergence between commodity strength and liquidity weakness is notable, while regional performance shows distinct divergence between Korea and the US. On balance, the market exhibits cautious directional movement across asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

@@ -55,8 +55,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** US equities are reading neutral overall, with a slightly higher proportion of bearish readings than bullish ones. :us:
 - **Sectors:** Energy, Real Estate, Healthcare, and Consumer Defensive sectors show strength, while Basic Materials and Financial Services show weakness. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The data suggests strong underlying commodity and crypto momentum, which contrasts with the mixed signals in the US and Korean equity spaces. The macro picture is supported by robust liquidity and commodity strength, though FX tension warrants attention. On balance, the tape suggests cautious momentum building across key asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The data suggests strong underlying commodity and crypto momentum, which contrasts with the mixed signals in the US and Korean equity spaces. The macro picture is supported by robust liquidity and commodity strength, though FX tension warrants attention. On balance, the tape suggests cautious momentum building across key asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

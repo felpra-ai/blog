@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodity trends are currently neutral, showing a higher proportion of bearish readings compared to bullish ones. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Kosho(KR):** Korean equities are showing a neutral overall stance, with the utilities and IT media sectors demonstrating relative strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests underlying support from fixed income and credit, though commodity and crypto readings indicate caution. On balance, the market structure suggests a period of consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests underlying support from fixed income and credit, though commodity and crypto readings indicate caution. On balance, the market structure suggests a period of consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

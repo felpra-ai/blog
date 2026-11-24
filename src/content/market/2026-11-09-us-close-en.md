@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are reading bearish, with a significant majority of indicators pointing to the downside, and the trend is stable. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities are registering a sideways bullish bias, with the overall trend remaining stable, while Financial Services, Communication Services, and Consumer Defensive are showing strength relative to Technology and Technology. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests a divergence where US equities show relative strength despite broader commodity weakness and persistent inflationary concerns. The crypto space is exhibiting a clear bearish drift, while the overall liquidity environment remains balanced. The confluence of these readings suggests caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests a divergence where US equities show relative strength despite broader commodity weakness and persistent inflationary concerns. The crypto space is exhibiting a clear bearish drift, while the overall liquidity environment remains balanced. The confluence of these readings suggests caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

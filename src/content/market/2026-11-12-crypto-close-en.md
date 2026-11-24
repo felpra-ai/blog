@@ -48,8 +48,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Korea:** The Korean market is trending downward, with bearish indicators significantly outweighing bullish ones. :korea:
 - **US:** The US market maintains a stable trend with a clear bullish leaning. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The US market presents a stable, bullish backdrop, which contrasts with the deteriorating trend observed in the crypto space and the downward drift in Korean equities. Macro indicators suggest underlying support in credit and liquidity, though inflation leans bearish. Overall, the cross-market picture suggests caution amidst differing directional biases across asset classes. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The US market presents a stable, bullish backdrop, which contrasts with the deteriorating trend observed in the crypto space and the downward drift in Korean equities. Macro indicators suggest underlying support in credit and liquidity, though inflation leans bearish. Overall, the cross-market picture suggests caution amidst differing directional biases across asset classes. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

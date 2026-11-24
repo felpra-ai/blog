@@ -52,8 +52,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities are reading sideways bearish, with the overall trend showing signs of deterioration. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
 - **US:** US equities are reading sideways bearish, maintaining a stable but cautious trend. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence where fixed income and crypto show supportive leanings, contrasting with bearish readings in credit, commodities, and inflation. The broader equity picture, encompassing both US and Korean markets, suggests caution despite underlying liquidity support. On balance, the tape appears to be seeking a range defined by these conflicting macro signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence where fixed income and crypto show supportive leanings, contrasting with bearish readings in credit, commodities, and inflation. The broader equity picture, encompassing both US and Korean markets, suggests caution despite underlying liquidity support. On balance, the tape appears to be seeking a range defined by these conflicting macro signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

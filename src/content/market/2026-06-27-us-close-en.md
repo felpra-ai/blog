@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodity sentiment is neutral, showing a slight leaning toward bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities show a neutral reading with an improving trend, while strong sectors include Financial Services, UTILITIES, and INDUSTRIALS. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators suggest robust underlying support across fixed income, FX, and liquidity, though commodity readings are muted. The divergence between the improving US equity trend and the deteriorating Korean market warrants attention. Overall, the market exhibits a cautious, yet structurally supported, tape. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators suggest robust underlying support across fixed income, FX, and liquidity, though commodity readings are muted. The divergence between the improving US equity trend and the deteriorating Korean market warrants attention. Overall, the market exhibits a cautious, yet structurally supported, tape. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

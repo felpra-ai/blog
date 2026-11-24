@@ -37,8 +37,8 @@ altLang: ko
 - **US:** The US market shows a neutral reading, though the underlying trend is noted as improving. :us:
 - **Commodities:** Commodities are registering a bullish reading, indicating strong underlying support. :commodities:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: while core commodities and the US market show signs of underlying support or improvement, fixed income and credit indicators point toward persistent caution. The overall picture suggests a period of mixed directional conviction across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: while core commodities and the US market show signs of underlying support or improvement, fixed income and credit indicators point toward persistent caution. The overall picture suggests a period of mixed directional conviction across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

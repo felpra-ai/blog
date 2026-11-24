@@ -54,8 +54,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are positioned neutrally, with the trend remaining stable. :us:
 - **Sector Focus:** Materials sectors in Korea show strength, while Utilities sectors in Korea exhibit weakness. :sector:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market exhibits a divergence where underlying macro indicators, particularly liquidity and credit, suggest significant strain, contrasting with improving trends in crypto and Korean equities. The strength noted in materials, coupled with heightened geopolitical trade tensions, suggests underlying sector rotation dynamics are active. On balance, the tape reflects caution amid conflicting signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market exhibits a divergence where underlying macro indicators, particularly liquidity and credit, suggest significant strain, contrasting with improving trends in crypto and Korean equities. The strength noted in materials, coupled with heightened geopolitical trade tensions, suggests underlying sector rotation dynamics are active. On balance, the tape reflects caution amid conflicting signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

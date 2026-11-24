@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Kosho(KR):** Korean equities are showing a bearish tilt, with the IT/Media sector showing strength while Industrials, Materials, and Financials are lagging. <img class="emoji-char" src="/characters/kr/10_suspicious.png" alt="코숏" />
 - **Lovble(Global):** Volatility remains at a neutral reading, with the broader market sentiment leaning slightly towards bullishness. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The US market shows signs of improvement, which is broadly supportive of the overall environment, although the cryptocurrency space is exhibiting deteriorating bearish momentum. On balance, the cross-market picture suggests a cautious, range-seeking tape amidst mixed signals. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The US market shows signs of improvement, which is broadly supportive of the overall environment, although the cryptocurrency space is exhibiting deteriorating bearish momentum. On balance, the cross-market picture suggests a cautious, range-seeking tape amidst mixed signals. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

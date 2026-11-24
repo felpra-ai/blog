@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodity sentiment is balanced, showing an equal split between bullish and bearish indicators. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are showing an improving trend, with Healthcare, Real Estate, Consumer Defensive, and Consumer Cyclical sectors showing strength, while Utilities and Energy are lagging. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a mixed signal: liquidity remains bullish, yet credit indicators are decidedly bearish. US equities show signs of improvement, contrasting with the deteriorating trend observed in the crypto space. Overall, the market appears to be navigating a period of cautious consolidation amidst diverging sectoral strengths. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a mixed signal: liquidity remains bullish, yet credit indicators are decidedly bearish. US equities show signs of improvement, contrasting with the deteriorating trend observed in the crypto space. Overall, the market appears to be navigating a period of cautious consolidation amidst diverging sectoral strengths. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

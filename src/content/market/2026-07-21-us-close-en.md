@@ -56,8 +56,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are showing a stable trend, with bullish and bearish sentiment appearing relatively balanced. :us:
 - **Sectors:** Energy, Real Estate, and Basic Materials are noted as sectors exhibiting strength, while Industrials, Healthcare, and Communication Services appear weaker. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests underlying tension, particularly evident in the crypto space and the geopolitical headlines impacting energy flows. The breadth across major asset classes is mixed, pointing toward caution despite some sector strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests underlying tension, particularly evident in the crypto space and the geopolitical headlines impacting energy flows. The breadth across major asset classes is mixed, pointing toward caution despite some sector strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

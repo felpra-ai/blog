@@ -41,8 +41,8 @@ altLang: ko
 - **Korea:** Korean equities are reading as neutral, with a slight majority of readings indicating bearish sentiment. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 - **US:** US equities are reading as neutral, with a slight indication of improving momentum. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence, with credit and inflation leaning bearish while US equities show signs of improvement. The relative strength noted in Korean consumer and IT media sectors contrasts with the broader market neutrality. Overall, the market structure suggests caution amidst mixed directional signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence, with credit and inflation leaning bearish while US equities show signs of improvement. The relative strength noted in Korean consumer and IT media sectors contrasts with the broader market neutrality. Overall, the market structure suggests caution amidst mixed directional signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

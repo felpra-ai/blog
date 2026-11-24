@@ -55,8 +55,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities are exhibiting a deteriorating trend, with bearish indicators outweighing bullish ones. :korea:
 - **US:** US market indicators suggest an improving trend, with a notable skew towards bullish readings. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market exhibits divergence: US sentiment is improving and supportive, while Crypto and Korean equities show deteriorating trends. Bonds maintain an extreme bullish posture despite mixed signals elsewhere. Overall, the tape suggests cautious positioning amidst varying sector strengths and macro readings. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market exhibits divergence: US sentiment is improving and supportive, while Crypto and Korean equities show deteriorating trends. Bonds maintain an extreme bullish posture despite mixed signals elsewhere. Overall, the tape suggests cautious positioning amidst varying sector strengths and macro readings. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

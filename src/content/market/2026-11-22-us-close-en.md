@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Grain and energy inputs suggest a soft underlying current, moving against the backdrop of persistent inflationary pressures. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Maine(US):** The weekly picture suggests a general lack of directional conviction across major developed markets, with consumer staples showing relative strength. <img class="emoji-char" src="/characters/v2/us/face/10_suspicious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Volatility is registering a bullish trend, while credit and commodities show clear bearish tilts. The open question remains the divergence between strong liquidity readings and deteriorating asset class sentiment. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Volatility is registering a bullish trend, while credit and commodities show clear bearish tilts. The open question remains the divergence between strong liquidity readings and deteriorating asset class sentiment. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

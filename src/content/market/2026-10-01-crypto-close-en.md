@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **US:** The US market is reading sideways bearish, maintaining a stable trend despite mixed signals. :us:
 - **Sectors:** Within digital assets, the DeFi, other, layer1, and payments baskets show strength, while the exchange basket appears weaker, with Bitcoin maintaining dominance. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro view presents a divergence, with bonds showing significant strength contrasting against bearish signals in credit and inflation. While crypto shows improving momentum, the broader US and Korean markets are registering bearish tendencies. The overall picture suggests caution, balancing strong underlying asset sectors against mixed macro signals. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro view presents a divergence, with bonds showing significant strength contrasting against bearish signals in credit and inflation. While crypto shows improving momentum, the broader US and Korean markets are registering bearish tendencies. The overall picture suggests caution, balancing strong underlying asset sectors against mixed macro signals. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

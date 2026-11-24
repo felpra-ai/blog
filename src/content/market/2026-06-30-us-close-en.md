@@ -37,8 +37,8 @@ altLang: ko
 - **Maine(US):** US equities show an improving trend, with financial services, industrials, basic materials, and utilities showing strength, while energy lags. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
 - **Lovble(Global):** Volatility is reading neutral, and liquidity remains fully bullish. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests strong underlying liquidity and bond support, contrasting with bearish signals in the FX space and deteriorating momentum in Korean assets. US equities show an improving trajectory, though the crypto space reads as neutral. Overall, the tape suggests caution amidst divergent sectoral strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests strong underlying liquidity and bond support, contrasting with bearish signals in the FX space and deteriorating momentum in Korean assets. US equities show an improving trajectory, though the crypto space reads as neutral. Overall, the tape suggests caution amidst divergent sectoral strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

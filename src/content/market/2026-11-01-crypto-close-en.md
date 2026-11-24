@@ -45,8 +45,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** The US market shows an improving trend characterized by a majority bullish sentiment. :us:
 - **Sectors:** Within the crypto space, strength is concentrated in Bitcoin, while other sectors, including DeFi and Layer 2, show weakness. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence, with bonds and liquidity remaining relatively balanced while commodities and inflation signal caution. The US market's improving structure contrasts with the deteriorating trend observed in the Korean market, suggesting varied regional dynamics. On balance, the tape reflects a cautious environment where underlying asset classes are showing distinct directional biases. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence, with bonds and liquidity remaining relatively balanced while commodities and inflation signal caution. The US market's improving structure contrasts with the deteriorating trend observed in the Korean market, suggesting varied regional dynamics. On balance, the tape reflects a cautious environment where underlying asset classes are showing distinct directional biases. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

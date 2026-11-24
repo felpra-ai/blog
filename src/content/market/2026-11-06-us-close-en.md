@@ -56,8 +56,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** US equities are showing an improving trend, with a notable bullish leaning. :us:
 - **Sectors:** Financial Services, Communication Services, and Consumer Defensive sectors are showing strength, while Technology and Energy sectors are showing weakness. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The US market shows improving momentum, which is generally supportive of the broader market structure, though crypto is showing signs of weakness. On balance, the cross-market reading suggests a cautious environment where strength is concentrated in specific defensive and financial areas. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The US market shows improving momentum, which is generally supportive of the broader market structure, though crypto is showing signs of weakness. On balance, the cross-market reading suggests a cautious environment where strength is concentrated in specific defensive and financial areas. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

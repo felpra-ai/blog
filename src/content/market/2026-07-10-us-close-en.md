@@ -40,8 +40,8 @@ altLang: ko
 - **Inflation:** Inflation sentiment reads bearish, with the trend remaining stable. :korea:
 - **Crypto:** Cryptocurrency sentiment is neutral, with the trend remaining stable. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market data suggests a divergence where FX strength and commodity bullishness contrast with bearish readings in liquidity and inflation. US equities show an improving trend, which is generally supportive, though the underlying macro signals point to caution. On balance, the tape suggests a period of consolidation within defined boundaries. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market data suggests a divergence where FX strength and commodity bullishness contrast with bearish readings in liquidity and inflation. US equities show an improving trend, which is generally supportive, though the underlying macro signals point to caution. On balance, the tape suggests a period of consolidation within defined boundaries. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

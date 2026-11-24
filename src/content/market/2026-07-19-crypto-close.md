@@ -46,8 +46,8 @@ _관측 각주: 이 시장 누적 최다 레짐 전이: bearish → neutral (8�
 - **노웰(원자재):** 원자재 시장은 매우 강세 쪽으로의 움직임이 지배적이며, 인플레이션에 대한 시장의 인식은 중립적입니다. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **벵갈(코인):** 암호화폐 시장은 중립 국면에 머물고 있으며, 국장과 미장 시장 모두 개선되는 추세를 보이고 있습니다. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 지정학적 리스크가 고조되면서 유가 급등 우려가 부각되는 가운데, 주요국들이 고금리 장기전에 돌입할 가능성이 언급되며 전반적인 시장의 신중한 관망세가 감지됩니다. 종합적으로는 시장 전반의 방향성보다는 개별 섹터의 움직임과 거시적 리스크 요인에 대한 해석이 중요해 보입니다. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 지정학적 리스크가 고조되면서 유가 급등 우려가 부각되는 가운데, 주요국들이 고금리 장기전에 돌입할 가능성이 언급되며 전반적인 시장의 신중한 관망세가 감지됩니다. 종합적으로는 시장 전반의 방향성보다는 개별 섹터의 움직임과 거시적 리스크 요인에 대한 해석이 중요해 보입니다. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

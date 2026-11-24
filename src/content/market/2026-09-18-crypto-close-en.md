@@ -39,8 +39,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities are exhibiting a sideways bias with a clear bearish tilt. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto sentiment is neutral overall, but the underlying structure shows a clear dominance within the Bitcoin basket. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a mixed picture: while volatility is stable, underlying macro indicators like credit and inflation are strongly bearish. The FX regime is notably bearish, and the US market sentiment is deteriorating, suggesting caution across asset classes despite some relative stability in bonds. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a mixed picture: while volatility is stable, underlying macro indicators like credit and inflation are strongly bearish. The FX regime is notably bearish, and the US market sentiment is deteriorating, suggesting caution across asset classes despite some relative stability in bonds. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

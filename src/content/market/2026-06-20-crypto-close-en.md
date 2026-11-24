@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities are in a neutral state, with a noticeable bearish leaning. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is showing a deteriorating trend, though the overall market structure suggests Bitcoin dominance is in play. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The bond market's strong bullish reading contrasts with the deteriorating trend noted in the crypto space. Overall, the macro picture suggests underlying support in credit and bonds, while the broader market sentiment remains mixed, pointing toward caution. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The bond market's strong bullish reading contrasts with the deteriorating trend noted in the crypto space. Overall, the macro picture suggests underlying support in credit and bonds, while the broader market sentiment remains mixed, pointing toward caution. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 ---
 

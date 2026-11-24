@@ -23,15 +23,15 @@ images:
 - src: /toon/2026-11-17-radar-kr-en/01.webp
   alt: 1/Cover — Who got crowded today?
 - src: /toon/2026-11-17-radar-kr-en/02.webp
-  alt: '2/Talk — !QAZ: Radar pinged anything? / Kosho: Gaon Chips. 12.1x usual. /
-    !QAZ: Anyone else in the crowd? / Kosho: Ananti. 11.7x usual.'
+  alt: '2/Talk — Beom: Radar pinged anything? / Kosho: Gaon Chips. 12.1x usual. /
+    Beom: Anyone else in the crowd? / Kosho: Ananti. 11.7x usual.'
 - src: /toon/2026-11-17-radar-kr-en/03.webp
-  alt: '3/Talk — !QAZ: And the price that day? / Kosho: Gaon Chips up 8.9%. / !QAZ:
+  alt: '3/Talk — Beom: And the price that day? / Kosho: Gaon Chips up 8.9%. / Beom:
     Ananti too? / Kosho: Up 5.8%. Just 2 of 328.'
 - src: /toon/2026-11-17-radar-kr-en/04.webp
   alt: 4/Key point — 12.1x the usual turnover!
 - src: /toon/2026-11-17-radar-kr-en/05.webp
-  alt: '5/Last word — !QAZ: So what''s it all mean? / Kosho: Loud room. No map.'
+  alt: '5/Last word — Beom: So what''s it all mean? / Kosho: Loud room. No map.'
 ---
 
 | Name | × usual turnover | Day change |

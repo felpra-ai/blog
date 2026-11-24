@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities show a sideways-bullish bias, indicating underlying strength with no bearish pressure noted. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Kosho(KR):** Korean equities are showing a neutral reading overall, with the materials sector appearing to be a key area of strength. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests underlying support across several asset classes, particularly commodities and liquidity, while FX shows a distinct bullish tilt. The divergence between the crypto asset class showing improving trends and the US market remaining neutral suggests varied directional conviction across risk assets. On balance, the market exhibits a cautious, yet fundamentally supported, posture. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests underlying support across several asset classes, particularly commodities and liquidity, while FX shows a distinct bullish tilt. The divergence between the crypto asset class showing improving trends and the US market remaining neutral suggests varied directional conviction across risk assets. On balance, the market exhibits a cautious, yet fundamentally supported, posture. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

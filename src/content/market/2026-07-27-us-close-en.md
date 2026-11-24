@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodity sentiment is extremely bullish, contrasting with inflation readings that are sideways and slightly bearish. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities are reading as neutral, with energy sector strength noted, while Korean markets show an improving trend. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: commodities and bonds suggest underlying strength, yet credit remains significantly impaired. The stability across major asset classes, coupled with the notable strength in energy, points toward a cautious, sector-specific rotation rather than a broad directional move. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: commodities and bonds suggest underlying strength, yet credit remains significantly impaired. The stability across major asset classes, coupled with the notable strength in energy, points toward a cautious, sector-specific rotation rather than a broad directional move. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-20](/track-record/2026-07-20-weekly-hitrate-en/)

@@ -49,8 +49,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** US equities are reading as neutral overall, with a near-even split between bullish and bearish indicators, maintaining a stable trend. :us:
 - **Sectors:** Cyclical consumer spending and healthcare sectors are showing relative strength, while real estate, basic materials, and utilities appear weaker. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market data presents a divergence: while liquidity is extremely bullish and bonds are leaning positive, the FX and Crypto readings suggest significant bearish pressure in those specific areas. The general market structure appears to be finding a stable, albeit cautious, range. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market data presents a divergence: while liquidity is extremely bullish and bonds are leaning positive, the FX and Crypto readings suggest significant bearish pressure in those specific areas. The general market structure appears to be finding a stable, albeit cautious, range. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

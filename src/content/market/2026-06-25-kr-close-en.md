@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodity sentiment is balanced, showing no distinct directional lean. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Kosho(KR):** Korean equities show a neutral reading overall, with the utilities sector noted as strong. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture suggests strong support across credit and FX, contrasting with a bearish tilt in inflation expectations. The general market sentiment appears cautious, with US equities showing a neutral reading amidst varied sector strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture suggests strong support across credit and FX, contrasting with a bearish tilt in inflation expectations. The general market sentiment appears cautious, with US equities showing a neutral reading amidst varied sector strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

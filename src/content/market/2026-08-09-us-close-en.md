@@ -49,8 +49,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are exhibiting a neutral regime, showing no discernible directional bias. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are reading as neutral overall, with no specific sector dominance noted in the provided data. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market exhibits a complex picture where volatility is reading extremely bearish, while credit remains in a sideways-bullish posture. Liquidity and FX are both registering bearish tilts, suggesting caution despite underlying credit strength. The overall sentiment across major asset classes appears balanced, but the bearish readings in liquidity and FX warrant attention. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market exhibits a complex picture where volatility is reading extremely bearish, while credit remains in a sideways-bullish posture. Liquidity and FX are both registering bearish tilts, suggesting caution despite underlying credit strength. The overall sentiment across major asset classes appears balanced, but the bearish readings in liquidity and FX warrant attention. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

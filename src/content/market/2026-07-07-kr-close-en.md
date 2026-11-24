@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities are registering a neutral regime, with no discernible bearish pressure noted. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Kosho(KR):** Korean equities are showing a neutral read, with materials sectors exhibiting strength. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The US market exhibits a distinctly improving and bullish reading, contrasting with the bearish signals seen in overall liquidity and volatility. The cross-market picture suggests caution is warranted despite US strength, given the underlying liquidity constraints. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The US market exhibits a distinctly improving and bullish reading, contrasting with the bearish signals seen in overall liquidity and volatility. The cross-market picture suggests caution is warranted despite US strength, given the underlying liquidity constraints. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 ---
 

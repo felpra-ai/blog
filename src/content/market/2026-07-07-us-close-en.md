@@ -37,8 +37,8 @@ altLang: ko
 - **US:** US equities are in an improving trend, characterized by a notable bullish skew in the current readings. :us:
 - **Sectors:** Sector performance indicates strength concentrated in Healthcare, Financial Services, Utilities, and Real Estate, while Basic Materials, Technology, and ENERGY are showing weakness. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** US market strength is evident across sectors, providing a supportive backdrop, although the broader liquidity picture remains bearish. The mixed signals across macro indicators suggest that while some areas show resilience, caution regarding systemic liquidity persists. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** US market strength is evident across sectors, providing a supportive backdrop, although the broader liquidity picture remains bearish. The mixed signals across macro indicators suggest that while some areas show resilience, caution regarding systemic liquidity persists. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 ---
 

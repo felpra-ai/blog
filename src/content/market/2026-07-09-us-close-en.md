@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities are registering an extreme bullish reading, contrasting with the bearish inflation signal. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities are showing a neutral reading with an improving trend, while strong sectors include Real Estate, HEALTHCARE, and UTILITIES, and weak sectors include TECHNOLOGY. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market exhibits a divergence where commodities show extreme strength and US equities show improving momentum, yet this is counterbalanced by bearish signals across liquidity and inflation. The overall picture suggests caution amidst sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market exhibits a divergence where commodities show extreme strength and US equities show improving momentum, yet this is counterbalanced by bearish signals across liquidity and inflation. The overall picture suggests caution amidst sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 ---
 

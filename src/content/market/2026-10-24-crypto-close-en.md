@@ -48,8 +48,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities exhibit a predominantly bearish reading, pointing toward softer expectations. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto shows a deteriorating trend with a bearish lean, while the US market displays an improving bullish trend, with sector dominance concentrated in BTC. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: US equities show improving momentum, while crypto and Korean indices reflect deteriorating trends. Macro indicators point to elevated volatility and bearish commodity expectations, suggesting caution across asset classes despite underlying liquidity strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: US equities show improving momentum, while crypto and Korean indices reflect deteriorating trends. Macro indicators point to elevated volatility and bearish commodity expectations, suggesting caution across asset classes despite underlying liquidity strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

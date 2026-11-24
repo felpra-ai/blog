@@ -55,8 +55,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities read neutral with a stable trend reading. :us:
 - **Strong Sectors:** Energy, Real Estate, Financial Services, and Healthcare show relative strength. :strong:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests divergence, with FX showing strong bullish conviction while other macro indicators remain largely neutral or bearishly tilted. The relative strength observed in Energy, Real Estate, Financial Services, and Healthcare suggests pockets of underlying support within the broader equity landscape. On balance, the tape appears to be navigating a period of mixed directional signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests divergence, with FX showing strong bullish conviction while other macro indicators remain largely neutral or bearishly tilted. The relative strength observed in Energy, Real Estate, Financial Services, and Healthcare suggests pockets of underlying support within the broader equity landscape. On balance, the tape appears to be navigating a period of mixed directional signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

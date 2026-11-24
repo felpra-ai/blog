@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities sit deep in bearish territory, a cold field where little is growing, and inflation drifts sideways with a downward lean. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Maine(US):** Stepping back from the day, the US market has settled into a sideways drift that leans lower, with only one in fourteen readings bullish. Consumer Defensive is the one sector holding up, while Technology, Basic Materials and Consumer Cyclical carry the weakness. <img class="emoji-char" src="/characters/v2/us/face/10_suspicious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Lovble opened with the volatility spike, and Bsho and Sham each set the bearish reads on credit and FX against liquidity that is fully bullish. Nowel pointed to soft commodities, and Maine to defensives standing alone in a US market that leans lower. That leaves the open question of how long ample liquidity can sit beside bearish credit and commodities without one giving way. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Lovble opened with the volatility spike, and Bsho and Sham each set the bearish reads on credit and FX against liquidity that is fully bullish. Nowel pointed to soft commodities, and Maine to defensives standing alone in a US market that leans lower. That leaves the open question of how long ample liquidity can sit beside bearish credit and commodities without one giving way. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

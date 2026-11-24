@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities exhibit a generally bullish leaning, with a higher proportion of bullish readings compared to bearish ones, and the trend is stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** The crypto space reads as extremely bullish, with a significant bullish bias, while the sector breakdown indicates dominance within Bitcoin assets. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: crypto shows significant bullish momentum, while broader macro indicators point toward caution, particularly concerning liquidity. The underlying asset class strength appears concentrated, suggesting sector-specific drivers are currently influencing price action across the board. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: crypto shows significant bullish momentum, while broader macro indicators point toward caution, particularly concerning liquidity. The underlying asset class strength appears concentrated, suggesting sector-specific drivers are currently influencing price action across the board. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 ---
 

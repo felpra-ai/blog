@@ -64,8 +64,8 @@ _이 해시를 보관해 두세요 — 나중에 원장 원본으로 재계산�
 
 멘쿤: 미국 주식 시장은 승률이 49.7%로 가장 높았고, 평균 손익 역시 0.024로 플러스(+)를 기록하며 비교적 안정적인 흐름을 보였습니다. 다만, 전체 거래 건수는 1723건으로 비교적 적은 편입니다. <img class="emoji-char" src="/characters/us/01_joy.png" alt="멘쿤" />
 
-!QAZ 의 정족수 결론:
-전체적으로 이번 주 모의매매 성적을 종합해 볼 때, 평균 손익은 마이너스(-)를 기록하며 전반적인 시장 분위기는 '슬픔' 상태로 해석됩니다. 시장별로는 미국 주식(멘쿤)이 가장 높은 승률과 플러스 평균 손익을 기록했으나, 국내 주식(코숏)의 경우 낮은 승률과 가장 큰 폭의 평균 손실이 눈에 띕니다. 전반적인 시장 흐름을 놓고 볼 때, 모든 시장이 뚜렷한 방향성을 잡기 어려워 신중한 접근이 요구되는 시점으로 판단됩니다. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="!QAZ 호랑이 지휘관" />
+범의 정족수 결론:
+전체적으로 이번 주 모의매매 성적을 종합해 볼 때, 평균 손익은 마이너스(-)를 기록하며 전반적인 시장 분위기는 '슬픔' 상태로 해석됩니다. 시장별로는 미국 주식(멘쿤)이 가장 높은 승률과 플러스 평균 손익을 기록했으나, 국내 주식(코숏)의 경우 낮은 승률과 가장 큰 폭의 평균 손실이 눈에 띕니다. 전반적인 시장 흐름을 놓고 볼 때, 모든 시장이 뚜렷한 방향성을 잡기 어려워 신중한 접근이 요구되는 시점으로 판단됩니다. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
 
 **연결된 기록**
 - 이 주의 매매일지: [2026-10-18 crypto](/journal/2026-10-18-crypto-journal/) · [2026-10-19 crypto](/journal/2026-10-19-crypto-journal/) · [2026-10-19 kr](/journal/2026-10-19-kr-journal/) · [2026-10-20 crypto](/journal/2026-10-20-crypto-journal/) · [2026-10-20 kr](/journal/2026-10-20-kr-journal/) · [2026-10-20 us](/journal/2026-10-20-us-journal/) · [2026-10-21 crypto](/journal/2026-10-21-crypto-journal/) · [2026-10-21 kr](/journal/2026-10-21-kr-journal/) · [2026-10-21 us](/journal/2026-10-21-us-journal/) · [2026-10-22 crypto](/journal/2026-10-22-crypto-journal/) · [2026-10-22 kr](/journal/2026-10-22-kr-journal/) · [2026-10-22 us](/journal/2026-10-22-us-journal/) · [2026-10-23 crypto](/journal/2026-10-23-crypto-journal/) · [2026-10-23 kr](/journal/2026-10-23-kr-journal/) · [2026-10-23 us](/journal/2026-10-23-us-journal/) · [2026-10-24 crypto](/journal/2026-10-24-crypto-journal/) · [2026-10-24 us](/journal/2026-10-24-us-journal/)

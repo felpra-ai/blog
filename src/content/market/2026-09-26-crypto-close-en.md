@@ -46,8 +46,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Commodities:** Commodity positioning is currently neutral, with no discernible directional bias evident across the board. :commodities:
 - **Inflation:** Inflation readings suggest a bearish leaning, indicating downward pressure or uncertainty regarding price stability. :inflation:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The data presents a mixed picture: fixed income remains robustly bullish, yet broader equity and FX indicators lean bearish. The crypto space shows an improving trend amid these macro divergences, suggesting sector-specific resilience. Overall, the market structure appears to be digesting conflicting signals between credit/bond strength and broader risk indicators. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The data presents a mixed picture: fixed income remains robustly bullish, yet broader equity and FX indicators lean bearish. The crypto space shows an improving trend amid these macro divergences, suggesting sector-specific resilience. Overall, the market structure appears to be digesting conflicting signals between credit/bond strength and broader risk indicators. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

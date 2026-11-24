@@ -49,8 +49,8 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 - **Korea:** The Korean market shows signs of an improving trend. :korea:
 - **US:** The US market sentiment is stable, with a slight leaning towards bearishness. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: liquidity and volatility suggest underlying support, while credit remains firmly in bearish territory. The mixed signals across major asset classes point toward a period of consolidation and caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: liquidity and volatility suggest underlying support, while credit remains firmly in bearish territory. The mixed signals across major asset classes point toward a period of consolidation and caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

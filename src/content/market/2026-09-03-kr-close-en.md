@@ -52,8 +52,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities are neutral overall, with industrials, consumer, and materials showing relative strength, while utilities lag. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 - **US:** US equities are reading as extremely bearish, with the trend showing signs of deterioration. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The divergence between commodity strength and deteriorating US equity sentiment is apparent. While macro indicators point to significant liquidity stress and credit weakness, the underlying commodity picture remains supportive. The market appears to be navigating a period of localized strength amid broader systemic caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The divergence between commodity strength and deteriorating US equity sentiment is apparent. While macro indicators point to significant liquidity stress and credit weakness, the underlying commodity picture remains supportive. The market appears to be navigating a period of localized strength amid broader systemic caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

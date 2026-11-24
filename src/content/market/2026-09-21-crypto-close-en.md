@@ -44,8 +44,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral â†
 - **US:** The US market shows a significantly deteriorating trend, leaning heavily toward bearish readings. :us:
 - **Strong:** Infrastructure, payments, gaming_nft, and layer2 sectors are showing strength, with Bitcoin maintaining dominance. :strong:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure suggests underlying tension, evidenced by the bearish tilt in volatility and the US sector, even as specific baskets like infrastructure and payments show relative strength. The macro backdrop is characterized by persistent bearish signals in inflation and FX, counterbalanced by stable readings in bonds and liquidity. This points to a period where directional conviction is lacking across major asset classes, despite pockets of strength in specific tech and payment rails.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure suggests underlying tension, evidenced by the bearish tilt in volatility and the US sector, even as specific baskets like infrastructure and payments show relative strength. The macro backdrop is characterized by persistent bearish signals in inflation and FX, counterbalanced by stable readings in bonds and liquidity. This points to a period where directional conviction is lacking across major asset classes, despite pockets of strength in specific tech and payment rails.
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

@@ -52,8 +52,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Korea:** The Korean market is showing neutral readings, but the underlying trend is noted as deteriorating. :korea:
 - **US:** The US market is reading as neutral, with bullish indicators slightly outweighing bearish ones. :us:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The data suggests a divergence where liquidity and bond strength are positive, contrasting with pronounced bearishness in FX and elevated volatility readings. The overall market tone appears cautious, balancing underlying support from liquidity against sector-specific weakness noted in Korea. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The data suggests a divergence where liquidity and bond strength are positive, contrasting with pronounced bearishness in FX and elevated volatility readings. The overall market tone appears cautious, balancing underlying support from liquidity against sector-specific weakness noted in Korea. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

@@ -48,8 +48,8 @@ _관측 각주: 이 시장 누적 최다 레짐 전이: bearish → neutral (15�
 - **노웰(원자재):** 원자재와 인플레이션 측면 모두 약세 쪽으로의 비중이 높게 나타나며, 전반적으로 약세 기조가 우세합니다. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **벵갈(코인):** 암호화폐 시장은 강세 쪽으로의 힘이 약세보다 우세한 횡보 국면이며, 시장 전반적으로는 비트코인 중심의 우위가 관찰됩니다. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 국채 금리 수준이 과거 최고치에 근접했음에도 불구하고 증시가 지지받는 모습과, 비트코인이 금리 인상 환경 속에서도 급등한 움직임이 관찰되었습니다. 종합적으로 볼 때, 시장 전반은 신중한 관망 국면을 유지하고 있으나, 특정 자산군(암호화폐)에서 강한 모멘텀이 확인되는 하루였습니다. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 국채 금리 수준이 과거 최고치에 근접했음에도 불구하고 증시가 지지받는 모습과, 비트코인이 금리 인상 환경 속에서도 급등한 움직임이 관찰되었습니다. 종합적으로 볼 때, 시장 전반은 신중한 관망 국면을 유지하고 있으나, 특정 자산군(암호화폐)에서 강한 모멘텀이 확인되는 하루였습니다. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **연결된 기록**
 - 직전 주간 트랙레코드: [2026-09-28](/track-record/2026-09-28-weekly-hitrate/)

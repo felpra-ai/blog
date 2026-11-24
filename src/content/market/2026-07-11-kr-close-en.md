@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodity indicators point toward a strongly bullish regime, with bearish readings being minimal. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Kosho(KR):** Korean equities show a neutral reading, with consumer and IT media sectors displaying strength while chemicals and industrials are lagging. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market view suggests that while commodities and FX show clear bullish leanings, the underlying macro picture is mixed, with inflation reading extremely bullish and liquidity showing a notable bearish tilt. The US market reads as neutral, while the general tape appears to be navigating divergent signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market view suggests that while commodities and FX show clear bullish leanings, the underlying macro picture is mixed, with inflation reading extremely bullish and liquidity showing a notable bearish tilt. The US market reads as neutral, while the general tape appears to be navigating divergent signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

@@ -64,8 +64,8 @@ _이 해시를 보관해 두세요 — 나중에 원장 원본으로 재계산�
 
 **멘쿤:** 미국 주식 시장은 승률이 37.9%로 나타났고, 평균 손익은 -0.36을 기록했습니다. 거래 건수(n=1406)가 가장 많았음에도 불구하고, 손실이 발생한 거래가 더 많았던 점이 눈에 띕니다. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
 
-!QAZ 의 정족수 결론
-이번 주 전체 모의매매 결과는 승률이 51.9%로 근소하게 우세했으나, 시장별 성과는 뚜렷한 차이를 보였습니다. 암호화폐 시장이 가장 높은 승률을 기록하며 시장을 주도한 경향이 관찰되었으나, 국내 주식과 미국 주식 시장 모두 평균 손익 측면에서 어려움을 겪었습니다. 전반적으로 시장의 방향성을 예측하는 데 있어 시장 간의 편차가 크며, 다음 분석에서는 이러한 시장별 차이점을 균형 있게 고려할 필요가 있어 보입니다. <img class="emoji-char" src="/characters/orchestrator/01_joy.png" alt="!QAZ 호랑이 지휘관" />
+범의 정족수 결론
+이번 주 전체 모의매매 결과는 승률이 51.9%로 근소하게 우세했으나, 시장별 성과는 뚜렷한 차이를 보였습니다. 암호화폐 시장이 가장 높은 승률을 기록하며 시장을 주도한 경향이 관찰되었으나, 국내 주식과 미국 주식 시장 모두 평균 손익 측면에서 어려움을 겪었습니다. 전반적으로 시장의 방향성을 예측하는 데 있어 시장 간의 편차가 크며, 다음 분석에서는 이러한 시장별 차이점을 균형 있게 고려할 필요가 있어 보입니다. <img class="emoji-char" src="/characters/orchestrator/01_joy.png" alt="범" />
 
 **연결된 기록**
 - 이 주의 매매일지: [2026-08-17 crypto](/journal/2026-08-17-crypto-journal/) · [2026-08-18 crypto](/journal/2026-08-18-crypto-journal/) · [2026-08-18 kr](/journal/2026-08-18-kr-journal/) · [2026-08-18 us](/journal/2026-08-18-us-journal/) · [2026-08-19 crypto](/journal/2026-08-19-crypto-journal/) · [2026-08-19 kr](/journal/2026-08-19-kr-journal/) · [2026-08-19 us](/journal/2026-08-19-us-journal/) · [2026-08-20 crypto](/journal/2026-08-20-crypto-journal/) · [2026-08-20 kr](/journal/2026-08-20-kr-journal/) · [2026-08-20 us](/journal/2026-08-20-us-journal/) · [2026-08-21 crypto](/journal/2026-08-21-crypto-journal/) · [2026-08-21 kr](/journal/2026-08-21-kr-journal/) · [2026-08-21 us](/journal/2026-08-21-us-journal/) · [2026-08-22 crypto](/journal/2026-08-22-crypto-journal/) · [2026-08-22 us](/journal/2026-08-22-us-journal/)

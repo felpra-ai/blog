@@ -36,8 +36,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities exhibit a neutral reading, with a slightly higher proportion of bearish indicators noted. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto is reading as neutral, with a notable bearish leaning, while the US market shows an improving trend. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence: bonds and liquidity are strongly positive, contrasting with the bearish tilt in FX. The US market appears to be improving, while crypto remains balanced but leaning toward caution. Overall, the market structure suggests underlying support from credit and liquidity, tempered by geopolitical headlines and differing asset class signals.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence: bonds and liquidity are strongly positive, contrasting with the bearish tilt in FX. The US market appears to be improving, while crypto remains balanced but leaning toward caution. Overall, the market structure suggests underlying support from credit and liquidity, tempered by geopolitical headlines and differing asset class signals.
 
 ---
 

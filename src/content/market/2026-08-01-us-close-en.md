@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities present a balanced picture, leaning slightly towards bullish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities show an improving trend, with Healthcare, Real Estate, Consumer Defensive, and Consumer Cyclical sectors showing relative strength, while Utilities and Energy appear weaker. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market data suggests a divergence in sentiment, particularly noted in the FX and Crypto domains, while liquidity remains supportive. The US market structure appears to be improving, contrasting with the deteriorating trends observed in foreign exchange and digital assets. On balance, the overall picture suggests caution amidst sectoral divergence. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market data suggests a divergence in sentiment, particularly noted in the FX and Crypto domains, while liquidity remains supportive. The US market structure appears to be improving, contrasting with the deteriorating trends observed in foreign exchange and digital assets. On balance, the overall picture suggests caution amidst sectoral divergence. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

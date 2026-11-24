@@ -47,8 +47,8 @@ _관측 각주: 이 시장 누적 최다 레짐 전이: sideways_bullish → sid
 - **노웰(원자재):** 원자재는 늦가을 들판처럼 식어 있고, 인플레도 약세 쪽으로 무게가 실렸습니다. 실물의 열기가 금융 쪽으로 넘어올 만한 흐름이 보이지 않습니다. <img class="emoji-char" src="/characters/v2/commodity/face/06_neutral.png" alt="노웰" />
 - **벵갈(코인):** 제일 빨리 빠지는 건 코인과 미장이고, 둘 다 추세가 악화 중입니다. 국장은 버티는 듯 보여도 약세 비중이 63.3%로 이미 기울어 있습니다. 섹터에서는 storage, oracle infra, layer2가 약세이고, 강세인 곳은 없습니다. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
 
-## 교차시장과 !QAZ의 종합
-**!QAZ(의장):** 변동성은 강세 쪽, 곧 위험회피 쪽으로 기울어 있습니다. 러블과 벵갈은 코인과 미장의 악화를, 브숏과 노웰은 신용·원자재의 약세를, 샤암은 외환의 쏠림을 짚었습니다. 유동성이 중립에서 어느 쪽으로 움직일지는 아직 답이 없습니다. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## 교차시장과 범의 종합
+**범(의장):** 변동성은 강세 쪽, 곧 위험회피 쪽으로 기울어 있습니다. 러블과 벵갈은 코인과 미장의 악화를, 브숏과 노웰은 신용·원자재의 약세를, 샤암은 외환의 쏠림을 짚었습니다. 유동성이 중립에서 어느 쪽으로 움직일지는 아직 답이 없습니다. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **연결된 기록**
 - 직전 주간 트랙레코드: [2026-11-16](/track-record/2026-11-16-weekly-hitrate/)

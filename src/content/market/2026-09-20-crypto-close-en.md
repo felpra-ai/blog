@@ -48,8 +48,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** The US market shows a deteriorating trend profile, with bearish indicators significantly outweighing the bullish ones. :us:
 - **Crypto:** The crypto space reads as neutral overall, though the underlying trend momentum is showing signs of improvement. :crypto:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators point toward persistent caution, particularly concerning inflation and US market structure. The divergence between crypto's improving trend and the weakness seen in US and credit sectors suggests underlying cross-asset divergence. On balance, the tape appears to be seeking support within established, contained ranges. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators point toward persistent caution, particularly concerning inflation and US market structure. The divergence between crypto's improving trend and the weakness seen in US and credit sectors suggests underlying cross-asset divergence. On balance, the tape appears to be seeking support within established, contained ranges. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are positioned in a bearish regime, suggesting downward pressure across the basket. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Maine(US):** US equities are showing a sideways-bearish pattern, with the overall trend deteriorating, while technology remains a relative strength area. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a divergence: bonds show extreme strength while credit and FX signal significant weakness. Equity markets, particularly in the US, are displaying deteriorating bearish tendencies despite technology sector strength. On balance, the market appears to be navigating conflicting signals between fixed income strength and broader risk asset weakness. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a divergence: bonds show extreme strength while credit and FX signal significant weakness. Equity markets, particularly in the US, are displaying deteriorating bearish tendencies despite technology sector strength. On balance, the market appears to be navigating conflicting signals between fixed income strength and broader risk asset weakness. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

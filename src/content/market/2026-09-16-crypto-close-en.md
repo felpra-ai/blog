@@ -45,8 +45,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** The US market is showing a neutral reading, but the underlying trend momentum is noted as deteriorating. :us:
 - **Sector:** Within the crypto space, strength is concentrated in Bitcoin, while meme, layer1, and defi sectors are showing weakness. :sector:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators present a mixed picture, with high volatility readings contrasting against deep bearish signals in credit and inflation. The divergence between the bullish reading in volatility and the bearish readings across credit and inflation suggests underlying structural tension. On balance, the market appears to be digesting conflicting signals, leading to a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators present a mixed picture, with high volatility readings contrasting against deep bearish signals in credit and inflation. The divergence between the bullish reading in volatility and the bearish readings across credit and inflation suggests underlying structural tension. On balance, the market appears to be digesting conflicting signals, leading to a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

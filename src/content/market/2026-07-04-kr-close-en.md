@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodity indicators point toward a neutral regime, with bullish sentiment slightly outweighing bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Kosho(KR):** Korean equities are registering a neutral state, though the underlying trend is noted as deteriorating. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents a mixed bag, characterized by bearish readings in volatility and liquidity, counterbalanced by stable readings in bonds and commodities. US equities are showing a neutral posture, while the underlying weakness in Korean markets warrants attention. The overall tape suggests caution, reflecting the divergence between stable macro readings and sector-specific deterioration. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents a mixed bag, characterized by bearish readings in volatility and liquidity, counterbalanced by stable readings in bonds and commodities. US equities are showing a neutral posture, while the underlying weakness in Korean markets warrants attention. The overall tape suggests caution, reflecting the divergence between stable macro readings and sector-specific deterioration. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 ---
 

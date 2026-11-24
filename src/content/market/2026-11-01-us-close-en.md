@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** US equities are showing an improving trend with a majority bullish sentiment. :us:
 - **Sectors:** Financial Services, Healthcare, and Consumer Defensive sectors are showing strength, while Technology and INDUSTRIALS are lagging. :sectors:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The divergence between US market improvement and weakness in global assets like crypto and Korea suggests underlying regional divergence. The macro backdrop is characterized by elevated volatility alongside significant bearish signals in commodity and inflation metrics, pointing toward caution despite sector strength in US names. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The divergence between US market improvement and weakness in global assets like crypto and Korea suggests underlying regional divergence. The macro backdrop is characterized by elevated volatility alongside significant bearish signals in commodity and inflation metrics, pointing toward caution despite sector strength in US names. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

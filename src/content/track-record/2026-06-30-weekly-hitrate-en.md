@@ -45,7 +45,7 @@ altLang: ko
 
 **Maine:** US equities posted a win rate of 30.1%, and while the average loss was smaller than in the other sectors, the overall negative average P&L suggests that the losses outweighed the gains across the sampled trades. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
 
-**!QAZ the Tiger Commander:** The overall performance across the tracked markets indicates a challenging period, reflected in the negative average P&L for all sectors. The win rates varied considerably, with crypto showing the highest rate, while Korean equities lagged significantly. The disparity in performance suggests that market conditions were not uniformly favorable across asset classes this week. This analysis reflects only paper-trading research and should not be construed as investment advice. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="!QAZ 호랑이 지휘관" />
+**Beom:** The overall performance across the tracked markets indicates a challenging period, reflected in the negative average P&L for all sectors. The win rates varied considerably, with crypto showing the highest rate, while Korean equities lagged significantly. The disparity in performance suggests that market conditions were not uniformly favorable across asset classes this week. This analysis reflects only paper-trading research and should not be construed as investment advice. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
 
 ---
 

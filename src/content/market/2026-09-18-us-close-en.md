@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodity sentiment is neutral, with a slight leaning toward bearishness. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equity performance is reading neutral, but the underlying trend is noted as deteriorating. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Macro indicators present a mixed picture, notably with extreme bearish readings across credit and inflation, contrasting with the stable, high bullish readings in volatility. The divergence between the US equity trend deterioration and the general market neutrality suggests caution. On balance, the environment appears range-bound with underlying structural headwinds evident in credit and inflation metrics. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Macro indicators present a mixed picture, notably with extreme bearish readings across credit and inflation, contrasting with the stable, high bullish readings in volatility. The divergence between the US equity trend deterioration and the general market neutrality suggests caution. On balance, the environment appears range-bound with underlying structural headwinds evident in credit and inflation metrics. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are exhibiting a sideways, bullish bias, indicating an improving underlying trend. :us:
 - **Commodities:** Commodities are firmly in a bearish regime, with bearish indicators outweighing bullish ones significantly. :commodities:
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure presents a divergence: US equities show improving bullish momentum, while commodities and crypto are signaling weakness. The broader macro picture suggests caution, as evidenced by persistent bearish readings in inflation and commodities, despite relative stability in volatility and bonds. The overall tape appears to be consolidating within defined, cautious boundaries. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure presents a divergence: US equities show improving bullish momentum, while commodities and crypto are signaling weakness. The broader macro picture suggests caution, as evidenced by persistent bearish readings in inflation and commodities, despite relative stability in volatility and bonds. The overall tape appears to be consolidating within defined, cautious boundaries. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

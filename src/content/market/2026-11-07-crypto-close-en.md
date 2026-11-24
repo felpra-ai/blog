@@ -46,8 +46,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodity indicators point toward a bearish regime, indicating downward pressure across the basket. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto assets are exhibiting a bearish drift, with the underlying dominance structure remaining concentrated in Bitcoin. <img class="emoji-char" src="/characters/crypto/10_suspicious.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The macro picture presents divergence, with FX and VIX suggesting underlying strength, contrasting sharply with bearish signals in commodities and inflation. US market action appears range-bound with a slight bullish tilt, while crypto activity reflects notable weakness. The overall tape suggests caution amid sector divergence. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The macro picture presents divergence, with FX and VIX suggesting underlying strength, contrasting sharply with bearish signals in commodities and inflation. US market action appears range-bound with a slight bullish tilt, while crypto activity reflects notable weakness. The overall tape suggests caution amid sector divergence. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

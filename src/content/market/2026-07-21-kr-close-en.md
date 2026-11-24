@@ -50,8 +50,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodity strength is pronounced, exhibiting a clear tilt toward bullish expectations. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Kosho(KR):** Korean equities are showing a neutral posture, with the utilities sector noted as a relative strength area. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure reflects divergence, notably in commodities showing strong bullish conviction while crypto exhibits deteriorating trend momentum. Macro indicators suggest underlying stability across most measured variables, though credit remains notably bearish. The overall picture points toward cautious positioning amidst varied directional signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure reflects divergence, notably in commodities showing strong bullish conviction while crypto exhibits deteriorating trend momentum. Macro indicators suggest underlying stability across most measured variables, though credit remains notably bearish. The overall picture points toward cautious positioning amidst varied directional signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

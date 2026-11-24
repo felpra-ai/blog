@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities exhibit a sideways bias leaning toward bullishness, while inflation remains neutral. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto shows an improving trend, with the overall structure leaning neutral, and dominance is concentrated in BTC. <img class="emoji-char" src="/characters/crypto/12_relieved.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The market structure reflects diverging themes: commodities show underlying support, while liquidity conditions are notably restrictive. The cross-asset view suggests caution, balancing sector strength against macro tightness. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The market structure reflects diverging themes: commodities show underlying support, while liquidity conditions are notably restrictive. The cross-asset view suggests caution, balancing sector strength against macro tightness. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

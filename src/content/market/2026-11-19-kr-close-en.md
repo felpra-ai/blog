@@ -48,8 +48,8 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Nowel(Commodities):** Commodities sit bearish and are deteriorating, and the IEA's view that an Iran war could cut global oil demand by over 4% by 2035 adds weight to that, like a crop forecast trimmed before the harvest. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Kosho(KR):** Korea is sideways bearish and still deteriorating; IT-media, bio-health and financials hold up while materials, semiconductors and chemicals lag, and the split runs through the heavy industrial names. <img class="emoji-char" src="/characters/v2/kr/face/08_defensive.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Lovble opened on the consumer, Bsho and Sham on FX, Nowel on oil, and Kosho on Korea's sector split. With volatility leaning toward a rise and commodities weakening, the open question is how slower spending and a softer energy outlook meet. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Lovble opened on the consumer, Bsho and Sham on FX, Nowel on oil, and Kosho on Korea's sector split. With volatility leaning toward a rise and commodities weakening, the open question is how slower spending and a softer energy outlook meet. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

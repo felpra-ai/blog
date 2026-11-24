@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodity sentiment is mixed, registering as neutral, while inflation indicators show a distinct bearish leaning. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
 - **Maine(US):** US equities are reading as neutral overall, with Industrials, Financial Services, and Utilities showing strength, while ENERGY and Communication Services are lagging. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The cross-market view suggests underlying strength in fixed income and FX, contrasting with mixed signals in commodities and inflation. The breadth across major asset classes points toward a cautious, range-seeking environment, despite some sector strength noted in US equities. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** The cross-market view suggests underlying strength in fixed income and FX, contrasting with mixed signals in commodities and inflation. The breadth across major asset classes points toward a cautious, range-seeking environment, despite some sector strength noted in US equities. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
 
 ---
 

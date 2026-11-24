@@ -47,8 +47,8 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Nowel(Commodities):** Commodities are heavy, six in ten bearish, and real goods are pressing on prices like a cold snap settling over the fields. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
 - **Bengal(Crypto):** Crypto moved fastest and the wrong way, with 88.1% bearish and the trend still worsening, while what money remains sits in bitcoin rather than in storage, layer1 or defi. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** Lovble and Bengal both put crypto's slide first, Bsho flagged credit, Sham watched FX alongside full liquidity, and Nowel pointed to weak commodities. Volatility leans toward rising and bonds lean bullish, while crypto, commodities and FX all tilt bearish. The open question is how long ample liquidity can hold against bearish credit and commodities, with Hormuz tensions in the headlines. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="!QAZ 호랑이 지휘관" />
+## Cross-market & Beom's verdict
+**Beom(Chair):** Lovble and Bengal both put crypto's slide first, Bsho flagged credit, Sham watched FX alongside full liquidity, and Nowel pointed to weak commodities. Volatility leans toward rising and bonds lean bullish, while crypto, commodities and FX all tilt bearish. The open question is how long ample liquidity can hold against bearish credit and commodities, with Hormuz tensions in the headlines. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

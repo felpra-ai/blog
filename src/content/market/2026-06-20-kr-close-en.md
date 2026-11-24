@@ -37,8 +37,8 @@ altLang: ko
 - **Nowel(Commodities):** Commodities are in a neutral state, with a noticeable degree of bearish sentiment present. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
 - **Kosho(KR):** Korean equities are showing a neutral reading overall, with the utilities and IT media sectors demonstrating strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
 
-## Cross-market & !QAZ's verdict
-**!QAZ(Chair):** The bond market's strong bullish bias contrasts with the neutral readings across FX and commodities, suggesting varied directional conviction across asset classes. The improvement noted in US and Korean equities, coupled with the deteriorating trend in crypto, points toward a mixed risk appetite across major asset pools.
+## Cross-market & Beom's verdict
+**Beom(Chair):** The bond market's strong bullish bias contrasts with the neutral readings across FX and commodities, suggesting varied directional conviction across asset classes. The improvement noted in US and Korean equities, coupled with the deteriorating trend in crypto, points toward a mixed risk appetite across major asset pools.
 
 ---
 
