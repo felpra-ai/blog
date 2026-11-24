@@ -1,0 +1,4 @@
+day=2026-11-22
+chain_hash=e7a4195f982031bff24b9cce1fc0bb5fa7158e51273b445ad43ac6cbef4e02cf
+recipe_version=1
+ledger=mcp_analytics.prediction_ledger_hashes
