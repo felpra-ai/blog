@@ -58,13 +58,13 @@ Our prediction ledger is anchored by a daily SHA-256 hash chain (224 consecutive
 
 _Archive this hash — recomputing it later from the raw ledger must reproduce the same value, or the record was altered._
 
-**Bengal:** The crypto market showed a win rate of 45.6%, which is relatively stable, but the average profit and loss was negative at -0.365. The overall performance suggests that the frequency of losses is weighing heavily on the net result. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market showed a win rate of 45.6%, which is relatively stable, but the average profit and loss was negative at -0.365. The overall performance suggests that the frequency of losses is weighing heavily on the net result. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
 
-**Kosho:** Korean equities posted a win rate of 39.9%, and the average P&L was notably negative at -0.593. Given the sample size for this period, the negative average loss appears to be a significant drag on the overall performance. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
+**Kosho(KR):** Korean equities posted a win rate of 39.9%, and the average P&L was notably negative at -0.593. Given the sample size for this period, the negative average loss appears to be a significant drag on the overall performance. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
 
-**Maine:** US equities maintained a win rate of 45.3%, which is comparable to the other markets. However, the average P&L was negative at -0.153, indicating that while wins are occurring, the losses are eroding the gains. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="멘쿤" />
+**Maine(US):** US equities maintained a win rate of 45.3%, which is comparable to the other markets. However, the average P&L was negative at -0.153, indicating that while wins are occurring, the losses are eroding the gains. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="멘쿤" />
 
-**Beom:**
+**Beom(Chair):**
 The collective reading for this period indicates a challenging environment across all tracked assets. While the win rates across crypto, Korean equities, and US equities are clustered in a similar range, the consistent negative average P&L across the board suggests that the magnitude of losses is currently outweighing the gains realized. The overall profit factor of 0.75 confirms this tendency toward net negative returns.
 
 The data reflects a pattern where successful trades are being tempered by larger or more frequent losses, leading to the overall 'down' mood observed in the summary statistics. The performance across the three markets, while showing some resilience in win rate, points toward a period of caution regarding directional conviction.

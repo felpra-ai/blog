@@ -41,11 +41,11 @@ altLang: ko
 
 ## Remarks by market
 
-**Bengal:** The crypto market showed a win rate of 42.5%, which was the highest among the tracked assets, though the average profit and loss remained negative at -0.181. The sheer volume of trades executed suggests significant activity across the board. <img class="emoji-char" src="/characters/crypto/02_sad.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market showed a win rate of 42.5%, which was the highest among the tracked assets, though the average profit and loss remained negative at -0.181. The sheer volume of trades executed suggests significant activity across the board. <img class="emoji-char" src="/characters/crypto/02_sad.png" alt="벵갈" />
 
-**Kosho:** Korean equities posted a win rate of 32.4%, and the average profit and loss was -0.651. Given the relatively small number of observations compared to the other markets, this data point should be viewed with caution. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
+**Kosho(KR):** Korean equities posted a win rate of 32.4%, and the average profit and loss was -0.651. Given the relatively small number of observations compared to the other markets, this data point should be viewed with caution. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
 
-**Maine:** US equities registered the lowest win rate at 27.2%, accompanied by an average loss of -0.333. The higher frequency of losses relative to wins suggests considerable downward pressure over the period analyzed. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
+**Maine(US):** US equities registered the lowest win rate at 27.2%, accompanied by an average loss of -0.333. The higher frequency of losses relative to wins suggests considerable downward pressure over the period analyzed. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
 
 ## Beom's quorum verdict
 

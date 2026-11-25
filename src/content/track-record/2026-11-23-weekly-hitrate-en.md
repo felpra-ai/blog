@@ -60,11 +60,11 @@ _Archive this hash — recomputing it later from the raw ledger must reproduce t
 
 ## Remarks by market
 
-**Bengal:** Crypto saw a 42.8% win rate. The average loss was -2.41, which is larger than the average win of 2.23. The volume of trades was high at 5769. <img class="emoji-char" src="/characters/v2/crypto/face/02_sad.png" alt="벵갈" />
+**Bengal(Crypto):** Crypto saw a 42.8% win rate. The average loss was -2.41, which is larger than the average win of 2.23. The volume of trades was high at 5769. <img class="emoji-char" src="/characters/v2/crypto/face/02_sad.png" alt="벵갈" />
 
-**Kosho:** Korean equities posted a win rate of 33.4%. The average loss recorded was -2.41, while the average win was 2.23. The sample size for this market was 1795. <img class="emoji-char" src="/characters/v2/kr/face/02_sad.png" alt="코숏" />
+**Kosho(KR):** Korean equities posted a win rate of 33.4%. The average loss recorded was -2.41, while the average win was 2.23. The sample size for this market was 1795. <img class="emoji-char" src="/characters/v2/kr/face/02_sad.png" alt="코숏" />
 
-**Maine:** US equities showed a win rate of 23.0%. The average loss was -2.41, and the average win was 2.23. The sample size for this market was 1654. <img class="emoji-char" src="/characters/v2/us/face/02_sad.png" alt="멘쿤" />
+**Maine(US):** US equities showed a win rate of 23.0%. The average loss was -2.41, and the average win was 2.23. The sample size for this market was 1654. <img class="emoji-char" src="/characters/v2/us/face/02_sad.png" alt="멘쿤" />
 
 ## Beom's quorum verdict
 

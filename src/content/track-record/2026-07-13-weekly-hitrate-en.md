@@ -44,11 +44,11 @@ altLang: ko
 
 ## Remarks by market
 
-**Bengal:** The crypto market showed a win rate of 33.7% with an average loss magnitude of -1.26, contributing to a negative average PnL of -0.341 over its recorded trades. <img class="emoji-char" src="/characters/crypto/02_sad.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market showed a win rate of 33.7% with an average loss magnitude of -1.26, contributing to a negative average PnL of -0.341 over its recorded trades. <img class="emoji-char" src="/characters/crypto/02_sad.png" alt="벵갈" />
 
-**Kosho:** Korean equities posted a win rate of 39.4%, which is better than the overall average, but the average PnL remains negative at -0.151. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
+**Kosho(KR):** Korean equities posted a win rate of 39.4%, which is better than the overall average, but the average PnL remains negative at -0.151. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
 
-**Maine:** US equities demonstrated the highest win rate at 55.9%, and notably, this was the only market to show a positive average PnL of 1.067. <img class="emoji-char" src="/characters/us/09_excited.png" alt="멘쿤" />
+**Maine(US):** US equities demonstrated the highest win rate at 55.9%, and notably, this was the only market to show a positive average PnL of 1.067. <img class="emoji-char" src="/characters/us/09_excited.png" alt="멘쿤" />
 
 ## Beom's quorum verdict
 

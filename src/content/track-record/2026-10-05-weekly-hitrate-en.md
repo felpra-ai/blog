@@ -60,11 +60,11 @@ _Archive this hash — recomputing it later from the raw ledger must reproduce t
 
 ## Remarks by market
 
-**Bengal:** The crypto space showed a win rate of 47.7%, which is close to parity, but the average profit and loss figures suggest a net negative performance for the period. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto space showed a win rate of 47.7%, which is close to parity, but the average profit and loss figures suggest a net negative performance for the period. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
 
-**Kosho:** Korean equities maintained a win rate slightly above 50.6%, and the average profit and loss was positive, indicating a positive drift for the market this week. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
+**Kosho(KR):** Korean equities maintained a win rate slightly above 50.6%, and the average profit and loss was positive, indicating a positive drift for the market this week. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
 
-**Maine:** US equities posted a win rate of 38.7%, which is notably lower than the other two markets, and the average profit and loss was negative, reflecting significant drawdowns. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
+**Maine(US):** US equities posted a win rate of 38.7%, which is notably lower than the other two markets, and the average profit and loss was negative, reflecting significant drawdowns. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
 
 ## Beom's quorum verdict
 

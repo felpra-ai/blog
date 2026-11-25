@@ -60,11 +60,11 @@ _Archive this hash — recomputing it later from the raw ledger must reproduce t
 
 ## Remarks by market
 
-**Bengal:** The crypto market showed a win rate near parity with losses, and the average profit and loss were negative, suggesting difficulty in capturing consistent gains over the period. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market showed a win rate near parity with losses, and the average profit and loss were negative, suggesting difficulty in capturing consistent gains over the period. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
 
-**Kosho:** Korean equities exhibited a win rate below 50%, and the negative average P&L suggests that the frequency of losses outweighed the gains recorded this cycle. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
+**Kosho(KR):** Korean equities exhibited a win rate below 50%, and the negative average P&L suggests that the frequency of losses outweighed the gains recorded this cycle. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
 
-**Maine:** US equities posted a win rate above 50%, and the positive average P&L indicates that the successful trades generated a net positive result for the period. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+**Maine(US):** US equities posted a win rate above 50%, and the positive average P&L indicates that the successful trades generated a net positive result for the period. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
 
 ## Beom's quorum verdict
 

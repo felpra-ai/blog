@@ -60,11 +60,11 @@ _Archive this hash — recomputing it later from the raw ledger must reproduce t
 
 ## Remarks by market
 
-**Bengal:** The crypto market showed a win rate of 48.0%, which was relatively stable, but the average profit and loss figure of -0.17 suggests that the losses tended to outweigh the gains over the observed period. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market showed a win rate of 48.0%, which was relatively stable, but the average profit and loss figure of -0.17 suggests that the losses tended to outweigh the gains over the observed period. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
 
-**Kosho:** Korean equities maintained a win rate of 46.8%, indicating a slight edge in winning trades, yet the negative average P&L of -0.145 points to persistent drag from losing trades. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
+**Kosho(KR):** Korean equities maintained a win rate of 46.8%, indicating a slight edge in winning trades, yet the negative average P&L of -0.145 points to persistent drag from losing trades. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
 
-**Maine:** US equities presented the most challenging picture, with a low win rate of 25.4% and a significantly negative average P&L of -1.498, suggesting substantial losses relative to wins. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
+**Maine(US):** US equities presented the most challenging picture, with a low win rate of 25.4% and a significantly negative average P&L of -1.498, suggesting substantial losses relative to wins. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
 
 ## Beom's quorum verdict
 

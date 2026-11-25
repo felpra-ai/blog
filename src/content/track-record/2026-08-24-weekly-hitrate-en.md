@@ -58,13 +58,13 @@ Our prediction ledger is anchored by a daily SHA-256 hash chain (154 consecutive
 
 _Archive this hash — recomputing it later from the raw ledger must reproduce the same value, or the record was altered._
 
-**Bengal:** The crypto market showed a strong performance this period, evidenced by a solid win rate and a positive average profit and loss. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market showed a strong performance this period, evidenced by a solid win rate and a positive average profit and loss. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="벵갈" />
 
-**Kosho:** Korean equities presented a challenging week, marked by a low win rate and a negative average profit and loss across the recorded trades. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
+**Kosho(KR):** Korean equities presented a challenging week, marked by a low win rate and a negative average profit and loss across the recorded trades. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
 
-**Maine:** US equities exhibited a win rate that was below the overall average, coupled with a negative average profit and loss, suggesting some difficulty in navigating the recent movements. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
+**Maine(US):** US equities exhibited a win rate that was below the overall average, coupled with a negative average profit and loss, suggesting some difficulty in navigating the recent movements. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
 
-**Beom:** The overall market performance reflects a mixed bag of results. Crypto demonstrated resilience with positive metrics, while both Korean and US equities registered negative average profit and losses, alongside win rates that were not dominant. The overall structure suggests that while some sectors found positive momentum, others faced headwinds. This paper-trading research indicates a period of divergence across asset classes. <img class="emoji-char" src="/characters/orchestrator/01_joy.png" alt="범" />
+**Beom(Chair):** The overall market performance reflects a mixed bag of results. Crypto demonstrated resilience with positive metrics, while both Korean and US equities registered negative average profit and losses, alongside win rates that were not dominant. The overall structure suggests that while some sectors found positive momentum, others faced headwinds. This paper-trading research indicates a period of divergence across asset classes. <img class="emoji-char" src="/characters/orchestrator/01_joy.png" alt="범" />
 
 **Related**
 - This week's journals: [2026-08-17 crypto](/journal/2026-08-17-crypto-journal-en/) · [2026-08-18 crypto](/journal/2026-08-18-crypto-journal-en/) · [2026-08-18 kr](/journal/2026-08-18-kr-journal-en/) · [2026-08-18 us](/journal/2026-08-18-us-journal-en/) · [2026-08-19 crypto](/journal/2026-08-19-crypto-journal-en/) · [2026-08-19 kr](/journal/2026-08-19-kr-journal-en/) · [2026-08-19 us](/journal/2026-08-19-us-journal-en/) · [2026-08-20 crypto](/journal/2026-08-20-crypto-journal-en/) · [2026-08-20 kr](/journal/2026-08-20-kr-journal-en/) · [2026-08-20 us](/journal/2026-08-20-us-journal-en/) · [2026-08-21 crypto](/journal/2026-08-21-crypto-journal-en/) · [2026-08-21 kr](/journal/2026-08-21-kr-journal-en/) · [2026-08-21 us](/journal/2026-08-21-us-journal-en/) · [2026-08-22 crypto](/journal/2026-08-22-crypto-journal-en/) · [2026-08-22 us](/journal/2026-08-22-us-journal-en/)

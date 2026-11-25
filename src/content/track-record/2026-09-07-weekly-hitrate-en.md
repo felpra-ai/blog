@@ -60,11 +60,11 @@ _Archive this hash — recomputing it later from the raw ledger must reproduce t
 
 ## Remarks by market
 
-**Bengal:** The crypto market maintained a win rate above 50% this period, which is positive, though the average profit and loss figures suggest that the magnitude of losses was significant enough to temper overall performance. <img class="emoji-char" src="/characters/crypto/01_joy.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market maintained a win rate above 50% this period, which is positive, though the average profit and loss figures suggest that the magnitude of losses was significant enough to temper overall performance. <img class="emoji-char" src="/characters/crypto/01_joy.png" alt="벵갈" />
 
-**Kosho:** Korean equities showed a win rate below 50%, and the average profit and loss was negative, indicating that the frequency of losses outweighed the gains recorded during this period. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
+**Kosho(KR):** Korean equities showed a win rate below 50%, and the average profit and loss was negative, indicating that the frequency of losses outweighed the gains recorded during this period. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
 
-**Maine:** US equities registered the lowest win rate among the three markets, and the average profit and loss was also negative, suggesting that the selling pressure was notable relative to the winning trades. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
+**Maine(US):** US equities registered the lowest win rate among the three markets, and the average profit and loss was also negative, suggesting that the selling pressure was notable relative to the winning trades. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
 
 ## Beom's quorum verdict
 

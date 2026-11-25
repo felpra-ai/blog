@@ -60,11 +60,11 @@ _Archive this hash — recomputing it later from the raw ledger must reproduce t
 
 ## Remarks by market
 
-**Bengal:** The crypto market demonstrated a relatively strong performance this period, evidenced by a win rate of 58.4% and a positive average profit per trade. The volume of trades analyzed was substantial, suggesting a robust data set for assessment. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market demonstrated a relatively strong performance this period, evidenced by a win rate of 58.4% and a positive average profit per trade. The volume of trades analyzed was substantial, suggesting a robust data set for assessment. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="벵갈" />
 
-**Kosho:** The Korean equities market showed a lower win rate at 39.7%, accompanied by a negative average profit per trade. Given the smaller sample size, these results should be viewed with caution. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
+**Kosho(KR):** The Korean equities market showed a lower win rate at 39.7%, accompanied by a negative average profit per trade. Given the smaller sample size, these results should be viewed with caution. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
 
-**Maine:** The US equities market recorded the lowest win rate among the three sectors at 34.4%, and the average profit per trade was negative. The sample size here is also relatively small compared to the other markets. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
+**Maine(US):** The US equities market recorded the lowest win rate among the three sectors at 34.4%, and the average profit per trade was negative. The sample size here is also relatively small compared to the other markets. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
 
 ## Beom's quorum verdict
 
