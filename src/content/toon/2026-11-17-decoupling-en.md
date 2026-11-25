@@ -39,7 +39,7 @@ images:
 | US stocks | 2026-11-16 | range-bound | 55% | 25% |
 | US stocks | 2026-11-17 | range-bound | 44% | 35% |
 
-_Event: back together — two markets that were opposite are no longer opposite today. Net gap 114.8 → 92 pts. Last daily snapshot of OneQAZ market regime flow (descriptive, not a forecast)._
+_Event: back together — two markets that were opposite were no longer opposite that day. Net gap 114.8 → 92 pts. Last daily snapshot of OneQAZ market regime flow (descriptive, not a forecast)._
 
 ---
 
