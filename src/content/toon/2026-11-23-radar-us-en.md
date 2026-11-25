@@ -18,12 +18,12 @@ ogImage: /toon/2026-11-23-radar-us-en/01.webp
 altUrl: /toon/2026-11-23-radar-us/
 altLang: ko
 series: radar
-episode: 6
+episode: 11
 images:
 - src: /toon/2026-11-23-radar-us-en/01.webp
   alt: 1/Cover — Who got crowded?
 - src: /toon/2026-11-23-radar-us-en/02.webp
-  alt: '2/Talk — Beom: Anything on the radar, Crow? / Kkau: Texas Pacific Land traded
+  alt: '2/Talk — Beom: Anything on the radar, Kkau? / Kkau: Texas Pacific Land traded
     4x its usual. That''s four normal days in one! / Beom: And the other one, Maine?
     / Maine: Hewlett Packard Enterprise did 3x. Crowded means attention, not direction.'
 - src: /toon/2026-11-23-radar-us-en/03.webp

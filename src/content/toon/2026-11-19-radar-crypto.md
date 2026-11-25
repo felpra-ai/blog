@@ -18,12 +18,12 @@ ogImage: /toon/2026-11-19-radar-crypto/01.webp
 altUrl: /toon/2026-11-19-radar-crypto-en/
 altLang: en
 series: radar
-episode: 4
+episode: 5
 images:
 - src: /toon/2026-11-19-radar-crypto/01.webp
   alt: 1/표지 — 레이더에 뭐가 떴죠?
 - src: /toon/2026-11-19-radar-crypto/02.webp
-  alt: '2/대화 — 범: 까마귀 씨, 레이더에 뭐 떴어요? / 까우: 문버드요! 평소 하루치의 81배가 하루에 오갔어요. 사고판 사람이 엄청
+  alt: '2/대화 — 범: 까우 씨, 레이더에 뭐 떴어요? / 까우: 문버드요! 평소 하루치의 81배가 하루에 오갔어요. 사고판 사람이 엄청
     많았다는 뜻이에요 / 범: 벵갈 씨, 그 배수는 뭘로 재요? / 벵갈: 파로스도 평소의 27배였어요. 그날 거래대금을 직전 거래일들 평균으로
     나눈 값이에요'
 - src: /toon/2026-11-19-radar-crypto/03.webp

@@ -23,9 +23,9 @@ images:
 - src: /toon/2026-11-19-radar-crypto-en/01.webp
   alt: 1/Cover — Who got crowded?
 - src: /toon/2026-11-19-radar-crypto-en/02.webp
-  alt: '2/Talk — Beom: Crow, anything on the radar? / Kkau: Moonbirds traded 81x its
+  alt: '2/Talk — Beom: Kkau, anything on the radar? / Kkau: Moonbirds traded 81x its
     usual. Picture that many normal days packed into one. / Bengal: Who else got crowded,
-    Crow? / Kkau: Pharos came next at 27x. Crowded means busy trading, not up or down.'
+    Kkau? / Kkau: Pharos came next at 27x. Crowded means busy trading, not up or down.'
 - src: /toon/2026-11-19-radar-crypto-en/03.webp
   alt: '3/Talk — Beom: Did the whole market light up? / Bengal: Only 3 of 443 names
     crossed the line. Fewer hits means a rarer kind of day. / Kkau: Something smells!

@@ -18,12 +18,12 @@ ogImage: /toon/2026-11-21-radar-crypto-en/01.webp
 altUrl: /toon/2026-11-21-radar-crypto/
 altLang: ko
 series: radar
-episode: 5
+episode: 8
 images:
 - src: /toon/2026-11-21-radar-crypto-en/01.webp
   alt: 1/Cover — Who got so crowded?
 - src: /toon/2026-11-21-radar-crypto-en/02.webp
-  alt: '2/Talk — Beom: Crow, anything on the radar? / Kkau: ENSO traded 21x its usual
+  alt: '2/Talk — Beom: Kkau, anything on the radar? / Kkau: ENSO traded 21x its usual
     turnover. That many normal days packed into one! / Beom: Usual compared to what,
     though? / Bengal: Versus the average of the prior 10 sessions. It tracks attention,
     not direction.'

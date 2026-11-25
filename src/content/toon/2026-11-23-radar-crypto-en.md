@@ -18,12 +18,12 @@ ogImage: /toon/2026-11-23-radar-crypto-en/01.webp
 altUrl: /toon/2026-11-23-radar-crypto/
 altLang: ko
 series: radar
-episode: 5
+episode: 9
 images:
 - src: /toon/2026-11-23-radar-crypto-en/01.webp
   alt: 1/Cover — Why So Crowded, PUMP?
 - src: /toon/2026-11-23-radar-crypto-en/02.webp
-  alt: '2/Talk — Beom: Anything on the radar, Crow? / Kkau: PUMP traded 5x its usual!
+  alt: '2/Talk — Beom: Anything on the radar, Kkau? / Kkau: PUMP traded 5x its usual!
     That''s five normal days of turnover in one day. / Beom: Was PUMP alone up there?
     / Bengal: Cysic hit 5x too. Crowded means lots of trading, not a direction.'
 - src: /toon/2026-11-23-radar-crypto-en/03.webp

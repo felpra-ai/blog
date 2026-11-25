@@ -18,12 +18,12 @@ ogImage: /toon/2026-11-20-radar-kr-en/01.webp
 altUrl: /toon/2026-11-20-radar-kr/
 altLang: ko
 series: radar
-episode: 5
+episode: 6
 images:
 - src: /toon/2026-11-20-radar-kr-en/01.webp
   alt: 1/Cover — Who got crowded?
 - src: /toon/2026-11-20-radar-kr-en/02.webp
-  alt: '2/Talk — Beom: Crow, anything on the radar? / Kkau: Hyundai Movex hit 11x
+  alt: '2/Talk — Beom: Kkau, anything on the radar? / Kkau: Hyundai Movex hit 11x
     usual turnover. That''s eleven normal days in one session! / Kkau: Studio Dragon,
     same multiple! / Kosho: Crowded just means busy trading, not a direction. The
     data doesn''t say why.'
@@ -35,8 +35,8 @@ images:
   alt: 4/Key point — 10.6x usual turnover. Both names!
 - src: /toon/2026-11-20-radar-kr-en/05.webp
   alt: '5/Last word — Beom: So, Kosho, why the crowd? / Kosho: Both traded 11x their
-    usual. Busy isn''t direction; the data doesn''t say why. / Kosho: ...Even the
-    Crow can''t smell why.'
+    usual. Busy isn''t direction; the data doesn''t say why. / Kosho: ...Even Kkau
+    can''t smell why.'
 ---
 
 | Name | × usual turnover | Day change |

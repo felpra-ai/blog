@@ -18,12 +18,12 @@ ogImage: /toon/2026-11-20-radar-us-en/01.webp
 altUrl: /toon/2026-11-20-radar-us/
 altLang: ko
 series: radar
-episode: 5
+episode: 7
 images:
 - src: /toon/2026-11-20-radar-us-en/01.webp
   alt: 1/Cover — Who got crowded?
 - src: /toon/2026-11-20-radar-us-en/02.webp
-  alt: '2/Talk — Beom: Crow, anything on the radar? / Kkau: Intuit traded 3x its usual.
+  alt: '2/Talk — Beom: Kkau, anything on the radar? / Kkau: Intuit traded 3x its usual.
     That''s three normal days of trading in one day. / Maine: Only Intuit lit up the
     radar? / Kkau: Yep! An SEC filing with results landed just before. Overlap, not
     proof.'

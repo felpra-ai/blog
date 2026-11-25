@@ -17,7 +17,7 @@ ogImage: /toon/2026-11-22-radar-crypto/01.webp
 altUrl: /toon/2026-11-22-radar-crypto-en/
 altLang: en
 series: radar
-episode: 9
+episode: 12
 images:
 - src: /toon/2026-11-22-radar-crypto/01.webp
   alt: 1/표지 — 거래가 왜 몰렸을까?
