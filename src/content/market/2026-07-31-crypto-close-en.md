@@ -40,16 +40,16 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 
 ## Desk panel
 - **VIX:** Volatility remains in a stable, neutral state, showing balanced directional conviction. :vix:
-- **Bonds:** The bond market exhibits a stable, neutral posture, with a slight leaning toward bearish sentiment. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions are registering a stable, neutral reading with no discernible directional bias. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Liquidity:** Liquidity metrics indicate a stable, bullish regime, suggesting supportive underlying capital flows. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Commodities:** Commodities are in a neutral state, showing a moderate tilt toward bullish readings. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
-- **Crypto:** Cryptocurrency shows a deteriorating trend, with bearish sentiment significantly outweighing bullish readings. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
-- **Korea:** The Korean market displays a deteriorating trend, with bearish readings slightly outpacing bullish ones. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
-- **US:** The US market is in an improving trend, with bullish readings showing a noticeable advantage. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
+- **Bonds:** The bond market exhibits a stable, neutral posture, with a slight leaning toward bearish sentiment. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions are registering a stable, neutral reading with no discernible directional bias. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Liquidity:** Liquidity metrics indicate a stable, bullish regime, suggesting supportive underlying capital flows. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Commodities:** Commodities are in a neutral state, showing a moderate tilt toward bullish readings. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="Bengal" />
+- **Crypto:** Cryptocurrency shows a deteriorating trend, with bearish sentiment significantly outweighing bullish readings. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="Bengal" />
+- **Korea:** The Korean market displays a deteriorating trend, with bearish readings slightly outpacing bullish ones. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="Bengal" />
+- **US:** The US market is in an improving trend, with bullish readings showing a noticeable advantage. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The underlying liquidity environment reads as supportive, contrasting with the deteriorating trend observed in the crypto space. While the US market shows signs of improvement, the broader asset mix suggests caution is warranted. The overall tape appears to be consolidating within established ranges. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The underlying liquidity environment reads as supportive, contrasting with the deteriorating trend observed in the crypto space. While the US market shows signs of improvement, the broader asset mix suggests caution is warranted. The overall tape appears to be consolidating within established ranges. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

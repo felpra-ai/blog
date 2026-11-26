@@ -44,7 +44,7 @@ altLang: ko
 - **Sectors:** Real Estate, Healthcare, and Financial Services are showing strength, while Technology sectors appear comparatively weaker. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market presents a mixed picture: strong commodity and inflation readings contrast with bearish liquidity and elevated volatility. US equities show signs of improvement, yet the overall tape suggests a cautious, range-seeking environment despite sector strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The market presents a mixed picture: strong commodity and inflation readings contrast with bearish liquidity and elevated volatility. US equities show signs of improvement, yet the overall tape suggests a cautious, range-seeking environment despite sector strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

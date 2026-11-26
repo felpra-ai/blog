@@ -40,11 +40,11 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: neutral → bearish (15 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.27) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing a slight leaning towards bearish readings across the spectrum. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** The bond picture reads clearly bullish, while credit sentiment is registering as neutral. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange dynamics are showing an extreme bearish tilt, suggesting directional pressure. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are registering a neutral state, with bearish indicators showing a slightly higher weight than bullish ones. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is reading as neutral overall, with the dominance structure showing a clear preference for Bitcoin. <img class="emoji-char" src="/characters/crypto/12_relieved.png" alt="벵갈" />
+- **Lovble(Global):** Volatility remains stable, showing a slight leaning towards bearish readings across the spectrum. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond picture reads clearly bullish, while credit sentiment is registering as neutral. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange dynamics are showing an extreme bearish tilt, suggesting directional pressure. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are registering a neutral state, with bearish indicators showing a slightly higher weight than bullish ones. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is reading as neutral overall, with the dominance structure showing a clear preference for Bitcoin. <img class="emoji-char" src="/characters/crypto/12_relieved.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
 **Beom(Chair):** The macro picture presents a divergence: bonds show clear strength while inflation and FX signal caution. The US market sentiment is deteriorating, contrasting with the improving trend noted in the crypto space. Overall, the market appears to be absorbing conflicting signals, suggesting a period of consolidation or range-bound movement pending key economic data releases.

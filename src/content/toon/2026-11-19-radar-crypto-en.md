@@ -43,7 +43,7 @@ images:
 |---|---|---|
 | Moonbirds (BIRB) | 81.1× | +6.3% |
 | Pharos (PROS) | 26.5× | +10.5% |
-| 아이리스 (IRYS) | 14.8× | +27.5% |
+| IRYS | 14.8× | +27.5% |
 
 _Rule: that day's turnover ÷ average of the prior 10 sessions. 3 of 443 names screened passed the threshold. Volume shows attention, not direction._
 

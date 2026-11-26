@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-09 21:30 KST — Tyson Foods, Inc. 실적 발표 (TSN)
-- 🔴 11-09 22:30 KST — NRG Energy, Inc. 실적 발표 (NRG)
-- 🔴 11-09 22:30 KST — Bio-Techne Corp 실적 발표 (TECH)
-- 🔴 11-09 22:30 KST — KKR & Co. Inc. 실적 발표 (KKR)
-- 🔴 11-09 22:30 KST — Constellation Energy Corporatio 실적 발표 (CEG)
-- 🔴 11-09 22:30 KST — Ferguson Enterprises Inc. 실적 발표 (FERG)
+- 🔴 11-09 21:30 KST — Tyson Foods, Inc. earnings (TSN)
+- 🔴 11-09 22:30 KST — NRG Energy, Inc. earnings (NRG)
+- 🔴 11-09 22:30 KST — Bio-Techne Corp earnings (TECH)
+- 🔴 11-09 22:30 KST — KKR & Co. Inc. earnings (KKR)
+- 🔴 11-09 22:30 KST — Constellation Energy Corporatio earnings (CEG)
+- 🔴 11-09 22:30 KST — Ferguson Enterprises Inc. earnings (FERG)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (58 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 7 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains elevated with a clear bullish bias across the board, suggesting heightened market attention. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** The bond market exhibits a mixed sentiment, leaning more towards bearish readings despite stable trend indicators. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange markets show a distinct bullish tilt, indicating positive directional sentiment in currency pairs. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are showing a clear bearish lean, suggesting downward pressure or reduced appetite in that asset class. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities show a mixed but slightly bullish bias, with Financial Services and Communication Services exhibiting relative strength compared to Technology and Crypto. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains elevated with a clear bullish bias across the board, suggesting heightened market attention. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market exhibits a mixed sentiment, leaning more towards bearish readings despite stable trend indicators. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange markets show a distinct bullish tilt, indicating positive directional sentiment in currency pairs. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are showing a clear bearish lean, suggesting downward pressure or reduced appetite in that asset class. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities show a mixed but slightly bullish bias, with Financial Services and Communication Services exhibiting relative strength compared to Technology and Crypto. <img class="emoji-char" src="/characters/us/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents divergence, with FX and VIX showing bullish tendencies while commodities and inflation signal significant bearish pressure. US equities appear range-bound with sector rotation visible, while crypto and Korean markets reflect deteriorating momentum. On balance, the market structure suggests caution amid underlying directional conflicts. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The macro picture presents divergence, with FX and VIX showing bullish tendencies while commodities and inflation signal significant bearish pressure. US equities appear range-bound with sector rotation visible, while crypto and Korean markets reflect deteriorating momentum. On balance, the market structure suggests caution amid underlying directional conflicts. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

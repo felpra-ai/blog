@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-03 09:00 KST — Newmont Corporation 배당락일 (NEM)
-- 🔴 09-03 09:00 KST — Principal Financial Group Inc 배당락일 (PFG)
-- 🔴 09-03 09:00 KST — Home Depot, Inc. (The) 배당락일 (HD)
-- 🔴 09-03 09:00 KST — Linde plc 배당락일 (LIN)
-- 🔴 09-03 09:00 KST — Broadridge Financial Solutions, 배당락일 (BR)
-- 🔴 09-03 09:00 KST — Southwest Airlines Company 배당락일 (LUV)
+- 🔴 09-03 09:00 KST — Newmont Corporation ex-dividend date (NEM)
+- 🔴 09-03 09:00 KST — Principal Financial Group Inc ex-dividend date (PFG)
+- 🔴 09-03 09:00 KST — Home Depot, Inc. (The) ex-dividend date (HD)
+- 🔴 09-03 09:00 KST — Linde plc ex-dividend date (LIN)
+- 🔴 09-03 09:00 KST — Broadridge Financial Solutions, ex-dividend date (BR)
+- 🔴 09-03 09:00 KST — Southwest Airlines Company ex-dividend date (LUV)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is stable, showing a slight lean toward bearish readings. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds maintain a neutral stance, with bullish indicators slightly outweighing bearish ones. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** FX remains neutral, with indicators showing a moderate tilt toward bullish readings. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit a clear bullish bias, with the majority of readings pointing upward. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities show a deteriorating trend, with bearish indicators significantly outweighing bullish ones. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is stable, showing a slight lean toward bearish readings. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds maintain a neutral stance, with bullish indicators slightly outweighing bearish ones. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** FX remains neutral, with indicators showing a moderate tilt toward bullish readings. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit a clear bullish bias, with the majority of readings pointing upward. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities show a deteriorating trend, with bearish indicators significantly outweighing bullish ones. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: commodities are showing clear strength, while the broader US equity picture is deteriorating. Liquidity remains notably constrained, and while macro indicators are mixed, the underlying sentiment suggests caution across several asset classes. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: commodities are showing clear strength, while the broader US equity picture is deteriorating. Liquidity remains notably constrained, and while macro indicators are mixed, the underlying sentiment suggests caution across several asset classes. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

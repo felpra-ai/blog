@@ -41,14 +41,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (89 times observed) · macro cross-correlation watch: inflation leads credit by 1d (ρ=-0.35) — only 12 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Soft tape across the board, with oil easing as a Libyan pipeline comes back online. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** The trend is worsening in both the US and Korea, each leaning bearish, while liquidity holds entirely on the bullish side. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX sits at an extreme bearish reading with the two sides split evenly, and liquidity stays fully bullish; neither has moved. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Barrels are flowing again out of Libya and oil has come off, though the Hormuz warnings out of Seoul mean the Gulf has not cleared, and commodities as a group stay neutral. <img class="emoji-char" src="/characters/v2/commodity/face/06_neutral.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is the heaviest of the three, with eight in ten readings bearish at 80.2%, and bitcoin is holding dominance while payments and oracle infra lag. <img class="emoji-char" src="/characters/v2/crypto/face/10_suspicious.png" alt="벵갈" />
+- **Lovble(Global):** Soft tape across the board, with oil easing as a Libyan pipeline comes back online. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** The trend is worsening in both the US and Korea, each leaning bearish, while liquidity holds entirely on the bullish side. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX sits at an extreme bearish reading with the two sides split evenly, and liquidity stays fully bullish; neither has moved. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Barrels are flowing again out of Libya and oil has come off, though the Hormuz warnings out of Seoul mean the Gulf has not cleared, and commodities as a group stay neutral. <img class="emoji-char" src="/characters/v2/commodity/face/06_neutral.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is the heaviest of the three, with eight in ten readings bearish at 80.2%, and bitcoin is holding dominance while payments and oracle infra lag. <img class="emoji-char" src="/characters/v2/crypto/face/10_suspicious.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Bsho and Lovble see the US and Korea deteriorating, Sham and Bsho both point to liquidity at 100.0% bullish, and Bengal finds crypto the weakest. Still open: whether cheaper oil eases anything while crypto stays this bearish. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
+**Beom(Chair):** Bsho and Lovble see the US and Korea deteriorating, Sham and Bsho both point to liquidity at 100.0% bullish, and Bengal finds crypto the weakest. Still open: whether cheaper oil eases anything while crypto stays this bearish. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-23](/track-record/2026-11-23-weekly-hitrate-en/)

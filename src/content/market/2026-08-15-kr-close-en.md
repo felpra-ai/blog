@@ -32,9 +32,9 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-18 15:00 KST — Nongshim 실적 발표 (004370)
-- 🔴 08-20 09:00 KST — HANKOOK & COMPANY 배당락일 (000240)
-- 🔴 08-21 09:00 KST — POSCO Holdings 배당락일 (005490)
+- 🔴 08-18 15:00 KST — Nongshim earnings (004370)
+- 🔴 08-20 09:00 KST — HANKOOK & COMPANY ex-dividend date (000240)
+- 🔴 08-21 09:00 KST — POSCO Holdings ex-dividend date (005490)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -42,10 +42,10 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility readings indicate a strong bearish leaning, though the trend itself remains stable. :vix:
-- **Bonds:** The bond market sentiment reads as neutral, with a slight leaning toward bullishness. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Credit:** Credit conditions show a decidedly bullish regime, with no bearish indicators noted. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **FX:** Foreign exchange sentiment is neutral, exhibiting a mix of bullish and bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Liquidity:** Liquidity metrics suggest a neutral state, evenly split between bullish and bearish readings. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Bonds:** The bond market sentiment reads as neutral, with a slight leaning toward bullishness. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Credit:** Credit conditions show a decidedly bullish regime, with no bearish indicators noted. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **FX:** Foreign exchange sentiment is neutral, exhibiting a mix of bullish and bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Liquidity:** Liquidity metrics suggest a neutral state, evenly split between bullish and bearish readings. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 - **Commodities:** Commodities are positioned in a sideways-bullish regime, showing strong bullish conviction. :koc:
 - **Inflation:** Inflation sentiment is neutral, with a slight bullish tilt. :infl:
 - **Crypto:** The cryptocurrency space is showing a deteriorating trend, with bearish readings outweighing bullish ones. :cryp:
@@ -53,7 +53,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are showing an improving trend, with bullish sentiment slightly outweighing bearish readings. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: credit and commodities show clear bullish support, while crypto is exhibiting weakening momentum. The macro picture suggests underlying stability in key areas like credit and inflation, though geopolitical factors remain a notable overhang. On balance, the tape suggests caution, balancing sector strength against broader asset class divergence. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: credit and commodities show clear bullish support, while crypto is exhibiting weakening momentum. The macro picture suggests underlying stability in key areas like credit and inflation, though geopolitical factors remain a notable overhang. On balance, the tape suggests caution, balancing sector strength against broader asset class divergence. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-14 09:00 KST — UnitedHealth Group Incorporated 배당락일 (UNH)
-- 🔴 09-14 09:00 KST — FedEx Corporation 배당락일 (FDX)
-- 🔴 09-14 09:00 KST — Healthpeak Properties, Inc. 배당락일 (DOC)
-- 🔴 09-14 09:00 KST — Vertiv Holdings, LLC 배당락일 (VRT)
-- 🔴 09-15 09:00 KST — Paramount Skydance Corporation 배당락일 (PSKY)
-- 🔴 09-15 09:00 KST — TKO Group Holdings, Inc. 배당락일 (TKO)
+- 🔴 09-14 09:00 KST — UnitedHealth Group Incorporated ex-dividend date (UNH)
+- 🔴 09-14 09:00 KST — FedEx Corporation ex-dividend date (FDX)
+- 🔴 09-14 09:00 KST — Healthpeak Properties, Inc. ex-dividend date (DOC)
+- 🔴 09-14 09:00 KST — Vertiv Holdings, LLC ex-dividend date (VRT)
+- 🔴 09-15 09:00 KST — Paramount Skydance Corporation ex-dividend date (PSKY)
+- 🔴 09-15 09:00 KST — TKO Group Holdings, Inc. ex-dividend date (TKO)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.27) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings suggest a highly bullish sentiment across the board, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** The bond market shows a mixed picture, with equal weight assigned to bullish and bearish directional views, and the trend is stable. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are characterized by a neutral stance, with bearish indicators showing a stronger presence than bullish ones, and the trend is stable. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit a bullish leaning, though bearish indicators hold a greater weight, and the overall trend remains stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are reading as neutral overall, with the broader market showing signs of deterioration, while specific sectors indicate weakness in Real Estate and Consumer Cyclical. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility readings suggest a highly bullish sentiment across the board, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market shows a mixed picture, with equal weight assigned to bullish and bearish directional views, and the trend is stable. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are characterized by a neutral stance, with bearish indicators showing a stronger presence than bullish ones, and the trend is stable. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit a bullish leaning, though bearish indicators hold a greater weight, and the overall trend remains stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are reading as neutral overall, with the broader market showing signs of deterioration, while specific sectors indicate weakness in Real Estate and Consumer Cyclical. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents diverging signals; while volatility suggests strong underlying confidence, credit and liquidity readings point toward bearish pressure. The US market's deteriorating trend contrasts with the mixed signals across other asset classes, suggesting a period of caution and divergence in market positioning. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The macro picture presents diverging signals; while volatility suggests strong underlying confidence, credit and liquidity readings point toward bearish pressure. The US market's deteriorating trend contrasts with the mixed signals across other asset classes, suggesting a period of caution and divergence in market positioning. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

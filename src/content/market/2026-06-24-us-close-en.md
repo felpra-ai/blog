@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Industrials, Financial Services, Utilities, Consumer Cyclical · weak: Energy, Utilities, Communication Services
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing a slight tilt toward bearish readings, while overall risk appetite reads neutral. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** The bond market exhibits a clear bullish bias, supported by strong credit readings. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are leaning strongly bullish, with liquidity showing a positive, though sideways, bias. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is mixed, registering as neutral, while inflation indicators show a distinct bearish leaning. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are reading as neutral overall, with Industrials, Financial Services, and Utilities showing strength, while ENERGY and Communication Services are lagging. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable, showing a slight tilt toward bearish readings, while overall risk appetite reads neutral. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market exhibits a clear bullish bias, supported by strong credit readings. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are leaning strongly bullish, with liquidity showing a positive, though sideways, bias. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is mixed, registering as neutral, while inflation indicators show a distinct bearish leaning. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities are reading as neutral overall, with Industrials, Financial Services, and Utilities showing strength, while ENERGY and Communication Services are lagging. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market view suggests underlying strength in fixed income and FX, contrasting with mixed signals in commodities and inflation. The breadth across major asset classes points toward a cautious, range-seeking environment, despite some sector strength noted in US equities. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The cross-market view suggests underlying strength in fixed income and FX, contrasting with mixed signals in commodities and inflation. The breadth across major asset classes points toward a cautious, range-seeking environment, despite some sector strength noted in US equities. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

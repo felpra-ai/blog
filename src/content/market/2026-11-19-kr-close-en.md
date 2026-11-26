@@ -35,21 +35,21 @@ altLang: ko
 - 🔴 11-25 22:30 KST — US PCE Price Index
 - 🔴 11-25 22:30 KST — US GDP Release
 - 🔴 11-26 10:00 KST — BOK Interest Rate Decision
-- 🟡 11-23 — DOOSAN 배당락일 (000150)
+- 🟡 11-23 — DOOSAN ex-dividend date (000150)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: inflation leads credit by 1d (ρ=-0.35) — only 12 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** A cautious tape, with consumers flagging first: US retail sales growth slowed as inflation bit. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** The FX reading leans extreme bearish, and that is where the strain shows first; bonds keep a bullish tilt, though that block mixes opposite instruments and says little on its own. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX leans bearish. Liquidity drifts sideways with a bullish lean. The two are not pulling the same way. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities sit bearish and are deteriorating, and the IEA's view that an Iran war could cut global oil demand by over 4% by 2035 adds weight to that, like a crop forecast trimmed before the harvest. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korea is sideways bearish and still deteriorating; IT-media, bio-health and financials hold up while materials, semiconductors and chemicals lag, and the split runs through the heavy industrial names. <img class="emoji-char" src="/characters/v2/kr/face/08_defensive.png" alt="코숏" />
+- **Lovble(Global):** A cautious tape, with consumers flagging first: US retail sales growth slowed as inflation bit. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** The FX reading leans extreme bearish, and that is where the strain shows first; bonds keep a bullish tilt, though that block mixes opposite instruments and says little on its own. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX leans bearish. Liquidity drifts sideways with a bullish lean. The two are not pulling the same way. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities sit bearish and are deteriorating, and the IEA's view that an Iran war could cut global oil demand by over 4% by 2035 adds weight to that, like a crop forecast trimmed before the harvest. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korea is sideways bearish and still deteriorating; IT-media, bio-health and financials hold up while materials, semiconductors and chemicals lag, and the split runs through the heavy industrial names. <img class="emoji-char" src="/characters/v2/kr/face/08_defensive.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Lovble opened on the consumer, Bsho and Sham on FX, Nowel on oil, and Kosho on Korea's sector split. With volatility leaning toward a rise and commodities weakening, the open question is how slower spending and a softer energy outlook meet. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
+**Beom(Chair):** Lovble opened on the consumer, Bsho and Sham on FX, Nowel on oil, and Kosho on Korea's sector split. With volatility leaning toward a rise and commodities weakening, the open question is how slower spending and a softer energy outlook meet. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

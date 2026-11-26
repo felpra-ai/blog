@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-06 09:00 KST — Pfizer, Inc. 배당락일 (PFE)
-- 🔴 11-06 09:00 KST — CMS Energy Corporation 배당락일 (CMS)
-- 🔴 11-06 09:00 KST — FirstEnergy Corp. 배당락일 (FE)
-- 🔴 11-06 22:30 KST — Humana Inc. 실적 발표 (HUM)
-- 🔴 11-06 22:30 KST — Franklin Templeton, Inc. 실적 발표 (BEN)
-- 🔴 11-06 22:30 KST — Moderna, Inc. 실적 발표 (MRNA)
+- 🔴 11-06 09:00 KST — Pfizer, Inc. ex-dividend date (PFE)
+- 🔴 11-06 09:00 KST — CMS Energy Corporation ex-dividend date (CMS)
+- 🔴 11-06 09:00 KST — FirstEnergy Corp. ex-dividend date (FE)
+- 🔴 11-06 22:30 KST — Humana Inc. earnings (HUM)
+- 🔴 11-06 22:30 KST — Franklin Templeton, Inc. earnings (BEN)
+- 🔴 11-06 22:30 KST — Moderna, Inc. earnings (MRNA)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -57,7 +57,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Financial Services, Communication Services, and Consumer Defensive sectors are showing strength, while Technology and Energy sectors are showing weakness. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The US market shows improving momentum, which is generally supportive of the broader market structure, though crypto is showing signs of weakness. On balance, the cross-market reading suggests a cautious environment where strength is concentrated in specific defensive and financial areas. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The US market shows improving momentum, which is generally supportive of the broader market structure, though crypto is showing signs of weakness. On balance, the cross-market reading suggests a cautious environment where strength is concentrated in specific defensive and financial areas. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

@@ -30,12 +30,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-03 15:00 KST — HYUNDAI STEEL 실적 발표 (004020)
-- 🔴 08-03 15:00 KST — DL 실적 발표 (000210)
-- 🔴 08-04 15:00 KST — Hanwha 실적 발표 (000880)
-- 🔴 08-06 09:00 KST — DOOSAN 배당락일 (000150)
-- 🔴 08-06 15:00 KST — AMOREPACIFIC Holdings 실적 발표 (002790)
-- 🔴 08-06 15:00 KST — LOTTE Fine Chem 실적 발표 (004000)
+- 🔴 08-03 15:00 KST — HYUNDAI STEEL earnings (004020)
+- 🔴 08-03 15:00 KST — DL earnings (000210)
+- 🔴 08-04 15:00 KST — Hanwha earnings (000880)
+- 🔴 08-06 09:00 KST — DOOSAN ex-dividend date (000150)
+- 🔴 08-06 15:00 KST — AMOREPACIFIC Holdings earnings (002790)
+- 🔴 08-06 15:00 KST — LOTTE Fine Chem earnings (004000)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -53,7 +53,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are showing an improving trend, with bullish readings suggesting underlying support. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: strong liquidity and improving US sentiment contrast with bearish readings in FX and Crypto. The overall picture suggests caution, as the underlying macro indicators are mixed despite the positive readings in US equities. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: strong liquidity and improving US sentiment contrast with bearish readings in FX and Crypto. The overall picture suggests caution, as the underlying macro indicators are mixed despite the positive readings in US equities. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

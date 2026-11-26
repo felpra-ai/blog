@@ -40,14 +40,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains neutral, suggesting stable risk appetite across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds show a neutral stance, with bullish sentiment holding a slight edge over bearish readings. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange exhibits an extreme bearish reading, while liquidity remains neutral. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are in a sideways bearish regime, with bearish indicators significantly outweighing bullish ones. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are neutral overall, with industrials, semiconductors, and materials showing strength while bio-health lags. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains neutral, suggesting stable risk appetite across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds show a neutral stance, with bullish sentiment holding a slight edge over bearish readings. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange exhibits an extreme bearish reading, while liquidity remains neutral. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are in a sideways bearish regime, with bearish indicators significantly outweighing bullish ones. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are neutral overall, with industrials, semiconductors, and materials showing strength while bio-health lags. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents mixed signals; while volatility and liquidity are stable, significant bearish readings persist across credit, FX, and inflation. The underlying equity markets, including US and Korean indices, are showing signs of deteriorating trends, despite sector-specific strength noted in Korean industrials and semiconductors. The overall tape suggests caution amid persistent inflationary concerns highlighted by central bank commentary. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The macro picture presents mixed signals; while volatility and liquidity are stable, significant bearish readings persist across credit, FX, and inflation. The underlying equity markets, including US and Korean indices, are showing signs of deteriorating trends, despite sector-specific strength noted in Korean industrials and semiconductors. The overall tape suggests caution amid persistent inflationary concerns highlighted by central bank commentary. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

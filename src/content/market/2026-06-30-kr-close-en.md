@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Utilities · weak: materials, Crypto, chemicals
 
 ## Desk panel
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit remains entirely bullish. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements suggest an extreme bearish leaning. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are reading as neutral, with bearish indications showing more weight than bullish ones. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are showing a neutral overall picture, but with a notable deterioration in the underlying trend. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
-- **Lovble(Global):** Volatility remains neutral, and liquidity conditions are reading as fully bullish. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit remains entirely bullish. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements suggest an extreme bearish leaning. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are reading as neutral, with bearish indications showing more weight than bullish ones. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are showing a neutral overall picture, but with a notable deterioration in the underlying trend. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="Kosho" />
+- **Lovble(Global):** Volatility remains neutral, and liquidity conditions are reading as fully bullish. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The bond market shows significant positive momentum, contrasting with the bearish read on FX. US equities are showing signs of improvement, though crypto activity is currently neutral. On balance, the market exhibits mixed signals, suggesting caution despite strong liquidity readings. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The bond market shows significant positive momentum, contrasting with the bearish read on FX. US equities are showing signs of improvement, though crypto activity is currently neutral. On balance, the market exhibits mixed signals, suggesting caution despite strong liquidity readings. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 ---
 

@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-24 US after close — Jacobs Solutions Inc. 실적 발표 (J)
-- 🔴 11-24 US after close — Hewlett Packard Enterprise Comp 실적 발표 (HPE)
-- 🔴 11-24 US after close — Agilent Technologies, Inc. 실적 발표 (A)
-- 🔴 11-24 — Prudential Financial, Inc. 배당락일 (PRU)
-- 🔴 11-24 US pre-market — Dollar Tree, Inc. 실적 발표 (DLTR)
-- 🔴 11-24 US pre-market — Analog Devices, Inc. 실적 발표 (ADI)
+- 🔴 11-24 US after close — Jacobs Solutions Inc. earnings (J)
+- 🔴 11-24 US after close — Hewlett Packard Enterprise Comp earnings (HPE)
+- 🔴 11-24 US after close — Agilent Technologies, Inc. earnings (A)
+- 🔴 11-24 — Prudential Financial, Inc. ex-dividend date (PRU)
+- 🔴 11-24 US pre-market — Dollar Tree, Inc. earnings (DLTR)
+- 🔴 11-24 US pre-market — Analog Devices, Inc. earnings (ADI)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (60 times observed) · macro cross-correlation watch: inflation leads credit by 1d (ρ=-0.35) — only 12 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Inflation is back in the headlines from London and the Fed, and the volatility gauge has tipped firmly toward wider swings. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Credit is where the strain shows, three-quarters bearish, while bonds lean bullish and liquidity still reads fully bullish. <img class="emoji-char" src="/characters/v2/bond/face/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** FX leans hard bearish. Liquidity sits at 100% bullish, so funds are not the constraint. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Energy costs are keeping the Bank of England under pressure, yet the commodity complex as a whole has gone soft, like a cold field under a warm sky. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Maine(US):** The US tape leans bearish across the board, with eight in ten readings on the down side, and money has drifted into consumer defensive while technology and communication services trail behind. <img class="emoji-char" src="/characters/v2/us/face/10_suspicious.png" alt="멘쿤" />
+- **Lovble(Global):** Inflation is back in the headlines from London and the Fed, and the volatility gauge has tipped firmly toward wider swings. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit is where the strain shows, three-quarters bearish, while bonds lean bullish and liquidity still reads fully bullish. <img class="emoji-char" src="/characters/v2/bond/face/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** FX leans hard bearish. Liquidity sits at 100% bullish, so funds are not the constraint. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Energy costs are keeping the Bank of England under pressure, yet the commodity complex as a whole has gone soft, like a cold field under a warm sky. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** The US tape leans bearish across the board, with eight in ten readings on the down side, and money has drifted into consumer defensive while technology and communication services trail behind. <img class="emoji-char" src="/characters/v2/us/face/10_suspicious.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Lovble and Bsho put the weight on rising volatility and weak credit, Sham on a bearish dollar picture against full liquidity, Nowel on soft commodities, and Maine on a defensive rotation in a bearish US market, with crypto leaning the same way. What remains open is how sticky inflation squares with liquidity this loose. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
+**Beom(Chair):** Lovble and Bsho put the weight on rising volatility and weak credit, Sham on a bearish dollar picture against full liquidity, Nowel on soft commodities, and Maine on a defensive rotation in a bearish US market, with crypto leaning the same way. What remains open is how sticky inflation squares with liquidity this loose. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-23](/track-record/2026-11-23-weekly-hitrate-en/)

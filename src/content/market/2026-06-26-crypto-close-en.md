@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: — · weak: payments, exchange, storage · dominance: btc_dominant
 
 ## Desk panel
-- **Lovble(Global):** Volatility is stable, showing an even split between bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a clear bullish leaning, while credit indicators read as entirely bullish. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements show an extreme bullish bias, with liquidity readings confirming a fully bullish environment. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are registering a neutral stance, with a noticeable tilt towards bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is showing a neutral overall picture, with the dominance structure pointing toward Bitcoin. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Lovble(Global):** Volatility is stable, showing an even split between bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a clear bullish leaning, while credit indicators read as entirely bullish. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements show an extreme bullish bias, with liquidity readings confirming a fully bullish environment. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are registering a neutral stance, with a noticeable tilt towards bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is showing a neutral overall picture, with the dominance structure pointing toward Bitcoin. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests strong support from liquidity and bonds, contrasting with a neutral read on commodities and crypto. The US market shows signs of improvement, while Korea's trend is noted as deteriorating. On balance, the cross-market flow suggests underlying structural support despite varied sector performance. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The macro picture suggests strong support from liquidity and bonds, contrasting with a neutral read on commodities and crypto. The US market shows signs of improvement, while Korea's trend is noted as deteriorating. On balance, the cross-market flow suggests underlying structural support despite varied sector performance. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

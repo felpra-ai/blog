@@ -51,7 +51,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sector:** Strength is noted in the dominant Bitcoin basket, while gaming, NFT, and other sectors show weakness. :sector:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence, with strong bullish readings in volatility contrasting with bearish signals in inflation and commodities. The US market shows signs of improvement, while crypto and Korean indices are trending lower. Overall, the market structure suggests caution amidst diverging sector and macro signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence, with strong bullish readings in volatility contrasting with bearish signals in inflation and commodities. The US market shows signs of improvement, while crypto and Korean indices are trending lower. Overall, the market structure suggests caution amidst diverging sector and macro signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

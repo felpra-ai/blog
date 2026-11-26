@@ -41,14 +41,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (16 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing a slight leaning towards bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bond indicators are balanced, with no discernible directional bias present in the current readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements show a mixed picture, with bullish sentiment slightly outweighing bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity indicators point toward a bearish regime, with bearish readings significantly dominating the observed activity. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Bengal(Crypto):** Cryptocurrency activity reads as sideways and bearish, with a clear dominance observed in Bitcoin relative to other digital assets. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
+- **Lovble(Global):** Volatility remains stable, showing a slight leaning towards bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond indicators are balanced, with no discernible directional bias present in the current readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements show a mixed picture, with bullish sentiment slightly outweighing bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity indicators point toward a bearish regime, with bearish readings significantly dominating the observed activity. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Bengal(Crypto):** Cryptocurrency activity reads as sideways and bearish, with a clear dominance observed in Bitcoin relative to other digital assets. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Macro indicators suggest a lack of strong directional conviction, particularly in commodities, which are showing clear weakness. The market structure is characterized by mixed signals, with crypto exhibiting notable downside pressure despite underlying asset dominance. The overall tape suggests caution amidst geopolitical headlines concerning energy and regulatory action. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** Macro indicators suggest a lack of strong directional conviction, particularly in commodities, which are showing clear weakness. The market structure is characterized by mixed signals, with crypto exhibiting notable downside pressure despite underlying asset dominance. The overall tape suggests caution amidst geopolitical headlines concerning energy and regulatory action. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

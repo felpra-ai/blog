@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: consumer, IT-media · weak: chemicals, Industrials
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains elevated with a clear bearish tilt, while overall risk appetite appears to be settling into a neutral range. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond markets show a neutral stance, with the bearish component carrying more weight than the bullish component. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are decidedly bullish, indicating strong directional conviction in currency flows. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit a notably bullish posture, suggesting underlying strength in real asset pricing. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Kosho(KR):** Korean equities present a mixed picture, with consumer and IT media sectors showing relative strength while chemicals and industrials lag. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains elevated with a clear bearish tilt, while overall risk appetite appears to be settling into a neutral range. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond markets show a neutral stance, with the bearish component carrying more weight than the bullish component. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are decidedly bullish, indicating strong directional conviction in currency flows. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit a notably bullish posture, suggesting underlying strength in real asset pricing. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities present a mixed picture, with consumer and IT media sectors showing relative strength while chemicals and industrials lag. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence: FX and Commodities are pointing strongly bullish, while Credit and Liquidity show significant bearish leaning. US equities are registering an improving trend, though the broader market sentiment remains cautious, suggesting selective strength across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence: FX and Commodities are pointing strongly bullish, while Credit and Liquidity show significant bearish leaning. US equities are registering an improving trend, though the broader market sentiment remains cautious, suggesting selective strength across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

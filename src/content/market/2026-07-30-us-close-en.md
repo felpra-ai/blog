@@ -32,23 +32,23 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 07-30 21:30 KST — Allegro MicroSystems, Inc. 실적 발표 (ALGM)
-- 🔴 07-30 21:30 KST — ADT Inc. 실적 발표 (ADT)
-- 🔴 07-30 21:30 KST — AGCO Corporation 실적 발표 (AGCO)
-- 🔴 07-30 21:30 KST — Air Products and Chemicals, Inc 실적 발표 (APD)
-- 🔴 07-30 21:30 KST — American Electric Power Company 실적 발표 (AEP)
-- 🔴 07-30 21:30 KST — A.O. Smith Corporation 실적 발표 (AOS)
+- 🔴 07-30 21:30 KST — Allegro MicroSystems, Inc. earnings (ALGM)
+- 🔴 07-30 21:30 KST — ADT Inc. earnings (ADT)
+- 🔴 07-30 21:30 KST — AGCO Corporation earnings (AGCO)
+- 🔴 07-30 21:30 KST — Air Products and Chemicals, Inc earnings (APD)
+- 🔴 07-30 21:30 KST — American Electric Power Company earnings (AEP)
+- 🔴 07-30 21:30 KST — A.O. Smith Corporation earnings (AOS)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bullish (6 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 5 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is reading bullishly, with the trend remaining stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Bonds show a neutral stance, with the trend remaining stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX is reading neutral, with the trend remaining stable. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are showing a neutral read, with the trend remaining stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are showing a neutral read, with the trend improving. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is reading bullishly, with the trend remaining stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds show a neutral stance, with the trend remaining stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX is reading neutral, with the trend remaining stable. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are showing a neutral read, with the trend remaining stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a neutral read, with the trend improving. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
 **Beom(Chair):** Liquidity is reading extremely bullish, which contrasts with the deteriorating trend observed in Crypto and Korea, while US equities show signs of improvement. The sector data indicates strength in Healthcare, Real Estate, Consumer Defensive, and Consumer Cyclical, while Utilities and Energy are showing relative weakness.

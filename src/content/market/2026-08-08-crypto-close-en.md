@@ -41,18 +41,18 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 
 ## Desk panel
 - **Macro:** Volatility suggests a predominantly bearish sentiment underpinning the current structure. :macro:
-- **Bonds:** The bond market exhibits a neutral stance with a slight leaning toward bullish readings. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Credit:** Credit conditions read as sideways-bullish, indicating underlying support despite mixed signals. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **FX:** Foreign exchange dynamics are leaning bearish, suggesting downward pressure on the currency. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Liquidity:** Liquidity indicators point toward a bearish regime, reflecting constrained market flow. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
-- **Commodities:** Commodity sentiment is neutral, showing an even split between bullish and bearish indicators. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
-- **Inflation:** Inflation readings are neutral, with a slightly higher weight on the bearish side. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
-- **Crypto:** Cryptocurrency activity is neutral overall, with no clear directional bias emerging. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
-- **Korea:** The Korean market shows a generally neutral reading, with bullish indicators holding more weight. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
-- **US:** The US market sentiment is neutral, with a slight tilt toward bullish readings. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Bonds:** The bond market exhibits a neutral stance with a slight leaning toward bullish readings. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Credit:** Credit conditions read as sideways-bullish, indicating underlying support despite mixed signals. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **FX:** Foreign exchange dynamics are leaning bearish, suggesting downward pressure on the currency. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Liquidity:** Liquidity indicators point toward a bearish regime, reflecting constrained market flow. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
+- **Commodities:** Commodity sentiment is neutral, showing an even split between bullish and bearish indicators. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
+- **Inflation:** Inflation readings are neutral, with a slightly higher weight on the bearish side. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
+- **Crypto:** Cryptocurrency activity is neutral overall, with no clear directional bias emerging. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
+- **Korea:** The Korean market shows a generally neutral reading, with bullish indicators holding more weight. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
+- **US:** The US market sentiment is neutral, with a slight tilt toward bullish readings. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a complex picture: while underlying liquidity and volatility suggest caution, credit and sector strength provide some support. The divergence between macro bearishness (liquidity, FX) and sector/geopolitical narratives warrants careful observation. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure presents a complex picture: while underlying liquidity and volatility suggest caution, credit and sector strength provide some support. The divergence between macro bearishness (liquidity, FX) and sector/geopolitical narratives warrants careful observation. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Utilities, IT-media · weak: —
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains neutral, suggesting a balanced risk appetite across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish bias, while credit maintains a decidedly bullish posture. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are reading as neutral, with a slight leaning towards bearish sentiment. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are showing a neutral stance, with bearish indicators holding more weight than bullish ones. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are showing a neutral overall trend, with the Utilities and IT Media sectors showing relative strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains neutral, suggesting a balanced risk appetite across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish bias, while credit maintains a decidedly bullish posture. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are reading as neutral, with a slight leaning towards bearish sentiment. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are showing a neutral stance, with bearish indicators holding more weight than bullish ones. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are showing a neutral overall trend, with the Utilities and IT Media sectors showing relative strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The bond market's strong bullish reading contrasts with the more mixed signals observed in commodities and FX. The improving trend noted in US equities, alongside the neutral readings in Crypto, suggests varied underlying momentum across asset classes. On balance, the market appears to be digesting mixed signals, with underlying support visible in fixed income structures. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The bond market's strong bullish reading contrasts with the more mixed signals observed in commodities and FX. The improving trend noted in US equities, alongside the neutral readings in Crypto, suggests varied underlying momentum across asset classes. On balance, the market appears to be digesting mixed signals, with underlying support visible in fixed income structures. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

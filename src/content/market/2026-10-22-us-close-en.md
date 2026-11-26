@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-22 09:00 KST — CVS Health Corporation 배당락일 (CVS)
-- 🔴 10-22 09:00 KST — APA Corporation 배당락일 (APA)
-- 🔴 10-22 21:30 KST — Textron Inc. 실적 발표 (TXT)
-- 🔴 10-22 21:30 KST — Dover Corporation 실적 발표 (DOV)
-- 🔴 10-22 21:30 KST — Roper Technologies, Inc. 실적 발표 (ROP)
-- 🔴 10-22 21:30 KST — West Pharmaceutical Services, I 실적 발표 (WST)
+- 🔴 10-22 09:00 KST — CVS Health Corporation ex-dividend date (CVS)
+- 🔴 10-22 09:00 KST — APA Corporation ex-dividend date (APA)
+- 🔴 10-22 21:30 KST — Textron Inc. earnings (TXT)
+- 🔴 10-22 21:30 KST — Dover Corporation earnings (DOV)
+- 🔴 10-22 21:30 KST — Roper Technologies, Inc. earnings (ROP)
+- 🔴 10-22 21:30 KST — West Pharmaceutical Services, I earnings (WST)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (57 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 7 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is reading neutral, with a stable trend profile. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish reading, maintaining a stable trend. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange is registering a bearish state, with a stable trend. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities show a neutral reading, with a stable trend. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are reading bullish, showing an improving trend, while sectors show strength in Financial Services, Communication Services, and Healthcare. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is reading neutral, with a stable trend profile. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish reading, maintaining a stable trend. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange is registering a bearish state, with a stable trend. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities show a neutral reading, with a stable trend. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are reading bullish, showing an improving trend, while sectors show strength in Financial Services, Communication Services, and Healthcare. <img class="emoji-char" src="/characters/us/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure shows divergence, with US equities reading bullish while crypto shows a deteriorating, sideways-bearish pattern. Bonds are reading strongly bullish, contrasting with the bearish readings in FX and the mixed signals across commodities. The overall picture suggests underlying strength in certain asset classes despite broader sector weakness. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The market structure shows divergence, with US equities reading bullish while crypto shows a deteriorating, sideways-bearish pattern. Bonds are reading strongly bullish, contrasting with the bearish readings in FX and the mixed signals across commodities. The overall picture suggests underlying strength in certain asset classes despite broader sector weakness. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

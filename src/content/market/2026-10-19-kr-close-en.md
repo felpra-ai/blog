@@ -32,23 +32,23 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-22 15:00 KST — NHIS 실적 발표 (005940)
-- 🔴 10-22 15:00 KST — LS ELECTRIC 실적 발표 (010120)
-- 🔴 10-22 15:00 KST — HD HYUNDAI ELECTRIC 실적 발표 (267260)
+- 🔴 10-22 15:00 KST — NHIS earnings (005940)
+- 🔴 10-22 15:00 KST — LS ELECTRIC earnings (010120)
+- 🔴 10-22 15:00 KST — HD HYUNDAI ELECTRIC earnings (267260)
 - 🔴 10-22 21:30 KST — US GDP (Advance)
-- 🔴 10-23 15:00 KST — HYUNDAI ROTEM 실적 발표 (064350)
-- 🔴 10-23 15:00 KST — KIA CORP. 실적 발표 (000270)
+- 🔴 10-23 15:00 KST — HYUNDAI ROTEM earnings (064350)
+- 🔴 10-23 15:00 KST — KIA CORP. earnings (000270)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 10 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing a slight leaning towards bullish sentiment. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit remains in a neutral state. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are neutral, with a notable bearish leaning in the current readings. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are reading as neutral, with a slight bearish tilt observed. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are showing a bearish trend, with the BIO/HEALTH sector showing strength while UTILITIES, IT/MEDIA, and SEMICONDUCTOR are weaker. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains stable, showing a slight leaning towards bullish sentiment. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit remains in a neutral state. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are neutral, with a notable bearish leaning in the current readings. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are reading as neutral, with a slight bearish tilt observed. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are showing a bearish trend, with the BIO/HEALTH sector showing strength while UTILITIES, IT/MEDIA, and SEMICONDUCTOR are weaker. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
 **Beom(Chair):** The broader US market shows an improving, sideways-bullish posture, which provides some underlying support to the tape. However, this optimism is tempered by the deteriorating bearish trend observed in the crypto space and the bearish reading in Korean equities. The macro picture presents a mixed bag, with bonds showing significant bullishness contrasting against the weakness in risk assets.

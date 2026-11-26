@@ -39,14 +39,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: extreme_bearish → neutral (10 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is stable, with balanced bullish and bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Credit readings show a strong leaning toward bullish sentiment, while bond trends remain stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange exhibits a notable bullish bias, though the bearish component is also present. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities show an extreme bullish leaning, contrasting with the more balanced inflation picture. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is showing an extreme bullish reading, with the overall market structure indicating a strong dominance from Bitcoin. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="벵갈" />
+- **Lovble(Global):** Volatility is stable, with balanced bullish and bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit readings show a strong leaning toward bullish sentiment, while bond trends remain stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange exhibits a notable bullish bias, though the bearish component is also present. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities show an extreme bullish leaning, contrasting with the more balanced inflation picture. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is showing an extreme bullish reading, with the overall market structure indicating a strong dominance from Bitcoin. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests significant strength in commodities and crypto, while liquidity remains supportive. The differing signals across regional markets—with Korea showing signs of deterioration—suggest caution despite the strong underlying asset performance. On balance, the tape reads as cautiously bullish, underpinned by commodity strength. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The macro picture suggests significant strength in commodities and crypto, while liquidity remains supportive. The differing signals across regional markets—with Korea showing signs of deterioration—suggest caution despite the strong underlying asset performance. On balance, the tape reads as cautiously bullish, underpinned by commodity strength. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

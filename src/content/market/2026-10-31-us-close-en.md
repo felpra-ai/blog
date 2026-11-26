@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-02 09:00 KST — Kinder Morgan, Inc. 배당락일 (KMI)
-- 🔴 11-02 09:00 KST — Blackstone Inc. 배당락일 (BX)
-- 🔴 11-02 09:00 KST — Las Vegas Sands Corp. 배당락일 (LVS)
-- 🔴 11-02 09:00 KST — ONEOK, Inc. 배당락일 (OKE)
-- 🔴 11-02 09:00 KST — Pinnacle West Capital Corporati 배당락일 (PNW)
-- 🔴 11-02 21:30 KST — Ares Management Corporation 실적 발표 (ARES)
+- 🔴 11-02 09:00 KST — Kinder Morgan, Inc. ex-dividend date (KMI)
+- 🔴 11-02 09:00 KST — Blackstone Inc. ex-dividend date (BX)
+- 🔴 11-02 09:00 KST — Las Vegas Sands Corp. ex-dividend date (LVS)
+- 🔴 11-02 09:00 KST — ONEOK, Inc. ex-dividend date (OKE)
+- 🔴 11-02 09:00 KST — Pinnacle West Capital Corporati ex-dividend date (PNW)
+- 🔴 11-02 21:30 KST — Ares Management Corporation earnings (ARES)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (58 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 7 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains elevated, showing a predominantly bullish bias with no bearish momentum observed. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish reading, while the underlying trend remains stable across both bullish and bearish indicators. <img class="emoji-char" src="/characters/bond/05_anxious.png" alt="브숏" />
-- **Sham(FX):** FX movements are characterized by a neutral reading, with the trend showing stability despite a slight lean toward bearish sentiment. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are reading bearish, with the majority sentiment leaning toward the downside, yet the trend itself is stable. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities show a sideways bias with a bullish tilt, indicating an improving underlying trend, while sectors like Financial Services and HEALTHCARE showed strength, contrasting with Technology. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains elevated, showing a predominantly bullish bias with no bearish momentum observed. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish reading, while the underlying trend remains stable across both bullish and bearish indicators. <img class="emoji-char" src="/characters/bond/05_anxious.png" alt="Bsho" />
+- **Sham(FX):** FX movements are characterized by a neutral reading, with the trend showing stability despite a slight lean toward bearish sentiment. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are reading bearish, with the majority sentiment leaning toward the downside, yet the trend itself is stable. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities show a sideways bias with a bullish tilt, indicating an improving underlying trend, while sectors like Financial Services and HEALTHCARE showed strength, contrasting with Technology. <img class="emoji-char" src="/characters/us/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: bonds and US equities show underlying strength signals, while commodities and crypto exhibit clear bearish leanings. The breadth across major asset classes suggests caution, with the overall tape reading as range-bound despite improving readings in US equities. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: bonds and US equities show underlying strength signals, while commodities and crypto exhibit clear bearish leanings. The breadth across major asset classes suggests caution, with the overall tape reading as range-bound despite improving readings in US equities. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

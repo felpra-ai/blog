@@ -33,10 +33,10 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 07-23 21:30 KST — US GDP (Advance)
-- 🔴 07-24 15:00 KST — HYUNDAI STEEL 실적 발표 (004020)
+- 🔴 07-24 15:00 KST — HYUNDAI STEEL earnings (004020)
 - 🔴 07-24 21:30 KST — US PCE Price Index
-- 🔴 07-27 15:00 KST — POSCO FUTURE M 실적 발표 (003670)
-- 🔴 07-28 15:00 KST — SK hynix 실적 발표 (000660)
+- 🔴 07-27 15:00 KST — POSCO FUTURE M earnings (003670)
+- 🔴 07-28 15:00 KST — SK hynix earnings (000660)
 - 🔴 07-30 03:00 KST — FOMC Meeting
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
@@ -46,11 +46,11 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 ## Desk panel
 - **Macro:** Volatility remains elevated with a clear bearish tilt across bonds and credit, though liquidity shows a mild bullish bias. :macro:
 - **Crypto:** Cryptocurrency sentiment is consolidating, showing near parity between bullish and bearish indicators with an improving underlying trend. :crypto:
-- **Korea:** Korean equities are displaying a neutral posture, with consumer, semiconductor, utilities, and financials showing relative strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
+- **Korea:** Korean equities are displaying a neutral posture, with consumer, semiconductor, utilities, and financials showing relative strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="Kosho" />
 - **Macro:** Foreign exchange remains balanced, while commodities and inflation both exhibit pronounced bullish readings. :macro:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: underlying commodity and inflation readings are strongly positive, contrasting with significant bearish readings in fixed income and credit metrics. The relative stability in US and Crypto, alongside improving trends in both, suggests underlying structural shifts are being digested, leading to a cautious, multi-asset approach. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: underlying commodity and inflation readings are strongly positive, contrasting with significant bearish readings in fixed income and credit metrics. The relative stability in US and Crypto, alongside improving trends in both, suggests underlying structural shifts are being digested, leading to a cautious, multi-asset approach. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-20](/track-record/2026-07-20-weekly-hitrate-en/)

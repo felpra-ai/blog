@@ -32,11 +32,11 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 07-20 09:00 KST — ORION Holdings 배당락일 (001800)
-- 🔴 07-20 15:00 KST — HyundaiEng&Const 실적 발표 (000720)
-- 🔴 07-23 15:00 KST — HyundaiMtr 실적 발표 (005380)
+- 🔴 07-20 09:00 KST — ORION Holdings ex-dividend date (001800)
+- 🔴 07-20 15:00 KST — HyundaiEng&Const earnings (000720)
+- 🔴 07-23 15:00 KST — HyundaiMtr earnings (005380)
 - 🔴 07-23 21:30 KST — US GDP (Advance)
-- 🔴 07-24 15:00 KST — HYUNDAI STEEL 실적 발표 (004020)
+- 🔴 07-24 15:00 KST — HYUNDAI STEEL earnings (004020)
 - 🔴 07-24 21:30 KST — US PCE Price Index
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
@@ -44,14 +44,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bullish (6 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.27) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is stable, showing a mixed sentiment with bullish readings outweighing bearish ones slightly. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond market sentiment is balanced, with no discernible directional bias evident in the current readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange markets exhibit a pronounced bullish leaning, despite a notable portion of bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity markets display a strong bullish leaning, suggesting robust underlying demand signals. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities show a neutral stance overall, with the financial and semiconductor sectors showing relative strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
+- **Lovble(Global):** Volatility is stable, showing a mixed sentiment with bullish readings outweighing bearish ones slightly. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond market sentiment is balanced, with no discernible directional bias evident in the current readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange markets exhibit a pronounced bullish leaning, despite a notable portion of bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity markets display a strong bullish leaning, suggesting robust underlying demand signals. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities show a neutral stance overall, with the financial and semiconductor sectors showing relative strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market view suggests divergent strength, with commodities and FX showing distinct bullish tilts, while the underlying macro indicators remain largely balanced. The improvement noted in US and Korean market trends suggests underlying structural support, though the crypto space remains muted. On balance, the tape appears to be consolidating within established ranges, underpinned by commodity strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The cross-market view suggests divergent strength, with commodities and FX showing distinct bullish tilts, while the underlying macro indicators remain largely balanced. The improvement noted in US and Korean market trends suggests underlying structural support, though the crypto space remains muted. On balance, the tape appears to be consolidating within established ranges, underpinned by commodity strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

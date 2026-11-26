@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-15 09:00 KST — Delta Air Lines, Inc. 배당락일 (DAL)
-- 🔴 10-15 09:00 KST — Freeport-McMoRan, Inc. 배당락일 (FCX)
-- 🔴 10-15 09:00 KST — Abbott Laboratories 배당락일 (ABT)
-- 🔴 10-15 09:00 KST — EMCOR Group, Inc. 배당락일 (EME)
-- 🔴 10-15 09:00 KST — AbbVie Inc. 배당락일 (ABBV)
-- 🔴 10-15 09:00 KST — Mid-America Apartment Communiti 배당락일 (MAA)
+- 🔴 10-15 09:00 KST — Delta Air Lines, Inc. ex-dividend date (DAL)
+- 🔴 10-15 09:00 KST — Freeport-McMoRan, Inc. ex-dividend date (FCX)
+- 🔴 10-15 09:00 KST — Abbott Laboratories ex-dividend date (ABT)
+- 🔴 10-15 09:00 KST — EMCOR Group, Inc. ex-dividend date (EME)
+- 🔴 10-15 09:00 KST — AbbVie Inc. ex-dividend date (ABBV)
+- 🔴 10-15 09:00 KST — Mid-America Apartment Communiti ex-dividend date (MAA)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (57 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is exhibiting a bearish bias, while overall risk appetite remains in a stable, neutral state. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** The bond market reads as neutral, with no discernible directional leaning in the credit or FX space. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are balanced, showing equal weight between bullish and bearish sentiment. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities show a slight leaning toward bullishness, though the overall trend remains stable and neutral. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities display a slight bullish bias, while the broader sector view shows strength concentrated in Communication Services, CRYPTO, and Technology, contrasting with weakness in Industrials. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is exhibiting a bearish bias, while overall risk appetite remains in a stable, neutral state. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market reads as neutral, with no discernible directional leaning in the credit or FX space. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are balanced, showing equal weight between bullish and bearish sentiment. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities show a slight leaning toward bullishness, though the overall trend remains stable and neutral. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities display a slight bullish bias, while the broader sector view shows strength concentrated in Communication Services, CRYPTO, and Technology, contrasting with weakness in Industrials. <img class="emoji-char" src="/characters/us/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests underlying caution, evidenced by the bearish tilt in Crypto and Inflation, even as US equities maintain a slightly bullish posture. The sector strength noted in US markets provides a localized area of support against broader macro uncertainty. On balance, the tape suggests a period of consolidation within defined ranges. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The market structure suggests underlying caution, evidenced by the bearish tilt in Crypto and Inflation, even as US equities maintain a slightly bullish posture. The sector strength noted in US markets provides a localized area of support against broader macro uncertainty. On balance, the tape suggests a period of consolidation within defined ranges. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

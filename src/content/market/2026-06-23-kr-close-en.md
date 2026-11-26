@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Utilities · weak: IT-media
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing a slight leaning towards bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** The bond market exhibits a clear bullish bias, while credit conditions read entirely bullish. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements suggest a strong bullish tilt, supported by liquidity remaining in a sideways-bullish posture. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is balanced, with no discernible directional bias apparent. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are showing an improving trend, with utilities outperforming IT media. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains stable, showing a slight leaning towards bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market exhibits a clear bullish bias, while credit conditions read entirely bullish. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements suggest a strong bullish tilt, supported by liquidity remaining in a sideways-bullish posture. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is balanced, with no discernible directional bias apparent. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are showing an improving trend, with utilities outperforming IT media. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence: bonds, credit, and FX show strong bullish tendencies, contrasting with inflation's bearish lean and commodities' neutrality. US equities are holding a neutral stance, while crypto is showing an improving trend, suggesting underlying structural support despite varied sector signals. The overall market tone is one of cautious consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence: bonds, credit, and FX show strong bullish tendencies, contrasting with inflation's bearish lean and commodities' neutrality. US equities are holding a neutral stance, while crypto is showing an improving trend, suggesting underlying structural support despite varied sector signals. The overall market tone is one of cautious consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

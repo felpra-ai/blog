@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Real Estate, Healthcare, Financial Services · weak: Technology
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable with a slight bearish tilt, suggesting contained uncertainty. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond sentiment is balanced, while credit conditions show a pronounced bearish leaning. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are mixed, with liquidity readings leaning towards caution. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is balanced, with a noticeable bullish leaning across the board. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are showing an improving trend, with real estate, healthcare, and financial services exhibiting strength while technology lags. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable with a slight bearish tilt, suggesting contained uncertainty. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond sentiment is balanced, while credit conditions show a pronounced bearish leaning. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are mixed, with liquidity readings leaning towards caution. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is balanced, with a noticeable bullish leaning across the board. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities are showing an improving trend, with real estate, healthcare, and financial services exhibiting strength while technology lags. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence: while US equities show signs of improvement, credit remains significantly bearish, and inflation carries a bearish weight. Commodities provide a degree of counter-balance to the caution seen elsewhere. On balance, the market structure suggests a cautious, range-seeking tape underpinned by sector rotation rather than broad directional conviction. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence: while US equities show signs of improvement, credit remains significantly bearish, and inflation carries a bearish weight. Commodities provide a degree of counter-balance to the caution seen elsewhere. On balance, the market structure suggests a cautious, range-seeking tape underpinned by sector rotation rather than broad directional conviction. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

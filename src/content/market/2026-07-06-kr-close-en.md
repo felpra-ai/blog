@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Utilities, chemicals, bio-health · weak: semiconductors
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains in a bearish regime, suggesting caution in risk appetite. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond trends are balanced, with bullish sentiment slightly outweighing bearish readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movement shows a slight leaning toward bullish sentiment, though overall readings are mixed. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities display a majority bullish reading, indicating underlying strength in that asset class. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities show a mixed picture, with utility, chemical, and bio-health sectors exhibiting relative strength compared to semiconductors. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains in a bearish regime, suggesting caution in risk appetite. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond trends are balanced, with bullish sentiment slightly outweighing bearish readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movement shows a slight leaning toward bullish sentiment, though overall readings are mixed. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities display a majority bullish reading, indicating underlying strength in that asset class. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities show a mixed picture, with utility, chemical, and bio-health sectors exhibiting relative strength compared to semiconductors. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Macro indicators present a mixed picture, characterized by bearish readings in liquidity and inflation, while commodities maintain a bullish bias. The divergence between the crypto asset class showing strong bullish momentum and the broader market readings suggests sector-specific divergence. On balance, the market exhibits a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** Macro indicators present a mixed picture, characterized by bearish readings in liquidity and inflation, while commodities maintain a bullish bias. The divergence between the crypto asset class showing strong bullish momentum and the broader market readings suggests sector-specific divergence. On balance, the market exhibits a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

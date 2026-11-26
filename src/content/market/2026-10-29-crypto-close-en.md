@@ -54,7 +54,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** The US market is in an improving state, with bullish indicators showing a clear majority. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents divergence; while US market sentiment is improving and liquidity is leaning bullish, commodities and inflation show significant bearish pressure. The crypto and Korean markets are both showing deteriorating trends, contrasting with the relative stability observed in the VIX and liquidity metrics. On balance, the market appears to be navigating a period of mixed directional signals, suggesting caution is warranted. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture presents divergence; while US market sentiment is improving and liquidity is leaning bullish, commodities and inflation show significant bearish pressure. The crypto and Korean markets are both showing deteriorating trends, contrasting with the relative stability observed in the VIX and liquidity metrics. On balance, the market appears to be navigating a period of mixed directional signals, suggesting caution is warranted. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

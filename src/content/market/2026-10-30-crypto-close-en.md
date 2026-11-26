@@ -46,7 +46,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Commodities:** Commodities are trending bearishly, as evidenced by the higher proportion of bearish readings. :commodities:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence, with strong underlying liquidity and credit strength contrasting against softening crypto and commodity trends. The US market's improving trend offers a point of contrast against the deteriorating signals seen in crypto and Korea. Overall, the market structure suggests caution amidst divergent sector strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence, with strong underlying liquidity and credit strength contrasting against softening crypto and commodity trends. The US market's improving trend offers a point of contrast against the deteriorating signals seen in crypto and Korea. Overall, the market structure suggests caution amidst divergent sector strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

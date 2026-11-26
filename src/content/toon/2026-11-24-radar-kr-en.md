@@ -41,9 +41,9 @@ images:
 
 | Name | × usual turnover | Day change |
 |---|---|---|
-| 롯데지주 (004990) | 35.2× | +4.2% |
-| 휴림로봇 (090710) | 17.6× | +29.9% |
-| 유진로봇 (056080) | 9.9× | +20.6% |
+| Rotdejiju (004990) | 35.2× | +4.2% |
+| Hyurimrobot (090710) | 17.6× | +29.9% |
+| Yujinrobot (056080) | 9.9× | +20.6% |
 
 _Rule: that day's turnover ÷ average of the prior 10 sessions. 8 of 319 names screened passed the threshold. Volume shows attention, not direction._
 

@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Basic Materials, Consumer Defensive, Healthcare, Financial Services · weak: —
 
 ## Desk panel
-- **Lovble(Global):** Volatility is reading bearish, with no bullish momentum observed. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a sideways-bullish posture, showing more bullish readings than bearish ones. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX remains neutral, with bullish sentiment slightly outweighing bearish readings. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are neutral, with bullish readings representing a notable portion of the activity. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are neutral overall, with basic materials, consumer defensive, healthcare, and financial services showing strength. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is reading bearish, with no bullish momentum observed. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a sideways-bullish posture, showing more bullish readings than bearish ones. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX remains neutral, with bullish sentiment slightly outweighing bearish readings. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are neutral, with bullish readings representing a notable portion of the activity. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are neutral overall, with basic materials, consumer defensive, healthcare, and financial services showing strength. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests caution, as evidenced by bearish readings in volatility and liquidity, despite some underlying strength noted in specific sectors like basic materials and healthcare. The mixed signals across macro indicators point toward a period of consolidation rather than a clear directional move. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure suggests caution, as evidenced by bearish readings in volatility and liquidity, despite some underlying strength noted in specific sectors like basic materials and healthcare. The mixed signals across macro indicators point toward a period of consolidation rather than a clear directional move. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

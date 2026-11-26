@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-22 15:00 KST — HANMISemi 실적 발표 (042700)
-- 🔴 10-22 15:00 KST — LS ELECTRIC 실적 발표 (010120)
-- 🔴 10-22 15:00 KST — HD HYUNDAI ELECTRIC 실적 발표 (267260)
-- 🔴 10-22 15:00 KST — NHIS 실적 발표 (005940)
+- 🔴 10-22 15:00 KST — HANMISemi earnings (042700)
+- 🔴 10-22 15:00 KST — LS ELECTRIC earnings (010120)
+- 🔴 10-22 15:00 KST — HD HYUNDAI ELECTRIC earnings (267260)
+- 🔴 10-22 15:00 KST — NHIS earnings (005940)
 - 🔴 10-22 21:30 KST — US GDP (Advance)
-- 🔴 10-23 15:00 KST — WooriFinancialGroup 실적 발표 (316140)
+- 🔴 10-23 15:00 KST — WooriFinancialGroup earnings (316140)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 7 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is reading stable with a slight bullish tilt, suggesting contained risk appetite. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** The bond picture remains strongly bullish, while credit conditions show a clear bullish bias. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange activity is registering as neutral, though the bearish sentiment component is more pronounced. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is neutral overall, with a notable bearish leaning observed in the data. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities show a bearish leaning, with the Bio/Health sector exhibiting relative strength compared to Materials, Industrials, and Financials. <img class="emoji-char" src="/characters/kr/10_suspicious.png" alt="코숏" />
+- **Lovble(Global):** Volatility is reading stable with a slight bullish tilt, suggesting contained risk appetite. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond picture remains strongly bullish, while credit conditions show a clear bullish bias. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange activity is registering as neutral, though the bearish sentiment component is more pronounced. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is neutral overall, with a notable bearish leaning observed in the data. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities show a bearish leaning, with the Bio/Health sector exhibiting relative strength compared to Materials, Industrials, and Financials. <img class="emoji-char" src="/characters/kr/10_suspicious.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence, with bonds and credit showing clear bullish readings contrasting against the deteriorating trend noted in crypto. US equities are showing an improving directional bias, while the overall market tone suggests caution despite underlying support from fixed income and credit structures. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence, with bonds and credit showing clear bullish readings contrasting against the deteriorating trend noted in crypto. US equities are showing an improving directional bias, while the overall market tone suggests caution despite underlying support from fixed income and credit structures. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: extreme_be
 - **Commodities:** Commodities are registering a neutral state, with bullish and bearish readings showing a moderate split. :commodities:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents divergence, with elevated volatility and bearish readings in credit and liquidity contrasting against a neutral commodity backdrop. The US market's deteriorating trend contrasts with the improving trend observed in crypto, suggesting underlying sector rotation dynamics are at play across asset classes. On balance, the market structure suggests caution amid mixed directional signals. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The macro picture presents divergence, with elevated volatility and bearish readings in credit and liquidity contrasting against a neutral commodity backdrop. The US market's deteriorating trend contrasts with the improving trend observed in crypto, suggesting underlying sector rotation dynamics are at play across asset classes. On balance, the market structure suggests caution amid mixed directional signals. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-04 15:00 KST — SKTelecom 실적 발표 (017670)
-- 🔴 11-04 15:00 KST — Kakao Games 실적 발표 (293490)
-- 🔴 11-04 15:00 KST — LG Uplus 실적 발표 (032640)
-- 🔴 11-04 15:00 KST — SME 실적 발표 (041510)
-- 🔴 11-04 15:00 KST — Kangwonland 실적 발표 (035250)
-- 🔴 11-04 15:00 KST — HANWHA SOLUTIONS 실적 발표 (009830)
+- 🔴 11-04 15:00 KST — SKTelecom earnings (017670)
+- 🔴 11-04 15:00 KST — Kakao Games earnings (293490)
+- 🔴 11-04 15:00 KST — LG Uplus earnings (032640)
+- 🔴 11-04 15:00 KST — SME earnings (041510)
+- 🔴 11-04 15:00 KST — Kangwonland earnings (035250)
+- 🔴 11-04 15:00 KST — HANWHA SOLUTIONS earnings (009830)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 5 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings indicate an extreme bullish bias, while the overall trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** The bond market shows a mixed directional bias, with an equal split between bullish and bearish sentiment, and the trend is stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange activity suggests a slight bullish tilt, though the overall trend remains stable. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are exhibiting a predominantly bearish leaning, and the trend is stable. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities display a bearish leaning, and the trend is deteriorating. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
+- **Lovble(Global):** Volatility readings indicate an extreme bullish bias, while the overall trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market shows a mixed directional bias, with an equal split between bullish and bearish sentiment, and the trend is stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange activity suggests a slight bullish tilt, though the overall trend remains stable. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are exhibiting a predominantly bearish leaning, and the trend is stable. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities display a bearish leaning, and the trend is deteriorating. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The US market shows an improving bias, which is broadly supportive of the overall environment, though crypto is showing signs of deterioration. On balance, the market appears to be seeking range-bound consolidation amidst mixed macro signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The US market shows an improving bias, which is broadly supportive of the overall environment, though crypto is showing signs of deterioration. On balance, the market appears to be seeking range-bound consolidation amidst mixed macro signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

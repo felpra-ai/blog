@@ -41,14 +41,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (84 times observed) · macro cross-correlation watch: inflation leads credit by 1d (ρ=-0.35) — only 11 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Commodities are still the weak spot, and the bearish lean runs across the whole complex. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** The first concern is currencies, where the reading sits at an extreme bearish tilt, while bonds lean sideways with a bullish bias and give little away. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="브숏" />
-- **Sham(FX):** The dollar complex tilts bearish. Liquidity stays neutral, with no pull in either direction. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Raw materials carry a soft bias, the way a field looks before a late frost, and inflation readings sit neutral with the weight leaning lower. <img class="emoji-char" src="/characters/v2/commodity/face/06_neutral.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto moved fastest, and its trend is deteriorating, with storage, oracle infra and layer2 the weakest baskets while bitcoin holds dominance. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
+- **Lovble(Global):** Commodities are still the weak spot, and the bearish lean runs across the whole complex. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** The first concern is currencies, where the reading sits at an extreme bearish tilt, while bonds lean sideways with a bullish bias and give little away. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** The dollar complex tilts bearish. Liquidity stays neutral, with no pull in either direction. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Raw materials carry a soft bias, the way a field looks before a late frost, and inflation readings sit neutral with the weight leaning lower. <img class="emoji-char" src="/characters/v2/commodity/face/06_neutral.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto moved fastest, and its trend is deteriorating, with storage, oracle infra and layer2 the weakest baskets while bitcoin holds dominance. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Bsho flagged the extreme currency reading and Lovble and Nowel the soft commodity tone. Sham found liquidity neutral, and Bengal pointed to crypto sliding with bitcoin dominant. Volatility leans bullish, which here means rising, and the US, Korea and crypto all tilt bearish. Still open is whether weak commodities meet any support from liquidity that has yet to choose a side. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
+**Beom(Chair):** Bsho flagged the extreme currency reading and Lovble and Nowel the soft commodity tone. Sham found liquidity neutral, and Bengal pointed to crypto sliding with bitcoin dominant. Volatility leans bullish, which here means rising, and the US, Korea and crypto all tilt bearish. Still open is whether weak commodities meet any support from liquidity that has yet to choose a side. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

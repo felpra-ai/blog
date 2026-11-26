@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-26 09:00 KST — SamyangFood 배당락일 (003230)
-- 🔴 08-26 09:00 KST — DWS 배당락일 (014820)
-- 🔴 08-27 09:00 KST — Youngone Corp 배당락일 (111770)
-- 🔴 08-28 09:00 KST — HyundaiMtr 배당락일 (005380)
-- 🔴 08-28 09:00 KST — DongwonInd 배당락일 (006040)
-- 🔴 08-28 09:00 KST — CJ CheilJedang 배당락일 (097950)
+- 🔴 08-26 09:00 KST — SamyangFood ex-dividend date (003230)
+- 🔴 08-26 09:00 KST — DWS ex-dividend date (014820)
+- 🔴 08-27 09:00 KST — Youngone Corp ex-dividend date (111770)
+- 🔴 08-28 09:00 KST — HyundaiMtr ex-dividend date (005380)
+- 🔴 08-28 09:00 KST — DongwonInd ex-dividend date (006040)
+- 🔴 08-28 09:00 KST — CJ CheilJedang ex-dividend date (097950)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable with balanced bullish and bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Credit metrics show a strong leaning toward bullish sentiment, while bond trends are maintaining a neutral stance. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange activity suggests a pronounced bullish bias, despite a notable bearish component. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit an extreme bullish reading, contrasting with inflation which shows a clear bullish bias. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are showing a neutral reading overall, with the utilities and industrials sectors registering strength. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains stable with balanced bullish and bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit metrics show a strong leaning toward bullish sentiment, while bond trends are maintaining a neutral stance. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange activity suggests a pronounced bullish bias, despite a notable bearish component. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit an extreme bullish reading, contrasting with inflation which shows a clear bullish bias. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are showing a neutral reading overall, with the utilities and industrials sectors registering strength. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The data indicates broad underlying strength across several asset classes, particularly commodities and crypto, while macro indicators suggest supportive liquidity and inflation readings. The divergence between the extreme bullish readings in commodities and the more mixed signals in regional equities suggests varied directional conviction across global markets. On balance, the tape reflects a cautious, yet fundamentally supported, risk appetite. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The data indicates broad underlying strength across several asset classes, particularly commodities and crypto, while macro indicators suggest supportive liquidity and inflation readings. The divergence between the extreme bullish readings in commodities and the more mixed signals in regional equities suggests varied directional conviction across global markets. On balance, the tape reflects a cautious, yet fundamentally supported, risk appetite. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

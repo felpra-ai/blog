@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Healthcare, Basic Materials, Consumer Defensive · weak: Energy
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains predominantly bearish, suggesting underlying caution in market sentiment. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a sideways bias leaning toward bullishness, while credit remains in a neutral state. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are characterized by a neutral stance, with equal weight on bullish and bearish readings. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities show a neutral reading, with equal distribution between bullish and bearish indicators. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are reading neutral overall, with Healthcare, Basic Materials, and Consumer Defensive showing strength, while Energy is showing weakness. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains predominantly bearish, suggesting underlying caution in market sentiment. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a sideways bias leaning toward bullishness, while credit remains in a neutral state. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are characterized by a neutral stance, with equal weight on bullish and bearish readings. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities show a neutral reading, with equal distribution between bullish and bearish indicators. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities are reading neutral overall, with Healthcare, Basic Materials, and Consumer Defensive showing strength, while Energy is showing weakness. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture shows significant bearish leanings in liquidity and inflation, despite bonds showing some upward bias. US equities are holding a neutral posture supported by defensive and material sectors, while crypto activity is also neutral. The overall market tone suggests caution amidst structural shifts in liquidity and inflation expectations. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The macro picture shows significant bearish leanings in liquidity and inflation, despite bonds showing some upward bias. US equities are holding a neutral posture supported by defensive and material sectors, while crypto activity is also neutral. The overall market tone suggests caution amidst structural shifts in liquidity and inflation expectations. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

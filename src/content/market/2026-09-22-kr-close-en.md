@@ -33,8 +33,8 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 09-25 21:30 KST — US PCE Price Index
-- 🔴 09-29 09:00 KST — HANSOLPAPER 배당락일 (213500)
-- 🔴 09-29 09:00 KST — HYUNDAIDEPTST 배당락일 (069960)
+- 🔴 09-29 09:00 KST — HANSOLPAPER ex-dividend date (213500)
+- 🔴 09-29 09:00 KST — HYUNDAIDEPTST ex-dividend date (069960)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -53,7 +53,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Sector:** Korean Industrials, Consumer, and Materials sectors show relative strength, while Financials appear to be lagging. :sector:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market view suggests divergence, with FX strength contrasting against deteriorating US equity momentum and bearish inflation readings. The improving trend in Crypto and Korea offers pockets of relative strength against broader macro caution. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The cross-market view suggests divergence, with FX strength contrasting against deteriorating US equity momentum and bearish inflation readings. The improving trend in Crypto and Korea offers pockets of relative strength against broader macro caution. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

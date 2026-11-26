@@ -33,7 +33,7 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 09-08 21:30 KST — US CPI Release
-- 🔴 09-10 09:00 KST — LG Corp. 배당락일 (003550)
+- 🔴 09-10 09:00 KST — LG Corp. ex-dividend date (003550)
 - 🔴 09-10 21:15 KST — ECB Interest Rate Decision
 - 🟡 09-10 21:30 KST — US PPI Release
 
@@ -52,7 +52,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are displaying a neutral reading, with the trend remaining stable. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests underlying caution, evidenced by the bearish readings in FX and Liquidity, despite commodities showing some upward momentum. The divergence between the stable, neutral readings in major equity indices (US, Korea) and the improving trend in Crypto suggests varied underlying risk appetite across asset classes. The overall tape appears to be navigating a period of mixed directional conviction. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The macro picture suggests underlying caution, evidenced by the bearish readings in FX and Liquidity, despite commodities showing some upward momentum. The divergence between the stable, neutral readings in major equity indices (US, Korea) and the improving trend in Crypto suggests varied underlying risk appetite across asset classes. The overall tape appears to be navigating a period of mixed directional conviction. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

@@ -32,11 +32,11 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 07-28 21:30 KST — American Tower Corporation (REI 실적 발표 (AMT)
-- 🔴 07-29 05:00 KST — Arch Capital Group Ltd. 실적 발표 (ACGL)
-- 🔴 07-29 21:30 KST — Aon plc 실적 발표 (AON)
-- 🔴 07-29 21:30 KST — Automatic Data Processing, Inc. 실적 발표 (ADP)
-- 🔴 07-29 21:30 KST — Amphenol Corporation 실적 발표 (APH)
+- 🔴 07-28 21:30 KST — American Tower Corporation (REI earnings (AMT)
+- 🔴 07-29 05:00 KST — Arch Capital Group Ltd. earnings (ACGL)
+- 🔴 07-29 21:30 KST — Aon plc earnings (AON)
+- 🔴 07-29 21:30 KST — Automatic Data Processing, Inc. earnings (ADP)
+- 🔴 07-29 21:30 KST — Amphenol Corporation earnings (APH)
 - 🔴 07-30 03:00 KST — FOMC Meeting
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
@@ -44,14 +44,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bullish (6 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 5 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings suggest a stable, yet mixed, risk appetite. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** The bond market exhibits strong bullish readings, while credit conditions show a pronounced bearish leaning. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are registering as neutral, with liquidity showing a slight bullish tilt. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are reading as extremely bullish, contrasting with the inflation reading which is simply bullish. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities are reading as neutral overall, with basic materials showing relative strength. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility readings suggest a stable, yet mixed, risk appetite. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market exhibits strong bullish readings, while credit conditions show a pronounced bearish leaning. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are registering as neutral, with liquidity showing a slight bullish tilt. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are reading as extremely bullish, contrasting with the inflation reading which is simply bullish. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities are reading as neutral overall, with basic materials showing relative strength. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The data presents a divergence where commodities and bonds show pronounced strength indicators, while credit remains notably weak. US equities are holding a neutral stance amidst these differing macro signals, suggesting caution across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The data presents a divergence where commodities and bonds show pronounced strength indicators, while credit remains notably weak. US equities are holding a neutral stance amidst these differing macro signals, suggesting caution across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-20](/track-record/2026-07-20-weekly-hitrate-en/)

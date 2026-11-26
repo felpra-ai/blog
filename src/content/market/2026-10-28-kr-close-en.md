@@ -33,11 +33,11 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 10-29 03:00 KST — FOMC Meeting
-- 🔴 10-29 15:00 KST — LOTTE Fine Chem 실적 발표 (004000)
-- 🔴 10-29 15:00 KST — HANWHA AEROSPACE 실적 발표 (012450)
-- 🔴 10-29 15:00 KST — LGCHEM 실적 발표 (051910)
-- 🔴 10-29 15:00 KST — SamsungElecMech 실적 발표 (009150)
-- 🔴 10-29 15:00 KST — AMOREPACIFIC Holdings 실적 발표 (002790)
+- 🔴 10-29 15:00 KST — LOTTE Fine Chem earnings (004000)
+- 🔴 10-29 15:00 KST — HANWHA AEROSPACE earnings (012450)
+- 🔴 10-29 15:00 KST — LGCHEM earnings (051910)
+- 🔴 10-29 15:00 KST — SamsungElecMech earnings (009150)
+- 🔴 10-29 15:00 KST — AMOREPACIFIC Holdings earnings (002790)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -45,13 +45,13 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **Macro:** Volatility readings suggest a stable, neutral environment, while Credit and Liquidity exhibit strong bullish leaning. :macro:
-- **Bsho(Bonds):** The bond market shows a balanced reading, with equal weight assigned to bullish and bearish directional readings. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements indicate a bullish bias, though the weight leans more toward bearish readings. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment leans bearish, with the majority of readings indicating downward pressure. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Kosho(KR):** Korean equities show a deteriorating trend, with bearish readings significantly outweighing bullish ones. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
+- **Bsho(Bonds):** The bond market shows a balanced reading, with equal weight assigned to bullish and bearish directional readings. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements indicate a bullish bias, though the weight leans more toward bearish readings. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment leans bearish, with the majority of readings indicating downward pressure. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities show a deteriorating trend, with bearish readings significantly outweighing bullish ones. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The broader macro picture presents mixed signals, with strong support noted in liquidity and credit, contrasting with bearish momentum in commodities and crypto. US equities maintain a stable, slightly bullish posture, while the overall market structure suggests caution amid divergent sector strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The broader macro picture presents mixed signals, with strong support noted in liquidity and credit, contrasting with bearish momentum in commodities and crypto. US equities maintain a stable, slightly bullish posture, while the overall market structure suggests caution amid divergent sector strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

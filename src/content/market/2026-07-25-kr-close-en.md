@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 07-27 15:00 KST — POSCO FUTURE M 실적 발표 (003670)
-- 🔴 07-28 15:00 KST — SK hynix 실적 발표 (000660)
+- 🔴 07-27 15:00 KST — POSCO FUTURE M earnings (003670)
+- 🔴 07-28 15:00 KST — SK hynix earnings (000660)
 - 🔴 07-30 03:00 KST — FOMC Meeting
-- 🔴 07-30 09:00 KST — KCC 배당락일 (002380)
-- 🔴 07-30 15:00 KST — POSCO Holdings 실적 발표 (005490)
-- 🔴 07-30 15:00 KST — DL 실적 발표 (000210)
+- 🔴 07-30 09:00 KST — KCC ex-dividend date (002380)
+- 🔴 07-30 15:00 KST — POSCO Holdings earnings (005490)
+- 🔴 07-30 15:00 KST — DL earnings (000210)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (56 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 5 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable with a slight tilt toward bullish readings, suggesting contained risk appetite. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** The bond market exhibits extreme bullish positioning, while credit conditions read decidedly bearish. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are registering as neutral, with liquidity showing a clear bullish bias. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are in an extremely bullish state, contrasting with inflation which is showing a sideways-bearish tendency. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are reading as neutral overall, with consumer, semiconductor, utilities, and financials showing strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains stable with a slight tilt toward bullish readings, suggesting contained risk appetite. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market exhibits extreme bullish positioning, while credit conditions read decidedly bearish. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are registering as neutral, with liquidity showing a clear bullish bias. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are in an extremely bullish state, contrasting with inflation which is showing a sideways-bearish tendency. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are reading as neutral overall, with consumer, semiconductor, utilities, and financials showing strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence: commodities and bonds show strong upward momentum, yet credit remains significantly impaired. US equities are stable, while crypto shows an improving trend, suggesting underlying structural shifts across asset classes. The overall sentiment points toward caution amid varied sectoral strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence: commodities and bonds show strong upward momentum, yet credit remains significantly impaired. US equities are stable, while crypto shows an improving trend, suggesting underlying structural shifts across asset classes. The overall sentiment points toward caution amid varied sectoral strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-20](/track-record/2026-07-20-weekly-hitrate-en/)

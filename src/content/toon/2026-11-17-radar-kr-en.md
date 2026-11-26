@@ -36,8 +36,8 @@ images:
 
 | Name | × usual turnover | Day change |
 |---|---|---|
-| 가온칩스 (399720) | 12.1× | +8.9% |
-| 아난티 (025980) | 11.7× | +5.8% |
+| Gaonchipseu (399720) | 12.1× | +8.9% |
+| Ananti (025980) | 11.7× | +5.8% |
 
 _Rule: that day's turnover ÷ average of the prior 10 sessions. 2 of 328 names screened passed the threshold. Volume shows attention, not direction._
 

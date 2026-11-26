@@ -32,9 +32,9 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-17 15:00 KST — HANJINKAL 실적 발표 (180640)
-- 🔴 11-18 09:00 KST — KOREA ZINC 배당락일 (010130)
-- 🟡 11-23 09:00 KST — DOOSAN 배당락일 (000150)
+- 🔴 11-17 15:00 KST — HANJINKAL earnings (180640)
+- 🔴 11-18 09:00 KST — KOREA ZINC ex-dividend date (010130)
+- 🟡 11-23 09:00 KST — DOOSAN ex-dividend date (000150)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -43,12 +43,12 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 ## Desk panel
 - **Macro:** Volatility remains stable with a notable tilt toward bearish readings, while bonds show a clear bullish bias. :macro:
 - **Crypto:** The digital asset space is exhibiting a significantly bearish trend, with overwhelming bearish conviction. :crypto:
-- **Korea:** Korean equities are in a sideways-bearish posture, with the overall market showing more bearish leaning than bullish. <img class="emoji-char" src="/characters/v2/kr/face/10_suspicious.png" alt="코숏" />
+- **Korea:** Korean equities are in a sideways-bearish posture, with the overall market showing more bearish leaning than bullish. <img class="emoji-char" src="/characters/v2/kr/face/10_suspicious.png" alt="Kosho" />
 - **US:** US equities are positioned in a sideways-bullish regime, indicating more bullish sentiment than bearish. :us:
-- **Commodities:** Commodities are trending bearish, as evidenced by the distribution of market sentiment. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
+- **Commodities:** Commodities are trending bearish, as evidenced by the distribution of market sentiment. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests underlying strength in fixed income assets, contrasting with bearish momentum observed in commodities and digital assets. The US market shows a slight positive bias, while Korean equities reflect a more cautious, downward-leaning range. Overall, the market structure suggests divergence between traditional asset classes and risk assets. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
+**Beom(Chair):** The macro picture suggests underlying strength in fixed income assets, contrasting with bearish momentum observed in commodities and digital assets. The US market shows a slight positive bias, while Korean equities reflect a more cautious, downward-leaning range. Overall, the market structure suggests divergence between traditional asset classes and risk assets. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

@@ -41,13 +41,13 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 
 ## Desk panel
 - **Macro:** Volatility remains in an extreme bearish regime, while credit exhibits a sideways bullish leaning. :macro:
-- **Bonds:** The bond market shows a neutral stance with a slight bullish tilt. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **FX:** Foreign exchange dynamics lean bearish, suggesting prevailing weakness in the currency pair analyzed. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are registering a neutral reading with no discernible directional bias. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is neutral overall, with meme and layer1 showing strength, while payments are lagging. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Bonds:** The bond market shows a neutral stance with a slight bullish tilt. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **FX:** Foreign exchange dynamics lean bearish, suggesting prevailing weakness in the currency pair analyzed. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are registering a neutral reading with no discernible directional bias. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is neutral overall, with meme and layer1 showing strength, while payments are lagging. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence where underlying macro indicators point toward bearish liquidity and volatility, contrasting with relatively stable readings in credit and commodities. The sector strength noted in crypto, particularly within meme and layer1, suggests pockets of relative resilience amidst broader caution. Overall, the tape reflects a cautious, indecisive posture across major asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence where underlying macro indicators point toward bearish liquidity and volatility, contrasting with relatively stable readings in credit and commodities. The sector strength noted in crypto, particularly within meme and layer1, suggests pockets of relative resilience amidst broader caution. Overall, the tape reflects a cautious, indecisive posture across major asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

@@ -40,16 +40,16 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility remains elevated with a clear bearish bias dominating the current structure. :vix:
-- **Bonds:** The bond market exhibits a neutral stance, with bullish and bearish indicators holding near parity. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions show a notable bearish tilt, with bearish indicators outweighing bullish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Liquidity:** Liquidity metrics suggest a state of equilibrium, showing no discernible directional bias. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Commodities:** Commodities are positioned neutrally, though the bearish indicators show a more pronounced weight than the bullish ones. <img class="emoji-char" src="/characters/crypto/12_relieved.png" alt="벵갈" />
+- **Bonds:** The bond market exhibits a neutral stance, with bullish and bearish indicators holding near parity. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions show a notable bearish tilt, with bearish indicators outweighing bullish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Liquidity:** Liquidity metrics suggest a state of equilibrium, showing no discernible directional bias. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Commodities:** Commodities are positioned neutrally, though the bearish indicators show a more pronounced weight than the bullish ones. <img class="emoji-char" src="/characters/crypto/12_relieved.png" alt="Bengal" />
 - **Korea:** The Korean market is exhibiting a neutral posture, with bullish and bearish indicators showing relatively balanced readings. :korea:
 - **US:** The US market shows a deteriorating trend profile, with bearish indicators significantly outweighing the bullish ones. :us:
 - **Crypto:** The crypto space reads as neutral overall, though the underlying trend momentum is showing signs of improvement. :crypto:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Macro indicators point toward persistent caution, particularly concerning inflation and US market structure. The divergence between crypto's improving trend and the weakness seen in US and credit sectors suggests underlying cross-asset divergence. On balance, the tape appears to be seeking support within established, contained ranges. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** Macro indicators point toward persistent caution, particularly concerning inflation and US market structure. The divergence between crypto's improving trend and the weakness seen in US and credit sectors suggests underlying cross-asset divergence. On balance, the tape appears to be seeking support within established, contained ranges. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

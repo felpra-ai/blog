@@ -50,7 +50,7 @@ _Observation notes: most frequent regime shift in this market so far: bearish â†
 - **US:** The US market is reading as neutral, with a slight majority of bullish readings compared to bearish ones. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: commodities and bonds are showing strong bullish conviction, while credit remains decidedly bearish. This suggests underlying asset strength is not fully supported by the credit cycle, leading to a cautious, mixed-bag tape. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="ë²”" />
+**Beom(Chair):** The market structure presents a divergence: commodities and bonds are showing strong bullish conviction, while credit remains decidedly bearish. This suggests underlying asset strength is not fully supported by the credit cycle, leading to a cautious, mixed-bag tape. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

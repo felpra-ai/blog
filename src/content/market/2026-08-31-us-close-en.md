@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-31 09:00 KST — Qnity Electronics, Inc. 배당락일 (Q)
-- 🔴 08-31 09:00 KST — Dow Inc. 배당락일 (DOW)
-- 🔴 08-31 09:00 KST — Hubbell Inc 배당락일 (HUBB)
-- 🔴 08-31 09:00 KST — DuPont de Nemours, Inc. 배당락일 (DD)
-- 🔴 08-31 09:00 KST — Parker-Hannifin Corporation 배당락일 (PH)
-- 🔴 08-31 09:00 KST — Allstate Corporation (The) 배당락일 (ALL)
+- 🔴 08-31 09:00 KST — Qnity Electronics, Inc. ex-dividend date (Q)
+- 🔴 08-31 09:00 KST — Dow Inc. ex-dividend date (DOW)
+- 🔴 08-31 09:00 KST — Hubbell Inc ex-dividend date (HUBB)
+- 🔴 08-31 09:00 KST — DuPont de Nemours, Inc. ex-dividend date (DD)
+- 🔴 08-31 09:00 KST — Parker-Hannifin Corporation ex-dividend date (PH)
+- 🔴 08-31 09:00 KST — Allstate Corporation (The) ex-dividend date (ALL)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 3 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is trending toward bearish territory, while the overall risk appetite remains mixed. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Credit conditions show a clear bullish bias, though bond trends are currently stable and neutral. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are showing a mixed sentiment, with liquidity readings leaning toward bullish. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity pricing exhibits an extreme bullish reading, suggesting strong underlying upward momentum. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are showing signs of deterioration, while the Communication Services and Basic Materials sectors are showing strength. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is trending toward bearish territory, while the overall risk appetite remains mixed. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit conditions show a clear bullish bias, though bond trends are currently stable and neutral. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are showing a mixed sentiment, with liquidity readings leaning toward bullish. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity pricing exhibits an extreme bullish reading, suggesting strong underlying upward momentum. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are showing signs of deterioration, while the Communication Services and Basic Materials sectors are showing strength. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence: commodities and credit are showing significant strength, contrasting with the deteriorating trend noted in US equities. The market appears to be balancing bullish commodity flows against caution reflected in volatility and US indices. On balance, the tape suggests a period of selective strength amidst broader uncertainty. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence: commodities and credit are showing significant strength, contrasting with the deteriorating trend noted in US equities. The market appears to be balancing bullish commodity flows against caution reflected in volatility and US indices. On balance, the tape suggests a period of selective strength amidst broader uncertainty. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

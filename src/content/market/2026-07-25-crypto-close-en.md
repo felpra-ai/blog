@@ -39,14 +39,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: bearish → neutral (8 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 5 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains elevated, showing a balanced distribution between bullish and bearish readings, suggesting a lack of clear directional conviction. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** The bond market exhibits an extreme bullish bias, while credit conditions read as extremely bearish, indicating a notable divergence in risk appetite across fixed income segments. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are registering as neutral, with bullish sentiment slightly outweighing bearish readings, suggesting balanced cross-currency flow. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are showing an extreme bullish posture, contrasting with inflation readings that are positioned sideways with a slight bearish tilt. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is reading as neutral overall, with the overall market showing an improving trend, while the underlying structure indicates a clear dominance from Bitcoin. <img class="emoji-char" src="/characters/crypto/12_relieved.png" alt="벵갈" />
+- **Lovble(Global):** Volatility remains elevated, showing a balanced distribution between bullish and bearish readings, suggesting a lack of clear directional conviction. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market exhibits an extreme bullish bias, while credit conditions read as extremely bearish, indicating a notable divergence in risk appetite across fixed income segments. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are registering as neutral, with bullish sentiment slightly outweighing bearish readings, suggesting balanced cross-currency flow. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are showing an extreme bullish posture, contrasting with inflation readings that are positioned sideways with a slight bearish tilt. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is reading as neutral overall, with the overall market showing an improving trend, while the underlying structure indicates a clear dominance from Bitcoin. <img class="emoji-char" src="/characters/crypto/12_relieved.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a notable divergence: commodities and bonds show strong bullish readings, yet credit remains extremely bearish. This suggests underlying commodity strength is not fully supported by credit health. The overall picture points toward caution, with crypto showing signs of improvement against a backdrop of mixed macro signals. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The market structure presents a notable divergence: commodities and bonds show strong bullish readings, yet credit remains extremely bearish. This suggests underlying commodity strength is not fully supported by credit health. The overall picture points toward caution, with crypto showing signs of improvement against a backdrop of mixed macro signals. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-20](/track-record/2026-07-20-weekly-hitrate-en/)

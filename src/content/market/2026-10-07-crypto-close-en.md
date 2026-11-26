@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: bearish â†
 - **Sectors:** Infrastructure and gaming sectors show relative strength, while other and payments segments appear weaker, with Bitcoin maintaining dominance. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests stability across key areas, though commodities lean softer. The divergence between the improving Korean trend and the more cautious US and Crypto readings suggests varied risk appetite across asset classes. On balance, the market exhibits a mixed, range-bound character. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="ë²”" />
+**Beom(Chair):** The macro picture suggests stability across key areas, though commodities lean softer. The divergence between the improving Korean trend and the more cautious US and Crypto readings suggests varied risk appetite across asset classes. On balance, the market exhibits a mixed, range-bound character. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

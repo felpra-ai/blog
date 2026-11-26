@@ -41,18 +41,18 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 
 ## Desk panel
 - **VIX:** Volatility remains stable, showing a neutral reading with no discernible directional bias. :vix:
-- **Bonds:** The bond market exhibits a neutral stance, with bullish sentiment slightly outweighing bearish readings. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Credit:** Credit conditions read sideways-bearish, indicating a strong leaning toward bearish sentiment across the board. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **FX:** Foreign exchange markets are in an extreme bearish state, with bearish sentiment significantly outweighing bullish readings. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Liquidity:** Liquidity measures are neutral, suggesting no immediate directional pressure from the supply side. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
-- **Commodities:** Commodities are sideways-bearish, reflecting a dominant bearish inclination despite some minor bullish readings. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
-- **Inflation:** Inflation metrics read sideways-bearish, showing a pronounced bearish tilt. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
-- **Crypto:** The cryptocurrency space is neutral overall, though the underlying trend is showing signs of deterioration. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
-- **Korea:** The Korean market is neutral, but the trend momentum is deteriorating, leaning toward the downside. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
-- **US:** The US market reads bearish, with the trend showing deterioration and bearish sentiment dominating. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
+- **Bonds:** The bond market exhibits a neutral stance, with bullish sentiment slightly outweighing bearish readings. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Credit:** Credit conditions read sideways-bearish, indicating a strong leaning toward bearish sentiment across the board. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **FX:** Foreign exchange markets are in an extreme bearish state, with bearish sentiment significantly outweighing bullish readings. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Liquidity:** Liquidity measures are neutral, suggesting no immediate directional pressure from the supply side. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="Bengal" />
+- **Commodities:** Commodities are sideways-bearish, reflecting a dominant bearish inclination despite some minor bullish readings. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="Bengal" />
+- **Inflation:** Inflation metrics read sideways-bearish, showing a pronounced bearish tilt. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="Bengal" />
+- **Crypto:** The cryptocurrency space is neutral overall, though the underlying trend is showing signs of deterioration. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="Bengal" />
+- **Korea:** The Korean market is neutral, but the trend momentum is deteriorating, leaning toward the downside. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="Bengal" />
+- **US:** The US market reads bearish, with the trend showing deterioration and bearish sentiment dominating. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Macro indicators present a mixed picture, with notable bearish leanings in credit, commodities, and inflation, while the US and Korean equity trends are both deteriorating. The market structure shows payments and gaming_nft as areas of strength, while the overall crypto dominance remains evident. The confluence of deteriorating equity trends against a backdrop of bearish macro readings suggests caution. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** Macro indicators present a mixed picture, with notable bearish leanings in credit, commodities, and inflation, while the US and Korean equity trends are both deteriorating. The market structure shows payments and gaming_nft as areas of strength, while the overall crypto dominance remains evident. The confluence of deteriorating equity trends against a backdrop of bearish macro readings suggests caution. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

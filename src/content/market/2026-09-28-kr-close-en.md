@@ -32,8 +32,8 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-29 09:00 KST — HANSOLPAPER 배당락일 (213500)
-- 🔴 09-29 09:00 KST — HYUNDAIDEPTST 배당락일 (069960)
+- 🔴 09-29 09:00 KST — HANSOLPAPER ex-dividend date (213500)
+- 🔴 09-29 09:00 KST — HYUNDAIDEPTST ex-dividend date (069960)
 - 🔴 10-02 21:30 KST — US Nonfarm Payrolls
 - 🟡 10-01 23:00 KST — ISM Manufacturing PMI
 
@@ -43,17 +43,17 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility readings suggest a predominantly bearish sentiment, though the trend remains stable. :vix:
-- **Bonds:** Bond metrics indicate a strong bullish leaning, with the trend remaining stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions are registering as neutral, with the trend remaining stable. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Liquidity:** Liquidity metrics point toward a sideways bullish bias, with the trend remaining stable. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Commodities:** Commodity indicators show a sideways bearish leaning, with the trend remaining stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Bonds:** Bond metrics indicate a strong bullish leaning, with the trend remaining stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions are registering as neutral, with the trend remaining stable. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Liquidity:** Liquidity metrics point toward a sideways bullish bias, with the trend remaining stable. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Commodities:** Commodity indicators show a sideways bearish leaning, with the trend remaining stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 - **Inflation:** Inflation readings reflect a sideways bearish bias, with the trend remaining stable. :kofi:
 - **Crypto:** Cryptocurrency markets show a bullish leaning, and the trend is noted as improving. :crypto:
 - **Korea:** Korean equities are reading as neutral overall, with the trend remaining stable. :korea:
 - **US:** US equities are reading as neutral, and the trend is noted as deteriorating. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence where fixed income and crypto show positive momentum, contrasting with deteriorating US sentiment and bearish readings across commodities and inflation. The stability across most macro indicators suggests a period of consolidation rather than a directional break. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence where fixed income and crypto show positive momentum, contrasting with deteriorating US sentiment and bearish readings across commodities and inflation. The stability across most macro indicators suggests a period of consolidation rather than a directional break. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

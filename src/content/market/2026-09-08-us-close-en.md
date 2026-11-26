@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-08 09:00 KST — Stanley Black & Decker, Inc. 배당락일 (SWK)
-- 🔴 09-08 09:00 KST — BlackRock, Inc. 배당락일 (BLK)
-- 🔴 09-08 09:00 KST — Ameren Corporation 배당락일 (AEE)
-- 🔴 09-08 09:00 KST — Western Digital Corporation 배당락일 (WDC)
-- 🔴 09-08 09:00 KST — The Cigna Group 배당락일 (CI)
-- 🔴 09-08 09:00 KST — Arthur J. Gallagher & Co. 배당락일 (AJG)
+- 🔴 09-08 09:00 KST — Stanley Black & Decker, Inc. ex-dividend date (SWK)
+- 🔴 09-08 09:00 KST — BlackRock, Inc. ex-dividend date (BLK)
+- 🔴 09-08 09:00 KST — Ameren Corporation ex-dividend date (AEE)
+- 🔴 09-08 09:00 KST — Western Digital Corporation ex-dividend date (WDC)
+- 🔴 09-08 09:00 KST — The Cigna Group ex-dividend date (CI)
+- 🔴 09-08 09:00 KST — Arthur J. Gallagher & Co. ex-dividend date (AJG)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing a slight leaning toward bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bond trends are stable, with a slightly more pronounced bearish leaning compared to bullish sentiment. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX sentiment is stable, exhibiting a notable bearish bias. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities show a sideways bias with a moderate bullish tilt. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities show a stable, neutral reading, with sector strength noted in areas outside of Financial Services. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable, showing a slight leaning toward bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond trends are stable, with a slightly more pronounced bearish leaning compared to bullish sentiment. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX sentiment is stable, exhibiting a notable bearish bias. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities show a sideways bias with a moderate bullish tilt. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities show a stable, neutral reading, with sector strength noted in areas outside of Financial Services. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure reflects persistent bearish undertones across liquidity and foreign exchange, despite commodities showing some upward momentum. US equities are holding a neutral stance amidst these broader directional pressures. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure reflects persistent bearish undertones across liquidity and foreign exchange, despite commodities showing some upward momentum. US equities are holding a neutral stance amidst these broader directional pressures. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

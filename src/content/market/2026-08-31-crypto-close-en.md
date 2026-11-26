@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral â†
 - **Sector:** Infrastructure and exchange sectors show relative strength, while Bitcoin maintains clear dominance across the asset class. :sector:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Macro indicators point to underlying structural support, particularly in credit, contrasting with deteriorating trends observed in both the US and Korean equity spaces. The liquidity environment reads bullish, which provides a backdrop of available capital, even as volatility remains cautious. On balance, the market structure suggests a period of consolidation where sector strength, particularly in infrastructure, is notable against broader market weakness. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="ë²”" />
+**Beom(Chair):** Macro indicators point to underlying structural support, particularly in credit, contrasting with deteriorating trends observed in both the US and Korean equity spaces. The liquidity environment reads bullish, which provides a backdrop of available capital, even as volatility remains cautious. On balance, the market structure suggests a period of consolidation where sector strength, particularly in infrastructure, is notable against broader market weakness. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

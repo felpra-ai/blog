@@ -60,11 +60,11 @@ _Archive this hash — recomputing it later from the raw ledger must reproduce t
 
 ## Remarks by market
 
-**Bengal(Crypto):** The crypto market showed a win rate near parity with losses, and the average profit and loss were negative, suggesting difficulty in capturing consistent gains over the period. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market showed a win rate near parity with losses, and the average profit and loss were negative, suggesting difficulty in capturing consistent gains over the period. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="Bengal" />
 
-**Kosho(KR):** Korean equities exhibited a win rate below 50%, and the negative average P&L suggests that the frequency of losses outweighed the gains recorded this cycle. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
+**Kosho(KR):** Korean equities exhibited a win rate below 50%, and the negative average P&L suggests that the frequency of losses outweighed the gains recorded this cycle. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="Kosho" />
 
-**Maine(US):** US equities posted a win rate above 50%, and the positive average P&L indicates that the successful trades generated a net positive result for the period. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+**Maine(US):** US equities posted a win rate above 50%, and the positive average P&L indicates that the successful trades generated a net positive result for the period. <img class="emoji-char" src="/characters/us/07_confident.png" alt="Maine" />
 
 ## Beom's quorum verdict
 
@@ -72,7 +72,7 @@ The overall performance across the tracked markets reflects a challenging period
 
 The data suggests divergence in performance across asset classes this week. The US market appears to have navigated the recent conditions more successfully than the other two, but the negative average P&L across the board indicates that the overall regime remains one of caution.
 
-This synthesis is based purely on the recorded paper-trading results and should not be construed as any form of investment guidance. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
+This synthesis is based purely on the recorded paper-trading results and should not be construed as any form of investment guidance. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="Beom" />
 
 **Related**
 - This week's journals: [2026-10-04 crypto](/journal/2026-10-04-crypto-journal-en/) · [2026-10-05 crypto](/journal/2026-10-05-crypto-journal-en/) · [2026-10-06 crypto](/journal/2026-10-06-crypto-journal-en/) · [2026-10-06 kr](/journal/2026-10-06-kr-journal-en/) · [2026-10-06 us](/journal/2026-10-06-us-journal-en/) · [2026-10-07 crypto](/journal/2026-10-07-crypto-journal-en/) · [2026-10-07 kr](/journal/2026-10-07-kr-journal-en/) · [2026-10-07 us](/journal/2026-10-07-us-journal-en/) · [2026-10-08 crypto](/journal/2026-10-08-crypto-journal-en/) · [2026-10-08 kr](/journal/2026-10-08-kr-journal-en/) · [2026-10-08 us](/journal/2026-10-08-us-journal-en/) · [2026-10-09 crypto](/journal/2026-10-09-crypto-journal-en/) · [2026-10-09 us](/journal/2026-10-09-us-journal-en/) · [2026-10-10 crypto](/journal/2026-10-10-crypto-journal-en/) · [2026-10-10 us](/journal/2026-10-10-us-journal-en/)

@@ -33,11 +33,11 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 07-24 21:30 KST — US PCE Price Index
-- 🔴 07-27 15:00 KST — POSCO FUTURE M 실적 발표 (003670)
-- 🔴 07-28 15:00 KST — SK hynix 실적 발표 (000660)
+- 🔴 07-27 15:00 KST — POSCO FUTURE M earnings (003670)
+- 🔴 07-28 15:00 KST — SK hynix earnings (000660)
 - 🔴 07-30 03:00 KST — FOMC Meeting
-- 🔴 07-30 09:00 KST — KCC 배당락일 (002380)
-- 🔴 07-30 15:00 KST — POSCO Holdings 실적 발표 (005490)
+- 🔴 07-30 09:00 KST — KCC ex-dividend date (002380)
+- 🔴 07-30 15:00 KST — POSCO Holdings earnings (005490)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 

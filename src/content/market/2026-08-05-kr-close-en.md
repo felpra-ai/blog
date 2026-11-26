@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-06 09:00 KST — DOOSAN 배당락일 (000150)
-- 🔴 08-06 15:00 KST — LOTTE Fine Chem 실적 발표 (004000)
-- 🔴 08-06 15:00 KST — AMOREPACIFIC Holdings 실적 발표 (002790)
+- 🔴 08-06 09:00 KST — DOOSAN ex-dividend date (000150)
+- 🔴 08-06 15:00 KST — LOTTE Fine Chem earnings (004000)
+- 🔴 08-06 15:00 KST — AMOREPACIFIC Holdings earnings (002790)
 - 🔴 08-07 21:30 KST — US Nonfarm Payrolls
 - 🔴 08-11 21:30 KST — US CPI Release
-- 🔴 08-12 15:00 KST — SamsungF&MIns 실적 발표 (000810)
+- 🔴 08-12 15:00 KST — SamsungF&MIns earnings (000810)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -45,17 +45,17 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility readings indicate a persistent bearish bias across the board, with no discernible shift in the underlying trend. :vix:
-- **Bonds:** The bond market sentiment is balanced, showing an equal measure of bullish and bearish conviction, with the trend remaining stable. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Credit:** Credit conditions exhibit a strong bullish leaning, suggesting robust underlying confidence, and this trend remains stable. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **FX:** Foreign exchange sentiment leans bearish, with a notable majority favoring the downside, and the trend remains stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Liquidity:** Liquidity conditions are read as extremely bearish, with a significant skew toward bearish readings, and the trend remains stable. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
-- **Commodities:** Commodity sentiment is strongly bullish, with a clear majority favoring upward movement, and the trend remains stable. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
+- **Bonds:** The bond market sentiment is balanced, showing an equal measure of bullish and bearish conviction, with the trend remaining stable. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Credit:** Credit conditions exhibit a strong bullish leaning, suggesting robust underlying confidence, and this trend remains stable. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **FX:** Foreign exchange sentiment leans bearish, with a notable majority favoring the downside, and the trend remains stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Liquidity:** Liquidity conditions are read as extremely bearish, with a significant skew toward bearish readings, and the trend remains stable. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="Kosho" />
+- **Commodities:** Commodity sentiment is strongly bullish, with a clear majority favoring upward movement, and the trend remains stable. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="Kosho" />
 - **Crypto:** Cryptocurrency sentiment is neutral, showing a mixed bag of bullish and bearish readings, and the trend is noted as deteriorating. :crypto:
 - **Korea:** Korean equities show an extremely bullish leaning, with a high degree of bullish conviction, and the trend is improving. :korea:
 - **US:** US market sentiment is neutral, displaying a slight bullish edge against bearish readings, and the trend remains stable. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: commodities and Korean equities show pronounced strength, while liquidity and FX point toward significant headwinds. The general backdrop suggests caution despite localized strength. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: commodities and Korean equities show pronounced strength, while liquidity and FX point toward significant headwinds. The general backdrop suggests caution despite localized strength. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

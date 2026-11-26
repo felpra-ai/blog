@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-23 21:30 KST — American Express Company 실적 발표 (AXP)
-- 🔴 10-23 21:30 KST — SLB Limited 실적 발표 (SLB)
+- 🔴 10-23 21:30 KST — American Express Company earnings (AXP)
+- 🔴 10-23 21:30 KST — SLB Limited earnings (SLB)
 - 🔴 10-23 21:30 KST — US PCE Price Index
-- 🔴 10-23 21:30 KST — Illinois Tool Works Inc. 실적 발표 (ITW)
-- 🔴 10-23 21:30 KST — HCA Healthcare, Inc. 실적 발표 (HCA)
-- 🔴 10-26 09:00 KST — Paychex, Inc. 배당락일 (PAYX)
+- 🔴 10-23 21:30 KST — Illinois Tool Works Inc. earnings (ITW)
+- 🔴 10-23 21:30 KST — HCA Healthcare, Inc. earnings (HCA)
+- 🔴 10-26 09:00 KST — Paychex, Inc. ex-dividend date (PAYX)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (57 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 6 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is reading extreme bullishness, while the underlying trend shows an improving pattern. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** The bond market exhibits extreme bearish readings, with the trend showing a deterioration. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are registering extreme bearishness, maintaining a stable trend. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are showing a neutral reading, with the trend remaining stable. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities are reading sideways bullishness, with Industrials, Financial Services, Communication Services, and Basic Materials showing strength, while TECHNOLOGY and Communication Services show weakness. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is reading extreme bullishness, while the underlying trend shows an improving pattern. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market exhibits extreme bearish readings, with the trend showing a deterioration. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are registering extreme bearishness, maintaining a stable trend. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are showing a neutral reading, with the trend remaining stable. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities are reading sideways bullishness, with Industrials, Financial Services, Communication Services, and Basic Materials showing strength, while TECHNOLOGY and Communication Services show weakness. <img class="emoji-char" src="/characters/us/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The data suggests a divergence where credit and liquidity are reading strongly bullish, contrasting with the bearish readings in bonds and FX. US equities show improving momentum, while crypto continues a deteriorating trend. On balance, the market exhibits mixed signals, suggesting caution despite improving underlying liquidity conditions. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The data suggests a divergence where credit and liquidity are reading strongly bullish, contrasting with the bearish readings in bonds and FX. US equities show improving momentum, while crypto continues a deteriorating trend. On balance, the market exhibits mixed signals, suggesting caution despite improving underlying liquidity conditions. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

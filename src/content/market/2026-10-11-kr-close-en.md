@@ -33,23 +33,23 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 10-13 21:30 KST — US CPI Release
-- 🔴 10-14 15:00 KST — HANMISemi 실적 발표 (042700)
-- 🔴 10-15 09:00 KST — Misto Holdings 배당락일 (081660)
-- 🔴 10-16 09:00 KST — YoungoneHoldings 배당락일 (009970)
+- 🔴 10-14 15:00 KST — HANMISemi earnings (042700)
+- 🔴 10-15 09:00 KST — Misto Holdings ex-dividend date (081660)
+- 🔴 10-16 09:00 KST — YoungoneHoldings ex-dividend date (009970)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable with a slight leaning towards bearish sentiment. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bond market sentiment is balanced, showing no directional bias. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange sentiment is mixed, with a notable bearish tilt. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is moderately positive, though with visible bearish undertones. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities exhibit a stable, slightly bullish posture, with financials, industrials, semiconductors, and consumer sectors showing strength while materials lag. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains stable with a slight leaning towards bearish sentiment. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond market sentiment is balanced, showing no directional bias. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange sentiment is mixed, with a notable bearish tilt. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is moderately positive, though with visible bearish undertones. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities exhibit a stable, slightly bullish posture, with financials, industrials, semiconductors, and consumer sectors showing strength while materials lag. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The broader macro picture suggests stability across key metrics, though the crypto asset class shows clear signs of weakening momentum. The market structure appears to be consolidating within defined boundaries, with regional equity strength providing a counterpoint to asset class weakness. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The broader macro picture suggests stability across key metrics, though the crypto asset class shows clear signs of weakening momentum. The market structure appears to be consolidating within defined boundaries, with regional equity strength providing a counterpoint to asset class weakness. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

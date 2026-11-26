@@ -35,7 +35,7 @@ altLang: ko
 - 🔴 09-03 19:00 KST — OPEC+ Meeting
 - 🔴 09-04 21:30 KST — US Nonfarm Payrolls
 - 🔴 09-08 21:30 KST — US CPI Release
-- 🔴 09-10 09:00 KST — LG Corp. 배당락일 (003550)
+- 🔴 09-10 09:00 KST — LG Corp. ex-dividend date (003550)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -43,17 +43,17 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility remains stable, showing a notable tilt towards bearish readings. :vix:
-- **Bonds:** The bond market exhibits a neutral stance, with bullish sentiment slightly outweighing bearish readings. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Credit:** Credit conditions read distinctly bearish across the board. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **FX:** Foreign exchange sentiment is neutral, leaning slightly toward bullish readings. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Liquidity:** Liquidity is registering as extremely bearish. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Commodities:** Commodities show a clear bullish bias. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
+- **Bonds:** The bond market exhibits a neutral stance, with bullish sentiment slightly outweighing bearish readings. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Credit:** Credit conditions read distinctly bearish across the board. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **FX:** Foreign exchange sentiment is neutral, leaning slightly toward bullish readings. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Liquidity:** Liquidity is registering as extremely bearish. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Commodities:** Commodities show a clear bullish bias. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
 - **Crypto:** Cryptocurrency sentiment is neutral, with bullish readings showing a moderate edge. :crypto:
-- **Korea:** Korean equities are neutral overall, with industrials, consumer, and materials showing relative strength, while utilities lag. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Korea:** Korean equities are neutral overall, with industrials, consumer, and materials showing relative strength, while utilities lag. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 - **US:** US equities are reading as extremely bearish, with the trend showing signs of deterioration. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The divergence between commodity strength and deteriorating US equity sentiment is apparent. While macro indicators point to significant liquidity stress and credit weakness, the underlying commodity picture remains supportive. The market appears to be navigating a period of localized strength amid broader systemic caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The divergence between commodity strength and deteriorating US equity sentiment is apparent. While macro indicators point to significant liquidity stress and credit weakness, the underlying commodity picture remains supportive. The market appears to be navigating a period of localized strength amid broader systemic caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

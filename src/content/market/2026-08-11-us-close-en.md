@@ -33,9 +33,9 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 08-11 21:30 KST — US CPI Release
-- 🔴 08-12 21:30 KST — Amcor plc 실적 발표 (AMCR)
-- 🔴 08-13 21:30 KST — Amcor plc 실적 발표 (AMCR)
-- 🔴 08-14 05:00 KST — Applied Materials, Inc. 실적 발표 (AMAT)
+- 🔴 08-12 21:30 KST — Amcor plc earnings (AMCR)
+- 🔴 08-13 21:30 KST — Amcor plc earnings (AMCR)
+- 🔴 08-14 05:00 KST — Applied Materials, Inc. earnings (AMAT)
 - 🟡 08-13 21:30 KST — US PPI Release
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
@@ -44,13 +44,13 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 
 ## Desk panel
 - **Macro:** Volatility is reading significantly bearish, while Credit remains in a sideways bullish posture. :macro:
-- **Bonds:** The bond market sentiment is neutral, showing an even split between bullish and bearish readings. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **FX:** Foreign exchange dynamics show a clear bearish tilt, with bearish readings outweighing bullish ones. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are registering a neutral reading, indicating no strong directional bias across the board. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are showing a neutral reading overall, with Technology and Communication Services showing strength while Utilities and Energy appear weaker. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Bonds:** The bond market sentiment is neutral, showing an even split between bullish and bearish readings. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **FX:** Foreign exchange dynamics show a clear bearish tilt, with bearish readings outweighing bullish ones. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are registering a neutral reading, indicating no strong directional bias across the board. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a neutral reading overall, with Technology and Communication Services showing strength while Utilities and Energy appear weaker. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests divergence, with elevated bearish readings in volatility and liquidity contrasting against more stable or bullish readings in credit. The underlying asset classes show mixed signals, pointing toward a period of cautious consolidation across major indices. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure suggests divergence, with elevated bearish readings in volatility and liquidity contrasting against more stable or bullish readings in credit. The underlying asset classes show mixed signals, pointing toward a period of cautious consolidation across major indices. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

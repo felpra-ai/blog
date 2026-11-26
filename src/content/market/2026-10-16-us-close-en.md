@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-16 09:00 KST — Williams-Sonoma, Inc. 배당락일 (WSM)
-- 🔴 10-16 09:00 KST — EOG Resources, Inc. 배당락일 (EOG)
-- 🔴 10-16 21:30 KST — Truist Financial Corporation 실적 발표 (TFC)
-- 🔴 10-16 21:30 KST — M&T Bank Corporation 실적 발표 (MTB)
-- 🔴 10-16 21:30 KST — Citizens Financial Group, Inc. 실적 발표 (CFG)
-- 🔴 10-16 21:30 KST — Regions Financial Corporation 실적 발표 (RF)
+- 🔴 10-16 09:00 KST — Williams-Sonoma, Inc. ex-dividend date (WSM)
+- 🔴 10-16 09:00 KST — EOG Resources, Inc. ex-dividend date (EOG)
+- 🔴 10-16 21:30 KST — Truist Financial Corporation earnings (TFC)
+- 🔴 10-16 21:30 KST — M&T Bank Corporation earnings (MTB)
+- 🔴 10-16 21:30 KST — Citizens Financial Group, Inc. earnings (CFG)
+- 🔴 10-16 21:30 KST — Regions Financial Corporation earnings (RF)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -55,7 +55,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Defensive consumer staples and communication services show relative strength, while technology and industrials appear weaker. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** US market structure appears supportive, contrasting with the clear weakness observed in the crypto and Korean segments. The overall macro picture suggests caution, given the mixed signals across inflation and bonds, despite the relative stability in volatility. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** US market structure appears supportive, contrasting with the clear weakness observed in the crypto and Korean segments. The overall macro picture suggests caution, given the mixed signals across inflation and bonds, despite the relative stability in volatility. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

@@ -33,14 +33,14 @@ altLang: ko
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (78 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.21) — only 7 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** A quiet, guarded day, with most of the big asset classes drifting sideways. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds are the steady hand here, leaning up and staying there, while credit hasn't bothered to pick a side. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="브숏" />
-- **Sham(FX):** The dollar side is running hot, half the FX read bullish against 37.5% bearish, so where's the strain? Not in liquidity, which sits calm and balanced. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are sagging, half of them bearish, like a field going quiet before the frost, and the inflation gauge has turned fully bearish with them. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto fell hardest, 90.2% bearish and still getting worse, so that's the risk to count before anything else. The US holds a modest upward lean, though nothing that gets my feet moving. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
+- **Lovble(Global):** A quiet, guarded day, with most of the big asset classes drifting sideways. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds are the steady hand here, leaning up and staying there, while credit hasn't bothered to pick a side. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** The dollar side is running hot, half the FX read bullish against 37.5% bearish, so where's the strain? Not in liquidity, which sits calm and balanced. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are sagging, half of them bearish, like a field going quiet before the frost, and the inflation gauge has turned fully bearish with them. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto fell hardest, 90.2% bearish and still getting worse, so that's the risk to count before anything else. The US holds a modest upward lean, though nothing that gets my feet moving. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Bsho has bonds holding firm, Sham sees FX pressing up with liquidity steady, Nowel has commodities easing, and Bengal marks crypto as the weak spot. The verdict is consolidation within established ranges. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
+**Beom(Chair):** Bsho has bonds holding firm, Sham sees FX pressing up with liquidity steady, Nowel has commodities easing, and Bengal marks crypto as the weak spot. The verdict is consolidation within established ranges. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

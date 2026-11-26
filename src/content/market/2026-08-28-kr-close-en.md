@@ -33,7 +33,7 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 08-28 21:30 KST — US PCE Price Index
-- 🔴 09-02 09:00 KST — LOTTE CHEMICAL Corp 배당락일 (011170)
+- 🔴 09-02 09:00 KST — LOTTE CHEMICAL Corp ex-dividend date (011170)
 - 🔴 09-03 19:00 KST — OPEC+ Meeting
 - 🟡 09-01 23:00 KST — ISM Manufacturing PMI
 
@@ -42,14 +42,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Bsho(Bonds):** Bonds exhibit a sideways bias leaning toward bullish, while credit remains fully bullish. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movement is characterized by a sideways drift toward bearishness. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities show a clear bullish leaning, supported by inflation readings. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are reading as neutral overall, with materials showing strength. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
-- **Lovble(Global):** Volatility is stable with equal bullish and bearish readings, and liquidity leans bullish. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
+- **Bsho(Bonds):** Bonds exhibit a sideways bias leaning toward bullish, while credit remains fully bullish. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movement is characterized by a sideways drift toward bearishness. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities show a clear bullish leaning, supported by inflation readings. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are reading as neutral overall, with materials showing strength. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
+- **Lovble(Global):** Volatility is stable with equal bullish and bearish readings, and liquidity leans bullish. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests underlying strength in commodity pricing and inflation expectations, supported by a bullish credit regime. However, the mixed signals across FX and the neutral readings in major equity indices suggest a period of consolidation or directional uncertainty. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure suggests underlying strength in commodity pricing and inflation expectations, supported by a bullish credit regime. However, the mixed signals across FX and the neutral readings in major equity indices suggest a period of consolidation or directional uncertainty. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-12 05:00 KST — Corteva, Inc. 실적 발표 (CTVA)
-- 🔴 11-12 05:00 KST — PTC Inc. 실적 발표 (PTC)
-- 🔴 11-12 06:00 KST — Vylor Inc. 실적 발표 (VYLR)
-- 🔴 11-12 21:30 KST — Walt Disney Company (The) 실적 발표 (DIS)
-- 🔴 11-13 06:00 KST — Cisco Systems, Inc. 실적 발표 (CSCO)
-- 🔴 11-13 06:00 KST — Applied Materials, Inc. 실적 발표 (AMAT)
+- 🔴 11-12 05:00 KST — Corteva, Inc. earnings (CTVA)
+- 🔴 11-12 05:00 KST — PTC Inc. earnings (PTC)
+- 🔴 11-12 06:00 KST — Vylor Inc. earnings (VYLR)
+- 🔴 11-12 21:30 KST — Walt Disney Company (The) earnings (DIS)
+- 🔴 11-13 06:00 KST — Cisco Systems, Inc. earnings (CSCO)
+- 🔴 11-13 06:00 KST — Applied Materials, Inc. earnings (AMAT)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -45,13 +45,13 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 
 ## Desk panel
 - **VIX:** Volatility remains stable, showing a slight leaning toward bullish readings. :vix:
-- **Bonds:** Bond indicators suggest a neutral stance with equal weight on bullish readings. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions read as neutral, with no discernible directional bias. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="샤암" />
-- **Commodities:** Commodity sentiment is mixed, showing a higher proportion of bearish readings than bullish ones. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are showing a sideways bias with a slight bullish tilt, while sectors like Financial Services, Communication Services, and Basic Materials showed strength, contrasting with weakness in Technology and Energy. <img class="emoji-char" src="/characters/v2/us/face/07_confident.png" alt="멘쿤" />
+- **Bonds:** Bond indicators suggest a neutral stance with equal weight on bullish readings. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions read as neutral, with no discernible directional bias. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="Sham" />
+- **Commodities:** Commodity sentiment is mixed, showing a higher proportion of bearish readings than bullish ones. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a sideways bias with a slight bullish tilt, while sectors like Financial Services, Communication Services, and Basic Materials showed strength, contrasting with weakness in Technology and Energy. <img class="emoji-char" src="/characters/v2/us/face/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The broader macro picture suggests caution, particularly given the bearish lean in inflation and FX, although US equities maintain a slightly positive bias. The divergence between the stable US market and the deteriorating trends observed in Crypto and Korea suggests varied risk appetites across asset classes. On balance, the market appears to be consolidating within defined boundaries. <img class="emoji-char" src="/characters/v2/orchestrator/face/07_confident.png" alt="범" />
+**Beom(Chair):** The broader macro picture suggests caution, particularly given the bearish lean in inflation and FX, although US equities maintain a slightly positive bias. The divergence between the stable US market and the deteriorating trends observed in Crypto and Korea suggests varied risk appetites across asset classes. On balance, the market appears to be consolidating within defined boundaries. <img class="emoji-char" src="/characters/v2/orchestrator/face/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

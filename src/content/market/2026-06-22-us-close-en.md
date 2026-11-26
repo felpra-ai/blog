@@ -43,7 +43,7 @@ altLang: ko
 - **Sectors:** Energy is noted as a sector exhibiting weakness. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a dichotomy, with strong bullish signals in credit and FX contrasting with neutral or bearish tilts in commodities and inflation. US equities remain range-bound, while the underlying strength in credit and liquidity suggests underlying support, despite sector weakness in Energy. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The macro picture presents a dichotomy, with strong bullish signals in credit and FX contrasting with neutral or bearish tilts in commodities and inflation. US equities remain range-bound, while the underlying strength in credit and liquidity suggests underlying support, despite sector weakness in Energy. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

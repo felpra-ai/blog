@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-25 09:00 KST — Medtronic plc. 배당락일 (MDT)
-- 🔴 09-25 09:00 KST — Ralph Lauren Corporation 배당락일 (RL)
+- 🔴 09-25 09:00 KST — Medtronic plc. ex-dividend date (MDT)
+- 🔴 09-25 09:00 KST — Ralph Lauren Corporation ex-dividend date (RL)
 - 🔴 09-25 21:30 KST — US PCE Price Index
-- 🔴 09-28 09:00 KST — Keurig Dr Pepper Inc. 배당락일 (KDP)
-- 🔴 09-28 21:30 KST — Carnival Corporation Ltd. 실적 발표 (CCL)
-- 🔴 09-29 21:30 KST — Paychex, Inc. 실적 발표 (PAYX)
+- 🔴 09-28 09:00 KST — Keurig Dr Pepper Inc. ex-dividend date (KDP)
+- 🔴 09-28 21:30 KST — Carnival Corporation Ltd. earnings (CCL)
+- 🔴 09-29 21:30 KST — Paychex, Inc. earnings (PAYX)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.27) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains at a neutral reading, showing no discernible directional bias in the underlying risk appetite. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** The bond market exhibits a clear bullish leaning, while credit conditions are registering a neutral stance. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements show a pronounced bearish bias, though the overall trend remains stable. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is balanced, with a slight leaning toward bullishness against a backdrop of neutral readings. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are reading as neutral overall, with Technology showing strength while Communication Services, Real Estate, and Healthcare are lagging. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains at a neutral reading, showing no discernible directional bias in the underlying risk appetite. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market exhibits a clear bullish leaning, while credit conditions are registering a neutral stance. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements show a pronounced bearish bias, though the overall trend remains stable. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is balanced, with a slight leaning toward bullishness against a backdrop of neutral readings. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities are reading as neutral overall, with Technology showing strength while Communication Services, Real Estate, and Healthcare are lagging. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: bonds show bullish conviction, yet FX is decidedly bearish, and US equities are showing signs of deterioration despite technology strength. The overall picture suggests caution, with underlying macro themes pulling in different directions. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: bonds show bullish conviction, yet FX is decidedly bearish, and US equities are showing signs of deterioration despite technology strength. The overall picture suggests caution, with underlying macro themes pulling in different directions. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

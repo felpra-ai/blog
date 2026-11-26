@@ -53,7 +53,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral â†
 - **Sectors:** Within digital assets, storage and layer2 protocols show strength, with Bitcoin maintaining dominance. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The divergence between commodity strength and the bearish readings in credit and liquidity suggests underlying tension. While crypto shows an improving trend, the broader macro picture is tempered by elevated volatility and constrained funding. On balance, the market appears to be digesting geopolitical overhangs amid sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="ë²”" />
+**Beom(Chair):** The divergence between commodity strength and the bearish readings in credit and liquidity suggests underlying tension. While crypto shows an improving trend, the broader macro picture is tempered by elevated volatility and constrained funding. On balance, the market appears to be digesting geopolitical overhangs amid sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

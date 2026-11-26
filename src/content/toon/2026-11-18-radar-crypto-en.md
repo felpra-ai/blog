@@ -43,7 +43,7 @@ images:
 |---|---|---|
 | Momentum (MMT) | 64× | +100.6% |
 | Brevis (BREV) | 28.3× | -18.4% |
-| 아이리스 (IRYS) | 6.1× | +19.2% |
+| IRYS | 6.1× | +19.2% |
 
 _Rule: that day's turnover ÷ average of the prior 10 sessions. 3 of 446 names screened passed the threshold. Volume shows attention, not direction._
 

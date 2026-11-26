@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-26 15:00 KST — BNK Financial Group 실적 발표 (138930)
-- 🔴 10-26 15:00 KST — Hanwha Ocean 실적 발표 (042660)
-- 🔴 10-26 15:00 KST — HANMISemi 실적 발표 (042700)
-- 🔴 10-26 15:00 KST — SKBS 실적 발표 (302440)
-- 🔴 10-26 15:00 KST — POSCO Holdings 실적 발표 (005490)
-- 🔴 10-27 09:00 KST — KT 배당락일 (030200)
+- 🔴 10-26 15:00 KST — BNK Financial Group earnings (138930)
+- 🔴 10-26 15:00 KST — Hanwha Ocean earnings (042660)
+- 🔴 10-26 15:00 KST — HANMISemi earnings (042700)
+- 🔴 10-26 15:00 KST — SKBS earnings (302440)
+- 🔴 10-26 15:00 KST — POSCO Holdings earnings (005490)
+- 🔴 10-27 09:00 KST — KT ex-dividend date (030200)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -55,7 +55,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are showing an improving trend, with bullish sentiment holding a clear majority. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The underlying macro picture presents mixed signals, with credit and liquidity showing supportive, stable readings, contrasting with bearish signals in commodities and crypto. US market strength appears to be a notable positive divergence from the weakness observed in Korean equities. On balance, the tape suggests caution amidst diverging sectoral and asset class performances. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The underlying macro picture presents mixed signals, with credit and liquidity showing supportive, stable readings, contrasting with bearish signals in commodities and crypto. US market strength appears to be a notable positive divergence from the weakness observed in Korean equities. On balance, the tape suggests caution amidst diverging sectoral and asset class performances. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

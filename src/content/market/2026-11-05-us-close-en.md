@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-05 21:30 KST — Zimmer Biomet Holdings, Inc. 실적 발표 (ZBH)
-- 🔴 11-05 21:30 KST — DuPont de Nemours, Inc. 실적 발표 (DD)
-- 🔴 11-05 21:30 KST — Insulet Corporation 실적 발표 (PODD)
-- 🔴 11-05 21:30 KST — KKR & Co. Inc. 실적 발표 (KKR)
-- 🔴 11-05 21:30 KST — Howmet Aerospace Inc. 실적 발표 (HWM)
-- 🔴 11-05 21:30 KST — Datadog, Inc. 실적 발표 (DDOG)
+- 🔴 11-05 21:30 KST — Zimmer Biomet Holdings, Inc. earnings (ZBH)
+- 🔴 11-05 21:30 KST — DuPont de Nemours, Inc. earnings (DD)
+- 🔴 11-05 21:30 KST — Insulet Corporation earnings (PODD)
+- 🔴 11-05 21:30 KST — KKR & Co. Inc. earnings (KKR)
+- 🔴 11-05 21:30 KST — Howmet Aerospace Inc. earnings (HWM)
+- 🔴 11-05 21:30 KST — Datadog, Inc. earnings (DDOG)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (58 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.20) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing a bullish bias across the board. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Bonds maintain a bullish leaning, supported by strong credit readings. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange sentiment is mixed, with no clear directional bias established. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are exhibiting a decidedly bearish posture. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities show an improving bias, with financial services, utilities, and consumer defensive sectors demonstrating relative strength. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable, showing a bullish bias across the board. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds maintain a bullish leaning, supported by strong credit readings. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange sentiment is mixed, with no clear directional bias established. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are exhibiting a decidedly bearish posture. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities show an improving bias, with financial services, utilities, and consumer defensive sectors demonstrating relative strength. <img class="emoji-char" src="/characters/us/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The broader macro picture suggests underlying support from credit and bonds, contrasting sharply with the pronounced weakness in commodities. US market structure appears to be finding a more supportive footing, while crypto assets show signs of deteriorating momentum. The overall tape suggests cautious consolidation within established ranges. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The broader macro picture suggests underlying support from credit and bonds, contrasting sharply with the pronounced weakness in commodities. US market structure appears to be finding a more supportive footing, while crypto assets show signs of deteriorating momentum. The overall tape suggests cautious consolidation within established ranges. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

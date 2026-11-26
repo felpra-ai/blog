@@ -37,7 +37,7 @@ altLang: ko
 - **Sectors:** Sector strength is noted in the 'strong' basket, while 'meme' shows weakness, with Bitcoin maintaining dominance across the crypto landscape. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence between credit and bond strength, contrasting with the caution seen in the Korean market. The US reading suggests underlying structural improvement, though the crypto asset class remains neutral. Overall, the market structure points toward selective strength amid varied regional and asset class readings. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence between credit and bond strength, contrasting with the caution seen in the Korean market. The US reading suggests underlying structural improvement, though the crypto asset class remains neutral. Overall, the market structure points toward selective strength amid varied regional and asset class readings. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

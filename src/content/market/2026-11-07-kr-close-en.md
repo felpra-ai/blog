@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-09 09:00 KST — WooriFinancialGroup 배당락일 (316140)
-- 🔴 11-09 09:00 KST — BNK Financial Group 배당락일 (138930)
-- 🔴 11-09 15:00 KST — Hanssem 실적 발표 (009240)
-- 🔴 11-09 15:00 KST — PearlAbyss 실적 발표 (263750)
-- 🔴 11-10 09:00 KST — JB Financial Group 배당락일 (175330)
-- 🔴 11-10 09:00 KST — HD HYUNDAI 배당락일 (267250)
+- 🔴 11-09 09:00 KST — WooriFinancialGroup ex-dividend date (316140)
+- 🔴 11-09 09:00 KST — BNK Financial Group ex-dividend date (138930)
+- 🔴 11-09 15:00 KST — Hanssem earnings (009240)
+- 🔴 11-09 15:00 KST — PearlAbyss earnings (263750)
+- 🔴 11-10 09:00 KST — JB Financial Group ex-dividend date (175330)
+- 🔴 11-10 09:00 KST — HD HYUNDAI ex-dividend date (267250)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -45,10 +45,10 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **Macro:** Volatility remains elevated with a strong bullish reading, while inflation shows a clear bearish tilt. :macro:
-- **Bonds:** The bond market sentiment is mixed, leaning more toward bearish readings despite stable trend indicators. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions appear balanced, showing no directional bias from the current readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Liquidity:** Liquidity measures are neutral, suggesting a lack of strong directional pressure across the system. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Commodities:** Commodity sentiment is notably bearish, indicating downward pressure across the basket. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
+- **Bonds:** The bond market sentiment is mixed, leaning more toward bearish readings despite stable trend indicators. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions appear balanced, showing no directional bias from the current readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Liquidity:** Liquidity measures are neutral, suggesting a lack of strong directional pressure across the system. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Commodities:** Commodity sentiment is notably bearish, indicating downward pressure across the basket. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="Kosho" />
 - **Crypto:** Cryptocurrency exhibits a deteriorating trend, leaning significantly toward bearish territory. :crypto:
 - **Korea:** Korean equities are showing a deteriorating trend, with a bearish tilt across the board. :korea:
 - **US:** US equities are displaying a stable, slightly bullish bias. :us:

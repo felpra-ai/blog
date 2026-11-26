@@ -32,21 +32,21 @@ altLang: ko
 
 ### This week's calendar
 
-- 🟡 11-23 — DOOSAN 배당락일 (000150)
+- 🟡 11-23 — DOOSAN ex-dividend date (000150)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: inflation leads credit by 1d (ρ=-0.35) — only 12 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** UK inflation hit a one-year high of 3.6% on record diesel prices, and the tape here is leaning bearish. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** The weak spots come first: crypto has fallen badly, with almost nine in ten readings bearish and getting worse, and Korea is sliding too. Bonds lean bullish and credit sits neutral, though both readings date from an earlier session. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="브숏" />
-- **Sham(FX):** USD/CAD at 1.4310, waiting on the FOMC minutes. FX is split evenly, and liquidity, as of an earlier session, has no direction at all. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Diesel at a record works its way through haulage and the shop shelf before it shows up in the price index, and that is what lifted the UK number. The broader commodity read, from an earlier session, still tilts bearish, so the pressure is concentrated in fuel rather than across raw goods. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korea's baskets have split cleanly. IT-media, bio-health and consumer hold up, while semiconductors, materials and financials are weak. With the market's trend deteriorating, the heavy sectors are the ones carrying the decline. <img class="emoji-char" src="/characters/v2/kr/face/08_defensive.png" alt="코숏" />
+- **Lovble(Global):** UK inflation hit a one-year high of 3.6% on record diesel prices, and the tape here is leaning bearish. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** The weak spots come first: crypto has fallen badly, with almost nine in ten readings bearish and getting worse, and Korea is sliding too. Bonds lean bullish and credit sits neutral, though both readings date from an earlier session. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** USD/CAD at 1.4310, waiting on the FOMC minutes. FX is split evenly, and liquidity, as of an earlier session, has no direction at all. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Diesel at a record works its way through haulage and the shop shelf before it shows up in the price index, and that is what lifted the UK number. The broader commodity read, from an earlier session, still tilts bearish, so the pressure is concentrated in fuel rather than across raw goods. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korea's baskets have split cleanly. IT-media, bio-health and consumer hold up, while semiconductors, materials and financials are weak. With the market's trend deteriorating, the heavy sectors are the ones carrying the decline. <img class="emoji-char" src="/characters/v2/kr/face/08_defensive.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Lovble and Nowel pointed to energy behind the UK inflation jump. Bsho flagged crypto and Korea as the weak side, Sham has the dollar waiting on the Fed minutes, and Kosho found Korea's strength confined to a few sectors. The US trend is improving while Korea's deteriorates, and it is not yet clear which of the two will set the tone. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
+**Beom(Chair):** Lovble and Nowel pointed to energy behind the UK inflation jump. Bsho flagged crypto and Korea as the weak side, Sham has the dollar waiting on the Fed minutes, and Kosho found Korea's strength confined to a few sectors. The US trend is improving while Korea's deteriorates, and it is not yet clear which of the two will set the tone. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

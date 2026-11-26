@@ -58,11 +58,11 @@ Our prediction ledger is anchored by a daily SHA-256 hash chain (182 consecutive
 
 _Archive this hash — recomputing it later from the raw ledger must reproduce the same value, or the record was altered._
 
-**Bengal(Crypto):** The crypto market showed a win rate of 48.6%, which is close to even, but the average profit and loss was negative at -0.133, indicating that the losses tended to outweigh the gains over the period observed. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market showed a win rate of 48.6%, which is close to even, but the average profit and loss was negative at -0.133, indicating that the losses tended to outweigh the gains over the period observed. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="Bengal" />
 
-**Kosho(KR):** Korean equities posted a win rate of 47.8%, which is slightly below the break-even mark, though the average P&L was positive at 0.316, suggesting that profitable trades were slightly larger than the losing ones. <img class="emoji-char" src="/characters/kr/01_joy.png" alt="코숏" />
+**Kosho(KR):** Korean equities posted a win rate of 47.8%, which is slightly below the break-even mark, though the average P&L was positive at 0.316, suggesting that profitable trades were slightly larger than the losing ones. <img class="emoji-char" src="/characters/kr/01_joy.png" alt="Kosho" />
 
-**Maine(US):** US equities registered a win rate of 45.8%, and the average P&L was very close to zero at 0.003, suggesting a period of near-neutral performance across the sampled trades. <img class="emoji-char" src="/characters/us/01_joy.png" alt="멘쿤" />
+**Maine(US):** US equities registered a win rate of 45.8%, and the average P&L was very close to zero at 0.003, suggesting a period of near-neutral performance across the sampled trades. <img class="emoji-char" src="/characters/us/01_joy.png" alt="Maine" />
 
 **Beom(Chair):**
 The collective performance across the three tracked markets suggests a period characterized by mixed results and a general tendency toward negative or muted returns. The overall win rate for the period was 48.4%, with the average profit and loss being negative at -0.057.
@@ -71,7 +71,7 @@ Kosho showed the most positive directional bias with a positive average P&L, whi
 
 This synthesis points to a regime of caution and indecision across the tracked asset classes. The data reflects an environment where directional conviction was difficult to maintain, resulting in a balanced but slightly negative aggregate result.
 
-This analysis is based solely on historical paper-trading data and does not constitute investment advice. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+This analysis is based solely on historical paper-trading data and does not constitute investment advice. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - This week's journals: [2026-09-13 crypto](/journal/2026-09-13-crypto-journal-en/) · [2026-09-14 crypto](/journal/2026-09-14-crypto-journal-en/) · [2026-09-14 kr](/journal/2026-09-14-kr-journal-en/) · [2026-09-15 crypto](/journal/2026-09-15-crypto-journal-en/) · [2026-09-15 kr](/journal/2026-09-15-kr-journal-en/) · [2026-09-16 crypto](/journal/2026-09-16-crypto-journal-en/) · [2026-09-16 kr](/journal/2026-09-16-kr-journal-en/) · [2026-09-16 us](/journal/2026-09-16-us-journal-en/) · [2026-09-17 crypto](/journal/2026-09-17-crypto-journal-en/) · [2026-09-17 kr](/journal/2026-09-17-kr-journal-en/) · [2026-09-17 us](/journal/2026-09-17-us-journal-en/) · [2026-09-18 crypto](/journal/2026-09-18-crypto-journal-en/) · [2026-09-18 kr](/journal/2026-09-18-kr-journal-en/) · [2026-09-18 us](/journal/2026-09-18-us-journal-en/) · [2026-09-19 crypto](/journal/2026-09-19-crypto-journal-en/)

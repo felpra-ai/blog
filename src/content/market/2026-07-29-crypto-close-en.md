@@ -41,15 +41,15 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 
 ## Desk panel
 - **Macro:** Volatility remains in a stable, bullish range, while liquidity shows strong bullish positioning across the board. :macro:
-- **Bonds:** The bond picture is registering as neutral, with the trend remaining stable despite mixed directional readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions are reading as neutral, indicating no discernible directional bias in the current cycle. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Liquidity:** Liquidity metrics point to an extreme bullish regime, suggesting ample capital flow conditions. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Commodities:** Commodities are positioned neutrally, with a slight lean towards bullish sentiment noted. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
+- **Bonds:** The bond picture is registering as neutral, with the trend remaining stable despite mixed directional readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions are reading as neutral, indicating no discernible directional bias in the current cycle. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Liquidity:** Liquidity metrics point to an extreme bullish regime, suggesting ample capital flow conditions. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Commodities:** Commodities are positioned neutrally, with a slight lean towards bullish sentiment noted. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="Bengal" />
 - **Korea:** The Korean market sentiment is neutral, exhibiting a deteriorating trend profile. :korea:
 - **US:** The US market is registering as neutral, but with an improving underlying trend structure. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market exhibits a divergence where liquidity remains strongly bullish, contrasting with deteriorating trends observed in crypto and Korea. The US market shows signs of improvement, while the general macro backdrop suggests caution despite stable volatility readings. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The market exhibits a divergence where liquidity remains strongly bullish, contrasting with deteriorating trends observed in crypto and Korea. The US market shows signs of improvement, while the general macro backdrop suggests caution despite stable volatility readings. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

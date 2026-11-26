@@ -33,9 +33,9 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 10-13 21:30 KST — US CPI Release
-- 🔴 10-14 15:00 KST — HANMISemi 실적 발표 (042700)
-- 🔴 10-15 09:00 KST — Misto Holdings 배당락일 (081660)
-- 🔴 10-16 09:00 KST — YoungoneHoldings 배당락일 (009970)
+- 🔴 10-14 15:00 KST — HANMISemi earnings (042700)
+- 🔴 10-15 09:00 KST — Misto Holdings ex-dividend date (081660)
+- 🔴 10-16 09:00 KST — YoungoneHoldings ex-dividend date (009970)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -43,17 +43,17 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility remains in a neutral state, showing a stable trend with more bearish readings than bullish ones. :vix:
-- **Bonds:** The bond market exhibits a neutral regime, with bullish readings outweighing bearish ones, maintaining a stable trend. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions are assessed as neutral, with a higher proportion of bullish readings compared to bearish ones, indicating a stable trend. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **FX:** Foreign exchange markets are neutral, displaying a higher incidence of bearish readings than bullish ones, and maintaining a stable trend. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Commodities:** Commodities are in a neutral state, characterized by a significant leaning towards bearish readings, while the trend remains stable. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
+- **Bonds:** The bond market exhibits a neutral regime, with bullish readings outweighing bearish ones, maintaining a stable trend. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions are assessed as neutral, with a higher proportion of bullish readings compared to bearish ones, indicating a stable trend. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **FX:** Foreign exchange markets are neutral, displaying a higher incidence of bearish readings than bullish ones, and maintaining a stable trend. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Commodities:** Commodities are in a neutral state, characterized by a significant leaning towards bearish readings, while the trend remains stable. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="Kosho" />
 - **Inflation:** Inflation readings are sideways-bearish, with an equal split between bullish and bearish observations, and the trend is stable. :kofi:
 - **Crypto:** The cryptocurrency market shows a deteriorating trend, with bearish readings significantly outweighing bullish ones. :crypto:
 - **Korea:** Korean equities are in a sideways-bullish regime, with bullish readings slightly outpacing bearish ones, and the trend is stable. :korea:
 - **US:** US equities are in a sideways-bearish regime, with bearish readings slightly outweighing bullish ones, and the trend is deteriorating. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Macro indicators suggest a mixed environment, with underlying stability noted in rates and credit, though commodity weakness and deteriorating crypto momentum are visible. The divergence between the stable, slightly positive Korean equity picture and the deteriorating US and crypto readings suggests caution across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** Macro indicators suggest a mixed environment, with underlying stability noted in rates and credit, though commodity weakness and deteriorating crypto momentum are visible. The divergence between the stable, slightly positive Korean equity picture and the deteriorating US and crypto readings suggests caution across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

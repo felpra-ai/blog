@@ -43,7 +43,7 @@ altLang: ko
 - **Sectors:** Utilities, Healthcare, and Basic Materials are showing strength, while Communication Services, Energy, and Communication Services are showing weakness. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market read suggests underlying strength in credit and foreign exchange, contrasting with neutral readings across major equity and crypto indices. The divergence between sector strength (Utilities/Healthcare) and weakness (Energy/Communication Services) suggests selective rotation within the broader market structure. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The cross-market read suggests underlying strength in credit and foreign exchange, contrasting with neutral readings across major equity and crypto indices. The divergence between sector strength (Utilities/Healthcare) and weakness (Energy/Communication Services) suggests selective rotation within the broader market structure. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

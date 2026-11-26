@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-05 15:00 KST — LG Energy Solution 실적 발표 (373220)
-- 🔴 11-05 15:00 KST — APR 실적 발표 (278470)
-- 🔴 11-05 15:00 KST — Hanon Systems 실적 발표 (018880)
-- 🔴 11-05 15:00 KST — CJ ENM 실적 발표 (035760)
-- 🔴 11-05 15:00 KST — KT&G 실적 발표 (033780)
-- 🔴 11-05 15:00 KST — SAMSUNG SDS 실적 발표 (018260)
+- 🔴 11-05 15:00 KST — LG Energy Solution earnings (373220)
+- 🔴 11-05 15:00 KST — APR earnings (278470)
+- 🔴 11-05 15:00 KST — Hanon Systems earnings (018880)
+- 🔴 11-05 15:00 KST — CJ ENM earnings (035760)
+- 🔴 11-05 15:00 KST — KT&G earnings (033780)
+- 🔴 11-05 15:00 KST — SAMSUNG SDS earnings (018260)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 

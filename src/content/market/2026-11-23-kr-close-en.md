@@ -35,23 +35,23 @@ altLang: ko
 - 🔴 11-25 22:30 KST — US GDP Release
 - 🔴 11-25 22:30 KST — US PCE Price Index
 - 🔴 11-26 10:00 KST — BOK Interest Rate Decision
-- 🔴 11-27 — Hyundai Elevator 배당락일 (017800)
-- 🔴 11-27 — HyundaiMtr 배당락일 (005380)
-- 🔴 11-27 — CJ CheilJedang 배당락일 (097950)
+- 🔴 11-27 — Hyundai Elevator ex-dividend date (017800)
+- 🔴 11-27 — HyundaiMtr ex-dividend date (005380)
+- 🔴 11-27 — CJ CheilJedang ex-dividend date (097950)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: inflation leads credit by 1d (ρ=-0.35) — only 12 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Risk-off day: swings are widening and commodities are sliding with them. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Credit is where the strain shows, with three-quarters of its readings leaning bearish, and nothing in the trend points to it easing yet. Liquidity, by contrast, is fully on the bullish side, and for now that is what holds the floor. <img class="emoji-char" src="/characters/v2/bond/face/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** The dollar complex tilts bearish, half the readings against. Liquidity stays fully bullish. Flow is there; direction is not. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities lean hard to the bearish side, and inflation drifts the same way, like a field going quiet after the harvest. Precious metals are the exception in the news, lifting as Treasury yields pull back. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Equities lean bearish in all three markets. Korea and crypto are deteriorating, and the US is holding steady in its weakness at roughly eight in ten readings bearish. In Korea the drag sits in financials, chemicals and bio-health, with no sector showing strength. <img class="emoji-char" src="/characters/v2/kr/face/08_defensive.png" alt="코숏" />
+- **Lovble(Global):** Risk-off day: swings are widening and commodities are sliding with them. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit is where the strain shows, with three-quarters of its readings leaning bearish, and nothing in the trend points to it easing yet. Liquidity, by contrast, is fully on the bullish side, and for now that is what holds the floor. <img class="emoji-char" src="/characters/v2/bond/face/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** The dollar complex tilts bearish, half the readings against. Liquidity stays fully bullish. Flow is there; direction is not. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities lean hard to the bearish side, and inflation drifts the same way, like a field going quiet after the harvest. Precious metals are the exception in the news, lifting as Treasury yields pull back. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Equities lean bearish in all three markets. Korea and crypto are deteriorating, and the US is holding steady in its weakness at roughly eight in ten readings bearish. In Korea the drag sits in financials, chemicals and bio-health, with no sector showing strength. <img class="emoji-char" src="/characters/v2/kr/face/08_defensive.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Lovble and Nowel point to falling commodities, Bsho to strained credit, Sham to a soft dollar side under full liquidity, and Kosho to broad equity weakness with Korea and crypto slipping further. What remains open is why ample liquidity is not finding its way into risk assets. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
+**Beom(Chair):** Lovble and Nowel point to falling commodities, Bsho to strained credit, Sham to a soft dollar side under full liquidity, and Kosho to broad equity weakness with Korea and crypto slipping further. What remains open is why ample liquidity is not finding its way into risk assets. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-23](/track-record/2026-11-23-weekly-hitrate-en/)

@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-12 09:00 KST — Doosan Bobcat 배당락일 (241560)
-- 🔴 11-12 15:00 KST — SamsungSecu 실적 발표 (016360)
-- 🔴 11-12 15:00 KST — C2S 실적 발표 (078340)
-- 🔴 11-12 15:00 KST — LG Corp. 실적 발표 (003550)
-- 🔴 11-12 15:00 KST — Nongshim 실적 발표 (004370)
-- 🔴 11-12 15:00 KST — Kogas 실적 발표 (036460)
+- 🔴 11-12 09:00 KST — Doosan Bobcat ex-dividend date (241560)
+- 🔴 11-12 15:00 KST — SamsungSecu earnings (016360)
+- 🔴 11-12 15:00 KST — C2S earnings (078340)
+- 🔴 11-12 15:00 KST — LG Corp. earnings (003550)
+- 🔴 11-12 15:00 KST — Nongshim earnings (004370)
+- 🔴 11-12 15:00 KST — Kogas earnings (036460)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 7 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing a slight leaning towards bearish sentiment. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds are positioned neutrally, with no discernible directional bias. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements suggest a sideways bias with a slight bullish tilt. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit a neutral reading, though the bearish component holds more weight. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities show a sideways bias with a clear deterioration in underlying momentum. <img class="emoji-char" src="/characters/v2/kr/face/08_defensive.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains stable, showing a slight leaning towards bearish sentiment. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds are positioned neutrally, with no discernible directional bias. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements suggest a sideways bias with a slight bullish tilt. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit a neutral reading, though the bearish component holds more weight. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities show a sideways bias with a clear deterioration in underlying momentum. <img class="emoji-char" src="/characters/v2/kr/face/08_defensive.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents mixed signals, notably with inflation showing a distinct bearish tilt. While US equities display a stable, slightly bullish bias, the crypto space is registering a more pronounced bearish tendency. The overall market structure suggests caution, balancing sector strength against underlying inflationary concerns. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture presents mixed signals, notably with inflation showing a distinct bearish tilt. While US equities display a stable, slightly bullish bias, the crypto space is registering a more pronounced bearish tendency. The overall market structure suggests caution, balancing sector strength against underlying inflationary concerns. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

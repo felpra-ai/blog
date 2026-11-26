@@ -44,7 +44,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral â†
 - **US:** US equities are reading as neutral, though the underlying trend is noted as deteriorating. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro landscape presents a divergence, with elevated volatility readings contrasting against significant bearish pressure across credit, FX, and commodities. While US equities are showing signs of deterioration, the overall market structure suggests a period of cautious consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="ë²”" />
+**Beom(Chair):** The macro landscape presents a divergence, with elevated volatility readings contrasting against significant bearish pressure across credit, FX, and commodities. While US equities are showing signs of deterioration, the overall market structure suggests a period of cautious consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

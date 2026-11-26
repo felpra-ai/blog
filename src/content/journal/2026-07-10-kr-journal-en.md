@@ -37,7 +37,7 @@ altLang: ko
 
 ## Recap
 
-The closed trades today showed a perfect win rate, which is certainly a positive observation for the record <img class="emoji-char" src="/characters/kr/09_excited.png" alt="Kosho" />. The average profit realized per trade was +2.33%, significantly outpacing the average loss, which was zero. The best performance recorded was on 노바렉스 at +3.41%, and 바디텍메드 also contributed a notable gain of +2.95%. The absence of recorded losses in the closed trades suggests that the executed set of trades performed very cleanly today.
+The closed trades today showed a perfect win rate, which is certainly a positive observation for the record <img class="emoji-char" src="/characters/kr/09_excited.png" alt="Kosho" />. The average profit realized per trade was +2.33%, significantly outpacing the average loss, which was zero. The best performance recorded was on Nobarekseu at +3.41%, and Baditekmedeu also contributed a notable gain of +2.95%. The absence of recorded losses in the closed trades suggests that the executed set of trades performed very cleanly today.
 
 ## Lessons from Outcomes
 
@@ -53,7 +53,7 @@ The current pattern of high win rates and positive expectancy, based solely on t
 
 _4 trades closed today. Excluding micro-scalps, 4 meaningful trades (held 30m+ or P&L ±1%+), earliest entry first._
 
-<table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>농심(004370)</td><td>357,357</td><td>360,639</td><td class="pnl">+0.92%</td><td>168.0h</td><td>07-03 09:55 → 07-10 09:55</td></tr><tr class="t-win"><td class="res">win</td><td>TKG휴켐스(069260)</td><td>15,676</td><td>15,994</td><td class="pnl">+2.03%</td><td>48.2h</td><td>07-08 09:05 → 07-10 09:20</td></tr><tr class="t-win"><td class="res">win</td><td>노바렉스(194700)</td><td>13,293</td><td>13,746</td><td class="pnl">+3.41%</td><td>51.8h</td><td>07-08 09:05 → 07-10 12:55</td></tr><tr class="t-win"><td class="res">win</td><td>바디텍메드(206640)</td><td>11,111</td><td>11,439</td><td class="pnl">+2.95%</td><td>49.2h</td><td>07-08 09:05 → 07-10 10:20</td></tr></tbody></table>
+<table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Nongsim(004370)</td><td>357,357</td><td>360,639</td><td class="pnl">+0.92%</td><td>168.0h</td><td>07-03 09:55 → 07-10 09:55</td></tr><tr class="t-win"><td class="res">win</td><td>TKGHyukemseu(069260)</td><td>15,676</td><td>15,994</td><td class="pnl">+2.03%</td><td>48.2h</td><td>07-08 09:05 → 07-10 09:20</td></tr><tr class="t-win"><td class="res">win</td><td>Nobarekseu(194700)</td><td>13,293</td><td>13,746</td><td class="pnl">+3.41%</td><td>51.8h</td><td>07-08 09:05 → 07-10 12:55</td></tr><tr class="t-win"><td class="res">win</td><td>Baditekmedeu(206640)</td><td>11,111</td><td>11,439</td><td class="pnl">+2.95%</td><td>49.2h</td><td>07-08 09:05 → 07-10 10:20</td></tr></tbody></table>
 
 ---
 

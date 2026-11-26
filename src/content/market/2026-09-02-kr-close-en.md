@@ -41,11 +41,11 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings suggest a stable, yet cautious, risk appetite. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Credit conditions read distinctly bearish, while bond trends remain stable and neutral. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements show a balanced reading, with no clear directional bias. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit a clear bullish leaning, contrasting with the overall bearish tilt in liquidity. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are showing an improving trend, with materials sector strength noted against utilities weakness. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
+- **Lovble(Global):** Volatility readings suggest a stable, yet cautious, risk appetite. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit conditions read distinctly bearish, while bond trends remain stable and neutral. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements show a balanced reading, with no clear directional bias. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit a clear bullish leaning, contrasting with the overall bearish tilt in liquidity. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are showing an improving trend, with materials sector strength noted against utilities weakness. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
 **Beom(Chair):** The market structure presents a divergence: commodities and macro indicators like VIX suggest underlying strength or stability, while credit and liquidity point toward significant caution. The cross-market read shows US and Crypto remaining in a neutral state, while Korea exhibits a positive directional shift. This suggests sector-specific strength is currently overriding broader systemic concerns.

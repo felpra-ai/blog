@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-24 09:00 KST — Microchip Technology Incorporat 배당락일 (MCHP)
-- 🔴 08-24 09:00 KST — Bio-Techne Corp 배당락일 (TECH)
-- 🔴 08-24 09:00 KST — Masco Corporation 배당락일 (MAS)
-- 🔴 08-24 09:00 KST — LyondellBasell Industries NV 배당락일 (LYB)
-- 🔴 08-24 09:00 KST — 3M Company 배당락일 (MMM)
-- 🔴 08-24 09:00 KST — Tractor Supply Company 배당락일 (TSCO)
+- 🔴 08-24 09:00 KST — Microchip Technology Incorporat ex-dividend date (MCHP)
+- 🔴 08-24 09:00 KST — Bio-Techne Corp ex-dividend date (TECH)
+- 🔴 08-24 09:00 KST — Masco Corporation ex-dividend date (MAS)
+- 🔴 08-24 09:00 KST — LyondellBasell Industries NV ex-dividend date (LYB)
+- 🔴 08-24 09:00 KST — 3M Company ex-dividend date (MMM)
+- 🔴 08-24 09:00 KST — Tractor Supply Company ex-dividend date (TSCO)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable with balanced directional readings across bullish and bearish parameters. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a neutral stance, with equal weight assigned to bullish and bearish directional readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX shows a predominantly bullish bias despite a higher weight on the bearish side of the spectrum. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities read as extremely bullish, showing a strong directional leaning away from bearish indicators. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities are reading as neutral overall, with Energy, Healthcare, and Basic Materials showing strength while Utilities and Financial Services are lagging. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable with balanced directional readings across bullish and bearish parameters. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a neutral stance, with equal weight assigned to bullish and bearish directional readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX shows a predominantly bullish bias despite a higher weight on the bearish side of the spectrum. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities read as extremely bullish, showing a strong directional leaning away from bearish indicators. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities are reading as neutral overall, with Energy, Healthcare, and Basic Materials showing strength while Utilities and Financial Services are lagging. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure indicates strong underlying commodity strength and improving sentiment within the crypto asset class. The cross-market readings suggest a cautious environment, particularly given the focus areas noted for the upcoming week. On balance, the tape appears range-bound with notable sector divergence. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure indicates strong underlying commodity strength and improving sentiment within the crypto asset class. The cross-market readings suggest a cautious environment, particularly given the focus areas noted for the upcoming week. On balance, the tape appears range-bound with notable sector divergence. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

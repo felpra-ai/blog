@@ -31,13 +31,13 @@ altLang: ko
 **Sectors/baskets** — strong: — · weak: meme · dominance: btc_dominant
 
 ## Desk panel
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit maintains a fully bullish reading. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange sentiment reads as extremely bearish, despite overall liquidity remaining fully bullish. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities show a neutral reading, with bearish sentiment outweighing bullish indicators. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is showing a neutral read, with underlying dominance remaining concentrated in BTC, while regional markets show mixed signals. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit maintains a fully bullish reading. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange sentiment reads as extremely bearish, despite overall liquidity remaining fully bullish. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities show a neutral reading, with bearish sentiment outweighing bullish indicators. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is showing a neutral read, with underlying dominance remaining concentrated in BTC, while regional markets show mixed signals. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market exhibits a divergence where fixed income and liquidity readings are strongly supportive, contrasting with bearish readings in the FX space and a deteriorating trend noted in Korean markets. Overall, the picture suggests underlying structural support in some areas, tempered by notable directional weakness elsewhere. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market exhibits a divergence where fixed income and liquidity readings are strongly supportive, contrasting with bearish readings in the FX space and a deteriorating trend noted in Korean markets. Overall, the picture suggests underlying structural support in some areas, tempered by notable directional weakness elsewhere. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

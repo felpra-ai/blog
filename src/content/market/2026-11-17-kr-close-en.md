@@ -33,20 +33,20 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-18 09:00 KST — KOREA ZINC 배당락일 (010130)
-- 🟡 11-23 09:00 KST — DOOSAN 배당락일 (000150)
+- 🔴 11-18 09:00 KST — KOREA ZINC ex-dividend date (010130)
+- 🟡 11-23 09:00 KST — DOOSAN ex-dividend date (000150)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.21) — only 7 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Calm on the surface, wary underneath, with most desks leaning defensive. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds are the steady hand again, bid and in no hurry to change, while credit sits flat and gives nothing away; a quiet day by the ledger's standards. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="브숏" />
-- **Sham(FX):** The dollar side is running hot, half the FX read bullish, but liquidity hasn't followed, so who is actually funding the move? <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities feel like a field after first frost: half the board leans bearish, and the inflation gauge has gone fully cold. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Locally the money is sitting in bio-health, consumer and IT-media, and it has walked away from chemicals and utilities; crypto is empty, nine in ten bearish and getting worse. <img class="emoji-char" src="/characters/v2/kr/face/10_suspicious.png" alt="코숏" />
-- **Beom(Chair):** Bsho has bonds holding, Sham a strong currency with thin liquidity, Nowel cooling commodities, and Kosho a narrow rotation at home with crypto sliding. Cautious consolidation. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
+- **Lovble(Global):** Calm on the surface, wary underneath, with most desks leaning defensive. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds are the steady hand again, bid and in no hurry to change, while credit sits flat and gives nothing away; a quiet day by the ledger's standards. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** The dollar side is running hot, half the FX read bullish, but liquidity hasn't followed, so who is actually funding the move? <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities feel like a field after first frost: half the board leans bearish, and the inflation gauge has gone fully cold. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Locally the money is sitting in bio-health, consumer and IT-media, and it has walked away from chemicals and utilities; crypto is empty, nine in ten bearish and getting worse. <img class="emoji-char" src="/characters/v2/kr/face/10_suspicious.png" alt="Kosho" />
+- **Beom(Chair):** Bsho has bonds holding, Sham a strong currency with thin liquidity, Nowel cooling commodities, and Kosho a narrow rotation at home with crypto sliding. Cautious consolidation. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="Beom" />
 
 ## Cross-market & Beom's verdict
 Bonds and crypto pull in opposite directions. The bond bid is firm and stable, while crypto keeps deteriorating. FX is at an extreme bullish reading, yet liquidity stays neutral, so the strength has little cash behind it. Commodities lean lower and inflation reads entirely bearish, which fits the news that long-term inflation expectations are easing. Korea sits sideways-to-bearish, with roughly two-thirds of names weak, and the strength is confined to a few sectors. The US holds a mild bullish tilt. The verdict is a guarded market, firm in bonds and soft at the edges.

@@ -43,7 +43,7 @@ altLang: ko
 - **Sectors:** Healthcare and Financial Services are showing strength, while Communication Services is noted as a weaker area. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents mixed signals, with elevated bearish readings in volatility and liquidity contrasting against stable or improving trends in major asset classes like US equities and Crypto. The sector strength is concentrated in Healthcare and Financial Services, suggesting pockets of resilience amidst broader uncertainty. On balance, the market exhibits a cautious, range-seeking tape characterized by divergent directional readings across asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The macro picture presents mixed signals, with elevated bearish readings in volatility and liquidity contrasting against stable or improving trends in major asset classes like US equities and Crypto. The sector strength is concentrated in Healthcare and Financial Services, suggesting pockets of resilience amidst broader uncertainty. On balance, the market exhibits a cautious, range-seeking tape characterized by divergent directional readings across asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

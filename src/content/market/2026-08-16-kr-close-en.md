@@ -32,9 +32,9 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-18 15:00 KST — Nongshim 실적 발표 (004370)
-- 🔴 08-20 09:00 KST — HANKOOK & COMPANY 배당락일 (000240)
-- 🔴 08-21 09:00 KST — POSCO Holdings 배당락일 (005490)
+- 🔴 08-18 15:00 KST — Nongshim earnings (004370)
+- 🔴 08-20 09:00 KST — HANKOOK & COMPANY ex-dividend date (000240)
+- 🔴 08-21 09:00 KST — POSCO Holdings ex-dividend date (005490)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -42,18 +42,18 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility readings show a strong leaning towards bearish sentiment, though the underlying trend remains stable. :vix:
-- **Bonds:** The bond market sentiment is balanced, registering a slight bullish bias without any discernible directional shift. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Credit:** Credit conditions exhibit a clear bullish posture, with no observed bearish indicators influencing the reading. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **FX:** Foreign exchange sentiment is mixed, showing a moderate bullish lean against a notable bearish component, all within a stable trend. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Liquidity:** Liquidity metrics suggest a neutral reading, with equal weight observed on both the bullish and bearish sides, maintaining a stable trend. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Commodities:** Commodities are displaying a decidedly bullish bias, with no bearish pressure noted across the board, and the trend remains stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Inflation:** Inflation sentiment is neutral, with a slight bullish inclination observed, and the trend is stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Bonds:** The bond market sentiment is balanced, registering a slight bullish bias without any discernible directional shift. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Credit:** Credit conditions exhibit a clear bullish posture, with no observed bearish indicators influencing the reading. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **FX:** Foreign exchange sentiment is mixed, showing a moderate bullish lean against a notable bearish component, all within a stable trend. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Liquidity:** Liquidity metrics suggest a neutral reading, with equal weight observed on both the bullish and bearish sides, maintaining a stable trend. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Commodities:** Commodities are displaying a decidedly bullish bias, with no bearish pressure noted across the board, and the trend remains stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Inflation:** Inflation sentiment is neutral, with a slight bullish inclination observed, and the trend is stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 - **Crypto:** Cryptocurrency sentiment is improving, showing a moderate bullish bias against a smaller bearish component. :crypto:
-- **Korea:** Korean equities show a predominantly bullish reading, with a stable trend observed. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
-- **US:** US equities sentiment is improving, reflecting a moderate bullish bias against a smaller bearish component. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+- **Korea:** Korean equities show a predominantly bullish reading, with a stable trend observed. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
+- **US:** US equities sentiment is improving, reflecting a moderate bullish bias against a smaller bearish component. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: credit and commodities show clear bullish conviction, while volatility remains skewed bearish. The improving sentiment in both US and Crypto, juxtaposed against the stable, mixed readings in FX and Liquidity, suggests underlying directional uncertainty despite sector strength noted in Korean industrials and materials. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: credit and commodities show clear bullish conviction, while volatility remains skewed bearish. The improving sentiment in both US and Crypto, juxtaposed against the stable, mixed readings in FX and Liquidity, suggests underlying directional uncertainty despite sector strength noted in Korean industrials and materials. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

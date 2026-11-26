@@ -40,11 +40,11 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: bearish → neutral (8 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains elevated with a clear bearish tilt across the board, suggesting underlying caution. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Fixed income shows a bullish leaning, while the broader credit picture remains balanced. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange dynamics lean bearish, and overall liquidity conditions are showing a distinct bearish bias. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is neutral, with a slight bullish leaning noted in the overall structure. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is showing an improving trend, with the structure indicating strength concentrated in meme, layer1, and exchange sectors, while payments lags. <img class="emoji-char" src="/characters/crypto/12_relieved.png" alt="벵갈" />
+- **Lovble(Global):** Volatility remains elevated with a clear bearish tilt across the board, suggesting underlying caution. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Fixed income shows a bullish leaning, while the broader credit picture remains balanced. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange dynamics lean bearish, and overall liquidity conditions are showing a distinct bearish bias. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is neutral, with a slight bullish leaning noted in the overall structure. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is showing an improving trend, with the structure indicating strength concentrated in meme, layer1, and exchange sectors, while payments lags. <img class="emoji-char" src="/characters/crypto/12_relieved.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
 **Beom(Chair):** The market structure presents a divergence: while fixed income and commodities show some underlying support, the pronounced bearishness in liquidity and FX, coupled with elevated volatility readings, suggests caution is warranted across asset classes. The improving trend noted in crypto contrasts with the more mixed signals observed in the broader macro indicators, pointing toward a period of directional indecision punctuated by sector-specific strength.

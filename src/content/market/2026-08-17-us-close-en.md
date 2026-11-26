@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-19 09:00 KST — Apollo Global Management, Inc.  배당락일 (APO)
-- 🔴 08-19 09:00 KST — Archer-Daniels-Midland Company 배당락일 (ADM)
-- 🔴 08-19 09:00 KST — AFLAC Incorporated 배당락일 (AFL)
-- 🔴 08-19 21:30 KST — Analog Devices, Inc. 실적 발표 (ADI)
-- 🔴 08-20 09:00 KST — Applied Materials, Inc. 배당락일 (AMAT)
-- 🔴 08-21 09:00 KST — Amgen Inc. 배당락일 (AMGN)
+- 🔴 08-19 09:00 KST — Apollo Global Management, Inc.  ex-dividend date (APO)
+- 🔴 08-19 09:00 KST — Archer-Daniels-Midland Company ex-dividend date (ADM)
+- 🔴 08-19 09:00 KST — AFLAC Incorporated ex-dividend date (AFL)
+- 🔴 08-19 21:30 KST — Analog Devices, Inc. earnings (ADI)
+- 🔴 08-20 09:00 KST — Applied Materials, Inc. ex-dividend date (AMAT)
+- 🔴 08-21 09:00 KST — Amgen Inc. ex-dividend date (AMGN)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -45,18 +45,18 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 
 ## Desk panel
 - **VIX:** Volatility remains in an extreme bearish state, showing a stable bearish trend. :vix:
-- **Bonds:** The bond market reads as neutral, with a stable trend showing slightly more bullish leaning. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Credit:** Credit conditions read distinctly bullish, maintaining a stable trend. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **FX:** Foreign exchange remains neutral, with a stable trend showing moderate bullish leaning. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Liquidity:** Liquidity sentiment is neutral, with a stable trend showing balanced bullish and bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Commodities:** Commodities exhibit a sideways bullish reading, maintaining a stable trend. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Inflation:** Inflation readings are neutral, with a stable trend showing a slight bullish lean. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
+- **Bonds:** The bond market reads as neutral, with a stable trend showing slightly more bullish leaning. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Credit:** Credit conditions read distinctly bullish, maintaining a stable trend. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **FX:** Foreign exchange remains neutral, with a stable trend showing moderate bullish leaning. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Liquidity:** Liquidity sentiment is neutral, with a stable trend showing balanced bullish and bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Commodities:** Commodities exhibit a sideways bullish reading, maintaining a stable trend. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Inflation:** Inflation readings are neutral, with a stable trend showing a slight bullish lean. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
 - **Crypto:** The cryptocurrency space is neutral, showing an improving trend with a slight bullish lean. :crypto:
 - **Korea:** The Korean market reads as neutral, maintaining a stable trend with a clear bullish bias. :korea:
 - **US:** US equities read as neutral, showing an improving trend with a moderate bullish bias. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Macro indicators present a mixed picture: while credit and commodities lean positive, the extreme bearish reading in volatility suggests underlying caution. The divergence between the improving US and Crypto trends, juxtaposed against stable but mixed readings across other asset classes, points toward a period of selective strength rather than broad consensus. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** Macro indicators present a mixed picture: while credit and commodities lean positive, the extreme bearish reading in volatility suggests underlying caution. The divergence between the improving US and Crypto trends, juxtaposed against stable but mixed readings across other asset classes, points toward a period of selective strength rather than broad consensus. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

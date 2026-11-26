@@ -33,11 +33,11 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 11-10 22:30 KST — US CPI Release
-- 🔴 11-11 09:00 KST — KBFinancialGroup 배당락일 (105560)
-- 🔴 11-11 15:00 KST — SamsungSecu 실적 발표 (016360)
-- 🔴 11-11 15:00 KST — Kogas 실적 발표 (036460)
-- 🔴 11-11 15:00 KST — HMM 실적 발표 (011200)
-- 🔴 11-11 15:00 KST — C2S 실적 발표 (078340)
+- 🔴 11-11 09:00 KST — KBFinancialGroup ex-dividend date (105560)
+- 🔴 11-11 15:00 KST — SamsungSecu earnings (016360)
+- 🔴 11-11 15:00 KST — Kogas earnings (036460)
+- 🔴 11-11 15:00 KST — HMM earnings (011200)
+- 🔴 11-11 15:00 KST — C2S earnings (078340)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -45,18 +45,18 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility remains stable, showing a slight leaning toward bullish sentiment. :vix:
-- **Bonds:** The bond market exhibits an extreme bullish reading, with a notable portion of bearish indicators present. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Credit:** Credit conditions read fully bullish across the board. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **FX:** Foreign exchange sentiment is mixed, showing an equal split between bullish and bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Liquidity:** Liquidity levels are reported as neutral, with no discernible directional bias. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Commodities:** Commodities are reading extremely bearish, with a majority of indicators pointing downward. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Inflation:** Inflation sentiment is neutral, with a higher proportion of bearish indicators noted. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
-- **Crypto:** Cryptocurrency is showing a sideways-bearish pattern, with bearish indicators significantly outweighing bullish ones. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
-- **Korea:** Korean equities are in a sideways-bearish state, with bearish indicators showing a clear majority. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
-- **US:** US equities are in a sideways-bullish pattern, with bullish indicators holding a clear majority. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
+- **Bonds:** The bond market exhibits an extreme bullish reading, with a notable portion of bearish indicators present. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Credit:** Credit conditions read fully bullish across the board. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **FX:** Foreign exchange sentiment is mixed, showing an equal split between bullish and bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Liquidity:** Liquidity levels are reported as neutral, with no discernible directional bias. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Commodities:** Commodities are reading extremely bearish, with a majority of indicators pointing downward. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Inflation:** Inflation sentiment is neutral, with a higher proportion of bearish indicators noted. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="Kosho" />
+- **Crypto:** Cryptocurrency is showing a sideways-bearish pattern, with bearish indicators significantly outweighing bullish ones. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="Kosho" />
+- **Korea:** Korean equities are in a sideways-bearish state, with bearish indicators showing a clear majority. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="Kosho" />
+- **US:** US equities are in a sideways-bullish pattern, with bullish indicators holding a clear majority. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests divergence, with US equities showing relative strength against softening crypto and Korean indices. Bonds maintain a strong bullish reading despite commodity weakness. The overall tape appears range-bound, underpinned by mixed cross-asset signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The market structure suggests divergence, with US equities showing relative strength against softening crypto and Korean indices. Bonds maintain a strong bullish reading despite commodity weakness. The overall tape appears range-bound, underpinned by mixed cross-asset signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

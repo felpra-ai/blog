@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-17 22:30 KST — Home Depot, Inc. (The) 실적 발표 (HD)
-- 🔴 11-17 22:30 KST — Walt Disney Company (The) 실적 발표 (DIS)
-- 🔴 11-17 22:30 KST — Medtronic plc. 실적 발표 (MDT)
-- 🔴 11-18 06:00 KST — NVIDIA Corporation 실적 발표 (NVDA)
-- 🔴 11-18 09:00 KST — Chevron Corporation 배당락일 (CVX)
-- 🔴 11-18 22:30 KST — TJX Companies, Inc. (The) 실적 발표 (TJX)
+- 🔴 11-17 22:30 KST — Home Depot, Inc. (The) earnings (HD)
+- 🔴 11-17 22:30 KST — Walt Disney Company (The) earnings (DIS)
+- 🔴 11-17 22:30 KST — Medtronic plc. earnings (MDT)
+- 🔴 11-18 06:00 KST — NVIDIA Corporation earnings (NVDA)
+- 🔴 11-18 09:00 KST — Chevron Corporation ex-dividend date (CVX)
+- 🔴 11-18 22:30 KST — TJX Companies, Inc. (The) earnings (TJX)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (59 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.21) — only 7 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing equal weight across bullish and bearish readings. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** The bond picture is clearly bullish, with 75.0% of readings pointing upward. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange sentiment reads neutral, with 37.5% bullish and 37.5% bearish readings observed. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit a bearish leaning, with 50.0% of readings falling on the downside. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities show a slight bullish bias, with 45.0% of readings versus 36.4% bearish. <img class="emoji-char" src="/characters/v2/us/face/07_confident.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable, showing equal weight across bullish and bearish readings. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond picture is clearly bullish, with 75.0% of readings pointing upward. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange sentiment reads neutral, with 37.5% bullish and 37.5% bearish readings observed. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit a bearish leaning, with 50.0% of readings falling on the downside. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities show a slight bullish bias, with 45.0% of readings versus 36.4% bearish. <img class="emoji-char" src="/characters/v2/us/face/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Bonds show clear upward momentum, while commodities lean bearish. The US market displays a slight positive tilt, contrasting with the deteriorating trend seen in the digital asset space. Overall, the tape suggests a cautious, range-seeking environment. <img class="emoji-char" src="/characters/v2/orchestrator/face/07_confident.png" alt="범" />
+**Beom(Chair):** Bonds show clear upward momentum, while commodities lean bearish. The US market displays a slight positive tilt, contrasting with the deteriorating trend seen in the digital asset space. Overall, the tape suggests a cautious, range-seeking environment. <img class="emoji-char" src="/characters/v2/orchestrator/face/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

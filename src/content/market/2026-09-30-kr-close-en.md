@@ -40,14 +40,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, indicating a lack of directional conviction in the immediate term. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish reading, while credit conditions show a distinct bearish tilt. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange sentiment leans bearish, though liquidity readings suggest a degree of underlying support. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are registering a bearish posture, contrasting with the inflation reading which is also bearish. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are reading as neutral overall, with the industrial and semiconductor sectors showing relative strength. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains stable, indicating a lack of directional conviction in the immediate term. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish reading, while credit conditions show a distinct bearish tilt. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange sentiment leans bearish, though liquidity readings suggest a degree of underlying support. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are registering a bearish posture, contrasting with the inflation reading which is also bearish. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are reading as neutral overall, with the industrial and semiconductor sectors showing relative strength. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence: bonds are strongly bullish, while credit, commodities, and inflation are leaning bearish. The US market sentiment is showing signs of deterioration, contrasting with the more neutral readings observed in the crypto space. Overall, the market structure suggests caution amidst varied sectoral and asset class signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence: bonds are strongly bullish, while credit, commodities, and inflation are leaning bearish. The US market sentiment is showing signs of deterioration, contrasting with the more neutral readings observed in the crypto space. Overall, the market structure suggests caution amidst varied sectoral and asset class signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

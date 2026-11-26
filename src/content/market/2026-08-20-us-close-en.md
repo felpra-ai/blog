@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-20 09:00 KST — Microsoft Corporation 배당락일 (MSFT)
-- 🔴 08-20 09:00 KST — Applied Materials, Inc. 배당락일 (AMAT)
-- 🔴 08-20 09:00 KST — CenterPoint Energy, Inc (Holdin 배당락일 (CNP)
-- 🔴 08-20 09:00 KST — ResMed Inc. 배당락일 (RMD)
-- 🔴 08-20 09:00 KST — Marriott International 배당락일 (MAR)
-- 🔴 08-20 09:00 KST — SBA Communications Corporation 배당락일 (SBAC)
+- 🔴 08-20 09:00 KST — Microsoft Corporation ex-dividend date (MSFT)
+- 🔴 08-20 09:00 KST — Applied Materials, Inc. ex-dividend date (AMAT)
+- 🔴 08-20 09:00 KST — CenterPoint Energy, Inc (Holdin ex-dividend date (CNP)
+- 🔴 08-20 09:00 KST — ResMed Inc. ex-dividend date (RMD)
+- 🔴 08-20 09:00 KST — Marriott International ex-dividend date (MAR)
+- 🔴 08-20 09:00 KST — SBA Communications Corporation ex-dividend date (SBAC)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Bsho(Bonds):** Bonds show a balanced reading, with equal weight allocated to bullish and bearish indicators, suggesting a stable, non-directional regime. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange indicators lean slightly toward bullish readings, though the distribution remains relatively balanced. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity indicators are predominantly bullish, indicating a clear upward bias across the basket. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities show an improving trend, with the underlying market structure suggesting positive momentum despite mixed sector strength. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Bsho(Bonds):** Bonds show a balanced reading, with equal weight allocated to bullish and bearish indicators, suggesting a stable, non-directional regime. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange indicators lean slightly toward bullish readings, though the distribution remains relatively balanced. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity indicators are predominantly bullish, indicating a clear upward bias across the basket. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities show an improving trend, with the underlying market structure suggesting positive momentum despite mixed sector strength. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 - **Crypto:** Cryptocurrency indicators reflect a deteriorating trend, showing a slightly higher weighting towards bearish signals. :crypto:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market exhibits a divergence where commodities and US equities show signs of underlying strength, while crypto suggests weakening momentum. The broader macro picture remains balanced across most asset classes, pointing toward a period of consolidation punctuated by sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The market exhibits a divergence where commodities and US equities show signs of underlying strength, while crypto suggests weakening momentum. The broader macro picture remains balanced across most asset classes, pointing toward a period of consolidation punctuated by sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

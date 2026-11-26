@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-24 09:00 KST — Bio-Techne Corp 배당락일 (TECH)
-- 🔴 08-24 09:00 KST — Microchip Technology Incorporat 배당락일 (MCHP)
-- 🔴 08-24 09:00 KST — LyondellBasell Industries NV 배당락일 (LYB)
-- 🔴 08-24 09:00 KST — 3M Company 배당락일 (MMM)
-- 🔴 08-24 09:00 KST — Masco Corporation 배당락일 (MAS)
-- 🔴 08-24 09:00 KST — Tractor Supply Company 배당락일 (TSCO)
+- 🔴 08-24 09:00 KST — Bio-Techne Corp ex-dividend date (TECH)
+- 🔴 08-24 09:00 KST — Microchip Technology Incorporat ex-dividend date (MCHP)
+- 🔴 08-24 09:00 KST — LyondellBasell Industries NV ex-dividend date (LYB)
+- 🔴 08-24 09:00 KST — 3M Company ex-dividend date (MMM)
+- 🔴 08-24 09:00 KST — Masco Corporation ex-dividend date (MAS)
+- 🔴 08-24 09:00 KST — Tractor Supply Company ex-dividend date (TSCO)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -56,7 +56,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Energy, Real Estate, Healthcare, and Consumer Defensive sectors show strength, while Basic Materials and Financial Services show weakness. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The data suggests strong underlying commodity and crypto momentum, which contrasts with the mixed signals in the US and Korean equity spaces. The macro picture is supported by robust liquidity and commodity strength, though FX tension warrants attention. On balance, the tape suggests cautious momentum building across key asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The data suggests strong underlying commodity and crypto momentum, which contrasts with the mixed signals in the US and Korean equity spaces. The macro picture is supported by robust liquidity and commodity strength, though FX tension warrants attention. On balance, the tape suggests cautious momentum building across key asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

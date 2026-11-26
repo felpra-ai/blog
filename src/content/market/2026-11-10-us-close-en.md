@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-10 09:00 KST — Ford Motor Company 배당락일 (F)
-- 🔴 11-10 09:00 KST — American Electric Power Company 배당락일 (AEP)
-- 🔴 11-10 22:30 KST — Transdigm Group Incorporated 실적 발표 (TDG)
+- 🔴 11-10 09:00 KST — Ford Motor Company ex-dividend date (F)
+- 🔴 11-10 09:00 KST — American Electric Power Company ex-dividend date (AEP)
+- 🔴 11-10 22:30 KST — Transdigm Group Incorporated earnings (TDG)
 - 🔴 11-10 22:30 KST — US CPI Release
-- 🔴 11-12 05:00 KST — PTC Inc. 실적 발표 (PTC)
-- 🔴 11-12 05:00 KST — Corteva, Inc. 실적 발표 (CTVA)
+- 🔴 11-12 05:00 KST — PTC Inc. earnings (PTC)
+- 🔴 11-12 05:00 KST — Corteva, Inc. earnings (CTVA)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -51,7 +51,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Financial Services, Communication Services, Consumer Cyclical, and Consumer Defensive sectors show strength, contrasting with weakness noted in Technology and Communication Services. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Macro indicators present a mixed picture, with strong credit and bond readings counterbalanced by bearish commodity flows and softening crypto momentum. The divergence between sector strength (Financials/Consumer) and asset class weakness (Crypto/Commodities) suggests caution remains paramount across the board. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** Macro indicators present a mixed picture, with strong credit and bond readings counterbalanced by bearish commodity flows and softening crypto momentum. The divergence between sector strength (Financials/Consumer) and asset class weakness (Crypto/Commodities) suggests caution remains paramount across the board. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

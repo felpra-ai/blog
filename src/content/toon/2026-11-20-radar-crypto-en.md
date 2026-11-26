@@ -44,7 +44,7 @@ images:
 |---|---|---|
 | Caldera (ERA) | 98.2× | +0.5% |
 | Superwalk (GRND) | 17× | +33.6% |
-| 사이버 (CYBER) | 8.1× | +15.1% |
+| CYBER | 8.1× | +15.1% |
 
 _Rule: that day's turnover ÷ average of the prior 10 sessions. 4 of 446 names screened passed the threshold. Volume shows attention, not direction._
 

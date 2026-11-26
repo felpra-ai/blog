@@ -39,11 +39,11 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (25 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing a slight tilt toward bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bond market sentiment is balanced, with no discernible directional bias observed. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are showing a greater leaning toward bearish sentiment than bullish. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment leans slightly positive, though bearish readings are also present. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Bengal(Crypto):** Cryptocurrency activity is characterized by sideways movement with a notable bearish leaning, while the broader tech and semi sectors show dominance. <img class="emoji-char" src="/characters/crypto/10_suspicious.png" alt="벵갈" />
+- **Lovble(Global):** Volatility remains stable, showing a slight tilt toward bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond market sentiment is balanced, with no discernible directional bias observed. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are showing a greater leaning toward bearish sentiment than bullish. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment leans slightly positive, though bearish readings are also present. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Bengal(Crypto):** Cryptocurrency activity is characterized by sideways movement with a notable bearish leaning, while the broader tech and semi sectors show dominance. <img class="emoji-char" src="/characters/crypto/10_suspicious.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
 **Beom(Chair):** Macro indicators suggest a period of consolidation, with most asset classes exhibiting neutral directional bias. The market structure shows US and Korean equities maintaining a sideways bias with a slight bullish lean, contrasting with the more bearish leaning observed in the crypto space. The persistent geopolitical risk noted in the news flow continues to underpin caution across asset classes.

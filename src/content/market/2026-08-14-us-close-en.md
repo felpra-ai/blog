@@ -32,11 +32,11 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-19 09:00 KST — AFLAC Incorporated 배당락일 (AFL)
-- 🔴 08-19 09:00 KST — Archer-Daniels-Midland Company 배당락일 (ADM)
-- 🔴 08-19 09:00 KST — Apollo Global Management, Inc.  배당락일 (APO)
-- 🔴 08-19 21:30 KST — Analog Devices, Inc. 실적 발표 (ADI)
-- 🔴 08-20 09:00 KST — Applied Materials, Inc. 배당락일 (AMAT)
+- 🔴 08-19 09:00 KST — AFLAC Incorporated ex-dividend date (AFL)
+- 🔴 08-19 09:00 KST — Archer-Daniels-Midland Company ex-dividend date (ADM)
+- 🔴 08-19 09:00 KST — Apollo Global Management, Inc.  ex-dividend date (APO)
+- 🔴 08-19 21:30 KST — Analog Devices, Inc. earnings (ADI)
+- 🔴 08-20 09:00 KST — Applied Materials, Inc. ex-dividend date (AMAT)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -44,18 +44,18 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 
 ## Desk panel
 - **VIX:** Volatility readings indicate a persistent bearish leaning, though the trend remains stable. :vix:
-- **Bonds:** The bond market sentiment is reading as neutral, with a slight bullish tilt observed. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions appear balanced, showing a strong leaning towards bullish sentiment. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **FX:** Foreign exchange markets are registering a bullish bias, despite an equal measure of bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Liquidity:** Liquidity metrics suggest a neutral state, with the bearish component holding more weight. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Commodities:** Commodities are exhibiting a sideways bias with a notable bullish leaning. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Inflation:** Inflationary expectations are leaning bearish, with the bearish component being the most pronounced. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Bonds:** The bond market sentiment is reading as neutral, with a slight bullish tilt observed. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions appear balanced, showing a strong leaning towards bullish sentiment. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **FX:** Foreign exchange markets are registering a bullish bias, despite an equal measure of bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Liquidity:** Liquidity metrics suggest a neutral state, with the bearish component holding more weight. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Commodities:** Commodities are exhibiting a sideways bias with a notable bullish leaning. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Inflation:** Inflationary expectations are leaning bearish, with the bearish component being the most pronounced. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 - **Crypto:** Cryptocurrency markets are showing a neutral stance, with slightly more bullish readings than bearish ones. :crypto:
 - **Korea:** Korean equities are displaying a bullish trend, with the sentiment reading as improving. :korea:
 - **US:** US equities are currently in a neutral state, with a slight bullish bias observed. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a mixed picture: underlying commodity strength and improving Korean equity momentum contrast with bearish inflation readings and elevated VIX bearishness. The overall tape suggests caution, balancing sector strength in Basic Materials, Healthcare, and Communication Services against broader macro uncertainty. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure presents a mixed picture: underlying commodity strength and improving Korean equity momentum contrast with bearish inflation readings and elevated VIX bearishness. The overall tape suggests caution, balancing sector strength in Basic Materials, Healthcare, and Communication Services against broader macro uncertainty. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

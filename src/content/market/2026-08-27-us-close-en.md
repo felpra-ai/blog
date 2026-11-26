@@ -32,23 +32,23 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-27 09:00 KST — Expedia Group, Inc. 배당락일 (EXPE)
-- 🔴 08-27 09:00 KST — Xylem Inc. 배당락일 (XYL)
-- 🔴 08-27 21:30 KST — Dollar General Corporation 실적 발표 (DG)
-- 🔴 08-27 21:30 KST — Hormel Foods Corporation 실적 발표 (HRL)
-- 🔴 08-27 21:30 KST — Best Buy Co., Inc. 실적 발표 (BBY)
-- 🔴 08-27 21:30 KST — Dollar Tree, Inc. 실적 발표 (DLTR)
+- 🔴 08-27 09:00 KST — Expedia Group, Inc. ex-dividend date (EXPE)
+- 🔴 08-27 09:00 KST — Xylem Inc. ex-dividend date (XYL)
+- 🔴 08-27 21:30 KST — Dollar General Corporation earnings (DG)
+- 🔴 08-27 21:30 KST — Hormel Foods Corporation earnings (HRL)
+- 🔴 08-27 21:30 KST — Best Buy Co., Inc. earnings (BBY)
+- 🔴 08-27 21:30 KST — Dollar Tree, Inc. earnings (DLTR)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable with an equal split between bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds show a slight leaning towards bearish sentiment, though the trend remains stable. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange exhibits a bearish bias, with the majority of readings pointing in that direction. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities display a bullish leaning, suggesting underlying strength in the sector. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities are showing a neutral posture, while Basic Materials and Communication Services are noted as strong relative areas. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable with an equal split between bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds show a slight leaning towards bearish sentiment, though the trend remains stable. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange exhibits a bearish bias, with the majority of readings pointing in that direction. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities display a bullish leaning, suggesting underlying strength in the sector. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a neutral posture, while Basic Materials and Communication Services are noted as strong relative areas. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
 **Beom(Chair):** The macro picture presents a mixed signal: credit and inflation are reading strongly bullish, while FX and bonds lean bearish. The market's underlying liquidity remains robustly bullish, contrasting with the neutral readings observed in US equities and crypto. This suggests sector strength (Basic Materials, Communication Services) is currently providing directional support against broader macro divergence.

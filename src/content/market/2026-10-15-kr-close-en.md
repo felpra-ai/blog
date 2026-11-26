@@ -32,11 +32,11 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-16 09:00 KST — YoungoneHoldings 배당락일 (009970)
-- 🔴 10-19 15:00 KST — HANMISemi 실적 발표 (042700)
-- 🔴 10-22 15:00 KST — HD HYUNDAI ELECTRIC 실적 발표 (267260)
-- 🔴 10-22 15:00 KST — LS ELECTRIC 실적 발표 (010120)
-- 🔴 10-22 15:00 KST — NHIS 실적 발표 (005940)
+- 🔴 10-16 09:00 KST — YoungoneHoldings ex-dividend date (009970)
+- 🔴 10-19 15:00 KST — HANMISemi earnings (042700)
+- 🔴 10-22 15:00 KST — HD HYUNDAI ELECTRIC earnings (267260)
+- 🔴 10-22 15:00 KST — LS ELECTRIC earnings (010120)
+- 🔴 10-22 15:00 KST — NHIS earnings (005940)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -54,7 +54,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are positioned in a sideways-bullish regime, showing a slight tilt towards bullish conviction. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: US equities maintain a slightly bullish bias, while both Crypto and Korean equities exhibit clear deterioration and bearish dominance. Macro indicators are largely neutral, save for bonds showing bearishness. This suggests that while underlying macro conditions are balanced, risk asset sentiment is bifurcated, with specific regional and asset classes under notable downward pressure. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: US equities maintain a slightly bullish bias, while both Crypto and Korean equities exhibit clear deterioration and bearish dominance. Macro indicators are largely neutral, save for bonds showing bearishness. This suggests that while underlying macro conditions are balanced, risk asset sentiment is bifurcated, with specific regional and asset classes under notable downward pressure. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

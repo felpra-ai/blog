@@ -40,9 +40,9 @@ images:
 
 | Name | × usual turnover | Day change |
 |---|---|---|
-| 에스엠 (041510) | 10× | +8.2% |
-| 유진로봇 (056080) | 7.3× | -0.2% |
-| 위메이드 (112040) | 6.7× | +8.6% |
+| Eseuem (041510) | 10× | +8.2% |
+| Yujinrobot (056080) | 7.3× | -0.2% |
+| Wimeideu (112040) | 6.7× | +8.6% |
 
 _Rule: that day's turnover ÷ average of the prior 10 sessions. 10 of 317 names screened passed the threshold. Volume shows attention, not direction._
 

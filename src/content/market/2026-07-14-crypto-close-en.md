@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: gaming nft, defi, meme, layer1 · weak: — · dominance: btc_dominant
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains in a stable, sideways-bearish posture, suggesting limited directional conviction. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** The bond market reads as neutral, while credit conditions are showing an extreme bearish tilt. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are neutral, with liquidity exhibiting a notable bearish bias. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are reading as neutral, though the bullish sentiment appears to be leading the current reading. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is neutral overall, with a clear dominance structure favoring Bitcoin, while US equities show an improving trend. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Lovble(Global):** Volatility remains in a stable, sideways-bearish posture, suggesting limited directional conviction. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market reads as neutral, while credit conditions are showing an extreme bearish tilt. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are neutral, with liquidity exhibiting a notable bearish bias. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are reading as neutral, though the bullish sentiment appears to be leading the current reading. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is neutral overall, with a clear dominance structure favoring Bitcoin, while US equities show an improving trend. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents divergence, with credit and inflation leaning bearish despite commodity strength and improving US market sentiment. The overall tape suggests caution, balancing sector strength against underlying systemic concerns. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The macro picture presents divergence, with credit and inflation leaning bearish despite commodity strength and improving US market sentiment. The overall tape suggests caution, balancing sector strength against underlying systemic concerns. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

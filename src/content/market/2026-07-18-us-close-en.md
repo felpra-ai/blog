@@ -32,11 +32,11 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 07-21 05:00 KST — AGNC Investment Corp. 실적 발표 (AGNC)
-- 🔴 07-22 09:00 KST — APA Corporation 배당락일 (APA)
-- 🔴 07-23 21:30 KST — Ameriprise Financial, Inc. 실적 발표 (AMP)
-- 🔴 07-23 21:30 KST — Allegion plc 실적 발표 (ALLE)
-- 🔴 07-23 21:30 KST — American Airlines Group, Inc. 실적 발표 (AAL)
+- 🔴 07-21 05:00 KST — AGNC Investment Corp. earnings (AGNC)
+- 🔴 07-22 09:00 KST — APA Corporation ex-dividend date (APA)
+- 🔴 07-23 21:30 KST — Ameriprise Financial, Inc. earnings (AMP)
+- 🔴 07-23 21:30 KST — Allegion plc earnings (ALLE)
+- 🔴 07-23 21:30 KST — American Airlines Group, Inc. earnings (AAL)
 - 🔴 07-23 21:30 KST — US GDP (Advance)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
@@ -45,18 +45,18 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility is showing a bearish tilt with stable trend readings. :vix:
-- **Bonds:** Bond sentiment reads neutral with stable trend readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions are reading neutral with stable trend readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **FX:** Foreign exchange sentiment is strongly bullish despite a bearish tilt in the distribution. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Liquidity:** Liquidity remains neutral with stable trend readings. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Commodities:** Commodity sentiment reads neutral with a slight bullish lean. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
+- **Bonds:** Bond sentiment reads neutral with stable trend readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions are reading neutral with stable trend readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **FX:** Foreign exchange sentiment is strongly bullish despite a bearish tilt in the distribution. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Liquidity:** Liquidity remains neutral with stable trend readings. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Commodities:** Commodity sentiment reads neutral with a slight bullish lean. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
 - **Crypto:** Cryptocurrency sentiment reads neutral with stable trend readings. :crypto:
 - **Korea:** Korean equities show an improving trend with a majority bullish reading. :korea:
 - **US:** US equities read neutral with a stable trend reading. :us:
 - **Strong Sectors:** Energy, Real Estate, Financial Services, and Healthcare show relative strength. :strong:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests divergence, with FX showing strong bullish conviction while other macro indicators remain largely neutral or bearishly tilted. The relative strength observed in Energy, Real Estate, Financial Services, and Healthcare suggests pockets of underlying support within the broader equity landscape. On balance, the tape appears to be navigating a period of mixed directional signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure suggests divergence, with FX showing strong bullish conviction while other macro indicators remain largely neutral or bearishly tilted. The relative strength observed in Energy, Real Estate, Financial Services, and Healthcare suggests pockets of underlying support within the broader equity landscape. On balance, the tape appears to be navigating a period of mixed directional signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

@@ -58,11 +58,11 @@ Our prediction ledger is anchored by a daily SHA-256 hash chain (210 consecutive
 
 _Archive this hash — recomputing it later from the raw ledger must reproduce the same value, or the record was altered._
 
-**Bengal(Crypto):** The crypto market showed a win rate of 38.1% with an average loss magnitude of -2.99, indicating that while wins were achieved, the losses were substantial relative to the overall performance. <img class="emoji-char" src="/characters/crypto/02_sad.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market showed a win rate of 38.1% with an average loss magnitude of -2.99, indicating that while wins were achieved, the losses were substantial relative to the overall performance. <img class="emoji-char" src="/characters/crypto/02_sad.png" alt="Bengal" />
 
-**Kosho(KR):** Korean equities registered a win rate of 33.7%, and the average profit and loss was negative at -1.391, suggesting difficulty in maintaining positive momentum across the observed period. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
+**Kosho(KR):** Korean equities registered a win rate of 33.7%, and the average profit and loss was negative at -1.391, suggesting difficulty in maintaining positive momentum across the observed period. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="Kosho" />
 
-**Maine(US):** US equities posted a win rate of 52.2% and maintained a positive average P&L of 0.088, suggesting a relative outperformance compared to the other observed sectors. <img class="emoji-char" src="/characters/us/01_joy.png" alt="멘쿤" />
+**Maine(US):** US equities posted a win rate of 52.2% and maintained a positive average P&L of 0.088, suggesting a relative outperformance compared to the other observed sectors. <img class="emoji-char" src="/characters/us/01_joy.png" alt="Maine" />
 
 **Beom(Chair):**
 The overall track record for the period reflects a challenging environment, evidenced by the aggregate win rate of 39.5% and a negative average P&L. The disparity in performance across the three tracked markets is notable; US equities were the only sector to post a positive average P&L, while both crypto and Korean equities showed negative averages.
@@ -71,7 +71,7 @@ The data suggests that while the US market exhibited a higher win rate and posit
 
 This summary represents a look at past paper-trading results and should not be construed as any form of investment guidance or prediction regarding future market movements. The synthesis points toward divergent sector performance within the observed timeframe.
 
-<img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
+<img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="Beom" />
 
 **Related**
 - This week's journals: [2026-10-11 crypto](/journal/2026-10-11-crypto-journal-en/) · [2026-10-12 crypto](/journal/2026-10-12-crypto-journal-en/) · [2026-10-12 kr](/journal/2026-10-12-kr-journal-en/) · [2026-10-13 crypto](/journal/2026-10-13-crypto-journal-en/) · [2026-10-13 kr](/journal/2026-10-13-kr-journal-en/) · [2026-10-13 us](/journal/2026-10-13-us-journal-en/) · [2026-10-14 crypto](/journal/2026-10-14-crypto-journal-en/) · [2026-10-14 kr](/journal/2026-10-14-kr-journal-en/) · [2026-10-14 us](/journal/2026-10-14-us-journal-en/) · [2026-10-15 crypto](/journal/2026-10-15-crypto-journal-en/) · [2026-10-15 kr](/journal/2026-10-15-kr-journal-en/) · [2026-10-15 us](/journal/2026-10-15-us-journal-en/) · [2026-10-16 crypto](/journal/2026-10-16-crypto-journal-en/) · [2026-10-16 kr](/journal/2026-10-16-kr-journal-en/) · [2026-10-16 us](/journal/2026-10-16-us-journal-en/) · [2026-10-17 crypto](/journal/2026-10-17-crypto-journal-en/) · [2026-10-17 us](/journal/2026-10-17-us-journal-en/)

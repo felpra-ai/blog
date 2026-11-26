@@ -37,11 +37,11 @@ altLang: ko
 
 ## Recap
 
-The recent set of closed trades showed a positive directional bias, evidenced by the 80.0% win rate and a strong profit factor of 3.25. The average winning trade (+3.01%) significantly outweighed the average losing trade (-3.71%), contributing to a solid expectancy of +1.67% per trade. Specifically, the performance on 롯데웰푸드 (280360) at +4.10% and HMM (011200) at +3.39% were notable contributors to the positive outcome <img class="emoji-char" src="/characters/kr/09_excited.png" alt="Kosho" />.
+The recent set of closed trades showed a positive directional bias, evidenced by the 80.0% win rate and a strong profit factor of 3.25. The average winning trade (+3.01%) significantly outweighed the average losing trade (-3.71%), contributing to a solid expectancy of +1.67% per trade. Specifically, the performance on Rotdewelpudeu (280360) at +4.10% and HMM (011200) at +3.39% were notable contributors to the positive outcome <img class="emoji-char" src="/characters/kr/09_excited.png" alt="Kosho" />.
 
 ## Lessons from Outcomes
 
-The trades that resulted in losses, such as 큐브엔터 (182360) at -3.71%, highlight the importance of managing drawdowns even within a higher win-rate framework. The magnitude of the largest loss relative to the average win suggests that while the overall selection process was effective, the risk taken on the weaker signals needs careful review. It is clear that even when the overall regime sentiment appears favorable, individual stock-level resistance can lead to sharp pullbacks <img class="emoji-char" src="/characters/kr/11_thinking.png" alt="Kosho" />.
+The trades that resulted in losses, such as Kyubeuenteo (182360) at -3.71%, highlight the importance of managing drawdowns even within a higher win-rate framework. The magnitude of the largest loss relative to the average win suggests that while the overall selection process was effective, the risk taken on the weaker signals needs careful review. It is clear that even when the overall regime sentiment appears favorable, individual stock-level resistance can lead to sharp pullbacks <img class="emoji-char" src="/characters/kr/11_thinking.png" alt="Kosho" />.
 
 ## For Next Time
 
@@ -51,7 +51,7 @@ The data indicates that the positive momentum captured in the winning trades was
 
 _5 trades closed today. Excluding micro-scalps, 5 meaningful trades (held 30m+ or P&L ±1%+), earliest entry first._
 
-<table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>롯데웰푸드(280360)</td><td>104,604</td><td>108,891</td><td class="pnl">+4.10%</td><td>165.2h</td><td>07-06 13:45 → 07-13 10:55</td></tr><tr class="t-win"><td class="res">win</td><td>HMM(011200)</td><td>19,519</td><td>20,180</td><td class="pnl">+3.39%</td><td>121.3h</td><td>07-08 09:05 → 07-13 10:25</td></tr><tr class="t-win"><td class="res">win</td><td>셀트리온제약(068760)</td><td>40,741</td><td>41,558</td><td class="pnl">+2.01%</td><td>115.2h</td><td>07-08 14:10 → 07-13 09:25</td></tr><tr class="t-win"><td class="res">win</td><td>파마리서치(214450)</td><td>326,826</td><td>335,164</td><td class="pnl">+2.55%</td><td>70.1h</td><td>07-10 12:20 → 07-13 10:25</td></tr><tr class="t-loss"><td class="res">loss</td><td>큐브엔터(182360)</td><td>5,716</td><td>5,504</td><td class="pnl">-3.71%</td><td>72.8h</td><td>07-10 12:35 → 07-13 13:25</td></tr></tbody></table>
+<table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Rotdewelpudeu(280360)</td><td>104,604</td><td>108,891</td><td class="pnl">+4.10%</td><td>165.2h</td><td>07-06 13:45 → 07-13 10:55</td></tr><tr class="t-win"><td class="res">win</td><td>HMM(011200)</td><td>19,519</td><td>20,180</td><td class="pnl">+3.39%</td><td>121.3h</td><td>07-08 09:05 → 07-13 10:25</td></tr><tr class="t-win"><td class="res">win</td><td>Selteurionjeyak(068760)</td><td>40,741</td><td>41,558</td><td class="pnl">+2.01%</td><td>115.2h</td><td>07-08 14:10 → 07-13 09:25</td></tr><tr class="t-win"><td class="res">win</td><td>Pamariseochi(214450)</td><td>326,826</td><td>335,164</td><td class="pnl">+2.55%</td><td>70.1h</td><td>07-10 12:20 → 07-13 10:25</td></tr><tr class="t-loss"><td class="res">loss</td><td>Kyubeuenteo(182360)</td><td>5,716</td><td>5,504</td><td class="pnl">-3.71%</td><td>72.8h</td><td>07-10 12:35 → 07-13 13:25</td></tr></tbody></table>
 
 ---
 

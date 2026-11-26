@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: consumer, IT-media · weak: chemicals, Industrials
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings suggest a predominantly bearish sentiment underpinning the current market structure. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond market indicators show a neutral stance, with bullish readings slightly outweighing bearish ones. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements indicate a clear bullish bias across the board. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity indicators point toward a strongly bullish regime, with bearish readings being minimal. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Kosho(KR):** Korean equities show a neutral reading, with consumer and IT media sectors displaying strength while chemicals and industrials are lagging. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Lovble(Global):** Volatility readings suggest a predominantly bearish sentiment underpinning the current market structure. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond market indicators show a neutral stance, with bullish readings slightly outweighing bearish ones. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements indicate a clear bullish bias across the board. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity indicators point toward a strongly bullish regime, with bearish readings being minimal. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities show a neutral reading, with consumer and IT media sectors displaying strength while chemicals and industrials are lagging. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market view suggests that while commodities and FX show clear bullish leanings, the underlying macro picture is mixed, with inflation reading extremely bullish and liquidity showing a notable bearish tilt. The US market reads as neutral, while the general tape appears to be navigating divergent signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The cross-market view suggests that while commodities and FX show clear bullish leanings, the underlying macro picture is mixed, with inflation reading extremely bullish and liquidity showing a notable bearish tilt. The US market reads as neutral, while the general tape appears to be navigating divergent signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

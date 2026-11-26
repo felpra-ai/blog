@@ -42,18 +42,18 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility remains at a neutral reading, indicating a stable, balanced risk perception. :vix:
-- **Bonds:** The bond market exhibits an extreme bullish posture, suggesting strong underlying support. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Credit:** Credit conditions read bearish, pointing toward elevated caution across the credit spectrum. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **FX:** Foreign exchange movements are reading extremely bearish, though with notable indecision between bullish and bearish forces. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Liquidity:** Liquidity shows a sideways bias leaning towards bullishness, suggesting moderate support. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Commodities:** Commodities are displaying a sideways bias leaning bearish, suggesting downward pressure is prevailing. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Inflation:** Inflation readings are bearish, indicating persistent downward pressure on price expectations. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
+- **Bonds:** The bond market exhibits an extreme bullish posture, suggesting strong underlying support. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Credit:** Credit conditions read bearish, pointing toward elevated caution across the credit spectrum. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **FX:** Foreign exchange movements are reading extremely bearish, though with notable indecision between bullish and bearish forces. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Liquidity:** Liquidity shows a sideways bias leaning towards bullishness, suggesting moderate support. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Commodities:** Commodities are displaying a sideways bias leaning bearish, suggesting downward pressure is prevailing. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Inflation:** Inflation readings are bearish, indicating persistent downward pressure on price expectations. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
 - **Crypto:** Cryptocurrency is showing a sideways bias leaning bullish, with an improving underlying trend. :crypto:
-- **Korea:** Korean equities are reading sideways bearish, with the overall trend showing signs of deterioration. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
-- **US:** US equities are reading sideways bearish, maintaining a stable but cautious trend. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
+- **Korea:** Korean equities are reading sideways bearish, with the overall trend showing signs of deterioration. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="Kosho" />
+- **US:** US equities are reading sideways bearish, maintaining a stable but cautious trend. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence where fixed income and crypto show supportive leanings, contrasting with bearish readings in credit, commodities, and inflation. The broader equity picture, encompassing both US and Korean markets, suggests caution despite underlying liquidity support. On balance, the tape appears to be seeking a range defined by these conflicting macro signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence where fixed income and crypto show supportive leanings, contrasting with bearish readings in credit, commodities, and inflation. The broader equity picture, encompassing both US and Korean markets, suggests caution despite underlying liquidity support. On balance, the tape appears to be seeking a range defined by these conflicting macro signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

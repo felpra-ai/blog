@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-27 09:00 KST — KT 배당락일 (030200)
-- 🔴 10-27 15:00 KST — SKC 실적 발표 (011790)
-- 🔴 10-27 15:00 KST — SAMSUNG C&T 실적 발표 (028260)
-- 🔴 10-27 15:00 KST — ShinhanGroup 실적 발표 (055550)
-- 🔴 10-27 15:00 KST — HD HYUNDAI ELECTRIC 실적 발표 (267260)
-- 🔴 10-27 15:00 KST — SAMSUNG CARD 실적 발표 (029780)
+- 🔴 10-27 09:00 KST — KT ex-dividend date (030200)
+- 🔴 10-27 15:00 KST — SKC earnings (011790)
+- 🔴 10-27 15:00 KST — SAMSUNG C&T earnings (028260)
+- 🔴 10-27 15:00 KST — ShinhanGroup earnings (055550)
+- 🔴 10-27 15:00 KST — HD HYUNDAI ELECTRIC earnings (267260)
+- 🔴 10-27 15:00 KST — SAMSUNG CARD earnings (029780)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -54,7 +54,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are reading bullish, with a clearer trend improvement noted. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence where US equities show improving strength, contrasting with softening crypto and deteriorating Korean performance. Macro indicators suggest elevated volatility alongside underlying support in credit and liquidity, while commodities and inflation remain cautionary. The overall picture points to sector-specific divergence against a backdrop of geopolitical focus. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence where US equities show improving strength, contrasting with softening crypto and deteriorating Korean performance. Macro indicators suggest elevated volatility alongside underlying support in credit and liquidity, while commodities and inflation remain cautionary. The overall picture points to sector-specific divergence against a backdrop of geopolitical focus. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

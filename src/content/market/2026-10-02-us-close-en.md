@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-02 09:00 KST — Philip Morris International Inc 배당락일 (PM)
-- 🔴 10-02 09:00 KST — Bristol-Myers Squibb Company 배당락일 (BMY)
-- 🔴 10-02 09:00 KST — Cisco Systems, Inc. 배당락일 (CSCO)
-- 🔴 10-02 09:00 KST — IDEX Corporation 배당락일 (IEX)
-- 🔴 10-02 09:00 KST — Roper Technologies, Inc. 배당락일 (ROP)
-- 🔴 10-02 09:00 KST — Republic Services, Inc. 배당락일 (RSG)
+- 🔴 10-02 09:00 KST — Philip Morris International Inc ex-dividend date (PM)
+- 🔴 10-02 09:00 KST — Bristol-Myers Squibb Company ex-dividend date (BMY)
+- 🔴 10-02 09:00 KST — Cisco Systems, Inc. ex-dividend date (CSCO)
+- 🔴 10-02 09:00 KST — IDEX Corporation ex-dividend date (IEX)
+- 🔴 10-02 09:00 KST — Roper Technologies, Inc. ex-dividend date (ROP)
+- 🔴 10-02 09:00 KST — Republic Services, Inc. ex-dividend date (RSG)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -51,7 +51,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Technology remains a strong sector, contrasting with weakness noted in Basic Materials, Real Estate, and Communication Services. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence, with bonds showing strong upward momentum while credit and inflation signal caution. Equity markets, both in the US and Korea, are showing signs of weakening trends. The sector strength remains concentrated in technology, suggesting underlying structural support within that area, even as broader risk indicators are mixed. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence, with bonds showing strong upward momentum while credit and inflation signal caution. Equity markets, both in the US and Korea, are showing signs of weakening trends. The sector strength remains concentrated in technology, suggesting underlying structural support within that area, even as broader risk indicators are mixed. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

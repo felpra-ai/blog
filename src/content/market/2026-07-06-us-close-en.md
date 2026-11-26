@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Energy, Financial Services, Healthcare · weak: Basic Materials, Technology
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains firmly in the bearish regime, while overall liquidity shows a pronounced bearish leaning. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a neutral stance with a slight tilt toward bullishness, though credit conditions show notable bearish pressure. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are balanced, with a slight leaning towards bullish sentiment. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are positioned neutrally, showing a clear majority leaning toward bullish expectations. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are reading neutral overall, with energy and financial services showing strength while basic materials and technology are lagging. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains firmly in the bearish regime, while overall liquidity shows a pronounced bearish leaning. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a neutral stance with a slight tilt toward bullishness, though credit conditions show notable bearish pressure. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are balanced, with a slight leaning towards bullish sentiment. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are positioned neutrally, showing a clear majority leaning toward bullish expectations. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are reading neutral overall, with energy and financial services showing strength while basic materials and technology are lagging. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests divergence, with crypto showing strong bullish momentum contrasting against bearish readings in liquidity and volatility. The sector strength noted in energy and financials suggests resilience in commodity-linked and credit-sensitive areas, while the broader macro backdrop remains cautious. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure suggests divergence, with crypto showing strong bullish momentum contrasting against bearish readings in liquidity and volatility. The sector strength noted in energy and financials suggests resilience in commodity-linked and credit-sensitive areas, while the broader macro backdrop remains cautious. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

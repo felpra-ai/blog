@@ -42,7 +42,7 @@ images:
 
 | Name | × usual turnover | Day change |
 |---|---|---|
-| 엔소 (ENSO) | 21.1× | +7.7% |
+| ENSO | 21.1× | +7.7% |
 
 _Rule: that day's turnover ÷ average of the prior 10 sessions. 1 of 445 names screened passed the threshold. Volume shows attention, not direction._
 

@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-24 09:00 KST — S-Oil 배당락일 (010950)
-- 🔴 08-24 09:00 KST — HANKOOK TIRE & TECHNOLOGY 배당락일 (161390)
-- 🔴 08-25 15:00 KST — HANJINKAL 실적 발표 (180640)
-- 🔴 08-26 09:00 KST — DWS 배당락일 (014820)
-- 🔴 08-26 09:00 KST — SamyangFood 배당락일 (003230)
-- 🔴 08-27 09:00 KST — Youngone Corp 배당락일 (111770)
+- 🔴 08-24 09:00 KST — S-Oil ex-dividend date (010950)
+- 🔴 08-24 09:00 KST — HANKOOK TIRE & TECHNOLOGY ex-dividend date (161390)
+- 🔴 08-25 15:00 KST — HANJINKAL earnings (180640)
+- 🔴 08-26 09:00 KST — DWS ex-dividend date (014820)
+- 🔴 08-26 09:00 KST — SamyangFood ex-dividend date (003230)
+- 🔴 08-27 09:00 KST — Youngone Corp ex-dividend date (111770)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -45,18 +45,18 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **Macro:** Volatility remains stable, with balanced bullish and bearish readings across the board. :macro:
-- **Bonds:** The bond market shows a balanced reading, indicating no strong directional bias. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit sentiment leans distinctly bullish, showing no recorded bearish pressure. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **FX:** Foreign exchange dynamics are characterized by a notable bullish skew, despite a higher percentage of bearish readings. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Liquidity:** Liquidity conditions read as sideways but with a clear bullish tilt. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Commodities:** Commodity pricing exhibits a strong bullish bias, with no bearish indicators present. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Inflation:** Inflation readings are balanced, suggesting a neutral directional posture. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
+- **Bonds:** The bond market shows a balanced reading, indicating no strong directional bias. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit sentiment leans distinctly bullish, showing no recorded bearish pressure. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **FX:** Foreign exchange dynamics are characterized by a notable bullish skew, despite a higher percentage of bearish readings. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Liquidity:** Liquidity conditions read as sideways but with a clear bullish tilt. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Commodities:** Commodity pricing exhibits a strong bullish bias, with no bearish indicators present. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Inflation:** Inflation readings are balanced, suggesting a neutral directional posture. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
 - **Crypto:** Cryptocurrency markets display a strong upward momentum, with the trend noted as improving. :crypto:
-- **Korea:** Korean equities are showing a neutral reading, with the trend noted as deteriorating. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
+- **Korea:** Korean equities are showing a neutral reading, with the trend noted as deteriorating. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="Kosho" />
 - **US:** US equities are reading as neutral, with a slight leaning toward bearishness. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a mixed signal, with commodities and crypto showing clear strength while US equities remain indecisive. The divergence between the bullish readings in commodities and the neutral/deteriorating readings in regional equities suggests caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The macro picture presents a mixed signal, with commodities and crypto showing clear strength while US equities remain indecisive. The divergence between the bullish readings in commodities and the neutral/deteriorating readings in regional equities suggests caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-24 09:00 KST — Seagate Technology Holdings PLC 배당락일 (STX)
-- 🔴 09-24 09:00 KST — Invitation Homes Inc. 배당락일 (INVH)
-- 🔴 09-24 09:00 KST — DBA Sempra 배당락일 (SRE)
-- 🔴 09-24 21:30 KST — Jabil Inc. 실적 발표 (JBL)
-- 🔴 09-24 21:30 KST — Darden Restaurants, Inc. 실적 발표 (DRI)
-- 🔴 09-24 21:30 KST — Accenture plc 실적 발표 (ACN)
+- 🔴 09-24 09:00 KST — Seagate Technology Holdings PLC ex-dividend date (STX)
+- 🔴 09-24 09:00 KST — Invitation Homes Inc. ex-dividend date (INVH)
+- 🔴 09-24 09:00 KST — DBA Sempra ex-dividend date (SRE)
+- 🔴 09-24 21:30 KST — Jabil Inc. earnings (JBL)
+- 🔴 09-24 21:30 KST — Darden Restaurants, Inc. earnings (DRI)
+- 🔴 09-24 21:30 KST — Accenture plc earnings (ACN)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -51,7 +51,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Communication Services shows strength, while Industrials and Financial Services exhibit weakness. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests underlying caution, particularly noted by the bearish tilt in inflation readings, despite stable bond and credit regimes. US equities are showing clear signs of weakening momentum relative to other asset classes, while the strength in Communication Services contrasts with weakness in key industrial and financial areas. The overall market suggests a period of divergence and caution. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The macro picture suggests underlying caution, particularly noted by the bearish tilt in inflation readings, despite stable bond and credit regimes. US equities are showing clear signs of weakening momentum relative to other asset classes, while the strength in Communication Services contrasts with weakness in key industrial and financial areas. The overall market suggests a period of divergence and caution. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

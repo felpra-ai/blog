@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-25 09:00 KST — Johnson & Johnson 배당락일 (JNJ)
-- 🔴 08-25 09:00 KST — CDW Corporation 배당락일 (CDW)
-- 🔴 08-25 09:00 KST — Prudential Financial, Inc. 배당락일 (PRU)
-- 🔴 08-26 05:00 KST — Intuit Inc. 실적 발표 (INTU)
-- 🔴 08-26 09:00 KST — S&P Global Inc. 배당락일 (SPGI)
-- 🔴 08-26 21:30 KST — Williams-Sonoma, Inc. 실적 발표 (WSM)
+- 🔴 08-25 09:00 KST — Johnson & Johnson ex-dividend date (JNJ)
+- 🔴 08-25 09:00 KST — CDW Corporation ex-dividend date (CDW)
+- 🔴 08-25 09:00 KST — Prudential Financial, Inc. ex-dividend date (PRU)
+- 🔴 08-26 05:00 KST — Intuit Inc. earnings (INTU)
+- 🔴 08-26 09:00 KST — S&P Global Inc. ex-dividend date (SPGI)
+- 🔴 08-26 21:30 KST — Williams-Sonoma, Inc. earnings (WSM)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is stable, showing an even split between bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds maintain a neutral stance, with bullish readings slightly outweighing bearish ones. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX exhibits an extreme bullish bias, with a notable proportion of readings leaning bullish compared to bearish. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities show a sideways bullish bias, with a high proportion of readings indicating bullish sentiment. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities are reading as neutral overall, with Financial Services, Basic Materials, ENERGY, and Communication Services showing strength, while UTILITIES appear weaker. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is stable, showing an even split between bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds maintain a neutral stance, with bullish readings slightly outweighing bearish ones. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX exhibits an extreme bullish bias, with a notable proportion of readings leaning bullish compared to bearish. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities show a sideways bullish bias, with a high proportion of readings indicating bullish sentiment. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities are reading as neutral overall, with Financial Services, Basic Materials, ENERGY, and Communication Services showing strength, while UTILITIES appear weaker. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market indicators suggest a generally supportive environment, particularly noted in the strong bullish leaning of commodities and liquidity. While the US market reads as neutral, the underlying strength in certain sectors and the improving trend in crypto suggest underlying directional conviction, though caution remains warranted given the geopolitical focus. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The cross-market indicators suggest a generally supportive environment, particularly noted in the strong bullish leaning of commodities and liquidity. While the US market reads as neutral, the underlying strength in certain sectors and the improving trend in crypto suggest underlying directional conviction, though caution remains warranted given the geopolitical focus. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

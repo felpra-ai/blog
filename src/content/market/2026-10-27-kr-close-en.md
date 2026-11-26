@@ -32,23 +32,23 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-28 15:00 KST — HDKSOE 실적 발표 (009540)
-- 🔴 10-28 15:00 KST — SKC 실적 발표 (011790)
-- 🔴 10-28 15:00 KST — LGELECTRONICS 실적 발표 (066570)
-- 🔴 10-28 15:00 KST — SAMSUNG SDI CO.,LTD. 실적 발표 (006400)
-- 🔴 10-28 15:00 KST — BNK Financial Group 실적 발표 (138930)
-- 🔴 10-28 15:00 KST — Hanon Systems 실적 발표 (018880)
+- 🔴 10-28 15:00 KST — HDKSOE earnings (009540)
+- 🔴 10-28 15:00 KST — SKC earnings (011790)
+- 🔴 10-28 15:00 KST — LGELECTRONICS earnings (066570)
+- 🔴 10-28 15:00 KST — SAMSUNG SDI CO.,LTD. earnings (006400)
+- 🔴 10-28 15:00 KST — BNK Financial Group earnings (138930)
+- 🔴 10-28 15:00 KST — Hanon Systems earnings (018880)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.23) — only 7 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains elevated with a strong bullish bias across the board. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a mixed sentiment, showing equal weight to bullish and bearish indicators. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange dynamics lean bearish, suggesting downward pressure on currency pairs. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is strongly bearish, indicating potential softening in raw materials. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Kosho(KR):** Korean equities show a clear bearish trend, with specific sectors like IT, Industrials, and Semiconductors exhibiting weakness. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains elevated with a strong bullish bias across the board. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a mixed sentiment, showing equal weight to bullish and bearish indicators. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange dynamics lean bearish, suggesting downward pressure on currency pairs. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is strongly bearish, indicating potential softening in raw materials. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities show a clear bearish trend, with specific sectors like IT, Industrials, and Semiconductors exhibiting weakness. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
 **Beom(Chair):** The cross-market readings present a divergence: US equities show improving momentum, while crypto and Korean markets are trending downward. Macro indicators suggest caution, with bearish readings in FX and Commodities contrasting against bullish signals in Liquidity and Credit. The overall picture points toward underlying structural weakness in certain asset classes despite stable liquidity conditions.

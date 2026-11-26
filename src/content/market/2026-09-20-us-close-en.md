@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-21 09:00 KST — Vistra Corp. 배당락일 (VST)
-- 🔴 09-21 09:00 KST — W.R. Berkley Corporation 배당락일 (WRB)
-- 🔴 09-21 09:00 KST — DTE Energy Company 배당락일 (DTE)
-- 🔴 09-21 09:00 KST — Broadcom Inc. 배당락일 (AVGO)
-- 🔴 09-21 09:00 KST — Eversource Energy (D/B/A) 배당락일 (ES)
-- 🔴 09-21 09:00 KST — Kenvue Inc. 배당락일 (KVUE)
+- 🔴 09-21 09:00 KST — Vistra Corp. ex-dividend date (VST)
+- 🔴 09-21 09:00 KST — W.R. Berkley Corporation ex-dividend date (WRB)
+- 🔴 09-21 09:00 KST — DTE Energy Company ex-dividend date (DTE)
+- 🔴 09-21 09:00 KST — Broadcom Inc. ex-dividend date (AVGO)
+- 🔴 09-21 09:00 KST — Eversource Energy (D/B/A) ex-dividend date (ES)
+- 🔴 09-21 09:00 KST — Kenvue Inc. ex-dividend date (KVUE)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.27) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is registering as extreme bearish, though the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds are positioned neutrally, with the bearish reading holding more weight than the bullish. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX is reading as extreme bearish, despite a relatively balanced distribution between bullish and bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are showing a neutral reading, with the bearish side carrying significantly more weight than the bullish. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are showing a neutral reading, but the underlying trend is noted as deteriorating, with Communication Services showing strength while Industrials and Financial Services show weakness. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is registering as extreme bearish, though the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds are positioned neutrally, with the bearish reading holding more weight than the bullish. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX is reading as extreme bearish, despite a relatively balanced distribution between bullish and bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are showing a neutral reading, with the bearish side carrying significantly more weight than the bullish. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a neutral reading, but the underlying trend is noted as deteriorating, with Communication Services showing strength while Industrials and Financial Services show weakness. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests significant caution, highlighted by extreme bearish readings in volatility and FX, while underlying trends across most asset classes remain stable or are deteriorating. The divergence between the improving trend in Crypto and the deteriorating trend in US equities suggests sector rotation or divergence in risk appetite. Overall, the market appears to be consolidating within established, albeit cautious, boundaries. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The macro picture suggests significant caution, highlighted by extreme bearish readings in volatility and FX, while underlying trends across most asset classes remain stable or are deteriorating. The divergence between the improving trend in Crypto and the deteriorating trend in US equities suggests sector rotation or divergence in risk appetite. Overall, the market appears to be consolidating within established, albeit cautious, boundaries. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

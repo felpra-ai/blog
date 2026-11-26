@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Utilities · weak: —
 
 ## Desk panel
-- **Lovble(Global):** Volatility is stable, with bearish readings holding a slight majority, suggesting contained caution. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Credit remains fully bullish, while bonds show a balanced, stable leaning towards bullish territory. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange exhibits a strong bullish bias, supported by stable underlying conditions. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are registering a neutral stance, with slightly more bullish sentiment than bearish. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are showing a neutral reading, with utilities being the only sector showing strength. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Lovble(Global):** Volatility is stable, with bearish readings holding a slight majority, suggesting contained caution. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit remains fully bullish, while bonds show a balanced, stable leaning towards bullish territory. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange exhibits a strong bullish bias, supported by stable underlying conditions. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are registering a neutral stance, with slightly more bullish sentiment than bearish. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are showing a neutral reading, with utilities being the only sector showing strength. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market data points to robust underlying support from credit and foreign exchange, contrasting with a neutral reading across major equity indices. The stability in liquidity and the mixed signals across commodity and inflation suggest a period of consolidation where directional conviction is lacking across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The cross-market data points to robust underlying support from credit and foreign exchange, contrasting with a neutral reading across major equity indices. The stability in liquidity and the mixed signals across commodity and inflation suggest a period of consolidation where directional conviction is lacking across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

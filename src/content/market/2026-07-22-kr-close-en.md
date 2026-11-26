@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 07-23 15:00 KST — HyundaiMtr 실적 발표 (005380)
+- 🔴 07-23 15:00 KST — HyundaiMtr earnings (005380)
 - 🔴 07-23 21:30 KST — US GDP (Advance)
-- 🔴 07-24 15:00 KST — HYUNDAI STEEL 실적 발표 (004020)
+- 🔴 07-24 15:00 KST — HYUNDAI STEEL earnings (004020)
 - 🔴 07-24 21:30 KST — US PCE Price Index
-- 🔴 07-27 15:00 KST — POSCO FUTURE M 실적 발표 (003670)
-- 🔴 07-28 15:00 KST — SK hynix 실적 발표 (000660)
+- 🔴 07-27 15:00 KST — POSCO FUTURE M earnings (003670)
+- 🔴 07-28 15:00 KST — SK hynix earnings (000660)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -45,10 +45,10 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility readings suggest a stable, yet elevated bearish bias. :vix:
-- **Bonds:** The bond picture reads clearly bullish, maintaining a stable trend. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Credit:** Credit conditions are registering a decidedly bearish regime, with no bullish support noted. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **FX:** Foreign exchange dynamics are characterized as neutral, with balanced bullish and bearish readings. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Liquidity:** Liquidity remains in a neutral state, showing balanced directional movement. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
+- **Bonds:** The bond picture reads clearly bullish, maintaining a stable trend. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Credit:** Credit conditions are registering a decidedly bearish regime, with no bullish support noted. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **FX:** Foreign exchange dynamics are characterized as neutral, with balanced bullish and bearish readings. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Liquidity:** Liquidity remains in a neutral state, showing balanced directional movement. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="Kosho" />
 - **Commodities:** Commodities are exhibiting an extreme bullish posture, with overwhelming bullish conviction. :koc:
 - **Inflation:** Inflation readings point to an extreme bullish regime, with no bearish indicators present. :inf:
 - **Crypto:** Cryptocurrency sentiment is neutral, showing a slight improving trend. :crypto:
@@ -56,7 +56,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are neutral, maintaining a stable trend. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The divergence between commodities/inflation strength and credit weakness is notable. While macro indicators suggest underlying inflationary pressure and commodity strength, the broader market sentiment, particularly in credit, suggests caution. The cross-market picture is one of divergence, where certain asset classes show strong directional conviction while others remain range-bound. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The divergence between commodities/inflation strength and credit weakness is notable. While macro indicators suggest underlying inflationary pressure and commodity strength, the broader market sentiment, particularly in credit, suggests caution. The cross-market picture is one of divergence, where certain asset classes show strong directional conviction while others remain range-bound. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

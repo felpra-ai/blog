@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-01 09:00 KST — Lockheed Martin Corporation 배당락일 (LMT)
-- 🔴 09-01 09:00 KST — Goldman Sachs Group, Inc. (The) 배당락일 (GS)
-- 🔴 09-01 09:00 KST — M&T Bank Corporation 배당락일 (MTB)
-- 🔴 09-01 09:00 KST — Analog Devices, Inc. 배당락일 (ADI)
-- 🔴 09-01 09:00 KST — McKesson Corporation 배당락일 (MCK)
-- 🔴 09-01 09:00 KST — McDonald's Corporation 배당락일 (MCD)
+- 🔴 09-01 09:00 KST — Lockheed Martin Corporation ex-dividend date (LMT)
+- 🔴 09-01 09:00 KST — Goldman Sachs Group, Inc. (The) ex-dividend date (GS)
+- 🔴 09-01 09:00 KST — M&T Bank Corporation ex-dividend date (MTB)
+- 🔴 09-01 09:00 KST — Analog Devices, Inc. ex-dividend date (ADI)
+- 🔴 09-01 09:00 KST — McKesson Corporation ex-dividend date (MCK)
+- 🔴 09-01 09:00 KST — McDonald's Corporation ex-dividend date (MCD)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -45,16 +45,16 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 
 ## Desk panel
 - **VIX:** Volatility is showing a bearish tilt with stable trends across the board. :vix:
-- **Bonds:** Bond sentiment reads neutral, with a slight leaning towards bullishness. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Credit:** Credit conditions are reading bullishly, maintaining a stable trend. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Liquidity:** Liquidity remains bullish, indicating a stable positive flow. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Commodities:** Commodity sentiment is leaning bullish, with a stable trend. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Bonds:** Bond sentiment reads neutral, with a slight leaning towards bullishness. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Credit:** Credit conditions are reading bullishly, maintaining a stable trend. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Liquidity:** Liquidity remains bullish, indicating a stable positive flow. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Commodities:** Commodity sentiment is leaning bullish, with a stable trend. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 - **Crypto:** Cryptocurrency sentiment is neutral, showing a stable trend. :crypto:
 - **Korea:** Korean markets show a deteriorating trend, with a neutral sentiment reading. :korea:
 - **US:** US equities are reading neutral, maintaining a stable trend. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Macro indicators suggest underlying strength in credit and liquidity, while volatility remains subdued. The divergence between the stable, bullish macro backdrop and the deteriorating trend noted in Korean markets suggests sector-specific caution is warranted. Overall, the market exhibits a mixed picture, requiring close attention to cross-asset divergences. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** Macro indicators suggest underlying strength in credit and liquidity, while volatility remains subdued. The divergence between the stable, bullish macro backdrop and the deteriorating trend noted in Korean markets suggests sector-specific caution is warranted. Overall, the market exhibits a mixed picture, requiring close attention to cross-asset divergences. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

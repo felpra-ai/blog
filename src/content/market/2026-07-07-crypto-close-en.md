@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: — · weak: — · dominance: btc_dominant
 
 ## Desk panel
-- **Lovble(Global):** Volatility is reading extreme bearish, while liquidity shows a leaning towards bearish sentiment. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds maintain a neutral stance, with credit showing a moderate bullish leaning. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX is exhibiting a sideways bullish bias, suggesting indecision in the currency space. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are neutral, with a slight leaning towards bullish sentiment. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is neutral overall, with a clear dominance observed in the BTC sector. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Lovble(Global):** Volatility is reading extreme bearish, while liquidity shows a leaning towards bearish sentiment. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds maintain a neutral stance, with credit showing a moderate bullish leaning. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX is exhibiting a sideways bullish bias, suggesting indecision in the currency space. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are neutral, with a slight leaning towards bullish sentiment. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is neutral overall, with a clear dominance observed in the BTC sector. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The US market exhibits strong bullish readings, contrasting with the overall bearish lean in volatility and liquidity. The macro picture suggests underlying caution despite localized strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The US market exhibits strong bullish readings, contrasting with the overall bearish lean in volatility and liquidity. The macro picture suggests underlying caution despite localized strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

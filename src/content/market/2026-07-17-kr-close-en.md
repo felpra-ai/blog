@@ -32,25 +32,25 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 07-20 09:00 KST — ORION Holdings 배당락일 (001800)
-- 🔴 07-20 15:00 KST — HyundaiEng&Const 실적 발표 (000720)
-- 🔴 07-23 15:00 KST — HyundaiMtr 실적 발표 (005380)
+- 🔴 07-20 09:00 KST — ORION Holdings ex-dividend date (001800)
+- 🔴 07-20 15:00 KST — HyundaiEng&Const earnings (000720)
+- 🔴 07-23 15:00 KST — HyundaiMtr earnings (005380)
 - 🔴 07-23 21:30 KST — US GDP (Advance)
-- 🔴 07-24 15:00 KST — HYUNDAI STEEL 실적 발표 (004020)
+- 🔴 07-24 15:00 KST — HYUNDAI STEEL earnings (004020)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bullish (6 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.27) — only 5 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is showing a bearish tilt, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond sentiment is balanced, showing no clear directional bias in the current reading. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange indicators lean distinctly bearish, despite a stable trend. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities present a mixed picture, with bullish sentiment outweighing bearish readings. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities show a neutral posture, with consumer, financials, semiconductors, and chemicals exhibiting strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
+- **Lovble(Global):** Volatility is showing a bearish tilt, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond sentiment is balanced, showing no clear directional bias in the current reading. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange indicators lean distinctly bearish, despite a stable trend. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities present a mixed picture, with bullish sentiment outweighing bearish readings. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities show a neutral posture, with consumer, financials, semiconductors, and chemicals exhibiting strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market view suggests caution, highlighted by the bearish skew in FX and Inflation, even as commodity sentiment remains relatively positive. The US market appears stable, while the Korean sector strength is concentrated within specific industrial and financial segments. Overall, the tape suggests a period of consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The cross-market view suggests caution, highlighted by the bearish skew in FX and Inflation, even as commodity sentiment remains relatively positive. The US market appears stable, while the Korean sector strength is concentrated within specific industrial and financial segments. Overall, the tape suggests a period of consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

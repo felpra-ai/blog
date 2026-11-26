@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-03 09:00 KST — Aon plc 배당락일 (AON)
-- 🔴 08-03 09:00 KST — Ameriprise Financial, Inc. 배당락일 (AMP)
-- 🔴 08-04 05:00 KST — The AES Corporation 실적 발표 (AES)
-- 🔴 08-04 21:30 KST — Apollo Global Management, Inc.  실적 발표 (APO)
-- 🔴 08-04 21:30 KST — AMETEK, Inc. 실적 발표 (AME)
-- 🔴 08-04 21:30 KST — Archer-Daniels-Midland Company 실적 발표 (ADM)
+- 🔴 08-03 09:00 KST — Aon plc ex-dividend date (AON)
+- 🔴 08-03 09:00 KST — Ameriprise Financial, Inc. ex-dividend date (AMP)
+- 🔴 08-04 05:00 KST — The AES Corporation earnings (AES)
+- 🔴 08-04 21:30 KST — Apollo Global Management, Inc.  earnings (APO)
+- 🔴 08-04 21:30 KST — AMETEK, Inc. earnings (AME)
+- 🔴 08-04 21:30 KST — Archer-Daniels-Midland Company earnings (ADM)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (42 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 5 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable with equal bullish and bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds show a notable tilt towards bearish readings, though the trend remains stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange readings indicate a significant bearish leaning, with the trend showing signs of deterioration. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities present a balanced picture, leaning slightly towards bullish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities show an improving trend, with Healthcare, Real Estate, Consumer Defensive, and Consumer Cyclical sectors showing relative strength, while Utilities and Energy appear weaker. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable with equal bullish and bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds show a notable tilt towards bearish readings, though the trend remains stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange readings indicate a significant bearish leaning, with the trend showing signs of deterioration. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities present a balanced picture, leaning slightly towards bullish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities show an improving trend, with Healthcare, Real Estate, Consumer Defensive, and Consumer Cyclical sectors showing relative strength, while Utilities and Energy appear weaker. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market data suggests a divergence in sentiment, particularly noted in the FX and Crypto domains, while liquidity remains supportive. The US market structure appears to be improving, contrasting with the deteriorating trends observed in foreign exchange and digital assets. On balance, the overall picture suggests caution amidst sectoral divergence. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The cross-market data suggests a divergence in sentiment, particularly noted in the FX and Crypto domains, while liquidity remains supportive. The US market structure appears to be improving, contrasting with the deteriorating trends observed in foreign exchange and digital assets. On balance, the overall picture suggests caution amidst sectoral divergence. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

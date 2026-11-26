@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-02 09:00 KST — ShinhanGroup 배당락일 (055550)
-- 🔴 11-02 15:00 KST — HDKSOE 실적 발표 (009540)
-- 🔴 11-02 15:00 KST — POSCO FUTURE M 실적 발표 (003670)
-- 🔴 11-02 15:00 KST — GC Biopharma Corp. 실적 발표 (006280)
-- 🔴 11-02 15:00 KST — S-Oil 실적 발표 (010950)
-- 🔴 11-02 15:00 KST — POSCO Holdings 실적 발표 (005490)
+- 🔴 11-02 09:00 KST — ShinhanGroup ex-dividend date (055550)
+- 🔴 11-02 15:00 KST — HDKSOE earnings (009540)
+- 🔴 11-02 15:00 KST — POSCO FUTURE M earnings (003670)
+- 🔴 11-02 15:00 KST — GC Biopharma Corp. earnings (006280)
+- 🔴 11-02 15:00 KST — S-Oil earnings (010950)
+- 🔴 11-02 15:00 KST — POSCO Holdings earnings (005490)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -45,10 +45,10 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility remains neutral, showing no directional bias in the current reading. :vix:
-- **Bonds:** The bond market sentiment is balanced, exhibiting equal weight between bullish and bearish readings. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Credit:** Credit conditions read as extremely bullish, with all observed indicators pointing in a positive direction. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **FX:** Foreign exchange sentiment is neutral, with a slight lean towards bullish readings. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Liquidity:** Liquidity conditions are entirely bullish, indicating robust support across the board. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
+- **Bonds:** The bond market sentiment is balanced, exhibiting equal weight between bullish and bearish readings. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Credit:** Credit conditions read as extremely bullish, with all observed indicators pointing in a positive direction. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **FX:** Foreign exchange sentiment is neutral, with a slight lean towards bullish readings. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Liquidity:** Liquidity conditions are entirely bullish, indicating robust support across the board. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="Kosho" />
 - **Commodities:** Commodity sentiment leans bearish, as evidenced by the higher proportion of bearish readings. :koc:
 - **Inflation:** Inflation readings suggest a sideways bias with a notable bullish tilt. :inf:
 - **Crypto:** Cryptocurrency sentiment is deteriorating, showing a significant majority of bearish readings. :crypto:
@@ -56,7 +56,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities sentiment is improving, with a clear majority of bullish indicators. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence: credit and liquidity are strongly supportive, while commodities and crypto show signs of weakness. US equities appear to be finding some footing, contrasting with the deteriorating trends noted in Korean markets. Overall, the market structure suggests caution amidst underlying liquidity strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence: credit and liquidity are strongly supportive, while commodities and crypto show signs of weakness. US equities appear to be finding some footing, contrasting with the deteriorating trends noted in Korean markets. Overall, the market structure suggests caution amidst underlying liquidity strength. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-03 15:00 KST — DL 실적 발표 (000210)
-- 🔴 08-03 15:00 KST — HYUNDAI STEEL 실적 발표 (004020)
-- 🔴 08-04 15:00 KST — Hanwha 실적 발표 (000880)
-- 🔴 08-06 09:00 KST — DOOSAN 배당락일 (000150)
-- 🔴 08-06 15:00 KST — AMOREPACIFIC Holdings 실적 발표 (002790)
-- 🔴 08-06 15:00 KST — LOTTE Fine Chem 실적 발표 (004000)
+- 🔴 08-03 15:00 KST — DL earnings (000210)
+- 🔴 08-03 15:00 KST — HYUNDAI STEEL earnings (004020)
+- 🔴 08-04 15:00 KST — Hanwha earnings (000880)
+- 🔴 08-06 09:00 KST — DOOSAN ex-dividend date (000150)
+- 🔴 08-06 15:00 KST — AMOREPACIFIC Holdings earnings (002790)
+- 🔴 08-06 15:00 KST — LOTTE Fine Chem earnings (004000)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (61 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 5 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is reading extreme bearish, while liquidity remains extremely bullish. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a clear bullish bias, while credit remains in a neutral state. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX is showing an extreme bearish tilt, suggesting significant downward pressure. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are registering a neutral stance, with bullish indicators slightly outweighing bearish ones. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** US equities show a neutral reading with a slight bullish leaning, while Korean equities are also neutral but showing signs of deterioration. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
+- **Lovble(Global):** Volatility is reading extreme bearish, while liquidity remains extremely bullish. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a clear bullish bias, while credit remains in a neutral state. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX is showing an extreme bearish tilt, suggesting significant downward pressure. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are registering a neutral stance, with bullish indicators slightly outweighing bearish ones. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** US equities show a neutral reading with a slight bullish leaning, while Korean equities are also neutral but showing signs of deterioration. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: liquidity is robustly positive, which contrasts with the bearish readings observed in FX and the deteriorating trend noted in crypto. The bond market's bullish posture provides a counter-narrative to the caution seen elsewhere. Overall, the tape suggests a cautious environment where underlying liquidity supports asset classes despite directional headwinds in currency and digital assets. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: liquidity is robustly positive, which contrasts with the bearish readings observed in FX and the deteriorating trend noted in crypto. The bond market's bullish posture provides a counter-narrative to the caution seen elsewhere. Overall, the tape suggests a cautious environment where underlying liquidity supports asset classes despite directional headwinds in currency and digital assets. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

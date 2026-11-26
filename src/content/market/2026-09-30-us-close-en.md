@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-30 09:00 KST — Steel Dynamics, Inc. 배당락일 (STLD)
-- 🔴 09-30 09:00 KST — Essex Property Trust, Inc. 배당락일 (ESS)
-- 🔴 09-30 09:00 KST — Fifth Third Bancorp 배당락일 (FITB)
-- 🔴 09-30 09:00 KST — Alexandria Real Estate Equities 배당락일 (ARE)
-- 🔴 09-30 09:00 KST — Franklin Templeton, Inc. 배당락일 (BEN)
-- 🔴 09-30 09:00 KST — Zimmer Biomet Holdings, Inc. 배당락일 (ZBH)
+- 🔴 09-30 09:00 KST — Steel Dynamics, Inc. ex-dividend date (STLD)
+- 🔴 09-30 09:00 KST — Essex Property Trust, Inc. ex-dividend date (ESS)
+- 🔴 09-30 09:00 KST — Fifth Third Bancorp ex-dividend date (FITB)
+- 🔴 09-30 09:00 KST — Alexandria Real Estate Equities ex-dividend date (ARE)
+- 🔴 09-30 09:00 KST — Franklin Templeton, Inc. ex-dividend date (BEN)
+- 🔴 09-30 09:00 KST — Zimmer Biomet Holdings, Inc. ex-dividend date (ZBH)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -57,7 +57,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Technology and Industrials show strength, while Consumer Cyclical, Financial Services, and Real Estate show weakness. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents diverging signals, with credit, commodities, and inflation leaning bearish despite stable trends. The deterioration noted in both US and Korean markets, coupled with sector weakness in cyclical and financial areas, suggests caution. The overall tape appears to be navigating conflicting signals between stable macro indicators and deteriorating regional market trends. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture presents diverging signals, with credit, commodities, and inflation leaning bearish despite stable trends. The deterioration noted in both US and Korean markets, coupled with sector weakness in cyclical and financial areas, suggests caution. The overall tape appears to be navigating conflicting signals between stable macro indicators and deteriorating regional market trends. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

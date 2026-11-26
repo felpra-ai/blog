@@ -42,14 +42,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (90 times observed) · macro cross-correlation watch: inflation leads credit by 1d (ρ=-0.35) — only 12 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Red across the board today, with bonds the one place leaning the other way. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** The US and Korea are both tilting bearish, and both are getting worse rather than holding. Liquidity, for its part, has not given way and still reads strongly bullish. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX sits at an extreme bearish tilt. Liquidity points the opposite way, firmly bullish, with nothing bearish on that side at all. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are drifting sideways with a bearish lean, six in ten readings pointing down, like a field going quiet after harvest, while inflation stays neutral. <img class="emoji-char" src="/characters/v2/commodity/face/06_neutral.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is the heaviest of the three, close to eight in ten readings bearish. Bitcoin holds the room, and exchange and oracle names sit among the weak. <img class="emoji-char" src="/characters/v2/crypto/face/10_suspicious.png" alt="벵갈" />
+- **Lovble(Global):** Red across the board today, with bonds the one place leaning the other way. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** The US and Korea are both tilting bearish, and both are getting worse rather than holding. Liquidity, for its part, has not given way and still reads strongly bullish. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX sits at an extreme bearish tilt. Liquidity points the opposite way, firmly bullish, with nothing bearish on that side at all. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are drifting sideways with a bearish lean, six in ten readings pointing down, like a field going quiet after harvest, while inflation stays neutral. <img class="emoji-char" src="/characters/v2/commodity/face/06_neutral.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is the heaviest of the three, close to eight in ten readings bearish. Bitcoin holds the room, and exchange and oracle names sit among the weak. <img class="emoji-char" src="/characters/v2/crypto/face/10_suspicious.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Lovble and Sham both picked out the split: bonds and liquidity lean bullish while crypto, Korea and the US lean bearish, with Bsho noting the two equity markets are deteriorating. What stays unsettled is how long ample liquidity and softening markets can keep pointing in different directions. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
+**Beom(Chair):** Lovble and Sham both picked out the split: bonds and liquidity lean bullish while crypto, Korea and the US lean bearish, with Bsho noting the two equity markets are deteriorating. What stays unsettled is how long ample liquidity and softening markets can keep pointing in different directions. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-23](/track-record/2026-11-23-weekly-hitrate-en/)

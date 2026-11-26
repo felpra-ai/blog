@@ -32,10 +32,10 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-07 09:00 KST — Comcast Corporation 배당락일 (CMCSA)
-- 🔴 10-07 09:00 KST — Edison International 배당락일 (EIX)
-- 🔴 10-07 09:00 KST — Lennar Corporation 배당락일 (LEN)
-- 🔴 10-08 09:00 KST — Intuit Inc. 배당락일 (INTU)
+- 🔴 10-07 09:00 KST — Comcast Corporation ex-dividend date (CMCSA)
+- 🔴 10-07 09:00 KST — Edison International ex-dividend date (EIX)
+- 🔴 10-07 09:00 KST — Lennar Corporation ex-dividend date (LEN)
+- 🔴 10-08 09:00 KST — Intuit Inc. ex-dividend date (INTU)
 - 🔴 10-08 10:00 KST — BOK Interest Rate Decision
 - 🔴 10-08 21:15 KST — ECB Interest Rate Decision
 
@@ -44,14 +44,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (57 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is stable, showing a slight leaning towards bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit indicators suggest a bearish leaning. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movement is characterized by a neutral reading, with equal weight on bullish and bearish indicators. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are showing a neutral stance, with a notable weight on the bearish side. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are in a sideways bearish regime, with Healthcare and Communication Services showing relative strength compared to Financial Services and Crypto. <img class="emoji-char" src="/characters/us/10_suspicious.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is stable, showing a slight leaning towards bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit indicators suggest a bearish leaning. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movement is characterized by a neutral reading, with equal weight on bullish and bearish indicators. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are showing a neutral stance, with a notable weight on the bearish side. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities are in a sideways bearish regime, with Healthcare and Communication Services showing relative strength compared to Financial Services and Crypto. <img class="emoji-char" src="/characters/us/10_suspicious.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: bonds show significant strength while credit remains cautious. US equities are range-bound with underlying sector strength noted in healthcare and communications, contrasting with the softer readings in crypto. On balance, the tape suggests a period of consolidation under mixed macro signals. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: bonds show significant strength while credit remains cautious. US equities are range-bound with underlying sector strength noted in healthcare and communications, contrasting with the softer readings in crypto. On balance, the tape suggests a period of consolidation under mixed macro signals. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

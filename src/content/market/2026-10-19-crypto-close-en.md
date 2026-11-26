@@ -46,7 +46,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Sector strength is noted in the 'strong' category, while 'other', 'storage', and 'defi' are categorized as weak, with Bitcoin showing clear dominance across the basket. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro environment presents a mixed picture, with bonds leaning strongly positive and liquidity showing bullish tendencies, contrasting with the bearish deterioration seen in the crypto and Korean markets. The US market's improving bias suggests relative resilience, though the overall cross-market reading points toward caution given the divergence in sector performance. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro environment presents a mixed picture, with bonds leaning strongly positive and liquidity showing bullish tendencies, contrasting with the bearish deterioration seen in the crypto and Korean markets. The US market's improving bias suggests relative resilience, though the overall cross-market reading points toward caution given the divergence in sector performance. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

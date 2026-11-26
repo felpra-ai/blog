@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-23 09:00 KST — Lam Research Corporation 배당락일 (LRCX)
-- 🔴 09-23 09:00 KST — Cincinnati Financial Corporatio 배당락일 (CINF)
-- 🔴 09-23 21:30 KST — Cintas Corporation 실적 발표 (CTAS)
-- 🔴 09-23 21:30 KST — Paychex, Inc. 실적 발표 (PAYX)
-- 🔴 09-23 21:30 KST — General Mills, Inc. 실적 발표 (GIS)
-- 🔴 09-24 05:00 KST — Micron Technology, Inc. 실적 발표 (MU)
+- 🔴 09-23 09:00 KST — Lam Research Corporation ex-dividend date (LRCX)
+- 🔴 09-23 09:00 KST — Cincinnati Financial Corporatio ex-dividend date (CINF)
+- 🔴 09-23 21:30 KST — Cintas Corporation earnings (CTAS)
+- 🔴 09-23 21:30 KST — Paychex, Inc. earnings (PAYX)
+- 🔴 09-23 21:30 KST — General Mills, Inc. earnings (GIS)
+- 🔴 09-24 05:00 KST — Micron Technology, Inc. earnings (MU)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.27) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is stable, showing a slight leaning towards bearish sentiment across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds maintain a neutral stance, with bullish readings appearing more frequently than bearish ones. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX exhibits a balanced reading, with bullish and bearish indications holding equal weight. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities show a neutral reading, with bullish indications slightly outweighing bearish ones. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are reading neutral overall, with energy and communication services showing relative strength, while utilities are lagging. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is stable, showing a slight leaning towards bearish sentiment across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds maintain a neutral stance, with bullish readings appearing more frequently than bearish ones. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX exhibits a balanced reading, with bullish and bearish indications holding equal weight. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities show a neutral reading, with bullish indications slightly outweighing bearish ones. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities are reading neutral overall, with energy and communication services showing relative strength, while utilities are lagging. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Macro indicators point to caution, particularly regarding inflation readings, while the US market shows signs of deterioration despite some sector strength. Crypto is showing an improving trend, contrasting with the more mixed signals across traditional asset classes. On balance, the tape suggests a period of consolidation amid varied directional pressures. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** Macro indicators point to caution, particularly regarding inflation readings, while the US market shows signs of deterioration despite some sector strength. Crypto is showing an improving trend, contrasting with the more mixed signals across traditional asset classes. On balance, the tape suggests a period of consolidation amid varied directional pressures. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

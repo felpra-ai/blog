@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: materials · weak: —
 
 ## Desk panel
-- **Lovble(Global):** Volatility is reading extreme bearish, while liquidity shows a notable bearish tilt. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds maintain a neutral stance, supported by a slight bullish bias in credit conditions. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX movement is characterized as sideways bullish, suggesting balanced directional conviction. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are registering a neutral regime, with no discernible bearish pressure noted. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are showing a neutral read, with materials sectors exhibiting strength. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
+- **Lovble(Global):** Volatility is reading extreme bearish, while liquidity shows a notable bearish tilt. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds maintain a neutral stance, supported by a slight bullish bias in credit conditions. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX movement is characterized as sideways bullish, suggesting balanced directional conviction. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are registering a neutral regime, with no discernible bearish pressure noted. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are showing a neutral read, with materials sectors exhibiting strength. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The US market exhibits a distinctly improving and bullish reading, contrasting with the bearish signals seen in overall liquidity and volatility. The cross-market picture suggests caution is warranted despite US strength, given the underlying liquidity constraints. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The US market exhibits a distinctly improving and bullish reading, contrasting with the bearish signals seen in overall liquidity and volatility. The cross-market picture suggests caution is warranted despite US strength, given the underlying liquidity constraints. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 ---
 

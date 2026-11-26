@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-09 09:00 KST — BNK Financial Group 배당락일 (138930)
-- 🔴 11-09 09:00 KST — WooriFinancialGroup 배당락일 (316140)
-- 🔴 11-09 15:00 KST — Kangwonland 실적 발표 (035250)
-- 🔴 11-09 15:00 KST — KumhoPetrochem 실적 발표 (011780)
-- 🔴 11-09 15:00 KST — Hanssem 실적 발표 (009240)
-- 🔴 11-09 15:00 KST — PearlAbyss 실적 발표 (263750)
+- 🔴 11-09 09:00 KST — BNK Financial Group ex-dividend date (138930)
+- 🔴 11-09 09:00 KST — WooriFinancialGroup ex-dividend date (316140)
+- 🔴 11-09 15:00 KST — Kangwonland earnings (035250)
+- 🔴 11-09 15:00 KST — KumhoPetrochem earnings (011780)
+- 🔴 11-09 15:00 KST — Hanssem earnings (009240)
+- 🔴 11-09 15:00 KST — PearlAbyss earnings (263750)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -45,16 +45,16 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility remains in a bullish regime, indicating a persistent upward bias in perceived risk. :vix:
-- **Bonds:** The bond market exhibits a neutral stance, with bearish sentiment holding a majority weight. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions are assessed as neutral, showing no discernible directional lean. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Liquidity:** Liquidity metrics are neutral, suggesting a balanced flow across the system. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Commodities:** Commodities are in a bearish regime, with bearish sentiment significantly outweighing bullish indicators. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
+- **Bonds:** The bond market exhibits a neutral stance, with bearish sentiment holding a majority weight. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions are assessed as neutral, showing no discernible directional lean. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Liquidity:** Liquidity metrics are neutral, suggesting a balanced flow across the system. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Commodities:** Commodities are in a bearish regime, with bearish sentiment significantly outweighing bullish indicators. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="Kosho" />
 - **Crypto:** Cryptocurrency activity shows a deteriorating trend, leaning heavily toward bearish sentiment. :crypto:
 - **Korea:** Korean equities are in a deteriorating trend, showing a clear bearish bias. :korea:
 - **US:** US equities are in a stable, sideways-bullish regime, with bullish indicators holding a slight edge. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents divergence: while US equities maintain a stable, slightly positive bias, underlying inflation expectations are strongly bearish, and commodity sentiment is decidedly weak. The mixed signals across asset classes suggest caution is warranted, despite some localized strength in US indices. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture presents divergence: while US equities maintain a stable, slightly positive bias, underlying inflation expectations are strongly bearish, and commodity sentiment is decidedly weak. The mixed signals across asset classes suggest caution is warranted, despite some localized strength in US indices. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

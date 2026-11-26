@@ -32,22 +32,22 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-15 09:00 KST — Misto Holdings 배당락일 (081660)
-- 🔴 10-16 09:00 KST — YoungoneHoldings 배당락일 (009970)
+- 🔴 10-15 09:00 KST — Misto Holdings ex-dividend date (081660)
+- 🔴 10-16 09:00 KST — YoungoneHoldings ex-dividend date (009970)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.25) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains in a bearish bias, while the underlying trend shows stability. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond market sentiment is neutral, showing no discernible directional leaning. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are neutral, with a slightly higher leaning towards bearish sentiment. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is neutral, with a notable bullish leaning compared to bearish readings. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are exhibiting a sideways and bearish bias, with the semiconductor sector showing relative strength compared to bio-health and chemical sectors. <img class="emoji-char" src="/characters/kr/10_suspicious.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains in a bearish bias, while the underlying trend shows stability. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond market sentiment is neutral, showing no discernible directional leaning. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are neutral, with a slightly higher leaning towards bearish sentiment. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is neutral, with a notable bullish leaning compared to bearish readings. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are exhibiting a sideways and bearish bias, with the semiconductor sector showing relative strength compared to bio-health and chemical sectors. <img class="emoji-char" src="/characters/kr/10_suspicious.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a mixed picture: US equities show a bullish bias, while crypto is showing a deteriorating bearish trend. Macro indicators like inflation and volatility lean bearish, suggesting caution despite some sectoral strength observed in Asia. On balance, the tape suggests a period of consolidation within defined boundaries. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
+**Beom(Chair):** The market structure presents a mixed picture: US equities show a bullish bias, while crypto is showing a deteriorating bearish trend. Macro indicators like inflation and volatility lean bearish, suggesting caution despite some sectoral strength observed in Asia. On balance, the tape suggests a period of consolidation within defined boundaries. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-19 09:00 KST — Caterpillar, Inc. 배당락일 (CAT)
-- 🔴 10-19 09:00 KST — Healthpeak Properties, Inc. 배당락일 (DOC)
-- 🔴 10-19 09:00 KST — UDR, Inc. 배당락일 (UDR)
-- 🔴 10-19 21:30 KST — Fifth Third Bancorp 실적 발표 (FITB)
-- 🔴 10-20 05:00 KST — W.R. Berkley Corporation 실적 발표 (WRB)
-- 🔴 10-20 05:00 KST — Steel Dynamics, Inc. 실적 발표 (STLD)
+- 🔴 10-19 09:00 KST — Caterpillar, Inc. ex-dividend date (CAT)
+- 🔴 10-19 09:00 KST — Healthpeak Properties, Inc. ex-dividend date (DOC)
+- 🔴 10-19 09:00 KST — UDR, Inc. ex-dividend date (UDR)
+- 🔴 10-19 21:30 KST — Fifth Third Bancorp earnings (FITB)
+- 🔴 10-20 05:00 KST — W.R. Berkley Corporation earnings (WRB)
+- 🔴 10-20 05:00 KST — Steel Dynamics, Inc. earnings (STLD)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -57,7 +57,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Strong performance is noted in Communication Services, CRYPTO, Consumer Defensive, and Financial Services, while TECHNOLOGY and Communication Services show weakness. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The US market shows improving momentum and broad support, which contrasts with the deteriorating trend observed in crypto and the bearish readings in bonds and Korea. On balance, the cross-market picture suggests caution amid divergent sector strength. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The US market shows improving momentum and broad support, which contrasts with the deteriorating trend observed in crypto and the bearish readings in bonds and Korea. On balance, the cross-market picture suggests caution amid divergent sector strength. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

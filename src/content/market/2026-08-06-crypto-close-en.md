@@ -40,14 +40,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: bearish → neutral (8 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility metrics indicate a predominantly bearish sentiment across the board, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond markets show a neutral stance, with bullish indicators slightly outweighing bearish ones, and the trend is stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange activity leans strongly bearish, with bearish indicators holding a significant majority, and the trend is stable. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit an extremely bullish reading, suggesting strong upward momentum, and the trend is stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Bengal(Crypto):** The crypto landscape reads as neutral overall, with a clear dominance observed in Bitcoin, while other sectors show mixed signals. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Lovble(Global):** Volatility metrics indicate a predominantly bearish sentiment across the board, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond markets show a neutral stance, with bullish indicators slightly outweighing bearish ones, and the trend is stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange activity leans strongly bearish, with bearish indicators holding a significant majority, and the trend is stable. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit an extremely bullish reading, suggesting strong upward momentum, and the trend is stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Bengal(Crypto):** The crypto landscape reads as neutral overall, with a clear dominance observed in Bitcoin, while other sectors show mixed signals. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: commodities are strongly bullish, contrasting with bearish readings in FX and liquidity. While the US market shows a neutral reading, the Korean market exhibits a markedly improving, bullish trend. The overall picture suggests underlying caution despite commodity strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: commodities are strongly bullish, contrasting with bearish readings in FX and liquidity. While the US market shows a neutral reading, the Korean market exhibits a markedly improving, bullish trend. The overall picture suggests underlying caution despite commodity strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

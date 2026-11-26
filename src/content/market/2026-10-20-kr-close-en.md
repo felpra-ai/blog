@@ -32,11 +32,11 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-21 15:00 KST — LS ELECTRIC 실적 발표 (010120)
-- 🔴 10-21 15:00 KST — SAMSUNG BIOLOGICS 실적 발표 (207940)
-- 🔴 10-22 15:00 KST — NHIS 실적 발표 (005940)
-- 🔴 10-22 15:00 KST — HD HYUNDAI ELECTRIC 실적 발표 (267260)
-- 🔴 10-22 15:00 KST — LS ELECTRIC 실적 발표 (010120)
+- 🔴 10-21 15:00 KST — LS ELECTRIC earnings (010120)
+- 🔴 10-21 15:00 KST — SAMSUNG BIOLOGICS earnings (207940)
+- 🔴 10-22 15:00 KST — NHIS earnings (005940)
+- 🔴 10-22 15:00 KST — HD HYUNDAI ELECTRIC earnings (267260)
+- 🔴 10-22 15:00 KST — LS ELECTRIC earnings (010120)
 - 🔴 10-22 21:30 KST — US GDP (Advance)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
@@ -56,7 +56,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US market indicators suggest an improving trend, with a notable skew towards bullish readings. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market exhibits divergence: US sentiment is improving and supportive, while Crypto and Korean equities show deteriorating trends. Bonds maintain an extreme bullish posture despite mixed signals elsewhere. Overall, the tape suggests cautious positioning amidst varying sector strengths and macro readings. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The market exhibits divergence: US sentiment is improving and supportive, while Crypto and Korean equities show deteriorating trends. Bonds maintain an extreme bullish posture despite mixed signals elsewhere. Overall, the tape suggests cautious positioning amidst varying sector strengths and macro readings. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

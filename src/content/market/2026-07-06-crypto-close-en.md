@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: other, gaming nft, exchange, layer1 · weak: — · dominance: btc_dominant
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings suggest a predominantly bearish sentiment across the board, with no discernible shift in the trend. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond indicators show a neutral stance, with bullish readings slightly outweighing bearish ones, and the trend remains stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are characterized by neutrality, with bullish readings holding a slight edge over bearish ones, and the trend is stable. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit a generally bullish leaning, with a higher proportion of bullish readings compared to bearish ones, and the trend is stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Bengal(Crypto):** The crypto space reads as extremely bullish, with a significant bullish bias, while the sector breakdown indicates dominance within Bitcoin assets. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="벵갈" />
+- **Lovble(Global):** Volatility readings suggest a predominantly bearish sentiment across the board, with no discernible shift in the trend. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond indicators show a neutral stance, with bullish readings slightly outweighing bearish ones, and the trend remains stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are characterized by neutrality, with bullish readings holding a slight edge over bearish ones, and the trend is stable. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit a generally bullish leaning, with a higher proportion of bullish readings compared to bearish ones, and the trend is stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Bengal(Crypto):** The crypto space reads as extremely bullish, with a significant bullish bias, while the sector breakdown indicates dominance within Bitcoin assets. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: crypto shows significant bullish momentum, while broader macro indicators point toward caution, particularly concerning liquidity. The underlying asset class strength appears concentrated, suggesting sector-specific drivers are currently influencing price action across the board. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: crypto shows significant bullish momentum, while broader macro indicators point toward caution, particularly concerning liquidity. The underlying asset class strength appears concentrated, suggesting sector-specific drivers are currently influencing price action across the board. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 ---
 

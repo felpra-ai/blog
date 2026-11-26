@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-04 21:30 KST — Iron Mountain Incorporated (Del 실적 발표 (IRM)
-- 🔴 11-04 21:30 KST — Norwegian Cruise Line Holdings  실적 발표 (NCLH)
-- 🔴 11-04 21:30 KST — PPL Corporation 실적 발표 (PPL)
-- 🔴 11-04 21:30 KST — Bunge Limited 실적 발표 (BG)
-- 🔴 11-04 21:30 KST — Johnson Controls International  실적 발표 (JCI)
-- 🔴 11-04 21:30 KST — DBA Sempra 실적 발표 (SRE)
+- 🔴 11-04 21:30 KST — Iron Mountain Incorporated (Del earnings (IRM)
+- 🔴 11-04 21:30 KST — Norwegian Cruise Line Holdings  earnings (NCLH)
+- 🔴 11-04 21:30 KST — PPL Corporation earnings (PPL)
+- 🔴 11-04 21:30 KST — Bunge Limited earnings (BG)
+- 🔴 11-04 21:30 KST — Johnson Controls International  earnings (JCI)
+- 🔴 11-04 21:30 KST — DBA Sempra earnings (SRE)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -45,14 +45,14 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 
 ## Desk panel
 - **Macro:** Volatility remains elevated with a stable, bullish reading, while commodities and inflation show significant bearish leaning. :macro:
-- **Bonds:** The bond market sentiment is evenly split, indicating a lack of clear directional conviction. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions read as neutral, suggesting stability without strong directional bias. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Liquidity:** Liquidity metrics are reporting a neutral state across the board. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Korea:** Korean markets exhibit a predominantly bearish leaning with limited bullish support. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
-- **US:** US equities show a generally improving trend, leaning bullish despite underlying caution. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Bonds:** The bond market sentiment is evenly split, indicating a lack of clear directional conviction. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions read as neutral, suggesting stability without strong directional bias. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Liquidity:** Liquidity metrics are reporting a neutral state across the board. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Korea:** Korean markets exhibit a predominantly bearish leaning with limited bullish support. <img class="emoji-char" src="/characters/us/07_confident.png" alt="Maine" />
+- **US:** US equities show a generally improving trend, leaning bullish despite underlying caution. <img class="emoji-char" src="/characters/us/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: US equities show improving momentum, while commodities and crypto are exhibiting clear deterioration. The overall picture suggests caution is warranted, balancing sector strength in defensive areas against broader asset weakness. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: US equities show improving momentum, while commodities and crypto are exhibiting clear deterioration. The overall picture suggests caution is warranted, balancing sector strength in defensive areas against broader asset weakness. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

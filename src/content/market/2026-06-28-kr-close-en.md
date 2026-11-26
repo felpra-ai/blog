@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Utilities · weak: materials, Crypto, chemicals
 
 ## Desk panel
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish reading, while credit maintains a fully bullish stance. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements show an extreme bearish bias, though liquidity remains fully bullish. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is neutral, with bearish readings showing a higher proportion than bullish ones. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities show a neutral overall reading, but the underlying sectors indicate utilities are strong while materials and chemicals are weak. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
-- **Lovble(Global):** Volatility is reading neutral, and the US market shows an improving trend, though crypto remains neutral. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish reading, while credit maintains a fully bullish stance. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements show an extreme bearish bias, though liquidity remains fully bullish. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is neutral, with bearish readings showing a higher proportion than bullish ones. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities show a neutral overall reading, but the underlying sectors indicate utilities are strong while materials and chemicals are weak. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="Kosho" />
+- **Lovble(Global):** Volatility is reading neutral, and the US market shows an improving trend, though crypto remains neutral. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The data suggests a divergence where fixed income and credit structures are showing strong directional support, contrasting with bearish signals in the FX space. The US market's improving trend provides a backdrop of relative stability, even as specific regional equity sectors show mixed strength. Overall, the market structure appears to be navigating conflicting directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The data suggests a divergence where fixed income and credit structures are showing strong directional support, contrasting with bearish signals in the FX space. The US market's improving trend provides a backdrop of relative stability, even as specific regional equity sectors show mixed strength. Overall, the market structure appears to be navigating conflicting directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 ---
 

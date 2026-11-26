@@ -40,18 +40,18 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 
 ## Desk panel
 - **VIX:** Volatility remains in a stable, mixed state, leaning slightly toward bullish readings. :vix:
-- **Bonds:** The bond market exhibits a sideways bias with a measurable leaning toward bullish sentiment. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Credit:** Credit conditions show a clear bearish leaning, with all observed readings pointing to bearish territory. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **FX:** Foreign exchange sentiment is registering as neutral, with mixed directional readings. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Liquidity:** Liquidity appears to be in a bullish regime, with the majority of readings supporting upward momentum. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Commodities:** Commodity sentiment is neutral, showing an even split between bullish and bearish indicators. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Inflation:** Inflation readings are neutral, with no clear directional bias observed across the metrics. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Crypto:** Cryptocurrency sentiment is neutral overall, but the underlying trend is noted as deteriorating. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
-- **Korea:** The Korean market sentiment is neutral, though the trend is showing signs of deterioration. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
-- **US:** The US market sentiment is neutral, but the trend is registering as improving. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="벵갈" />
+- **Bonds:** The bond market exhibits a sideways bias with a measurable leaning toward bullish sentiment. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Credit:** Credit conditions show a clear bearish leaning, with all observed readings pointing to bearish territory. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **FX:** Foreign exchange sentiment is registering as neutral, with mixed directional readings. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Liquidity:** Liquidity appears to be in a bullish regime, with the majority of readings supporting upward momentum. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Commodities:** Commodity sentiment is neutral, showing an even split between bullish and bearish indicators. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Inflation:** Inflation readings are neutral, with no clear directional bias observed across the metrics. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Crypto:** Cryptocurrency sentiment is neutral overall, but the underlying trend is noted as deteriorating. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="Bengal" />
+- **Korea:** The Korean market sentiment is neutral, though the trend is showing signs of deterioration. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="Bengal" />
+- **US:** The US market sentiment is neutral, but the trend is registering as improving. <img class="emoji-char" src="/characters/crypto/05_anxious.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure shows divergence, with improving US trends contrasting against deteriorating crypto and Korean momentum. Liquidity remains supportive while credit signals caution. The overall picture suggests a cautious environment navigating mixed directional signals. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The market structure shows divergence, with improving US trends contrasting against deteriorating crypto and Korean momentum. Liquidity remains supportive while credit signals caution. The overall picture suggests a cautious environment navigating mixed directional signals. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

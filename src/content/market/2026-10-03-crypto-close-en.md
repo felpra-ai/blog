@@ -41,14 +41,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: bearish → neutral (15 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit conditions read decidedly bearish. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange dynamics show an extreme bearish leaning, suggesting significant directional pressure. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are registering a bearish regime, indicating downward pressure across the basket. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto activity suggests a sideways bias with underlying bullish tendencies, while sector dominance remains concentrated in BTC. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="벵갈" />
-- **Lovble(Global):** Overall market volatility is reading neutral, though the broader US market shows signs of deteriorating bearish momentum. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit conditions read decidedly bearish. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange dynamics show an extreme bearish leaning, suggesting significant directional pressure. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are registering a bearish regime, indicating downward pressure across the basket. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto activity suggests a sideways bias with underlying bullish tendencies, while sector dominance remains concentrated in BTC. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="Bengal" />
+- **Lovble(Global):** Overall market volatility is reading neutral, though the broader US market shows signs of deteriorating bearish momentum. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The reading across macro assets presents a divergence: bonds are strongly bullish while credit and commodities are bearish. The US market structure suggests underlying weakness despite crypto showing some bullish resilience. On balance, the tape reflects caution amid conflicting directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The reading across macro assets presents a divergence: bonds are strongly bullish while credit and commodities are bearish. The US market structure suggests underlying weakness despite crypto showing some bullish resilience. On balance, the tape reflects caution amid conflicting directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

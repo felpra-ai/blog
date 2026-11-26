@@ -39,14 +39,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (66 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 8 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is reading neutral, with a slight leaning toward bearish sentiment across the board. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a neutral stance, showing no discernible bearish pressure. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange is registering a sideways-bullish bias, with bullish readings outweighing bearish ones. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are showing a neutral regime, though the bearish indicators are more pronounced than the bullish ones. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is in a sideways-bearish state, with bearish readings significantly dominating the bullish ones, while the US market shows a sideways-bullish bias. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
+- **Lovble(Global):** Volatility is reading neutral, with a slight leaning toward bearish sentiment across the board. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a neutral stance, showing no discernible bearish pressure. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange is registering a sideways-bullish bias, with bullish readings outweighing bearish ones. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are showing a neutral regime, though the bearish indicators are more pronounced than the bullish ones. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is in a sideways-bearish state, with bearish readings significantly dominating the bullish ones, while the US market shows a sideways-bullish bias. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents mixed signals; while US equities show a slight bullish tilt, inflation readings are decidedly bearish, and crypto is deteriorating. The overall market structure suggests caution, with underlying sector strength noted in the crypto space, but macro headwinds persist. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture presents mixed signals; while US equities show a slight bullish tilt, inflation readings are decidedly bearish, and crypto is deteriorating. The overall market structure suggests caution, with underlying sector strength noted in the crypto space, but macro headwinds persist. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

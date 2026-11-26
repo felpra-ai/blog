@@ -41,11 +41,11 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: neutral → bearish (13 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing a slight leaning toward bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds maintain a neutral stance, with bullish indicators showing a moderate presence against bearish readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX exhibits a neutral reading, but the bearish indicators significantly outweigh the bullish ones. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are reading as sideways-bullish, suggesting underlying upward pressure despite mixed signals. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto shows a neutral reading, with the overall sector leaning slightly more toward bullish sentiment than bearish. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Lovble(Global):** Volatility remains stable, showing a slight leaning toward bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds maintain a neutral stance, with bullish indicators showing a moderate presence against bearish readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX exhibits a neutral reading, but the bearish indicators significantly outweigh the bullish ones. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are reading as sideways-bullish, suggesting underlying upward pressure despite mixed signals. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto shows a neutral reading, with the overall sector leaning slightly more toward bullish sentiment than bearish. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
 **Beom(Chair):** Liquidity conditions are registering as extremely bearish, which contrasts with the sideways-bullish reading observed in commodities. The macro picture suggests caution, as evidenced by the bearish tilt in both credit and FX, even as crypto remains relatively balanced.

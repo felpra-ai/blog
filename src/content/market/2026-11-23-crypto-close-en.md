@@ -41,14 +41,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (87 times observed) · macro cross-correlation watch: inflation leads credit by 1d (ρ=-0.35) — only 12 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** A heavy, risk-off day, with volatility leaning hard toward wider swings. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Credit is the warning sign here, with three-quarters of it leaning bearish, though liquidity holds fully on the bullish side and bonds tilt the same way. <img class="emoji-char" src="/characters/v2/bond/face/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** The dollar complex tilts firmly bearish, and the currency picture gives little reason yet to call a direction, so this is a wait. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities sit low like a field after an early frost, with six in ten readings bearish, and inflation drifts sideways with a bearish lean beneath it. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is the one sliding fastest, 80.0% bearish and still getting worse, and the US is no shelter at 81.4%. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
+- **Lovble(Global):** A heavy, risk-off day, with volatility leaning hard toward wider swings. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit is the warning sign here, with three-quarters of it leaning bearish, though liquidity holds fully on the bullish side and bonds tilt the same way. <img class="emoji-char" src="/characters/v2/bond/face/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** The dollar complex tilts firmly bearish, and the currency picture gives little reason yet to call a direction, so this is a wait. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities sit low like a field after an early frost, with six in ten readings bearish, and inflation drifts sideways with a bearish lean beneath it. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is the one sliding fastest, 80.0% bearish and still getting worse, and the US is no shelter at 81.4%. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Bsho points to liquidity staying fully bullish while credit leans the other way, and Nowel and Sham see commodities and currencies tilting bearish. What remains unsettled is whether that steady liquidity can hold up against the weakness in credit and crypto. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
+**Beom(Chair):** Bsho points to liquidity staying fully bullish while credit leans the other way, and Nowel and Sham see commodities and currencies tilting bearish. What remains unsettled is whether that steady liquidity can hold up against the weakness in credit and crypto. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-23](/track-record/2026-11-23-weekly-hitrate-en/)

@@ -41,11 +41,11 @@ altLang: ko
 
 ## Remarks by market
 
-**Bengal(Crypto):** The crypto market showed a win rate of 42.5%, which was the highest among the tracked assets, though the average profit and loss remained negative at -0.181. The sheer volume of trades executed suggests significant activity across the board. <img class="emoji-char" src="/characters/crypto/02_sad.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market showed a win rate of 42.5%, which was the highest among the tracked assets, though the average profit and loss remained negative at -0.181. The sheer volume of trades executed suggests significant activity across the board. <img class="emoji-char" src="/characters/crypto/02_sad.png" alt="Bengal" />
 
-**Kosho(KR):** Korean equities posted a win rate of 32.4%, and the average profit and loss was -0.651. Given the relatively small number of observations compared to the other markets, this data point should be viewed with caution. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
+**Kosho(KR):** Korean equities posted a win rate of 32.4%, and the average profit and loss was -0.651. Given the relatively small number of observations compared to the other markets, this data point should be viewed with caution. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="Kosho" />
 
-**Maine(US):** US equities registered the lowest win rate at 27.2%, accompanied by an average loss of -0.333. The higher frequency of losses relative to wins suggests considerable downward pressure over the period analyzed. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
+**Maine(US):** US equities registered the lowest win rate at 27.2%, accompanied by an average loss of -0.333. The higher frequency of losses relative to wins suggests considerable downward pressure over the period analyzed. <img class="emoji-char" src="/characters/us/02_sad.png" alt="Maine" />
 
 ## Beom's quorum verdict
 
@@ -53,7 +53,7 @@ The overall performance across the tracked markets indicates a challenging perio
 
 The quorum synthesizes that the prevailing sentiment across the board leans toward caution, as evidenced by the collective negative average P&L. The disparity in performance metrics, particularly the low win rates in Kosho and Maine, suggests that directional conviction was difficult to maintain across different asset classes this week.
 
-This summary represents a review of past paper-trading results and should not be construed as investment advice or a prediction of future market movements. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
+This summary represents a review of past paper-trading results and should not be construed as investment advice or a prediction of future market movements. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="Beom" />
 
 ---
 

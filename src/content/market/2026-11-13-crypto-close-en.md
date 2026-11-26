@@ -40,16 +40,16 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 
 ## Desk panel
 - **Macro:** Volatility remains in a stable, slightly bullish range, while inflation shows a clear bearish tilt. :macro:
-- **Bonds:** The bond market sentiment is currently neutral, with no discernible directional bias from the data. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions are registering as neutral, indicating no strong directional pressure from the credit cycle. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="샤암" />
-- **Liquidity:** Liquidity metrics suggest a neutral stance, though the bearish reading holds more weight than the bullish reading. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Commodities:** Commodities are exhibiting a bearish regime state, with the majority of observed movement leaning downward. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
-- **Crypto:** The cryptocurrency market is in a deteriorating, sideways-bearish state, with bearish readings significantly outweighing bullish ones. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
+- **Bonds:** The bond market sentiment is currently neutral, with no discernible directional bias from the data. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions are registering as neutral, indicating no strong directional pressure from the credit cycle. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="Sham" />
+- **Liquidity:** Liquidity metrics suggest a neutral stance, though the bearish reading holds more weight than the bullish reading. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Commodities:** Commodities are exhibiting a bearish regime state, with the majority of observed movement leaning downward. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="Bengal" />
+- **Crypto:** The cryptocurrency market is in a deteriorating, sideways-bearish state, with bearish readings significantly outweighing bullish ones. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="Bengal" />
 - **Korea:** The Korean market is in a sideways-bearish state, though the trend reading suggests an improving underlying momentum. :korea:
 - **US:** The US market is in a sideways-bullish state, with a clear majority of readings pointing toward bullish sentiment and an improving trend. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure shows divergence, with US equities displaying improving bullish momentum while commodities and inflation signal bearish pressure. Crypto remains weak, contrasting with the more stable, albeit cautious, readings seen in the US indices. On balance, the tape suggests underlying sector strength is being weighed against persistent macro headwinds. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
+**Beom(Chair):** The market structure shows divergence, with US equities displaying improving bullish momentum while commodities and inflation signal bearish pressure. Crypto remains weak, contrasting with the more stable, albeit cautious, readings seen in the US indices. On balance, the tape suggests underlying sector strength is being weighed against persistent macro headwinds. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

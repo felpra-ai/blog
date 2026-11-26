@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-31 09:00 KST — Allstate Corporation (The) 배당락일 (ALL)
-- 🔴 08-31 09:00 KST — Qnity Electronics, Inc. 배당락일 (Q)
-- 🔴 08-31 09:00 KST — Hubbell Inc 배당락일 (HUBB)
-- 🔴 08-31 09:00 KST — DuPont de Nemours, Inc. 배당락일 (DD)
-- 🔴 08-31 09:00 KST — Parker-Hannifin Corporation 배당락일 (PH)
-- 🔴 08-31 09:00 KST — Dow Inc. 배당락일 (DOW)
+- 🔴 08-31 09:00 KST — Allstate Corporation (The) ex-dividend date (ALL)
+- 🔴 08-31 09:00 KST — Qnity Electronics, Inc. ex-dividend date (Q)
+- 🔴 08-31 09:00 KST — Hubbell Inc ex-dividend date (HUBB)
+- 🔴 08-31 09:00 KST — DuPont de Nemours, Inc. ex-dividend date (DD)
+- 🔴 08-31 09:00 KST — Parker-Hannifin Corporation ex-dividend date (PH)
+- 🔴 08-31 09:00 KST — Dow Inc. ex-dividend date (DOW)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 3 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is reading bearishly, while liquidity shows a clear bullish bias. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Credit conditions are entirely bullish, though bond trends remain balanced. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** FX sentiment is mixed, showing more bullish leaning than bearish, but remains undecided. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit an extreme bullish reading, suggesting strong underlying demand. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are showing a deteriorating trend, with real estate being a relative strength while consumer cyclical, financial services, and industrials are lagging. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is reading bearishly, while liquidity shows a clear bullish bias. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit conditions are entirely bullish, though bond trends remain balanced. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** FX sentiment is mixed, showing more bullish leaning than bearish, but remains undecided. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit an extreme bullish reading, suggesting strong underlying demand. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a deteriorating trend, with real estate being a relative strength while consumer cyclical, financial services, and industrials are lagging. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market view suggests robust commodity strength and improving liquidity, contrasting with deteriorating US equity momentum. The macro picture is characterized by strong credit and commodity support, while underlying volatility remains elevated. On balance, the market exhibits mixed directional signals, requiring caution. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The cross-market view suggests robust commodity strength and improving liquidity, contrasting with deteriorating US equity momentum. The macro picture is characterized by strong credit and commodity support, while underlying volatility remains elevated. On balance, the market exhibits mixed directional signals, requiring caution. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

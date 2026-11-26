@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-13 09:00 KST — Smurfit WestRock plc 배당락일 (SW)
-- 🔴 11-13 09:00 KST — WEC Energy Group, Inc. 배당락일 (WEC)
-- 🔴 11-13 09:00 KST — The J.M. Smucker Company 배당락일 (SJM)
-- 🔴 11-13 09:00 KST — Duke Energy Corporation (Holdin 배당락일 (DUK)
-- 🔴 11-13 09:00 KST — Healthpeak Properties, Inc. 배당락일 (DOC)
-- 🔴 11-13 09:00 KST — Invesco Ltd 배당락일 (IVZ)
+- 🔴 11-13 09:00 KST — Smurfit WestRock plc ex-dividend date (SW)
+- 🔴 11-13 09:00 KST — WEC Energy Group, Inc. ex-dividend date (WEC)
+- 🔴 11-13 09:00 KST — The J.M. Smucker Company ex-dividend date (SJM)
+- 🔴 11-13 09:00 KST — Duke Energy Corporation (Holdin ex-dividend date (DUK)
+- 🔴 11-13 09:00 KST — Healthpeak Properties, Inc. ex-dividend date (DOC)
+- 🔴 11-13 09:00 KST — Invesco Ltd ex-dividend date (IVZ)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -57,7 +57,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Financial Services, Communication Services, and Consumer Defensive sectors show strength, while Technology, ENERGY, and TECHNOLOGY sectors exhibit weakness. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** US equities are showing an improving, broadly supportive posture, while commodity and inflation indicators suggest underlying softness. The divergence between US strength and the bearish readings in commodities and crypto suggests caution across asset classes. <img class="emoji-char" src="/characters/v2/orchestrator/face/07_confident.png" alt="범" />
+**Beom(Chair):** US equities are showing an improving, broadly supportive posture, while commodity and inflation indicators suggest underlying softness. The divergence between US strength and the bearish readings in commodities and crypto suggests caution across asset classes. <img class="emoji-char" src="/characters/v2/orchestrator/face/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

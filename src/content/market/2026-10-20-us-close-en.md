@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-20 09:00 KST — Colgate-Palmolive Company 배당락일 (CL)
-- 🔴 10-20 09:00 KST — Dell Technologies Inc. 배당락일 (DELL)
-- 🔴 10-20 21:30 KST — General Motors Company 실적 발표 (GM)
-- 🔴 10-20 21:30 KST — Danaher Corporation 실적 발표 (DHR)
-- 🔴 10-20 21:30 KST — PulteGroup, Inc. 실적 발표 (PHM)
-- 🔴 10-20 21:30 KST — Equifax, Inc. 실적 발표 (EFX)
+- 🔴 10-20 09:00 KST — Colgate-Palmolive Company ex-dividend date (CL)
+- 🔴 10-20 09:00 KST — Dell Technologies Inc. ex-dividend date (DELL)
+- 🔴 10-20 21:30 KST — General Motors Company earnings (GM)
+- 🔴 10-20 21:30 KST — Danaher Corporation earnings (DHR)
+- 🔴 10-20 21:30 KST — PulteGroup, Inc. earnings (PHM)
+- 🔴 10-20 21:30 KST — Equifax, Inc. earnings (EFX)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (57 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 10 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains neutral, showing no directional bias in the current reading. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit metrics suggest a neutral stance. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are neutral, with a slight leaning toward bearish sentiment. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are reading neutral, with slightly more bearish indication than bullish. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are showing a sideways bullish trend, with Financial Services, Consumer Defensive, Healthcare, and Technology sectors showing strength, while Communication Services is lagging. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains neutral, showing no directional bias in the current reading. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit metrics suggest a neutral stance. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are neutral, with a slight leaning toward bearish sentiment. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are reading neutral, with slightly more bearish indication than bullish. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a sideways bullish trend, with Financial Services, Consumer Defensive, Healthcare, and Technology sectors showing strength, while Communication Services is lagging. <img class="emoji-char" src="/characters/us/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a mixed signal, with bonds showing pronounced strength while crypto and Korean markets indicate deteriorating trends. US equities are showing underlying support amidst sector divergence. Overall, the market structure suggests caution, balancing strong fixed income readings against weakening risk asset sentiment. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The macro picture presents a mixed signal, with bonds showing pronounced strength while crypto and Korean markets indicate deteriorating trends. US equities are showing underlying support amidst sector divergence. Overall, the market structure suggests caution, balancing strong fixed income readings against weakening risk asset sentiment. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

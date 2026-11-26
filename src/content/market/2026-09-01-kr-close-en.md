@@ -32,7 +32,7 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-02 09:00 KST — LOTTE CHEMICAL Corp 배당락일 (011170)
+- 🔴 09-02 09:00 KST — LOTTE CHEMICAL Corp ex-dividend date (011170)
 - 🔴 09-03 19:00 KST — OPEC+ Meeting
 - 🔴 09-04 21:30 KST — US Nonfarm Payrolls
 - 🟡 09-01 23:00 KST — ISM Manufacturing PMI
@@ -42,11 +42,11 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is showing a clear bearish leaning, while overall liquidity remains in an extreme bullish state. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Credit conditions are registering as strongly bullish, contrasting with bonds showing a neutral stance. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are reporting a neutral regime, with no discernible directional bias. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are positioned neutrally, exhibiting an equal split between bullish and bearish sentiment. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are reading as neutral overall, with materials showing strength while utilities appear weaker. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Lovble(Global):** Volatility is showing a clear bearish leaning, while overall liquidity remains in an extreme bullish state. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit conditions are registering as strongly bullish, contrasting with bonds showing a neutral stance. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are reporting a neutral regime, with no discernible directional bias. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are positioned neutrally, exhibiting an equal split between bullish and bearish sentiment. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are reading as neutral overall, with materials showing strength while utilities appear weaker. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
 **Beom(Chair):** The market structure presents a divergence where credit and liquidity are exhibiting pronounced bullishness, while volatility and bonds maintain a more measured, neutral posture. This suggests underlying support from credit cycles despite caution in rate-sensitive assets. The reading across major markets—US, Crypto, and Korea—is generally neutral, pointing toward consolidation within established ranges.

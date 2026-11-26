@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-26 15:00 KST — Hanwha Ocean 실적 발표 (042660)
-- 🔴 10-26 15:00 KST — POSCO Holdings 실적 발표 (005490)
-- 🔴 10-26 15:00 KST — SKBS 실적 발표 (302440)
-- 🔴 10-26 15:00 KST — BNK Financial Group 실적 발표 (138930)
-- 🔴 10-27 09:00 KST — KT 배당락일 (030200)
-- 🔴 10-27 15:00 KST — SAMSUNG CARD 실적 발표 (029780)
+- 🔴 10-26 15:00 KST — Hanwha Ocean earnings (042660)
+- 🔴 10-26 15:00 KST — POSCO Holdings earnings (005490)
+- 🔴 10-26 15:00 KST — SKBS earnings (302440)
+- 🔴 10-26 15:00 KST — BNK Financial Group earnings (138930)
+- 🔴 10-27 09:00 KST — KT ex-dividend date (030200)
+- 🔴 10-27 15:00 KST — SAMSUNG CARD earnings (029780)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -56,7 +56,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are in an improving trend, showing a clear bullish bias despite some mixed signals. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: while credit and liquidity appear robustly bullish, the commodity and crypto sectors show clear weakness. The US market shows signs of improvement, contrasting with the deteriorating trend observed in Korean equities. Overall, the tape suggests caution amid mixed cross-asset signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: while credit and liquidity appear robustly bullish, the commodity and crypto sectors show clear weakness. The US market shows signs of improvement, contrasting with the deteriorating trend observed in Korean equities. Overall, the tape suggests caution amid mixed cross-asset signals. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-09 09:00 KST — CME Group Inc. 배당락일 (CME)
-- 🔴 09-09 09:00 KST — Everest Group, Ltd. 배당락일 (EG)
-- 🔴 09-09 09:00 KST — HP Inc. 배당락일 (HPQ)
-- 🔴 09-09 09:00 KST — Public Service Enterprise Group 배당락일 (PEG)
-- 🔴 09-09 09:00 KST — Becton, Dickinson and Company 배당락일 (BDX)
-- 🔴 09-09 09:00 KST — Simon Property Group, Inc. 배당락일 (SPG)
+- 🔴 09-09 09:00 KST — CME Group Inc. ex-dividend date (CME)
+- 🔴 09-09 09:00 KST — Everest Group, Ltd. ex-dividend date (EG)
+- 🔴 09-09 09:00 KST — HP Inc. ex-dividend date (HPQ)
+- 🔴 09-09 09:00 KST — Public Service Enterprise Group ex-dividend date (PEG)
+- 🔴 09-09 09:00 KST — Becton, Dickinson and Company ex-dividend date (BDX)
+- 🔴 09-09 09:00 KST — Simon Property Group, Inc. ex-dividend date (SPG)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.28) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is stable, with bearish readings dominating the current structure. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bond sentiment remains balanced, though credit indicators show a significant leaning toward bearishness. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange dynamics are weighted toward bearish readings, suggesting caution in currency movements. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit a slight upward bias, maintaining a sideways but positive directional posture. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are showing signs of weakening momentum, while specific sectors like Real Estate and Utilities show relative strength. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is stable, with bearish readings dominating the current structure. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond sentiment remains balanced, though credit indicators show a significant leaning toward bearishness. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange dynamics are weighted toward bearish readings, suggesting caution in currency movements. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit a slight upward bias, maintaining a sideways but positive directional posture. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are showing signs of weakening momentum, while specific sectors like Real Estate and Utilities show relative strength. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a complex picture: commodities show underlying support, but liquidity conditions are notably strained. US equities reflect a deteriorating trend, contrasting with improving momentum seen in Crypto and Korea. The overall tape suggests caution, balancing sector strength against broader macro headwinds. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The market structure presents a complex picture: commodities show underlying support, but liquidity conditions are notably strained. US equities reflect a deteriorating trend, contrasting with improving momentum seen in Crypto and Korea. The overall tape suggests caution, balancing sector strength against broader macro headwinds. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

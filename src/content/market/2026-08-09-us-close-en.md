@@ -32,25 +32,25 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-10 09:00 KST — American Electric Power Company 배당락일 (AEP)
-- 🔴 08-10 09:00 KST — Apple Inc. 배당락일 (AAPL)
+- 🔴 08-10 09:00 KST — American Electric Power Company ex-dividend date (AEP)
+- 🔴 08-10 09:00 KST — Apple Inc. ex-dividend date (AAPL)
 - 🔴 08-11 21:30 KST — US CPI Release
-- 🔴 08-12 21:30 KST — Amcor plc 실적 발표 (AMCR)
-- 🔴 08-13 21:30 KST — Amcor plc 실적 발표 (AMCR)
-- 🔴 08-14 05:00 KST — Applied Materials, Inc. 실적 발표 (AMAT)
+- 🔴 08-12 21:30 KST — Amcor plc earnings (AMCR)
+- 🔴 08-13 21:30 KST — Amcor plc earnings (AMCR)
+- 🔴 08-14 05:00 KST — Applied Materials, Inc. earnings (AMAT)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Bsho(Bonds):** Bonds show a neutral stance with a slight leaning towards bullish sentiment. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange dynamics read as bearish, with the majority sentiment pointing downward. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are exhibiting a neutral regime, showing no discernible directional bias. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are reading as neutral overall, with no specific sector dominance noted in the provided data. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Bsho(Bonds):** Bonds show a neutral stance with a slight leaning towards bullish sentiment. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange dynamics read as bearish, with the majority sentiment pointing downward. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are exhibiting a neutral regime, showing no discernible directional bias. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are reading as neutral overall, with no specific sector dominance noted in the provided data. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market exhibits a complex picture where volatility is reading extremely bearish, while credit remains in a sideways-bullish posture. Liquidity and FX are both registering bearish tilts, suggesting caution despite underlying credit strength. The overall sentiment across major asset classes appears balanced, but the bearish readings in liquidity and FX warrant attention. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market exhibits a complex picture where volatility is reading extremely bearish, while credit remains in a sideways-bullish posture. Liquidity and FX are both registering bearish tilts, suggesting caution despite underlying credit strength. The overall sentiment across major asset classes appears balanced, but the bearish readings in liquidity and FX warrant attention. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

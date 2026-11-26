@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-20 09:00 KST — KOLON IND 배당락일 (120110)
-- 🔴 08-20 09:00 KST — HANKOOK & COMPANY 배당락일 (000240)
-- 🔴 08-20 09:00 KST — KT&G 배당락일 (033780)
-- 🔴 08-20 15:00 KST — HANJINKAL 실적 발표 (180640)
-- 🔴 08-21 09:00 KST — POSCO Holdings 배당락일 (005490)
-- 🔴 08-24 09:00 KST — HANKOOK TIRE & TECHNOLOGY 배당락일 (161390)
+- 🔴 08-20 09:00 KST — KOLON IND ex-dividend date (120110)
+- 🔴 08-20 09:00 KST — HANKOOK & COMPANY ex-dividend date (000240)
+- 🔴 08-20 09:00 KST — KT&G ex-dividend date (033780)
+- 🔴 08-20 15:00 KST — HANJINKAL earnings (180640)
+- 🔴 08-21 09:00 KST — POSCO Holdings ex-dividend date (005490)
+- 🔴 08-24 09:00 KST — HANKOOK TIRE & TECHNOLOGY ex-dividend date (161390)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (61 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable with a slight leaning towards bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bond movements show a balanced distribution between bullish and bearish indicators, suggesting a lack of directional conviction. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange sentiment is mixed, with bullish indicators showing a notable edge over bearish ones. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity indicators show a clear bullish leaning, while inflation remains balanced. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities show a neutral reading overall, with materials, semiconductors, and industrials exhibiting strength. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains stable with a slight leaning towards bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond movements show a balanced distribution between bullish and bearish indicators, suggesting a lack of directional conviction. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange sentiment is mixed, with bullish indicators showing a notable edge over bearish ones. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity indicators show a clear bullish leaning, while inflation remains balanced. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities show a neutral reading overall, with materials, semiconductors, and industrials exhibiting strength. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a mixed picture; while commodities and credit show positive leaning, crypto and bonds maintain a neutral stance. The general sentiment across major asset classes suggests caution, with underlying strength noted in specific industrial and material sectors. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure presents a mixed picture; while commodities and credit show positive leaning, crypto and bonds maintain a neutral stance. The general sentiment across major asset classes suggests caution, with underlying strength noted in specific industrial and material sectors. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

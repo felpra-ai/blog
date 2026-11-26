@@ -32,16 +32,16 @@ altLang: ko
 
 ## Desk panel
 - **Macro:** Volatility remains stable with a slight lean towards bearish readings, while the broader macro picture shows a mix of stability across asset classes. :macro:
-- **Bonds:** Bond indicators suggest a neutral stance, with bullish readings slightly outweighing bearish ones, indicating no strong directional bias. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit metrics point toward a neutral regime, characterized by a higher weighting toward bearish observations. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **FX:** Foreign exchange movements are reading sideways-bullish, with bullish sentiment holding a slight edge over bearish readings. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Commodities:** Commodity indicators are neutral, showing a notable bullish leaning across the observed metrics. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Bonds:** Bond indicators suggest a neutral stance, with bullish readings slightly outweighing bearish ones, indicating no strong directional bias. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit metrics point toward a neutral regime, characterized by a higher weighting toward bearish observations. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **FX:** Foreign exchange movements are reading sideways-bullish, with bullish sentiment holding a slight edge over bearish readings. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Commodities:** Commodity indicators are neutral, showing a notable bullish leaning across the observed metrics. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 - **Crypto:** Cryptocurrency activity reads neutral, with bullish sentiment showing a measurable presence relative to bearish readings. :crypto:
 - **Korea:** Korean equities are reading neutral, with bullish and bearish sentiments holding relatively balanced ground. :korea:
 - **US:** US market sentiment is reading neutral, but with a noted improving trend bias. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market exhibits a complex interplay where underlying liquidity stress is evident, contrasting with sector-specific strength noted in Korean materials and IT media. The overall picture suggests caution, with macro indicators pointing to stability but lacking strong directional conviction across the board. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market exhibits a complex interplay where underlying liquidity stress is evident, contrasting with sector-specific strength noted in Korean materials and IT media. The overall picture suggests caution, with macro indicators pointing to stability but lacking strong directional conviction across the board. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

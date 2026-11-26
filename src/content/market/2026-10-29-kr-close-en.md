@@ -35,9 +35,9 @@ altLang: ko
 - 🔴 10-29 21:30 KST — US PCE Price Index
 - 🔴 10-29 21:30 KST — US GDP Release
 - 🔴 10-29 22:15 KST — ECB Interest Rate Decision
-- 🔴 10-30 15:00 KST — LGELECTRONICS 실적 발표 (066570)
-- 🔴 10-30 15:00 KST — Mobis 실적 발표 (012330)
-- 🔴 10-30 15:00 KST — HANWHA AEROSPACE 실적 발표 (012450)
+- 🔴 10-30 15:00 KST — LGELECTRONICS earnings (066570)
+- 🔴 10-30 15:00 KST — Mobis earnings (012330)
+- 🔴 10-30 15:00 KST — HANWHA AEROSPACE earnings (012450)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -45,18 +45,18 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility remains neutral, showing no directional bias in its current reading. :vix:
-- **Bonds:** The bond market exhibits a leaning towards bullish sentiment, though bearish readings hold a notable weight. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions are assessed as neutral, with an even distribution of bullish and bearish indicators. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **FX:** Foreign exchange remains neutral, with equal representation across bullish and bearish indicators. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Liquidity:** Liquidity readings suggest a sideways bias leaning towards bullishness. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Commodities:** Commodities are registering an extreme bearish state, with bearish indicators significantly outweighing bullish ones. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Inflation:** Inflation indicators show an extreme bearish leaning, though bullish readings are present. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
+- **Bonds:** The bond market exhibits a leaning towards bullish sentiment, though bearish readings hold a notable weight. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions are assessed as neutral, with an even distribution of bullish and bearish indicators. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **FX:** Foreign exchange remains neutral, with equal representation across bullish and bearish indicators. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Liquidity:** Liquidity readings suggest a sideways bias leaning towards bullishness. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Commodities:** Commodities are registering an extreme bearish state, with bearish indicators significantly outweighing bullish ones. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Inflation:** Inflation indicators show an extreme bearish leaning, though bullish readings are present. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
 - **Crypto:** Cryptocurrency is in a sideways bearish regime, with bearish indicators substantially dominating the readings. :crypto:
-- **Korea:** Korean equities are in a sideways bearish regime, with bearish indicators showing a pronounced trend deterioration. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
+- **Korea:** Korean equities are in a sideways bearish regime, with bearish indicators showing a pronounced trend deterioration. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="Kosho" />
 - **US:** US equities are in a sideways bullish regime, with bullish indicators showing a discernible improving trend. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents divergence, with commodities and inflation showing significant bearish pressure while US equities suggest underlying strength. The general market sentiment appears range-bound, with notable weakness observed in Korean equities and crypto assets. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture presents divergence, with commodities and inflation showing significant bearish pressure while US equities suggest underlying strength. The general market sentiment appears range-bound, with notable weakness observed in Korean equities and crypto assets. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

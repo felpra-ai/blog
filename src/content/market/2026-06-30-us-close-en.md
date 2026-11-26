@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Financial Services, Industrials, Basic Materials, Utilities · weak: Energy
 
 ## Desk panel
-- **Bsho(Bonds):** Bonds read as extremely bullish, while credit maintains a fully bullish stance. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange dynamics show an extreme bearish leaning. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit a neutral reading, with a slight leaning towards the bearish side. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities show an improving trend, with financial services, industrials, basic materials, and utilities showing strength, while energy lags. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
-- **Lovble(Global):** Volatility is reading neutral, and liquidity remains fully bullish. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
+- **Bsho(Bonds):** Bonds read as extremely bullish, while credit maintains a fully bullish stance. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange dynamics show an extreme bearish leaning. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit a neutral reading, with a slight leaning towards the bearish side. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities show an improving trend, with financial services, industrials, basic materials, and utilities showing strength, while energy lags. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
+- **Lovble(Global):** Volatility is reading neutral, and liquidity remains fully bullish. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests strong underlying liquidity and bond support, contrasting with bearish signals in the FX space and deteriorating momentum in Korean assets. US equities show an improving trajectory, though the crypto space reads as neutral. Overall, the tape suggests caution amidst divergent sectoral strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The market structure suggests strong underlying liquidity and bond support, contrasting with bearish signals in the FX space and deteriorating momentum in Korean assets. US equities show an improving trajectory, though the crypto space reads as neutral. Overall, the tape suggests caution amidst divergent sectoral strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

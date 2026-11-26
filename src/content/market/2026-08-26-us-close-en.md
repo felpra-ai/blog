@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-26 09:00 KST — S&P Global Inc. 배당락일 (SPGI)
-- 🔴 08-26 21:30 KST — The J.M. Smucker Company 실적 발표 (SJM)
-- 🔴 08-26 21:30 KST — Williams-Sonoma, Inc. 실적 발표 (WSM)
-- 🔴 08-27 05:00 KST — Agilent Technologies, Inc. 실적 발표 (A)
-- 🔴 08-27 05:00 KST — HP Inc. 실적 발표 (HPQ)
-- 🔴 08-27 05:00 KST — CrowdStrike Holdings, Inc. 실적 발표 (CRWD)
+- 🔴 08-26 09:00 KST — S&P Global Inc. ex-dividend date (SPGI)
+- 🔴 08-26 21:30 KST — The J.M. Smucker Company earnings (SJM)
+- 🔴 08-26 21:30 KST — Williams-Sonoma, Inc. earnings (WSM)
+- 🔴 08-27 05:00 KST — Agilent Technologies, Inc. earnings (A)
+- 🔴 08-27 05:00 KST — HP Inc. earnings (HPQ)
+- 🔴 08-27 05:00 KST — CrowdStrike Holdings, Inc. earnings (CRWD)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing an even split between bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Credit metrics show a strong leaning toward bullish sentiment, while bond trends are holding a neutral stance. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange indicators read as extremely bullish, despite a noticeable bearish component. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit an extremely bullish reading, while inflation sentiment is entirely bullish. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities are reading as neutral overall, with Energy and Communication Services showing strength, while Utilities and Financial Services are weaker. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable, showing an even split between bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit metrics show a strong leaning toward bullish sentiment, while bond trends are holding a neutral stance. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange indicators read as extremely bullish, despite a noticeable bearish component. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit an extremely bullish reading, while inflation sentiment is entirely bullish. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities are reading as neutral overall, with Energy and Communication Services showing strength, while Utilities and Financial Services are weaker. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market view suggests strong underlying commodity and liquidity support, contrasting with mixed signals in regional equity performance. The divergence between the extreme bullishness in commodities and the neutral readings in major equity indices suggests caution regarding immediate directional conviction. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The cross-market view suggests strong underlying commodity and liquidity support, contrasting with mixed signals in regional equity performance. The divergence between the extreme bullishness in commodities and the neutral readings in major equity indices suggests caution regarding immediate directional conviction. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

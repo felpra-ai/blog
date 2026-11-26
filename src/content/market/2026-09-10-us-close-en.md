@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-10 09:00 KST — Nordson Corporation 배당락일 (NDSN)
-- 🔴 09-10 09:00 KST — Occidental Petroleum Corporatio 배당락일 (OXY)
-- 🔴 09-10 09:00 KST — Mosaic Company (The) 배당락일 (MOS)
-- 🔴 09-10 09:00 KST — The Travelers Companies, Inc. 배당락일 (TRV)
-- 🔴 09-10 09:00 KST — NVIDIA Corporation 배당락일 (NVDA)
-- 🔴 09-10 09:00 KST — Elevance Health, Inc. 배당락일 (ELV)
+- 🔴 09-10 09:00 KST — Nordson Corporation ex-dividend date (NDSN)
+- 🔴 09-10 09:00 KST — Occidental Petroleum Corporatio ex-dividend date (OXY)
+- 🔴 09-10 09:00 KST — Mosaic Company (The) ex-dividend date (MOS)
+- 🔴 09-10 09:00 KST — The Travelers Companies, Inc. ex-dividend date (TRV)
+- 🔴 09-10 09:00 KST — NVIDIA Corporation ex-dividend date (NVDA)
+- 🔴 09-10 09:00 KST — Elevance Health, Inc. ex-dividend date (ELV)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.27) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing balanced readings across bullish and bearish indicators. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bond sentiment is mixed, leaning slightly toward bullish conviction despite overall stability. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange sentiment is notably weighted bearishly, indicating caution in currency flows. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment registers a clear bullish leaning, suggesting underlying strength in physical assets. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities show a pronounced bearish bias, with notable weakness observed in the Technology sector, while Real Estate, Utilities, and Energy exhibit relative strength. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable, showing balanced readings across bullish and bearish indicators. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond sentiment is mixed, leaning slightly toward bullish conviction despite overall stability. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange sentiment is notably weighted bearishly, indicating caution in currency flows. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment registers a clear bullish leaning, suggesting underlying strength in physical assets. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities show a pronounced bearish bias, with notable weakness observed in the Technology sector, while Real Estate, Utilities, and Energy exhibit relative strength. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market exhibits divergence; while commodities and crypto show signs of underlying strength or improvement, the broader US equity picture is deteriorating, and liquidity signals bearish pressure. The underlying macro picture suggests caution, particularly given the contrasting signals between asset classes and the general liquidity environment. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The market exhibits divergence; while commodities and crypto show signs of underlying strength or improvement, the broader US equity picture is deteriorating, and liquidity signals bearish pressure. The underlying macro picture suggests caution, particularly given the contrasting signals between asset classes and the general liquidity environment. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

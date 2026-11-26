@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-18 09:00 KST — Omnicom Group Inc. 배당락일 (OMC)
-- 🔴 09-18 09:00 KST — International Flavors & Fragran 배당락일 (IFF)
-- 🔴 09-21 09:00 KST — DTE Energy Company 배당락일 (DTE)
-- 🔴 09-21 09:00 KST — W.R. Berkley Corporation 배당락일 (WRB)
-- 🔴 09-21 09:00 KST — Vistra Corp. 배당락일 (VST)
-- 🔴 09-21 09:00 KST — Kenvue Inc. 배당락일 (KVUE)
+- 🔴 09-18 09:00 KST — Omnicom Group Inc. ex-dividend date (OMC)
+- 🔴 09-18 09:00 KST — International Flavors & Fragran ex-dividend date (IFF)
+- 🔴 09-21 09:00 KST — DTE Energy Company ex-dividend date (DTE)
+- 🔴 09-21 09:00 KST — W.R. Berkley Corporation ex-dividend date (WRB)
+- 🔴 09-21 09:00 KST — Vistra Corp. ex-dividend date (VST)
+- 🔴 09-21 09:00 KST — Kenvue Inc. ex-dividend date (KVUE)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.27) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings show an extreme bullish bias, while the overall trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Bond indicators suggest a bullish leaning, though the trend itself is stable. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements indicate a strong bearish bias, with the trend remaining stable. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is neutral, with a slight leaning toward bearishness. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equity performance is reading neutral, but the underlying trend is noted as deteriorating. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility readings show an extreme bullish bias, while the overall trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond indicators suggest a bullish leaning, though the trend itself is stable. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements indicate a strong bearish bias, with the trend remaining stable. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is neutral, with a slight leaning toward bearishness. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equity performance is reading neutral, but the underlying trend is noted as deteriorating. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Macro indicators present a mixed picture, notably with extreme bearish readings across credit and inflation, contrasting with the stable, high bullish readings in volatility. The divergence between the US equity trend deterioration and the general market neutrality suggests caution. On balance, the environment appears range-bound with underlying structural headwinds evident in credit and inflation metrics. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** Macro indicators present a mixed picture, notably with extreme bearish readings across credit and inflation, contrasting with the stable, high bullish readings in volatility. The divergence between the US equity trend deterioration and the general market neutrality suggests caution. On balance, the environment appears range-bound with underlying structural headwinds evident in credit and inflation metrics. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

@@ -33,11 +33,11 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 08-11 21:30 KST — US CPI Release
-- 🔴 08-12 15:00 KST — SamsungF&MIns 실적 발표 (000810)
-- 🔴 08-13 15:00 KST — LG Corp. 실적 발표 (003550)
-- 🔴 08-13 15:00 KST — Hyundai M&F INS 실적 발표 (001450)
-- 🔴 08-13 15:00 KST — Nongshim 실적 발표 (004370)
-- 🔴 08-13 15:00 KST — SamsungF&MIns 실적 발표 (000810)
+- 🔴 08-12 15:00 KST — SamsungF&MIns earnings (000810)
+- 🔴 08-13 15:00 KST — LG Corp. earnings (003550)
+- 🔴 08-13 15:00 KST — Hyundai M&F INS earnings (001450)
+- 🔴 08-13 15:00 KST — Nongshim earnings (004370)
+- 🔴 08-13 15:00 KST — SamsungF&MIns earnings (000810)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -45,16 +45,16 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **Volatility:** The market exhibits a predominantly bearish sentiment, with volatility remaining stable in its current state. :volatility:
-- **Bonds:** The bond market sentiment is balanced, showing an equal measure of bullish and bearish indicators while maintaining a stable trend. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Credit:** Credit conditions read as sideways-bullish, suggesting underlying strength despite the lack of strong directional conviction. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **FX:** Foreign exchange sentiment leans bearish, indicating a clearer bias toward downside movement across currency pairs. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Commodities:** Commodity indicators suggest a neutral environment, with no discernible directional bias present. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Bonds:** The bond market sentiment is balanced, showing an equal measure of bullish and bearish indicators while maintaining a stable trend. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Credit:** Credit conditions read as sideways-bullish, suggesting underlying strength despite the lack of strong directional conviction. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **FX:** Foreign exchange sentiment leans bearish, indicating a clearer bias toward downside movement across currency pairs. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Commodities:** Commodity indicators suggest a neutral environment, with no discernible directional bias present. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 - **Crypto:** Cryptocurrency sentiment is neutral, showing a slight leaning toward bullish indicators while remaining stable. :crypto:
-- **Korea:** Korean equities present a neutral reading, with the industrial, chemical, materials, and financials sectors showing relative strength compared to consumer goods. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Korea:** Korean equities present a neutral reading, with the industrial, chemical, materials, and financials sectors showing relative strength compared to consumer goods. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 - **US:** US equities show a neutral reading, with bullish indicators slightly outweighing bearish ones, and the trend remaining stable. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents divergence, with bearish readings in FX and liquidity contrasting against sideways-bullish credit and neutral readings across commodities and crypto. The underlying equity markets, both US and Korea, are displaying a neutral, range-bound characterization. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The macro picture presents divergence, with bearish readings in FX and liquidity contrasting against sideways-bullish credit and neutral readings across commodities and crypto. The underlying equity markets, both US and Korea, are displaying a neutral, range-bound characterization. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

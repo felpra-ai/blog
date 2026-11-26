@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-27 21:30 KST — American Tower Corporation (REI 실적 발표 (AMT)
-- 🔴 10-27 21:30 KST — HCA Healthcare, Inc. 실적 발표 (HCA)
-- 🔴 10-27 21:30 KST — UnitedHealth Group Incorporated 실적 발표 (UNH)
-- 🔴 10-27 21:30 KST — Pentair plc. 실적 발표 (PNR)
-- 🔴 10-27 21:30 KST — A.O. Smith Corporation 실적 발표 (AOS)
-- 🔴 10-27 21:30 KST — Royal Caribbean Cruises Ltd. 실적 발표 (RCL)
+- 🔴 10-27 21:30 KST — American Tower Corporation (REI earnings (AMT)
+- 🔴 10-27 21:30 KST — HCA Healthcare, Inc. earnings (HCA)
+- 🔴 10-27 21:30 KST — UnitedHealth Group Incorporated earnings (UNH)
+- 🔴 10-27 21:30 KST — Pentair plc. earnings (PNR)
+- 🔴 10-27 21:30 KST — A.O. Smith Corporation earnings (AOS)
+- 🔴 10-27 21:30 KST — Royal Caribbean Cruises Ltd. earnings (RCL)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (57 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.23) — only 6 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is reading strongly bullish, suggesting elevated risk appetite across the board. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Bonds show a mixed signal, with equal weight on bullish and bearish indicators, suggesting indecision. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** FX sentiment is neutral, with a slight leaning towards bearish readings. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are registering an extreme bearish reading, pointing towards significant downward pressure. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities are showing a bullish trend, while the Technology sector within the US basket is noted as weak. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is reading strongly bullish, suggesting elevated risk appetite across the board. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds show a mixed signal, with equal weight on bullish and bearish indicators, suggesting indecision. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** FX sentiment is neutral, with a slight leaning towards bearish readings. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are registering an extreme bearish reading, pointing towards significant downward pressure. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a bullish trend, while the Technology sector within the US basket is noted as weak. <img class="emoji-char" src="/characters/us/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: US equities show improving bullish momentum, while commodities and crypto exhibit significant bearish readings. Macro indicators suggest improving inflation readings alongside strong liquidity, though bond positioning remains mixed. The overall picture points to underlying strength in the US market contrasting with weakness in global commodity and digital asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: US equities show improving bullish momentum, while commodities and crypto exhibit significant bearish readings. Macro indicators suggest improving inflation readings alongside strong liquidity, though bond positioning remains mixed. The overall picture points to underlying strength in the US market contrasting with weakness in global commodity and digital asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

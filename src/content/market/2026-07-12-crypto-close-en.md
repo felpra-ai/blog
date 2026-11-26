@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: gaming nft, defi, meme, layer1 · weak: — · dominance: btc_dominant
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings suggest a persistent bearish bias, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond sentiment is balanced, though credit indicators show a notable leaning toward bearish conditions. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements register as strongly bullish, maintaining a stable trend. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit a clear bullish leaning, while inflation readings are significantly bullish. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is showing a neutral posture, with the overall market structure remaining stable. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Lovble(Global):** Volatility readings suggest a persistent bearish bias, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond sentiment is balanced, though credit indicators show a notable leaning toward bearish conditions. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements register as strongly bullish, maintaining a stable trend. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit a clear bullish leaning, while inflation readings are significantly bullish. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is showing a neutral posture, with the overall market structure remaining stable. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The data presents a divergence where commodity and inflation signals are strongly positive, contrasting with the bearish tilt observed in credit and volatility. FX strength and the US market's improving trend suggest underlying directional support, though the overall picture remains mixed across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The data presents a divergence where commodity and inflation signals are strongly positive, contrasting with the bearish tilt observed in credit and volatility. FX strength and the US market's improving trend suggest underlying directional support, though the overall picture remains mixed across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

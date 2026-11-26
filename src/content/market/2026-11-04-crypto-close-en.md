@@ -51,7 +51,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Strong:** Sector strength is noted, with specific weaknesses identified in the DeFi, exchange, and other baskets, while Bitcoin maintains dominance. :strong:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents diverging signals: while US market structure appears to be improving, commodity and inflation readings suggest significant underlying weakness. The crypto space mirrors this caution, showing deterioration, contrasting with the relative stability observed in the US market structure. On balance, the tape suggests caution, with underlying asset classes showing distinct directional divergences. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture presents diverging signals: while US market structure appears to be improving, commodity and inflation readings suggest significant underlying weakness. The crypto space mirrors this caution, showing deterioration, contrasting with the relative stability observed in the US market structure. On balance, the tape suggests caution, with underlying asset classes showing distinct directional divergences. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

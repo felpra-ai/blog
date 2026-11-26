@@ -40,7 +40,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Crypto:** The cryptocurrency space is showing a distinctly bearish trend, with the bearish indicators heavily outweighing the bullish ones. :crypto:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence, with bonds showing strength while commodities and crypto suggest caution. The US market's slight bullishness contrasts with the bearish leanings observed in crypto and commodities. Overall, the tape suggests a period of mixed directional conviction across asset classes. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence, with bonds showing strength while commodities and crypto suggest caution. The US market's slight bullishness contrasts with the bearish leanings observed in crypto and commodities. Overall, the tape suggests a period of mixed directional conviction across asset classes. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-02 09:00 KST — ShinhanGroup 배당락일 (055550)
-- 🔴 11-02 15:00 KST — HDKSOE 실적 발표 (009540)
-- 🔴 11-02 15:00 KST — POSCO FUTURE M 실적 발표 (003670)
-- 🔴 11-02 15:00 KST — GC Biopharma Corp. 실적 발표 (006280)
-- 🔴 11-02 15:00 KST — S-Oil 실적 발표 (010950)
-- 🔴 11-02 15:00 KST — POSCO Holdings 실적 발표 (005490)
+- 🔴 11-02 09:00 KST — ShinhanGroup ex-dividend date (055550)
+- 🔴 11-02 15:00 KST — HDKSOE earnings (009540)
+- 🔴 11-02 15:00 KST — POSCO FUTURE M earnings (003670)
+- 🔴 11-02 15:00 KST — GC Biopharma Corp. earnings (006280)
+- 🔴 11-02 15:00 KST — S-Oil earnings (010950)
+- 🔴 11-02 15:00 KST — POSCO Holdings earnings (005490)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -54,7 +54,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are in a sideways-bullish state, indicating an improving trend profile. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: US equities show signs of improvement, while commodities and inflation suggest underlying weakness. The high volatility reading, coupled with the bearish tilt in crypto and Korean sectors, suggests caution is warranted despite the improving US backdrop. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: US equities show signs of improvement, while commodities and inflation suggest underlying weakness. The high volatility reading, coupled with the bearish tilt in crypto and Korean sectors, suggests caution is warranted despite the improving US backdrop. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

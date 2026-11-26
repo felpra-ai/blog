@@ -37,7 +37,7 @@ altLang: ko
 - **Sectors:** Infrastructure tokens show strength, with Bitcoin maintaining dominance across the analyzed assets. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests underlying strength in credit and bonds, contrasting with a neutral read on volatility and liquidity. While the US and Korean markets are showing improving trends, the overall cross-market sentiment is one of cautious consolidation, with sector strength anchored by Bitcoin's dominance. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The macro picture suggests underlying strength in credit and bonds, contrasting with a neutral read on volatility and liquidity. While the US and Korean markets are showing improving trends, the overall cross-market sentiment is one of cautious consolidation, with sector strength anchored by Bitcoin's dominance. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 ---
 

@@ -33,7 +33,7 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 09-08 21:30 KST — US CPI Release
-- 🔴 09-10 09:00 KST — LG Corp. 배당락일 (003550)
+- 🔴 09-10 09:00 KST — LG Corp. ex-dividend date (003550)
 - 🔴 09-10 21:15 KST — ECB Interest Rate Decision
 - 🟡 09-10 21:30 KST — US PPI Release
 

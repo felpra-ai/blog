@@ -31,25 +31,25 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 07-30 03:00 KST — FOMC Meeting
-- 🔴 07-30 09:00 KST — KCC 배당락일 (002380)
-- 🔴 07-30 15:00 KST — POSCO FUTURE M 실적 발표 (003670)
-- 🔴 07-30 15:00 KST — POSCO Holdings 실적 발표 (005490)
-- 🔴 07-30 15:00 KST — DL 실적 발표 (000210)
-- 🔴 07-31 15:00 KST — KIA CORP. 실적 발표 (000270)
+- 🔴 07-30 09:00 KST — KCC ex-dividend date (002380)
+- 🔴 07-30 15:00 KST — POSCO FUTURE M earnings (003670)
+- 🔴 07-30 15:00 KST — POSCO Holdings earnings (005490)
+- 🔴 07-30 15:00 KST — DL earnings (000210)
+- 🔴 07-31 15:00 KST — KIA CORP. earnings (000270)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (61 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 5 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable with a slight bullish tilt, suggesting contained risk appetite. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Bond indicators show a neutral stance, with the market displaying no clear directional conviction. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are balanced, pointing toward a lack of strong directional flow in currency pairs. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is mixed, leaning slightly toward bullishness despite underlying neutral readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are showing signs of weakening momentum, with overall market sentiment deteriorating. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains stable with a slight bullish tilt, suggesting contained risk appetite. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond indicators show a neutral stance, with the market displaying no clear directional conviction. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are balanced, pointing toward a lack of strong directional flow in currency pairs. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is mixed, leaning slightly toward bullishness despite underlying neutral readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are showing signs of weakening momentum, with overall market sentiment deteriorating. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Liquidity conditions are notably robust, providing a supportive backdrop across asset classes, although crypto and Korean equities show signs of waning conviction. The US market exhibits an improving trend, suggesting underlying strength that is currently being tested by sector-specific weakness elsewhere. On balance, the market structure suggests caution amidst ample capital flow. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** Liquidity conditions are notably robust, providing a supportive backdrop across asset classes, although crypto and Korean equities show signs of waning conviction. The US market exhibits an improving trend, suggesting underlying strength that is currently being tested by sector-specific weakness elsewhere. On balance, the market structure suggests caution amidst ample capital flow. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

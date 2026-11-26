@@ -38,7 +38,7 @@ altLang: ko
 - **Commodities:** Commodity sentiment is neutral, indicating an even split between bullish and bearish readings. :commodities:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a mixed signal, with strong bullish readings in credit and liquidity contrasting against bearish readings in inflation. The market structure suggests a period of consolidation, where directional conviction is lacking across major asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The macro picture presents a mixed signal, with strong bullish readings in credit and liquidity contrasting against bearish readings in inflation. The market structure suggests a period of consolidation, where directional conviction is lacking across major asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

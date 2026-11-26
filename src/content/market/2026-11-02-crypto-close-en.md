@@ -40,14 +40,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (52 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 5 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings show a predominantly bullish bias, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** The bond market exhibits a balanced sentiment, with equal weight assigned to bullish and bearish readings, and the trend is stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange sentiment is mixed, leaning slightly towards bullish readings, with the trend remaining stable. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity pricing shows a strong bearish lean, and inflation sentiment is also leaning bearish, though the trends for both are stable. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto activity is showing a bearish bias, while the US market displays a bullish bias, and the overall crypto dominance remains concentrated in BTC. <img class="emoji-char" src="/characters/crypto/10_suspicious.png" alt="벵갈" />
+- **Lovble(Global):** Volatility readings show a predominantly bullish bias, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market exhibits a balanced sentiment, with equal weight assigned to bullish and bearish readings, and the trend is stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange sentiment is mixed, leaning slightly towards bullish readings, with the trend remaining stable. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity pricing shows a strong bearish lean, and inflation sentiment is also leaning bearish, though the trends for both are stable. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto activity is showing a bearish bias, while the US market displays a bullish bias, and the overall crypto dominance remains concentrated in BTC. <img class="emoji-char" src="/characters/crypto/10_suspicious.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests underlying caution, particularly evident in the commodity and inflation readings, despite a stable overall volatility regime. The US market shows signs of improvement, contrasting with the bearish leaning observed in the crypto space. The overall tape suggests a period of consolidation within defined boundaries. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
+**Beom(Chair):** The macro picture suggests underlying caution, particularly evident in the commodity and inflation readings, despite a stable overall volatility regime. The US market shows signs of improvement, contrasting with the bearish leaning observed in the crypto space. The overall tape suggests a period of consolidation within defined boundaries. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

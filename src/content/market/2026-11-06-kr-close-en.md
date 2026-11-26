@@ -33,25 +33,25 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 11-06 22:30 KST — US Nonfarm Payrolls
-- 🔴 11-09 09:00 KST — BNK Financial Group 배당락일 (138930)
-- 🔴 11-09 09:00 KST — WooriFinancialGroup 배당락일 (316140)
-- 🔴 11-09 15:00 KST — PearlAbyss 실적 발표 (263750)
-- 🔴 11-09 15:00 KST — Hanssem 실적 발표 (009240)
-- 🔴 11-10 09:00 KST — JB Financial Group 배당락일 (175330)
+- 🔴 11-09 09:00 KST — BNK Financial Group ex-dividend date (138930)
+- 🔴 11-09 09:00 KST — WooriFinancialGroup ex-dividend date (316140)
+- 🔴 11-09 15:00 KST — PearlAbyss earnings (263750)
+- 🔴 11-09 15:00 KST — Hanssem earnings (009240)
+- 🔴 11-10 09:00 KST — JB Financial Group ex-dividend date (175330)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 6 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings indicate a strong bullish bias across the board, while the overall trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Bond sentiment is mixed, showing a notable bearish leaning despite stable trend indicators. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements suggest a slight bullish tilt, maintaining a stable trend. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is strongly bearish, contrasting with inflation readings that show an equal split between bullish and bearish sentiment. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities exhibit a bearish tilt, with specific sectors like Semiconductors, Materials, and Financials showing relative weakness compared to IT/Media, Bio/Health, and Consumer. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
+- **Lovble(Global):** Volatility readings indicate a strong bullish bias across the board, while the overall trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond sentiment is mixed, showing a notable bearish leaning despite stable trend indicators. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements suggest a slight bullish tilt, maintaining a stable trend. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is strongly bearish, contrasting with inflation readings that show an equal split between bullish and bearish sentiment. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities exhibit a bearish tilt, with specific sectors like Semiconductors, Materials, and Financials showing relative weakness compared to IT/Media, Bio/Health, and Consumer. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The US market structure reads as improving and broadly supportive, though the crypto asset class shows deteriorating bearish momentum. On balance, the market presents a complex picture, with strong directional divergence noted across macro inputs and regional equities. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The US market structure reads as improving and broadly supportive, though the crypto asset class shows deteriorating bearish momentum. On balance, the market presents a complex picture, with strong directional divergence noted across macro inputs and regional equities. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

@@ -60,11 +60,11 @@ _Archive this hash — recomputing it later from the raw ledger must reproduce t
 
 ## Remarks by market
 
-**Bengal(Crypto):** The crypto market maintained a win rate above 50% this period, which is positive, though the average profit and loss figures suggest that the magnitude of losses was significant enough to temper overall performance. <img class="emoji-char" src="/characters/crypto/01_joy.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market maintained a win rate above 50% this period, which is positive, though the average profit and loss figures suggest that the magnitude of losses was significant enough to temper overall performance. <img class="emoji-char" src="/characters/crypto/01_joy.png" alt="Bengal" />
 
-**Kosho(KR):** Korean equities showed a win rate below 50%, and the average profit and loss was negative, indicating that the frequency of losses outweighed the gains recorded during this period. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
+**Kosho(KR):** Korean equities showed a win rate below 50%, and the average profit and loss was negative, indicating that the frequency of losses outweighed the gains recorded during this period. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="Kosho" />
 
-**Maine(US):** US equities registered the lowest win rate among the three markets, and the average profit and loss was also negative, suggesting that the selling pressure was notable relative to the winning trades. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
+**Maine(US):** US equities registered the lowest win rate among the three markets, and the average profit and loss was also negative, suggesting that the selling pressure was notable relative to the winning trades. <img class="emoji-char" src="/characters/us/02_sad.png" alt="Maine" />
 
 ## Beom's quorum verdict
 
@@ -72,7 +72,7 @@ The overall performance across the analyzed markets suggests a challenging envir
 
 This review is based purely on historical paper-trading results and does not constitute any form of investment advice or prediction regarding future market movements. The analysis reflects what has transpired in the simulated trading records.
 
-<img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
+<img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="Beom" />
 
 **Related**
 - This week's journals: [2026-08-30 crypto](/journal/2026-08-30-crypto-journal-en/) · [2026-08-31 crypto](/journal/2026-08-31-crypto-journal-en/) · [2026-08-31 kr](/journal/2026-08-31-kr-journal-en/) · [2026-09-01 crypto](/journal/2026-09-01-crypto-journal-en/) · [2026-09-01 kr](/journal/2026-09-01-kr-journal-en/) · [2026-09-01 us](/journal/2026-09-01-us-journal-en/) · [2026-09-02 crypto](/journal/2026-09-02-crypto-journal-en/) · [2026-09-02 kr](/journal/2026-09-02-kr-journal-en/) · [2026-09-02 us](/journal/2026-09-02-us-journal-en/) · [2026-09-03 crypto](/journal/2026-09-03-crypto-journal-en/) · [2026-09-03 kr](/journal/2026-09-03-kr-journal-en/) · [2026-09-03 us](/journal/2026-09-03-us-journal-en/) · [2026-09-04 crypto](/journal/2026-09-04-crypto-journal-en/) · [2026-09-04 kr](/journal/2026-09-04-kr-journal-en/) · [2026-09-04 us](/journal/2026-09-04-us-journal-en/) · [2026-09-05 crypto](/journal/2026-09-05-crypto-journal-en/) · [2026-09-05 us](/journal/2026-09-05-us-journal-en/)

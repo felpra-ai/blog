@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Utilities · weak: —
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings indicate a predominantly bearish sentiment across the board, with no discernible shift in trend. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond indicators suggest a slight bullish leaning, though the overall trend remains stable amidst mixed signals. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange dynamics are showing a neutral stance, with bullish and bearish indicators holding relatively even weight. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity indicators point toward a neutral regime, with bullish sentiment slightly outweighing bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are registering a neutral state, though the underlying trend is noted as deteriorating. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
+- **Lovble(Global):** Volatility readings indicate a predominantly bearish sentiment across the board, with no discernible shift in trend. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond indicators suggest a slight bullish leaning, though the overall trend remains stable amidst mixed signals. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange dynamics are showing a neutral stance, with bullish and bearish indicators holding relatively even weight. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity indicators point toward a neutral regime, with bullish sentiment slightly outweighing bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are registering a neutral state, though the underlying trend is noted as deteriorating. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a mixed bag, characterized by bearish readings in volatility and liquidity, counterbalanced by stable readings in bonds and commodities. US equities are showing a neutral posture, while the underlying weakness in Korean markets warrants attention. The overall tape suggests caution, reflecting the divergence between stable macro readings and sector-specific deterioration. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The macro picture presents a mixed bag, characterized by bearish readings in volatility and liquidity, counterbalanced by stable readings in bonds and commodities. US equities are showing a neutral posture, while the underlying weakness in Korean markets warrants attention. The overall tape suggests caution, reflecting the divergence between stable macro readings and sector-specific deterioration. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 ---
 

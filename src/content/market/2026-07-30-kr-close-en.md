@@ -30,12 +30,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 07-31 15:00 KST — HyundaiEng&Const 실적 발표 (000720)
-- 🔴 07-31 15:00 KST — KIA CORP. 실적 발표 (000270)
-- 🔴 08-03 15:00 KST — DL 실적 발표 (000210)
-- 🔴 08-03 15:00 KST — HYUNDAI STEEL 실적 발표 (004020)
-- 🔴 08-04 15:00 KST — Hanwha 실적 발표 (000880)
-- 🔴 08-06 09:00 KST — DOOSAN 배당락일 (000150)
+- 🔴 07-31 15:00 KST — HyundaiEng&Const earnings (000720)
+- 🔴 07-31 15:00 KST — KIA CORP. earnings (000270)
+- 🔴 08-03 15:00 KST — DL earnings (000210)
+- 🔴 08-03 15:00 KST — HYUNDAI STEEL earnings (004020)
+- 🔴 08-04 15:00 KST — Hanwha earnings (000880)
+- 🔴 08-06 09:00 KST — DOOSAN ex-dividend date (000150)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -53,7 +53,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are showing an improving trend, with sentiment readings leaning toward the bullish side. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market view presents a divergence: liquidity and US equities suggest underlying strength, contrasting with the bearish signals in credit and the deteriorating trend observed in crypto and Korean equities. On balance, the market appears to be navigating a period of mixed signals, suggesting caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The cross-market view presents a divergence: liquidity and US equities suggest underlying strength, contrasting with the bearish signals in credit and the deteriorating trend observed in crypto and Korean equities. On balance, the market appears to be navigating a period of mixed signals, suggesting caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

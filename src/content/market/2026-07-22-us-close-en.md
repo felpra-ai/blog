@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 07-22 09:00 KST — APA Corporation 배당락일 (APA)
-- 🔴 07-23 21:30 KST — Ameriprise Financial, Inc. 실적 발표 (AMP)
-- 🔴 07-23 21:30 KST — Allegion plc 실적 발표 (ALLE)
-- 🔴 07-23 21:30 KST — American Airlines Group, Inc. 실적 발표 (AAL)
+- 🔴 07-22 09:00 KST — APA Corporation ex-dividend date (APA)
+- 🔴 07-23 21:30 KST — Ameriprise Financial, Inc. earnings (AMP)
+- 🔴 07-23 21:30 KST — Allegion plc earnings (ALLE)
+- 🔴 07-23 21:30 KST — American Airlines Group, Inc. earnings (AAL)
 - 🔴 07-23 21:30 KST — US GDP (Advance)
-- 🔴 07-24 21:30 KST — Aon plc 실적 발표 (AON)
+- 🔴 07-24 21:30 KST — Aon plc earnings (AON)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bullish (6 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing a slight leaning toward bearish conditions. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds are showing a neutral stance, with the bullish and bearish readings balanced. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange dynamics are leaning bearish, with the bearish reading being more pronounced than the bullish. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit an extreme bullish reading, suggesting strong upward momentum across the basket. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are registering a neutral reading, while the strong sector observed was Basic Materials. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable, showing a slight leaning toward bearish conditions. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds are showing a neutral stance, with the bullish and bearish readings balanced. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange dynamics are leaning bearish, with the bearish reading being more pronounced than the bullish. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit an extreme bullish reading, suggesting strong upward momentum across the basket. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are registering a neutral reading, while the strong sector observed was Basic Materials. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: commodities show significant bullish strength, contrasting with bearish readings in credit and FX, while US equities remain range-bound. The stability across most macro indicators suggests a period of consolidation rather than a clear directional shift. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: commodities show significant bullish strength, contrasting with bearish readings in credit and FX, while US equities remain range-bound. The stability across most macro indicators suggests a period of consolidation rather than a clear directional shift. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

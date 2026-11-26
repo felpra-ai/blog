@@ -60,11 +60,11 @@ _Archive this hash — recomputing it later from the raw ledger must reproduce t
 
 ## Remarks by market
 
-**Bengal(Crypto):** The crypto market demonstrated a relatively strong performance this period, evidenced by a win rate of 58.4% and a positive average profit per trade. The volume of trades analyzed was substantial, suggesting a robust data set for assessment. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market demonstrated a relatively strong performance this period, evidenced by a win rate of 58.4% and a positive average profit per trade. The volume of trades analyzed was substantial, suggesting a robust data set for assessment. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="Bengal" />
 
-**Kosho(KR):** The Korean equities market showed a lower win rate at 39.7%, accompanied by a negative average profit per trade. Given the smaller sample size, these results should be viewed with caution. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
+**Kosho(KR):** The Korean equities market showed a lower win rate at 39.7%, accompanied by a negative average profit per trade. Given the smaller sample size, these results should be viewed with caution. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="Kosho" />
 
-**Maine(US):** The US equities market recorded the lowest win rate among the three sectors at 34.4%, and the average profit per trade was negative. The sample size here is also relatively small compared to the other markets. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
+**Maine(US):** The US equities market recorded the lowest win rate among the three sectors at 34.4%, and the average profit per trade was negative. The sample size here is also relatively small compared to the other markets. <img class="emoji-char" src="/characters/us/02_sad.png" alt="Maine" />
 
 ## Beom's quorum verdict
 
@@ -72,7 +72,7 @@ The overall market sentiment, based on the synthesis of the individual reads, su
 
 The overall track record reflects a positive profit factor of 1.24 for the period, indicating that gains generally outweighed losses across the board. However, the divergence in performance between the crypto asset class and the two equity markets suggests differing underlying dynamics at play.
 
-This summary reflects the paper-trading research conducted over the last seven days and should not be construed as investment advice. The quorum observes a confident, yet cautious, reading of the current market regime. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+This summary reflects the paper-trading research conducted over the last seven days and should not be construed as investment advice. The quorum observes a confident, yet cautious, reading of the current market regime. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - This week's journals: [2026-09-20 crypto](/journal/2026-09-20-crypto-journal-en/) · [2026-09-21 crypto](/journal/2026-09-21-crypto-journal-en/) · [2026-09-21 kr](/journal/2026-09-21-kr-journal-en/) · [2026-09-22 crypto](/journal/2026-09-22-crypto-journal-en/) · [2026-09-22 kr](/journal/2026-09-22-kr-journal-en/) · [2026-09-23 crypto](/journal/2026-09-23-crypto-journal-en/) · [2026-09-23 kr](/journal/2026-09-23-kr-journal-en/) · [2026-09-23 us](/journal/2026-09-23-us-journal-en/) · [2026-09-24 crypto](/journal/2026-09-24-crypto-journal-en/) · [2026-09-24 us](/journal/2026-09-24-us-journal-en/) · [2026-09-25 crypto](/journal/2026-09-25-crypto-journal-en/) · [2026-09-25 us](/journal/2026-09-25-us-journal-en/) · [2026-09-26 crypto](/journal/2026-09-26-crypto-journal-en/) · [2026-09-26 us](/journal/2026-09-26-us-journal-en/)

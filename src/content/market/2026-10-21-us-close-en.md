@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-21 09:00 KST — Lowe's Companies, Inc. 배당락일 (LOW)
-- 🔴 10-21 21:30 KST — CME Group Inc. 실적 발표 (CME)
-- 🔴 10-21 21:30 KST — Philip Morris International Inc 실적 발표 (PM)
-- 🔴 10-21 21:30 KST — Moody's Corporation 실적 발표 (MCO)
-- 🔴 10-21 21:30 KST — Teledyne Technologies Incorpora 실적 발표 (TDY)
-- 🔴 10-21 21:30 KST — Abbott Laboratories 실적 발표 (ABT)
+- 🔴 10-21 09:00 KST — Lowe's Companies, Inc. ex-dividend date (LOW)
+- 🔴 10-21 21:30 KST — CME Group Inc. earnings (CME)
+- 🔴 10-21 21:30 KST — Philip Morris International Inc earnings (PM)
+- 🔴 10-21 21:30 KST — Moody's Corporation earnings (MCO)
+- 🔴 10-21 21:30 KST — Teledyne Technologies Incorpora earnings (TDY)
+- 🔴 10-21 21:30 KST — Abbott Laboratories earnings (ABT)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -51,7 +51,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Financial Services, Consumer Cyclical, Basic Materials, and Energy are showing strength, while Technology and Communication Services are lagging. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market picture suggests divergent momentum, with US equities showing improving structure contrasted against softening crypto and Korean indices. The strength noted in cyclical and energy sectors suggests underlying commodity or consumer demand support, while the macro view points toward a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The cross-market picture suggests divergent momentum, with US equities showing improving structure contrasted against softening crypto and Korean indices. The strength noted in cyclical and energy sectors suggests underlying commodity or consumer demand support, while the macro view points toward a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

@@ -32,23 +32,23 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-18 15:00 KST — Nongshim 실적 발표 (004370)
-- 🔴 08-20 09:00 KST — HANKOOK & COMPANY 배당락일 (000240)
-- 🔴 08-21 09:00 KST — POSCO Holdings 배당락일 (005490)
+- 🔴 08-18 15:00 KST — Nongshim earnings (004370)
+- 🔴 08-20 09:00 KST — HANKOOK & COMPANY ex-dividend date (000240)
+- 🔴 08-21 09:00 KST — POSCO Holdings ex-dividend date (005490)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (61 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings indicate a predominantly bearish sentiment, though the trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Credit conditions show a strong bullish leaning, while bond trends are registering as neutral. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange sentiment is mixed, showing a slight lean towards bullishness but remaining generally neutral. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are exhibiting a sideways bias with a notable bullish skew. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities present a neutral picture overall, with industrials, materials, consumer, and financials showing strength. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Lovble(Global):** Volatility readings indicate a predominantly bearish sentiment, though the trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit conditions show a strong bullish leaning, while bond trends are registering as neutral. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange sentiment is mixed, showing a slight lean towards bullishness but remaining generally neutral. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are exhibiting a sideways bias with a notable bullish skew. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities present a neutral picture overall, with industrials, materials, consumer, and financials showing strength. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests underlying strength in credit and commodities, contrasting with the elevated bearishness noted in volatility metrics. The US market shows signs of improvement, while crypto remains in a neutral posture. Overall, the tape suggests a cautious environment balancing sector-specific strength against broader risk indicators. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure suggests underlying strength in credit and commodities, contrasting with the elevated bearishness noted in volatility metrics. The US market shows signs of improvement, while crypto remains in a neutral posture. Overall, the tape suggests a cautious environment balancing sector-specific strength against broader risk indicators. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

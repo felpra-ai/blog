@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-14 09:00 KST — Micron Technology, Inc. 배당락일 (MU)
-- 🔴 10-14 09:00 KST — PNC Financial Services Group, I 배당락일 (PNC)
-- 🔴 10-14 21:30 KST — Synchrony Financial 실적 발표 (SYF)
-- 🔴 10-14 21:30 KST — State Street Corporation 실적 발표 (STT)
-- 🔴 10-14 21:30 KST — Prologis, Inc. 실적 발표 (PLD)
-- 🔴 10-14 21:30 KST — Abbott Laboratories 실적 발표 (ABT)
+- 🔴 10-14 09:00 KST — Micron Technology, Inc. ex-dividend date (MU)
+- 🔴 10-14 09:00 KST — PNC Financial Services Group, I ex-dividend date (PNC)
+- 🔴 10-14 21:30 KST — Synchrony Financial earnings (SYF)
+- 🔴 10-14 21:30 KST — State Street Corporation earnings (STT)
+- 🔴 10-14 21:30 KST — Prologis, Inc. earnings (PLD)
+- 🔴 10-14 21:30 KST — Abbott Laboratories earnings (ABT)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -45,16 +45,16 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 
 ## Desk panel
 - **VIX:** Volatility remains in a neutral state, showing no discernible directional bias in its trend. :vix:
-- **Bonds:** The bond market exhibits a neutral regime, with no observed bullish or bearish momentum. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions are registering as neutral, with no measurable trend bias across the board. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Liquidity:** Liquidity metrics are neutral, indicating a lack of clear directional flow. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Commodities:** Commodities show a slight leaning towards bullishness, though the bearish component remains present. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Bonds:** The bond market exhibits a neutral regime, with no observed bullish or bearish momentum. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions are registering as neutral, with no measurable trend bias across the board. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Liquidity:** Liquidity metrics are neutral, indicating a lack of clear directional flow. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Commodities:** Commodities show a slight leaning towards bullishness, though the bearish component remains present. <img class="emoji-char" src="/characters/us/07_confident.png" alt="Maine" />
 - **Crypto:** The cryptocurrency market is displaying a sideways-bearish pattern with deteriorating underlying trends. :crypto:
 - **Korea:** The Korean market is in a sideways-bearish pattern, suggesting weakening momentum. :korea:
 - **US:** US equities are positioned in a sideways-bullish pattern, maintaining a stable trend. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** US equities are showing relative strength compared to the crypto and Korean markets, while macro indicators suggest a general lack of conviction across asset classes. The market appears to be consolidating within defined boundaries. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** US equities are showing relative strength compared to the crypto and Korean markets, while macro indicators suggest a general lack of conviction across asset classes. The market appears to be consolidating within defined boundaries. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

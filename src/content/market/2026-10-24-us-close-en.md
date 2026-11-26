@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-26 09:00 KST — Paychex, Inc. 배당락일 (PAYX)
-- 🔴 10-26 21:30 KST — Verizon Communications Inc. 실적 발표 (VZ)
-- 🔴 10-26 21:30 KST — Revvity, Inc. 실적 발표 (RVTY)
-- 🔴 10-26 21:30 KST — Keurig Dr Pepper Inc. 실적 발표 (KDP)
-- 🔴 10-27 05:00 KST — Arch Capital Group Ltd. 실적 발표 (ACGL)
-- 🔴 10-27 05:00 KST — Universal Health Services, Inc. 실적 발표 (UHS)
+- 🔴 10-26 09:00 KST — Paychex, Inc. ex-dividend date (PAYX)
+- 🔴 10-26 21:30 KST — Verizon Communications Inc. earnings (VZ)
+- 🔴 10-26 21:30 KST — Revvity, Inc. earnings (RVTY)
+- 🔴 10-26 21:30 KST — Keurig Dr Pepper Inc. earnings (KDP)
+- 🔴 10-27 05:00 KST — Arch Capital Group Ltd. earnings (ACGL)
+- 🔴 10-27 05:00 KST — Universal Health Services, Inc. earnings (UHS)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (57 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 7 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is reading strongly bullish, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Bonds show an extreme bullish reading, though the trend itself is stable. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** FX is registering an extreme bearish state, with the trend remaining stable. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are reading bearish, and the trend is stable. <img class="emoji-char" src="/characters/commodity/08_defensive.png" alt="노웰" />
-- **Maine(US):** US equities are showing a bullish reading, with the trend improving, while sectors like Financial Services and Real Estate are strong, and TECHNOLOGY is weak. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is reading strongly bullish, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds show an extreme bullish reading, though the trend itself is stable. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** FX is registering an extreme bearish state, with the trend remaining stable. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are reading bearish, and the trend is stable. <img class="emoji-char" src="/characters/commodity/08_defensive.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a bullish reading, with the trend improving, while sectors like Financial Services and Real Estate are strong, and TECHNOLOGY is weak. <img class="emoji-char" src="/characters/us/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence: bonds and US equities show positive readings, contrasted by bearish signals in commodities and FX. The improving trend in US markets suggests underlying strength, but the weakness noted in crypto and the bearish readings across several macro fronts suggest caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence: bonds and US equities show positive readings, contrasted by bearish signals in commodities and FX. The improving trend in US markets suggests underlying strength, but the weakness noted in crypto and the bearish readings across several macro fronts suggest caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

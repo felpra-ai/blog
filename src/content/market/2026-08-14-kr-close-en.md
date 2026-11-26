@@ -32,8 +32,8 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-20 09:00 KST — HANKOOK & COMPANY 배당락일 (000240)
-- 🔴 08-21 09:00 KST — POSCO Holdings 배당락일 (005490)
+- 🔴 08-20 09:00 KST — HANKOOK & COMPANY ex-dividend date (000240)
+- 🔴 08-21 09:00 KST — POSCO Holdings ex-dividend date (005490)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -41,18 +41,18 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility metrics show a pronounced bearish tilt, though the underlying trend remains stable. :vix:
-- **Bonds:** Bond market sentiment reads neutral, with bullish and bearish indicators showing relatively balanced weightings. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Credit:** Credit conditions exhibit an extreme bullish reading, with no bearish indicators registering weight. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **FX:** Foreign exchange sentiment is neutral, reflecting a slight leaning towards bullishness over bearishness. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Liquidity:** Liquidity indicators suggest a sideways bias with a notable bearish component influencing the reading. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Commodities:** Commodity sentiment is neutral, with an equal weight distribution between bullish and bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Inflation:** Inflation readings are neutral, showing an equal weight distribution between bullish and bearish indicators. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
+- **Bonds:** Bond market sentiment reads neutral, with bullish and bearish indicators showing relatively balanced weightings. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Credit:** Credit conditions exhibit an extreme bullish reading, with no bearish indicators registering weight. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **FX:** Foreign exchange sentiment is neutral, reflecting a slight leaning towards bullishness over bearishness. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Liquidity:** Liquidity indicators suggest a sideways bias with a notable bearish component influencing the reading. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Commodities:** Commodity sentiment is neutral, with an equal weight distribution between bullish and bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Inflation:** Inflation readings are neutral, showing an equal weight distribution between bullish and bearish indicators. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
 - **Crypto:** Cryptocurrency sentiment is neutral, with bullish and bearish indicators maintaining a relatively close balance. :crypto:
-- **Korea:** Korean equities show a predominantly bullish reading, with minimal bearish influence noted. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
-- **US:** US equities sentiment reads neutral, with a slightly higher weighting toward bullish indicators compared to bearish ones. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+- **Korea:** Korean equities show a predominantly bullish reading, with minimal bearish influence noted. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
+- **US:** US equities sentiment reads neutral, with a slightly higher weighting toward bullish indicators compared to bearish ones. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: credit strength and Korean sector strength contrast with bearish readings in liquidity and VIX. The general sentiment across major asset classes suggests caution within a mixed directional flow. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: credit strength and Korean sector strength contrast with bearish readings in liquidity and VIX. The general sentiment across major asset classes suggests caution within a mixed directional flow. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

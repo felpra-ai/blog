@@ -34,7 +34,7 @@ altLang: ko
 
 - 🔴 09-04 21:30 KST — US Nonfarm Payrolls
 - 🔴 09-08 21:30 KST — US CPI Release
-- 🔴 09-10 09:00 KST — LG Corp. 배당락일 (003550)
+- 🔴 09-10 09:00 KST — LG Corp. ex-dividend date (003550)
 - 🔴 09-10 21:15 KST — ECB Interest Rate Decision
 - 🟡 09-10 21:30 KST — US PPI Release
 
@@ -54,7 +54,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities are reading as neutral, with the distribution of sentiment showing a slight leaning toward bearish readings. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: underlying macro indicators point to significant bearish pressure, particularly in liquidity and credit, while equity and crypto trends are showing signs of stabilization or improvement. The relative strength observed in specific Korean sectors suggests localized pockets of resilience amidst broader caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: underlying macro indicators point to significant bearish pressure, particularly in liquidity and credit, while equity and crypto trends are showing signs of stabilization or improvement. The relative strength observed in specific Korean sectors suggests localized pockets of resilience amidst broader caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

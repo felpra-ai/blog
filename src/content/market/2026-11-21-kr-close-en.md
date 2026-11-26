@@ -35,23 +35,23 @@ altLang: ko
 - 🔴 11-25 22:30 KST — US PCE Price Index
 - 🔴 11-25 22:30 KST — US GDP Release
 - 🔴 11-26 10:00 KST — BOK Interest Rate Decision
-- 🔴 11-27 — HyundaiMtr 배당락일 (005380)
-- 🔴 11-27 — Hyundai Elevator 배당락일 (017800)
-- 🔴 11-27 — POSCO Holdings 배당락일 (005490)
+- 🔴 11-27 — HyundaiMtr ex-dividend date (005380)
+- 🔴 11-27 — Hyundai Elevator ex-dividend date (017800)
+- 🔴 11-27 — POSCO Holdings ex-dividend date (005490)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: inflation leads credit by 1d (ρ=-0.35) — only 12 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Heavy, risk-off day: the VIX reading leans hard toward rising volatility, and the news flow gives no relief. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Credit is the first warning, tilted three-quarters bearish, though bonds lean bullish and liquidity has yet to give an inch. <img class="emoji-char" src="/characters/v2/bond/face/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** The dollar side leans bearish at the extreme. Liquidity reads fully bullish. The two are pulling apart. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities sit in an extreme bearish state, like a cold field before planting, and that chill tends to reach prices well before it reaches earnings. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** US readings are the weakest of the three markets, with only a sliver bullish, while the stronger baskets are bio-health, utilities and materials and the weaker ones are IT-media, financials and industrials. <img class="emoji-char" src="/characters/v2/kr/face/10_suspicious.png" alt="코숏" />
+- **Lovble(Global):** Heavy, risk-off day: the VIX reading leans hard toward rising volatility, and the news flow gives no relief. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit is the first warning, tilted three-quarters bearish, though bonds lean bullish and liquidity has yet to give an inch. <img class="emoji-char" src="/characters/v2/bond/face/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** The dollar side leans bearish at the extreme. Liquidity reads fully bullish. The two are pulling apart. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities sit in an extreme bearish state, like a cold field before planting, and that chill tends to reach prices well before it reaches earnings. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** US readings are the weakest of the three markets, with only a sliver bullish, while the stronger baskets are bio-health, utilities and materials and the weaker ones are IT-media, financials and industrials. <img class="emoji-char" src="/characters/v2/kr/face/10_suspicious.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Lovble and Bsho point to rising volatility and soft credit, Sham and Nowel to pressure in FX and commodities, and Kosho to a weak US tape with defensive sectors holding. What stays open is how full liquidity sits beside so many soft asset classes. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
+**Beom(Chair):** Lovble and Bsho point to rising volatility and soft credit, Sham and Nowel to pressure in FX and commodities, and Kosho to a weak US tape with defensive sectors holding. What stays open is how full liquidity sits beside so many soft asset classes. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

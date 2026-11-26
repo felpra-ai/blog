@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: — · weak: — · dominance: btc_dominant
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains firmly in a bearish regime, suggesting caution in risk appetite. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a sideways-bullish posture, while credit remains in a neutral state. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are balanced, with a slight leaning towards bullish sentiment. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are showing a neutral reading, with bullish indicators slightly outweighing bearish ones. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is neutral overall, with Bitcoin showing clear dominance across the monitored assets. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Lovble(Global):** Volatility remains firmly in a bearish regime, suggesting caution in risk appetite. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a sideways-bullish posture, while credit remains in a neutral state. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are balanced, with a slight leaning towards bullish sentiment. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are showing a neutral reading, with bullish indicators slightly outweighing bearish ones. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is neutral overall, with Bitcoin showing clear dominance across the monitored assets. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests a period of consolidation, as evidenced by the neutral readings across several macro inputs and the stable, yet non-directional, nature of the major asset classes. The bearish tilt in liquidity and volatility warrants attention, even as underlying asset performance remains mixed. The overall picture points toward a cautious, range-bound environment. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure suggests a period of consolidation, as evidenced by the neutral readings across several macro inputs and the stable, yet non-directional, nature of the major asset classes. The bearish tilt in liquidity and volatility warrants attention, even as underlying asset performance remains mixed. The overall picture points toward a cautious, range-bound environment. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

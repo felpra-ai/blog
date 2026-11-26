@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Utilities, IT-media · weak: —
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains at a neutral reading, with bearish indicators showing a more pronounced presence than bullish ones. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** The bond market exhibits an extreme bullish leaning, while credit indicators suggest a sideways bias leaning toward the bullish side. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are registering as neutral, with bearish sentiment slightly outweighing bullish sentiment. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity trends are currently neutral, showing a higher proportion of bearish readings compared to bullish ones. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are showing a neutral overall stance, with the utilities and IT media sectors demonstrating relative strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains at a neutral reading, with bearish indicators showing a more pronounced presence than bullish ones. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market exhibits an extreme bullish leaning, while credit indicators suggest a sideways bias leaning toward the bullish side. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are registering as neutral, with bearish sentiment slightly outweighing bullish sentiment. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity trends are currently neutral, showing a higher proportion of bearish readings compared to bullish ones. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are showing a neutral overall stance, with the utilities and IT media sectors demonstrating relative strength. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests underlying support from fixed income and credit, though commodity and crypto readings indicate caution. On balance, the market structure suggests a period of consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The macro picture suggests underlying support from fixed income and credit, though commodity and crypto readings indicate caution. On balance, the market structure suggests a period of consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

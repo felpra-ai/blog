@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Real Estate, Healthcare, Financial Services · weak: Technology
 
 ## Desk panel
-- **Lovble(Global):** Volatility is showing a pronounced bearish tilt, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a neutral reading, with bearish sentiment slightly outweighing bullish readings, though the trend is stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange readings are strongly bullish, indicating a clear upward bias, with the trend remaining stable. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are registering a bullish reading, supported by a high proportion of bullish indicators, and the trend is stable. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities are showing a neutral reading, but the underlying trend is noted as improving, with Real Estate, Healthcare, and Financial Services showing strength while Technology appears weaker. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is showing a pronounced bearish tilt, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a neutral reading, with bearish sentiment slightly outweighing bullish readings, though the trend is stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange readings are strongly bullish, indicating a clear upward bias, with the trend remaining stable. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are registering a bullish reading, supported by a high proportion of bullish indicators, and the trend is stable. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a neutral reading, but the underlying trend is noted as improving, with Real Estate, Healthcare, and Financial Services showing strength while Technology appears weaker. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market picture shows divergence, with strong bullish signals in FX and Commodities contrasting against a bearish leaning in VIX and Credit. The US market's improving trend, coupled with sector strength in real assets and healthcare, suggests underlying support despite macro caution. On balance, the tape appears to be navigating distinct, non-uniform directional currents. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The cross-market picture shows divergence, with strong bullish signals in FX and Commodities contrasting against a bearish leaning in VIX and Credit. The US market's improving trend, coupled with sector strength in real assets and healthcare, suggests underlying support despite macro caution. On balance, the tape appears to be navigating distinct, non-uniform directional currents. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

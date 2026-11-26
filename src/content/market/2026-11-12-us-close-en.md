@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-12 21:30 KST — Walt Disney Company (The) 실적 발표 (DIS)
-- 🔴 11-13 06:00 KST — Cisco Systems, Inc. 실적 발표 (CSCO)
-- 🔴 11-13 06:00 KST — Applied Materials, Inc. 실적 발표 (AMAT)
-- 🔴 11-13 09:00 KST — Duke Energy Corporation (Holdin 배당락일 (DUK)
-- 🔴 11-13 09:00 KST — Healthpeak Properties, Inc. 배당락일 (DOC)
-- 🔴 11-13 09:00 KST — The J.M. Smucker Company 배당락일 (SJM)
+- 🔴 11-12 21:30 KST — Walt Disney Company (The) earnings (DIS)
+- 🔴 11-13 06:00 KST — Cisco Systems, Inc. earnings (CSCO)
+- 🔴 11-13 06:00 KST — Applied Materials, Inc. earnings (AMAT)
+- 🔴 11-13 09:00 KST — Duke Energy Corporation (Holdin ex-dividend date (DUK)
+- 🔴 11-13 09:00 KST — Healthpeak Properties, Inc. ex-dividend date (DOC)
+- 🔴 11-13 09:00 KST — The J.M. Smucker Company ex-dividend date (SJM)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (59 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 8 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is stable, showing a slight leaning towards bearish sentiment across the board. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds maintain a bullish bias, while credit conditions read as strongly bullish. <img class="emoji-char" src="/characters/v2/bond/face/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements show a clear bullish leaning, though with a notable bearish component present. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are currently in a neutral state, with bearish readings holding more weight than bullish ones. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities exhibit a bullish bias overall, with Financial Services, Communication Services, Communication Services, and Consumer Defensive showing relative strength compared to Technology and Energy. <img class="emoji-char" src="/characters/v2/us/face/07_confident.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is stable, showing a slight leaning towards bearish sentiment across the board. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds maintain a bullish bias, while credit conditions read as strongly bullish. <img class="emoji-char" src="/characters/v2/bond/face/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements show a clear bullish leaning, though with a notable bearish component present. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are currently in a neutral state, with bearish readings holding more weight than bullish ones. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities exhibit a bullish bias overall, with Financial Services, Communication Services, Communication Services, and Consumer Defensive showing relative strength compared to Technology and Energy. <img class="emoji-char" src="/characters/v2/us/face/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Macro indicators suggest underlying support across liquidity and credit, although inflation readings lean bearish. The divergence between the US equity strength and the softening crypto sentiment suggests caution is warranted, pointing toward a range-bound market structure. <img class="emoji-char" src="/characters/v2/orchestrator/face/07_confident.png" alt="범" />
+**Beom(Chair):** Macro indicators suggest underlying support across liquidity and credit, although inflation readings lean bearish. The divergence between the US equity strength and the softening crypto sentiment suggests caution is warranted, pointing toward a range-bound market structure. <img class="emoji-char" src="/characters/v2/orchestrator/face/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

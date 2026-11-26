@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-28 09:00 KST — Keurig Dr Pepper Inc. 배당락일 (KDP)
-- 🔴 09-28 21:30 KST — Carnival Corporation Ltd. 실적 발표 (CCL)
-- 🔴 09-29 21:30 KST — Paychex, Inc. 실적 발표 (PAYX)
-- 🔴 09-29 21:30 KST — Carnival Corporation Ltd. 실적 발표 (CCL)
-- 🔴 09-30 05:00 KST — Nike, Inc. 실적 발표 (NKE)
-- 🔴 09-30 09:00 KST — Zimmer Biomet Holdings, Inc. 배당락일 (ZBH)
+- 🔴 09-28 09:00 KST — Keurig Dr Pepper Inc. ex-dividend date (KDP)
+- 🔴 09-28 21:30 KST — Carnival Corporation Ltd. earnings (CCL)
+- 🔴 09-29 21:30 KST — Paychex, Inc. earnings (PAYX)
+- 🔴 09-29 21:30 KST — Carnival Corporation Ltd. earnings (CCL)
+- 🔴 09-30 05:00 KST — Nike, Inc. earnings (NKE)
+- 🔴 09-30 09:00 KST — Zimmer Biomet Holdings, Inc. ex-dividend date (ZBH)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.27) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is stable, showing a slight leaning towards bearish sentiment. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a clear bullish bias with stable trend confirmation. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX is reading as extremely bearish, though the trend remains stable. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities show a neutral stance, with slightly more bearish leaning than bullish. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are showing a deteriorating trend, with weakness noted in Financial Services, Healthcare, and UTILITIES. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is stable, showing a slight leaning towards bearish sentiment. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a clear bullish bias with stable trend confirmation. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX is reading as extremely bearish, though the trend remains stable. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities show a neutral stance, with slightly more bearish leaning than bullish. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a deteriorating trend, with weakness noted in Financial Services, Healthcare, and UTILITIES. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence, with bonds showing strength while inflation and US equities signal caution. The cross-market view suggests that while crypto sentiment is improving, the broader equity picture remains subdued, indicating a period of careful observation across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence, with bonds showing strength while inflation and US equities signal caution. The cross-market view suggests that while crypto sentiment is improving, the broader equity picture remains subdued, indicating a period of careful observation across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

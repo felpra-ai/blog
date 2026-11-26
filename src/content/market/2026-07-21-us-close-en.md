@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 07-22 09:00 KST — APA Corporation 배당락일 (APA)
-- 🔴 07-23 21:30 KST — Ameriprise Financial, Inc. 실적 발표 (AMP)
-- 🔴 07-23 21:30 KST — Allegion plc 실적 발표 (ALLE)
-- 🔴 07-23 21:30 KST — American Airlines Group, Inc. 실적 발표 (AAL)
+- 🔴 07-22 09:00 KST — APA Corporation ex-dividend date (APA)
+- 🔴 07-23 21:30 KST — Ameriprise Financial, Inc. earnings (AMP)
+- 🔴 07-23 21:30 KST — Allegion plc earnings (ALLE)
+- 🔴 07-23 21:30 KST — American Airlines Group, Inc. earnings (AAL)
 - 🔴 07-23 21:30 KST — US GDP (Advance)
-- 🔴 07-24 21:30 KST — Aon plc 실적 발표 (AON)
+- 🔴 07-24 21:30 KST — Aon plc earnings (AON)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -57,7 +57,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Sectors:** Energy, Real Estate, and Basic Materials are noted as sectors exhibiting strength, while Industrials, Healthcare, and Communication Services appear weaker. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests underlying tension, particularly evident in the crypto space and the geopolitical headlines impacting energy flows. The breadth across major asset classes is mixed, pointing toward caution despite some sector strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure suggests underlying tension, particularly evident in the crypto space and the geopolitical headlines impacting energy flows. The breadth across major asset classes is mixed, pointing toward caution despite some sector strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

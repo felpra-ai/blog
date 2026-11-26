@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-05 09:00 KST — Globe Life Inc. 배당락일 (GL)
-- 🔴 10-05 09:00 KST — Vivmark Residential 배당락일 (VMRK)
-- 🔴 10-05 09:00 KST — Erie Indemnity Company 배당락일 (ERIE)
-- 🔴 10-05 09:00 KST — GE Aerospace 배당락일 (GE)
-- 🔴 10-06 05:00 KST — Constellation Brands, Inc. 실적 발표 (STZ)
-- 🔴 10-06 09:00 KST — JP Morgan Chase & Co. 배당락일 (JPM)
+- 🔴 10-05 09:00 KST — Globe Life Inc. ex-dividend date (GL)
+- 🔴 10-05 09:00 KST — Vivmark Residential ex-dividend date (VMRK)
+- 🔴 10-05 09:00 KST — Erie Indemnity Company ex-dividend date (ERIE)
+- 🔴 10-05 09:00 KST — GE Aerospace ex-dividend date (GE)
+- 🔴 10-06 05:00 KST — Constellation Brands, Inc. earnings (STZ)
+- 🔴 10-06 09:00 KST — JP Morgan Chase & Co. ex-dividend date (JPM)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing balanced bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a neutral stance with a clear leaning toward bullish sentiment. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange markets are registering an extreme bearish bias. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are showing a predominantly bearish trend. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are displaying a bearish bias, with cyclical and technology sectors showing relative strength compared to others. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable, showing balanced bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a neutral stance with a clear leaning toward bullish sentiment. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange markets are registering an extreme bearish bias. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are showing a predominantly bearish trend. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities are displaying a bearish bias, with cyclical and technology sectors showing relative strength compared to others. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests underlying caution, evidenced by the bearish readings across commodities, inflation, and US equities, despite some improving sentiment in crypto. The divergence between stable bond readings and bearish credit/commodity readings suggests underlying asset class divergence. On balance, the tape appears range-bound with notable sector weakness in US equities. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The market structure suggests underlying caution, evidenced by the bearish readings across commodities, inflation, and US equities, despite some improving sentiment in crypto. The divergence between stable bond readings and bearish credit/commodity readings suggests underlying asset class divergence. On balance, the tape appears range-bound with notable sector weakness in US equities. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

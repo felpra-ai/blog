@@ -32,18 +32,18 @@ altLang: ko
 
 ## Desk panel
 - **VIX:** Volatility remains stable, showing a slight leaning toward bearish readings. :vix:
-- **Bonds:** The bond market exhibits a clear bullish bias with no bearish signals noted. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Credit:** Credit conditions are entirely bullish, showing no bearish indicators across the board. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **FX:** Foreign exchange movements are strongly bullish, with a notable skew toward the upside. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Liquidity:** Liquidity conditions are characterized as sideways-bullish, suggesting underlying support. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Commodities:** Commodity sentiment is neutral, balancing bullish and bearish indicators equally. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Inflation:** Inflation readings show a bearish leaning, despite a neutral overall trend. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
-- **Crypto:** Cryptocurrency activity is neutral, with a slight bullish tilt observed. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Bonds:** The bond market exhibits a clear bullish bias with no bearish signals noted. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Credit:** Credit conditions are entirely bullish, showing no bearish indicators across the board. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **FX:** Foreign exchange movements are strongly bullish, with a notable skew toward the upside. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Liquidity:** Liquidity conditions are characterized as sideways-bullish, suggesting underlying support. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Commodities:** Commodity sentiment is neutral, balancing bullish and bearish indicators equally. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Inflation:** Inflation readings show a bearish leaning, despite a neutral overall trend. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
+- **Crypto:** Cryptocurrency activity is neutral, with a slight bullish tilt observed. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 - **Korea:** The Korean market is showing an improving trend, though sentiment remains mixed. :korea:
 - **US:** The US market is reading as neutral, with bullish and bearish indicators holding relatively balanced weight. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence, with strong bullish signals in credit and FX contrasting against bearish inflation readings. The stability across most major asset classes, coupled with the neutral readings in US and Crypto, suggests a period of consolidation where underlying directional conviction is not yet established. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence, with strong bullish signals in credit and FX contrasting against bearish inflation readings. The stability across most major asset classes, coupled with the neutral readings in US and Crypto, suggests a period of consolidation where underlying directional conviction is not yet established. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-29 21:30 KST — Carnival Corporation Ltd. 실적 발표 (CCL)
-- 🔴 09-29 21:30 KST — Paychex, Inc. 실적 발표 (PAYX)
-- 🔴 09-30 05:00 KST — Nike, Inc. 실적 발표 (NKE)
-- 🔴 09-30 09:00 KST — Essex Property Trust, Inc. 배당락일 (ESS)
-- 🔴 09-30 09:00 KST — Steel Dynamics, Inc. 배당락일 (STLD)
-- 🔴 09-30 09:00 KST — Zimmer Biomet Holdings, Inc. 배당락일 (ZBH)
+- 🔴 09-29 21:30 KST — Carnival Corporation Ltd. earnings (CCL)
+- 🔴 09-29 21:30 KST — Paychex, Inc. earnings (PAYX)
+- 🔴 09-30 05:00 KST — Nike, Inc. earnings (NKE)
+- 🔴 09-30 09:00 KST — Essex Property Trust, Inc. ex-dividend date (ESS)
+- 🔴 09-30 09:00 KST — Steel Dynamics, Inc. ex-dividend date (STLD)
+- 🔴 09-30 09:00 KST — Zimmer Biomet Holdings, Inc. ex-dividend date (ZBH)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.27) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings indicate a predominantly bearish sentiment, though the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond indicators suggest a strongly bullish environment, while credit conditions are reading as neutral. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements show a significant bearish leaning, despite a moderate bullish component. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is leaning bearish, with only a minor bullish indication present. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are showing a bearish reading with a deteriorating trend, while Technology and INDUSTRIALS sectors are showing strength. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility readings indicate a predominantly bearish sentiment, though the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond indicators suggest a strongly bullish environment, while credit conditions are reading as neutral. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements show a significant bearish leaning, despite a moderate bullish component. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is leaning bearish, with only a minor bullish indication present. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a bearish reading with a deteriorating trend, while Technology and INDUSTRIALS sectors are showing strength. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: bonds and liquidity show underlying strength, contrasting with bearish readings in US equities and commodities. The cross-asset picture suggests caution, with the macro backdrop showing mixed signals despite some sector strength noted in US equities. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: bonds and liquidity show underlying strength, contrasting with bearish readings in US equities and commodities. The cross-asset picture suggests caution, with the macro backdrop showing mixed signals despite some sector strength noted in US equities. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

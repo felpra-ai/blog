@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: — · weak: — · dominance: btc_dominant
 
 ## Desk panel
-- **Lovble(Global):** Volatility indicators show a predominantly bearish reading, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** The bond market exhibits a sideways bias leaning towards bullish sentiment, with stable underlying trends. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are registering as neutral, with a slight tilt toward bullish readings across the board. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is neutral, showing a slight bullish lean with stable trends across the board. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto assets are showing a neutral stance overall, with the Bitcoin basket maintaining dominance. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Lovble(Global):** Volatility indicators show a predominantly bearish reading, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market exhibits a sideways bias leaning towards bullish sentiment, with stable underlying trends. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are registering as neutral, with a slight tilt toward bullish readings across the board. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is neutral, showing a slight bullish lean with stable trends across the board. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto assets are showing a neutral stance overall, with the Bitcoin basket maintaining dominance. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Macro indicators present a mixed picture; while volatility and liquidity signal caution, the bond and commodity sectors show underlying stability. The market structure suggests a period of consolidation, with differing directional biases across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** Macro indicators present a mixed picture; while volatility and liquidity signal caution, the bond and commodity sectors show underlying stability. The market structure suggests a period of consolidation, with differing directional biases across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

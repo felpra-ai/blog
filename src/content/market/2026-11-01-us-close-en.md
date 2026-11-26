@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-02 09:00 KST — Kinder Morgan, Inc. 배당락일 (KMI)
-- 🔴 11-02 09:00 KST — Blackstone Inc. 배당락일 (BX)
-- 🔴 11-02 09:00 KST — Las Vegas Sands Corp. 배당락일 (LVS)
-- 🔴 11-02 09:00 KST — ONEOK, Inc. 배당락일 (OKE)
-- 🔴 11-02 09:00 KST — Pinnacle West Capital Corporati 배당락일 (PNW)
-- 🔴 11-02 21:30 KST — Ares Management Corporation 실적 발표 (ARES)
+- 🔴 11-02 09:00 KST — Kinder Morgan, Inc. ex-dividend date (KMI)
+- 🔴 11-02 09:00 KST — Blackstone Inc. ex-dividend date (BX)
+- 🔴 11-02 09:00 KST — Las Vegas Sands Corp. ex-dividend date (LVS)
+- 🔴 11-02 09:00 KST — ONEOK, Inc. ex-dividend date (OKE)
+- 🔴 11-02 09:00 KST — Pinnacle West Capital Corporati ex-dividend date (PNW)
+- 🔴 11-02 21:30 KST — Ares Management Corporation earnings (ARES)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -51,7 +51,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Financial Services, Healthcare, and Consumer Defensive sectors are showing strength, while Technology and INDUSTRIALS are lagging. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The divergence between US market improvement and weakness in global assets like crypto and Korea suggests underlying regional divergence. The macro backdrop is characterized by elevated volatility alongside significant bearish signals in commodity and inflation metrics, pointing toward caution despite sector strength in US names. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The divergence between US market improvement and weakness in global assets like crypto and Korea suggests underlying regional divergence. The macro backdrop is characterized by elevated volatility alongside significant bearish signals in commodity and inflation metrics, pointing toward caution despite sector strength in US names. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

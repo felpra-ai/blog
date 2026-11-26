@@ -60,15 +60,15 @@ _Archive this hash — recomputing it later from the raw ledger must reproduce t
 
 ## Remarks by market
 
-**Bengal(Crypto):** Crypto saw a 42.8% win rate. The average loss was -2.41, which is larger than the average win of 2.23. The volume of trades was high at 5769. <img class="emoji-char" src="/characters/v2/crypto/face/02_sad.png" alt="벵갈" />
+**Bengal(Crypto):** Crypto saw a 42.8% win rate. The average loss was -2.41, which is larger than the average win of 2.23. The volume of trades was high at 5769. <img class="emoji-char" src="/characters/v2/crypto/face/02_sad.png" alt="Bengal" />
 
-**Kosho(KR):** Korean equities posted a win rate of 33.4%. The average loss recorded was -2.41, while the average win was 2.23. The sample size for this market was 1795. <img class="emoji-char" src="/characters/v2/kr/face/02_sad.png" alt="코숏" />
+**Kosho(KR):** Korean equities posted a win rate of 33.4%. The average loss recorded was -2.41, while the average win was 2.23. The sample size for this market was 1795. <img class="emoji-char" src="/characters/v2/kr/face/02_sad.png" alt="Kosho" />
 
-**Maine(US):** US equities showed a win rate of 23.0%. The average loss was -2.41, and the average win was 2.23. The sample size for this market was 1654. <img class="emoji-char" src="/characters/v2/us/face/02_sad.png" alt="멘쿤" />
+**Maine(US):** US equities showed a win rate of 23.0%. The average loss was -2.41, and the average win was 2.23. The sample size for this market was 1654. <img class="emoji-char" src="/characters/v2/us/face/02_sad.png" alt="Maine" />
 
 ## Beom's quorum verdict
 
-The week's data shows a pattern where the average loss magnitude exceeded the average win magnitude across all observed markets. Crypto posted the highest win rate at 42.8%, but the US market recorded the lowest win rate at 23.0%. The general sentiment reflected in the metrics points toward caution. <img class="emoji-char" src="/characters/v2/orchestrator/face/02_sad.png" alt="범" />
+The week's data shows a pattern where the average loss magnitude exceeded the average win magnitude across all observed markets. Crypto posted the highest win rate at 42.8%, but the US market recorded the lowest win rate at 23.0%. The general sentiment reflected in the metrics points toward caution. <img class="emoji-char" src="/characters/v2/orchestrator/face/02_sad.png" alt="Beom" />
 
 **Related**
 - This week's journals: [2026-11-15 crypto](/journal/2026-11-15-crypto-journal-en/) · [2026-11-16 crypto](/journal/2026-11-16-crypto-journal-en/) · [2026-11-16 kr](/journal/2026-11-16-kr-journal-en/) · [2026-11-17 crypto](/journal/2026-11-17-crypto-journal-en/) · [2026-11-17 kr](/journal/2026-11-17-kr-journal-en/) · [2026-11-17 us](/journal/2026-11-17-us-journal-en/) · [2026-11-18 crypto](/journal/2026-11-18-crypto-journal-en/) · [2026-11-18 kr](/journal/2026-11-18-kr-journal-en/) · [2026-11-18 us](/journal/2026-11-18-us-journal-en/) · [2026-11-19 crypto](/journal/2026-11-19-crypto-journal-en/) · [2026-11-19 us](/journal/2026-11-19-us-journal-en/) · [2026-11-20 crypto](/journal/2026-11-20-crypto-journal-en/) · [2026-11-20 kr](/journal/2026-11-20-kr-journal-en/) · [2026-11-20 us](/journal/2026-11-20-us-journal-en/) · [2026-11-21 crypto](/journal/2026-11-21-crypto-journal-en/) · [2026-11-21 us](/journal/2026-11-21-us-journal-en/)

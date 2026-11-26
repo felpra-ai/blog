@@ -46,7 +46,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Within the crypto space, strength is concentrated in Bitcoin, while other sectors, including DeFi and Layer 2, show weakness. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence, with bonds and liquidity remaining relatively balanced while commodities and inflation signal caution. The US market's improving structure contrasts with the deteriorating trend observed in the Korean market, suggesting varied regional dynamics. On balance, the tape reflects a cautious environment where underlying asset classes are showing distinct directional biases. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence, with bonds and liquidity remaining relatively balanced while commodities and inflation signal caution. The US market's improving structure contrasts with the deteriorating trend observed in the Korean market, suggesting varied regional dynamics. On balance, the tape reflects a cautious environment where underlying asset classes are showing distinct directional biases. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

@@ -37,7 +37,7 @@ altLang: ko
 - **US:** US equities are reading as neutral, though the trend direction is noted as improving. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests strong underlying support from the fixed income side, contrasting with deteriorating trends in digital assets. Equity markets across regions are showing signs of improvement or neutrality, pointing toward a cautious, consolidating environment. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The macro picture suggests strong underlying support from the fixed income side, contrasting with deteriorating trends in digital assets. Equity markets across regions are showing signs of improvement or neutrality, pointing toward a cautious, consolidating environment. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

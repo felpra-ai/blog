@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-28 09:00 KST — NextEra Energy, Inc. 배당락일 (NEE)
-- 🔴 08-28 09:00 KST — Baxter International Inc. 배당락일 (BAX)
-- 🔴 08-28 09:00 KST — eBay Inc. 배당락일 (EBAY)
-- 🔴 08-28 09:00 KST — Labcorp Holdings Inc. 배당락일 (LH)
-- 🔴 08-28 09:00 KST — Molson Coors Beverage Company 배당락일 (TAP)
-- 🔴 08-28 09:00 KST — Huntington Ingalls Industries,  배당락일 (HII)
+- 🔴 08-28 09:00 KST — NextEra Energy, Inc. ex-dividend date (NEE)
+- 🔴 08-28 09:00 KST — Baxter International Inc. ex-dividend date (BAX)
+- 🔴 08-28 09:00 KST — eBay Inc. ex-dividend date (EBAY)
+- 🔴 08-28 09:00 KST — Labcorp Holdings Inc. ex-dividend date (LH)
+- 🔴 08-28 09:00 KST — Molson Coors Beverage Company ex-dividend date (TAP)
+- 🔴 08-28 09:00 KST — Huntington Ingalls Industries,  ex-dividend date (HII)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable with equal weight assigned to bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a leaning toward bearish sentiment, though the trend remains stable. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange readings indicate a clear bearish bias across the board. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities show a strong bullish leaning, while inflation readings are extremely bullish. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities are showing a neutral reading, with the underlying strength concentrated in the crypto space. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable with equal weight assigned to bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a leaning toward bearish sentiment, though the trend remains stable. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange readings indicate a clear bearish bias across the board. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities show a strong bullish leaning, while inflation readings are extremely bullish. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a neutral reading, with the underlying strength concentrated in the crypto space. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence, with strong bullish signals in commodities and inflation contrasting with bearish signals in FX and bonds. The underlying liquidity and credit conditions read strongly bullish, which supports the improving trend observed in crypto and US markets, despite the sector weakness noted in technology and communication services. On balance, the market structure suggests underlying strength supported by liquidity, but caution is warranted given the mixed signals across fixed income and FX. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence, with strong bullish signals in commodities and inflation contrasting with bearish signals in FX and bonds. The underlying liquidity and credit conditions read strongly bullish, which supports the improving trend observed in crypto and US markets, despite the sector weakness noted in technology and communication services. On balance, the market structure suggests underlying strength supported by liquidity, but caution is warranted given the mixed signals across fixed income and FX. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

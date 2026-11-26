@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Real Estate, Healthcare, Financial Services · weak: Technology
 
 ## Desk panel
-- **Lovble(Global):** Volatility is reading extreme bearish, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds show a neutral reading, with the bullish leaning slightly more than the bearish side. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX exhibits a bullish reading, suggesting positive momentum across currency pairs. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are reading bullish, indicating strong underlying support in that asset class. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities are reading neutral, with the overall trend showing signs of improvement. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is reading extreme bearish, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds show a neutral reading, with the bullish leaning slightly more than the bearish side. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX exhibits a bullish reading, suggesting positive momentum across currency pairs. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are reading bullish, indicating strong underlying support in that asset class. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities are reading neutral, with the overall trend showing signs of improvement. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market data presents a mixed picture: commodities and FX lean positive, while volatility remains elevated on the downside. The US equity reading shows an improving trend, contrasting with the bearish lean observed in the general liquidity metrics. On balance, the market appears to be digesting conflicting signals, suggesting a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The cross-market data presents a mixed picture: commodities and FX lean positive, while volatility remains elevated on the downside. The US equity reading shows an improving trend, contrasting with the bearish lean observed in the general liquidity metrics. On balance, the market appears to be digesting conflicting signals, suggesting a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

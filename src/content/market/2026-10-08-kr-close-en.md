@@ -34,8 +34,8 @@ altLang: ko
 
 - 🔴 10-08 21:15 KST — ECB Interest Rate Decision
 - 🔴 10-13 21:30 KST — US CPI Release
-- 🔴 10-14 15:00 KST — HANMISemi 실적 발표 (042700)
-- 🔴 10-15 09:00 KST — Misto Holdings 배당락일 (081660)
+- 🔴 10-14 15:00 KST — HANMISemi earnings (042700)
+- 🔴 10-15 09:00 KST — Misto Holdings ex-dividend date (081660)
 - 🟡 10-08 21:30 KST — US PPI Release
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
@@ -44,16 +44,16 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility remains in a neutral state, with bearish readings showing a higher weight than bullish ones, suggesting stable but cautious sentiment. :vix:
-- **Bonds:** The bond market exhibits a neutral regime, with bullish indicators holding a clear majority over bearish ones, indicating stable underlying support. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions are reading as neutral, with no discernible directional bias from either bullish or bearish indicators. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Liquidity:** Liquidity metrics are neutral, showing a slight lean towards bullish readings, suggesting stable, if uncommitted, capital flow. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Commodities:** Commodities are reading bearish, with bearish indicators representing a significantly higher proportion than bullish ones, pointing to downward pressure. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
+- **Bonds:** The bond market exhibits a neutral regime, with bullish indicators holding a clear majority over bearish ones, indicating stable underlying support. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions are reading as neutral, with no discernible directional bias from either bullish or bearish indicators. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Liquidity:** Liquidity metrics are neutral, showing a slight lean towards bullish readings, suggesting stable, if uncommitted, capital flow. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Commodities:** Commodities are reading bearish, with bearish indicators representing a significantly higher proportion than bullish ones, pointing to downward pressure. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="Kosho" />
 - **Crypto:** Cryptocurrency is in a sideways-bearish regime, with bearish indicators heavily outweighing bullish ones, showing deteriorating momentum. :crypto:
-- **Korea:** Korean equities are in a sideways-bullish regime, with bullish indicators showing a notable edge over bearish ones, suggesting underlying stability. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
-- **US:** US equities are in a sideways-bearish regime, with bearish indicators slightly outweighing bullish ones, indicating a lack of strong directional conviction. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+- **Korea:** Korean equities are in a sideways-bullish regime, with bullish indicators showing a notable edge over bearish ones, suggesting underlying stability. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="Kosho" />
+- **US:** US equities are in a sideways-bearish regime, with bearish indicators slightly outweighing bullish ones, indicating a lack of strong directional conviction. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests caution, particularly evident in the commodity weakness and the mixed signals across major asset classes. While Korean equities show a slight bullish tilt, the underlying US and Crypto readings point toward consolidation within established ranges. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The macro picture suggests caution, particularly evident in the commodity weakness and the mixed signals across major asset classes. While Korean equities show a slight bullish tilt, the underlying US and Crypto readings point toward consolidation within established ranges. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

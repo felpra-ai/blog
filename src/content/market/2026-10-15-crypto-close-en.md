@@ -46,7 +46,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Sector analysis shows strength concentrated in one area, while other, DeFi, and exchange-related segments are reading as weak. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests underlying stability across most asset classes, though the crypto and Korean markets signal notable weakness. The US market provides a mild bullish backdrop, while commodity price movements suggest potential easing in energy tensions. Overall, the market structure appears to be navigating a period of cautious consolidation. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture suggests underlying stability across most asset classes, though the crypto and Korean markets signal notable weakness. The US market provides a mild bullish backdrop, while commodity price movements suggest potential easing in energy tensions. Overall, the market structure appears to be navigating a period of cautious consolidation. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

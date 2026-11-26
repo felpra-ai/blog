@@ -33,14 +33,14 @@ altLang: ko
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (80 times observed) · macro cross-correlation watch: inflation leads credit by 1d (ρ=-0.35) — only 12 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** UK inflation climbed to 3.6% even as clothing and footwear got cheaper, and the tape stayed subdued around it. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Volatility is leaning upward, and that is the first thing on the board; credit sits neutral with a bearish edge, while bonds tilt bullish on breadth, three in four instruments. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX is stretched to an extreme bearish reading, split evenly between the two sides. Liquidity reads neutral, with nothing moving either way. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Energy is what lifted UK prices, yet the commodity board itself leans bearish, half the basket down, so the heat at the pump has not yet worked its way back into raw materials. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is the weak spot, 83.9% bearish and still sliding. Layer1 and oracle infra lag, and Bitcoin holds the room by dominance rather than strength. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
+- **Lovble(Global):** UK inflation climbed to 3.6% even as clothing and footwear got cheaper, and the tape stayed subdued around it. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Volatility is leaning upward, and that is the first thing on the board; credit sits neutral with a bearish edge, while bonds tilt bullish on breadth, three in four instruments. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX is stretched to an extreme bearish reading, split evenly between the two sides. Liquidity reads neutral, with nothing moving either way. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Energy is what lifted UK prices, yet the commodity board itself leans bearish, half the basket down, so the heat at the pump has not yet worked its way back into raw materials. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is the weak spot, 83.9% bearish and still sliding. Layer1 and oracle infra lag, and Bitcoin holds the room by dominance rather than strength. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Bsho starts from volatility leaning up, Sham from a lopsided dollar, Nowel from energy-led inflation against soft commodities, and Bengal from crypto's slide. What stays open is whether UK energy inflation reaches markets already leaning weak, with Korea deteriorating and only the US improving. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
+**Beom(Chair):** Bsho starts from volatility leaning up, Sham from a lopsided dollar, Nowel from energy-led inflation against soft commodities, and Bengal from crypto's slide. What stays open is whether UK energy inflation reaches markets already leaning weak, with Korea deteriorating and only the US improving. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

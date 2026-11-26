@@ -38,7 +38,7 @@ altLang: ko
 - **Sector:** Sector analysis indicates a clear dominance within Bitcoin, while meme assets are reading as weak. :sector:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The data presents a mixed picture: strong underlying support from liquidity and credit, juxtaposed against notable weakness in the Korean market and bearish signals in FX. The US shows signs of improving momentum, while the crypto space remains indecisive. On balance, the market structure suggests caution amid divergent regional and asset class signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The data presents a mixed picture: strong underlying support from liquidity and credit, juxtaposed against notable weakness in the Korean market and bearish signals in FX. The US shows signs of improving momentum, while the crypto space remains indecisive. On balance, the market structure suggests caution amid divergent regional and asset class signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

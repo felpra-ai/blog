@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-03 21:30 KST — IQVIA Holdings, Inc. 실적 발표 (IQV)
-- 🔴 11-03 21:30 KST — Stanley Black & Decker, Inc. 실적 발표 (SWK)
-- 🔴 11-03 21:30 KST — Exelon Corporation 실적 발표 (EXC)
-- 🔴 11-03 21:30 KST — Uber Technologies, Inc. 실적 발표 (UBER)
-- 🔴 11-03 21:30 KST — Marriott International 실적 발표 (MAR)
-- 🔴 11-03 21:30 KST — Labcorp Holdings Inc. 실적 발표 (LH)
+- 🔴 11-03 21:30 KST — IQVIA Holdings, Inc. earnings (IQV)
+- 🔴 11-03 21:30 KST — Stanley Black & Decker, Inc. earnings (SWK)
+- 🔴 11-03 21:30 KST — Exelon Corporation earnings (EXC)
+- 🔴 11-03 21:30 KST — Uber Technologies, Inc. earnings (UBER)
+- 🔴 11-03 21:30 KST — Marriott International earnings (MAR)
+- 🔴 11-03 21:30 KST — Labcorp Holdings Inc. earnings (LH)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -50,7 +50,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sector:** Financial services and communication services show relative strength compared to technology. :sector:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests divergence; while US equities show signs of improvement, commodity and inflation readings point toward underlying softness. The relative strength observed in financial and communication services warrants attention against the backdrop of deteriorating momentum in Asian and crypto assets. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The market structure suggests divergence; while US equities show signs of improvement, commodity and inflation readings point toward underlying softness. The relative strength observed in financial and communication services warrants attention against the backdrop of deteriorating momentum in Asian and crypto assets. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

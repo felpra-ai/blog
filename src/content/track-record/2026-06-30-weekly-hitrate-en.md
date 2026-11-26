@@ -39,13 +39,13 @@ altLang: ko
 | kr | 475 | 19.8% | -2.36% |
 | us | 2364 | 30.1% | -0.20% |
 
-**Bengal(Crypto):** The crypto market showed a win rate of 39.3%, which is relatively strong compared to the overall average, but the average loss size suggests that when trades do not work out, the losses are significant. <img class="emoji-char" src="/characters/crypto/02_sad.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market showed a win rate of 39.3%, which is relatively strong compared to the overall average, but the average loss size suggests that when trades do not work out, the losses are significant. <img class="emoji-char" src="/characters/crypto/02_sad.png" alt="Bengal" />
 
-**Kosho(KR):** The Korean equities segment displayed a notably low win rate of 19.8%, and the average loss size was quite large, indicating considerable difficulty in capturing positive outcomes this period. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
+**Kosho(KR):** The Korean equities segment displayed a notably low win rate of 19.8%, and the average loss size was quite large, indicating considerable difficulty in capturing positive outcomes this period. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="Kosho" />
 
-**Maine(US):** US equities posted a win rate of 30.1%, and while the average loss was smaller than in the other sectors, the overall negative average P&L suggests that the losses outweighed the gains across the sampled trades. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
+**Maine(US):** US equities posted a win rate of 30.1%, and while the average loss was smaller than in the other sectors, the overall negative average P&L suggests that the losses outweighed the gains across the sampled trades. <img class="emoji-char" src="/characters/us/02_sad.png" alt="Maine" />
 
-**Beom(Chair):** The overall performance across the tracked markets indicates a challenging period, reflected in the negative average P&L for all sectors. The win rates varied considerably, with crypto showing the highest rate, while Korean equities lagged significantly. The disparity in performance suggests that market conditions were not uniformly favorable across asset classes this week. This analysis reflects only paper-trading research and should not be construed as investment advice. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
+**Beom(Chair):** The overall performance across the tracked markets indicates a challenging period, reflected in the negative average P&L for all sectors. The win rates varied considerably, with crypto showing the highest rate, while Korean equities lagged significantly. The disparity in performance suggests that market conditions were not uniformly favorable across asset classes this week. This analysis reflects only paper-trading research and should not be construed as investment advice. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="Beom" />
 
 ---
 

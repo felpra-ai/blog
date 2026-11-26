@@ -30,12 +30,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-03 09:00 KST — Aon plc 배당락일 (AON)
-- 🔴 08-03 09:00 KST — Ameriprise Financial, Inc. 배당락일 (AMP)
-- 🔴 08-04 05:00 KST — The AES Corporation 실적 발표 (AES)
-- 🔴 08-04 21:30 KST — Apollo Global Management, Inc.  실적 발표 (APO)
-- 🔴 08-04 21:30 KST — AMETEK, Inc. 실적 발표 (AME)
-- 🔴 08-04 21:30 KST — Archer-Daniels-Midland Company 실적 발표 (ADM)
+- 🔴 08-03 09:00 KST — Aon plc ex-dividend date (AON)
+- 🔴 08-03 09:00 KST — Ameriprise Financial, Inc. ex-dividend date (AMP)
+- 🔴 08-04 05:00 KST — The AES Corporation earnings (AES)
+- 🔴 08-04 21:30 KST — Apollo Global Management, Inc.  earnings (APO)
+- 🔴 08-04 21:30 KST — AMETEK, Inc. earnings (AME)
+- 🔴 08-04 21:30 KST — Archer-Daniels-Midland Company earnings (ADM)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -53,7 +53,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** The US market is reading as neutral, with bullish indicators slightly outweighing bearish ones. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The data suggests a divergence where liquidity and bond strength are positive, contrasting with pronounced bearishness in FX and elevated volatility readings. The overall market tone appears cautious, balancing underlying support from liquidity against sector-specific weakness noted in Korea. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The data suggests a divergence where liquidity and bond strength are positive, contrasting with pronounced bearishness in FX and elevated volatility readings. The overall market tone appears cautious, balancing underlying support from liquidity against sector-specific weakness noted in Korea. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

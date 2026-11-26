@@ -35,23 +35,23 @@ altLang: ko
 - 🔴 11-25 22:30 KST — US PCE Price Index
 - 🔴 11-25 22:30 KST — US GDP Release
 - 🔴 11-26 10:00 KST — BOK Interest Rate Decision
-- 🔴 11-27 — HyundaiMtr 배당락일 (005380)
-- 🔴 11-27 — Hyundai Elevator 배당락일 (017800)
-- 🔴 11-27 — CJ CheilJedang 배당락일 (097950)
+- 🔴 11-27 — HyundaiMtr ex-dividend date (005380)
+- 🔴 11-27 — Hyundai Elevator ex-dividend date (017800)
+- 🔴 11-27 — CJ CheilJedang ex-dividend date (097950)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: inflation leads credit by 1d (ρ=-0.35) — only 12 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Crypto shows a clear bearish tilt, with 75.8% of movement registered on the downside. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** The data shows bonds leaning strongly bullish, while credit remains entirely neutral. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange exhibits a pronounced bearish bias, and liquidity readings are extremely bullish. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Energy prices declined by 1% as supply surplus concerns outweighed regional disruption worries. <img class="emoji-char" src="/characters/v2/commodity/face/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Institutional flows show a clear weakness across the Korean market, with the sector mix pointing toward utilities and IT-media strength while bio-health and consumer sectors lagged. <img class="emoji-char" src="/characters/v2/kr/face/08_defensive.png" alt="코숏" />
+- **Lovble(Global):** Crypto shows a clear bearish tilt, with 75.8% of movement registered on the downside. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** The data shows bonds leaning strongly bullish, while credit remains entirely neutral. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange exhibits a pronounced bearish bias, and liquidity readings are extremely bullish. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Energy prices declined by 1% as supply surplus concerns outweighed regional disruption worries. <img class="emoji-char" src="/characters/v2/commodity/face/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Institutional flows show a clear weakness across the Korean market, with the sector mix pointing toward utilities and IT-media strength while bio-health and consumer sectors lagged. <img class="emoji-char" src="/characters/v2/kr/face/08_defensive.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The reading shows bonds trending strongly bullish and liquidity extremely bullish, contrasting with the bearish tilt observed in crypto and the US market. The open question remains the interplay between commodity softness and the persistent bearish bias in major asset classes. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
+**Beom(Chair):** The reading shows bonds trending strongly bullish and liquidity extremely bullish, contrasting with the bearish tilt observed in crypto and the US market. The open question remains the interplay between commodity softness and the persistent bearish bias in major asset classes. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-23](/track-record/2026-11-23-weekly-hitrate-en/)

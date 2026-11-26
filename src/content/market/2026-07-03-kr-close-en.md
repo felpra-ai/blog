@@ -31,11 +31,11 @@ altLang: ko
 **Sectors/baskets** — strong: Utilities · weak: materials, chemicals
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains in a bearish regime, suggesting underlying caution across the board. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a sideways-bullish posture, indicating balanced sentiment regarding credit cycles. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are registering as neutral, with mixed directional conviction. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are positioned neutrally, showing slightly more bullish leaning than bearish. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are showing a neutral stance, with utilities showing relative strength while materials and chemicals lagged. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains in a bearish regime, suggesting underlying caution across the board. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a sideways-bullish posture, indicating balanced sentiment regarding credit cycles. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are registering as neutral, with mixed directional conviction. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are positioned neutrally, showing slightly more bullish leaning than bearish. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are showing a neutral stance, with utilities showing relative strength while materials and chemicals lagged. <img class="emoji-char" src="/characters/kr/12_relieved.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
 **Beom(Chair):** The market structure suggests a period of consolidation, as evidenced by the neutral readings across FX and Crypto, while underlying liquidity sentiment leans bearish. The divergence between the stable, neutral readings in major asset classes and the specific sector rotation noted in Korea suggests caution is warranted, keeping the focus on relative strength plays.

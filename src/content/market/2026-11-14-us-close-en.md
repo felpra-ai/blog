@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-16 09:00 KST — International Paper Company 배당락일 (IP)
-- 🔴 11-16 09:00 KST — United Parcel Service, Inc. 배당락일 (UPS)
-- 🔴 11-16 09:00 KST — The Hershey Company 배당락일 (HSY)
-- 🔴 11-16 09:00 KST — UDR, Inc. 배당락일 (UDR)
-- 🔴 11-16 09:00 KST — Southern Company (The) 배당락일 (SO)
-- 🔴 11-16 21:30 KST — Qnity Electronics, Inc. 실적 발표 (Q)
+- 🔴 11-16 09:00 KST — International Paper Company ex-dividend date (IP)
+- 🔴 11-16 09:00 KST — United Parcel Service, Inc. ex-dividend date (UPS)
+- 🔴 11-16 09:00 KST — The Hershey Company ex-dividend date (HSY)
+- 🔴 11-16 09:00 KST — UDR, Inc. ex-dividend date (UDR)
+- 🔴 11-16 09:00 KST — Southern Company (The) ex-dividend date (SO)
+- 🔴 11-16 21:30 KST — Qnity Electronics, Inc. earnings (Q)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (59 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 8 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains neutral, with the bearish side showing a higher degree of activity relative to the bullish side. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a clear bullish leaning, while credit conditions are registering as neutral. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movement is positioned sideways with a slight bullish bias, though bearish readings are more pronounced. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are leaning bearish, suggesting downward pressure in the underlying assets. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities show a mild bullish bias overall, with Financial Services, Consumer Defensive, and Communication Services showing strength, while Technology and Energy sectors appear weaker. <img class="emoji-char" src="/characters/v2/us/face/07_confident.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains neutral, with the bearish side showing a higher degree of activity relative to the bullish side. <img class="emoji-char" src="/characters/v2/news/face/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a clear bullish leaning, while credit conditions are registering as neutral. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movement is positioned sideways with a slight bullish bias, though bearish readings are more pronounced. <img class="emoji-char" src="/characters/v2/forex/face/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are leaning bearish, suggesting downward pressure in the underlying assets. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities show a mild bullish bias overall, with Financial Services, Consumer Defensive, and Communication Services showing strength, while Technology and Energy sectors appear weaker. <img class="emoji-char" src="/characters/v2/us/face/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests underlying strength in US equities and bonds, contrasting with bearish momentum observed in commodities and crypto. The mixed signals across asset classes point toward a period of cautious consolidation. <img class="emoji-char" src="/characters/v2/orchestrator/face/07_confident.png" alt="범" />
+**Beom(Chair):** The market structure suggests underlying strength in US equities and bonds, contrasting with bearish momentum observed in commodities and crypto. The mixed signals across asset classes point toward a period of cautious consolidation. <img class="emoji-char" src="/characters/v2/orchestrator/face/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

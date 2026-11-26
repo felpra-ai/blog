@@ -47,7 +47,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral â†
 - **Commodities:** Commodities exhibit a bullish reading, suggesting positive momentum across the basket. :commodities:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The data indicates a divergence where commodities show bullish strength while broader market sentiment, particularly in the US, registers as deteriorating and bearish. Liquidity conditions are notably strained, suggesting caution across asset classes despite some sector-specific strength observed in crypto. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="ë²”" />
+**Beom(Chair):** The data indicates a divergence where commodities show bullish strength while broader market sentiment, particularly in the US, registers as deteriorating and bearish. Liquidity conditions are notably strained, suggesting caution across asset classes despite some sector-specific strength observed in crypto. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

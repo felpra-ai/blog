@@ -32,16 +32,16 @@ altLang: ko
 
 ## Desk panel
 - **Macro regimes:** Volatility remains at a neutral reading, with the market showing an equal split between bullish and bearish sentiment, while the underlying trend remains stable. :macro:
-- **Bonds:** The bond market sentiment is balanced, leaning slightly toward bullish readings, with the trend remaining stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions read neutral, exhibiting a clear bearish bias in sentiment despite a stable trend. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **FX:** Foreign exchange markets show a distinct bullish leaning in sentiment, maintaining a stable trend. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Liquidity:** Liquidity metrics indicate a bearish sentiment across the board, with the trend remaining stable. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Bonds:** The bond market sentiment is balanced, leaning slightly toward bullish readings, with the trend remaining stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions read neutral, exhibiting a clear bearish bias in sentiment despite a stable trend. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **FX:** Foreign exchange markets show a distinct bullish leaning in sentiment, maintaining a stable trend. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Liquidity:** Liquidity metrics indicate a bearish sentiment across the board, with the trend remaining stable. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 - **Commodities:** Commodity sentiment is leaning bullish, while the trend remains stable. :crypto:
 - **Inflation:** Inflation sentiment reads bearish, with the trend remaining stable. :korea:
 - **Crypto:** Cryptocurrency sentiment is neutral, with the trend remaining stable. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market data suggests a divergence where FX strength and commodity bullishness contrast with bearish readings in liquidity and inflation. US equities show an improving trend, which is generally supportive, though the underlying macro signals point to caution. On balance, the tape suggests a period of consolidation within defined boundaries. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The cross-market data suggests a divergence where FX strength and commodity bullishness contrast with bearish readings in liquidity and inflation. US equities show an improving trend, which is generally supportive, though the underlying macro signals point to caution. On balance, the tape suggests a period of consolidation within defined boundaries. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

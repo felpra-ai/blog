@@ -46,7 +46,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral â†
 - **Sector:** Within the crypto space, strength is concentrated in Bitcoin, while meme, layer1, and defi sectors are showing weakness. :sector:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Macro indicators present a mixed picture, with high volatility readings contrasting against deep bearish signals in credit and inflation. The divergence between the bullish reading in volatility and the bearish readings across credit and inflation suggests underlying structural tension. On balance, the market appears to be digesting conflicting signals, leading to a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="ë²”" />
+**Beom(Chair):** Macro indicators present a mixed picture, with high volatility readings contrasting against deep bearish signals in credit and inflation. The divergence between the bullish reading in volatility and the bearish readings across credit and inflation suggests underlying structural tension. On balance, the market appears to be digesting conflicting signals, leading to a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

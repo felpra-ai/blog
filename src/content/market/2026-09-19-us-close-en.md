@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-21 09:00 KST — Vistra Corp. 배당락일 (VST)
-- 🔴 09-21 09:00 KST — W.R. Berkley Corporation 배당락일 (WRB)
-- 🔴 09-21 09:00 KST — DTE Energy Company 배당락일 (DTE)
-- 🔴 09-21 09:00 KST — Broadcom Inc. 배당락일 (AVGO)
-- 🔴 09-21 09:00 KST — Eversource Energy (D/B/A) 배당락일 (ES)
-- 🔴 09-21 09:00 KST — Kenvue Inc. 배당락일 (KVUE)
+- 🔴 09-21 09:00 KST — Vistra Corp. ex-dividend date (VST)
+- 🔴 09-21 09:00 KST — W.R. Berkley Corporation ex-dividend date (WRB)
+- 🔴 09-21 09:00 KST — DTE Energy Company ex-dividend date (DTE)
+- 🔴 09-21 09:00 KST — Broadcom Inc. ex-dividend date (AVGO)
+- 🔴 09-21 09:00 KST — Eversource Energy (D/B/A) ex-dividend date (ES)
+- 🔴 09-21 09:00 KST — Kenvue Inc. ex-dividend date (KVUE)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 

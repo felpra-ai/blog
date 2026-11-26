@@ -32,8 +32,8 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-17 15:00 KST — HANJINKAL 실적 발표 (180640)
-- 🔴 11-18 09:00 KST — KOREA ZINC 배당락일 (010130)
+- 🔴 11-17 15:00 KST — HANJINKAL earnings (180640)
+- 🔴 11-18 09:00 KST — KOREA ZINC ex-dividend date (010130)
 - 🟡 11-13 22:30 KST — US PPI Release
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Commodities:** Commodities are firmly in a bearish regime, with bearish indicators outweighing bullish ones significantly. :commodities:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: US equities show improving bullish momentum, while commodities and crypto are signaling weakness. The broader macro picture suggests caution, as evidenced by persistent bearish readings in inflation and commodities, despite relative stability in volatility and bonds. The overall tape appears to be consolidating within defined, cautious boundaries. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: US equities show improving bullish momentum, while commodities and crypto are signaling weakness. The broader macro picture suggests caution, as evidenced by persistent bearish readings in inflation and commodities, despite relative stability in volatility and bonds. The overall tape appears to be consolidating within defined, cautious boundaries. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

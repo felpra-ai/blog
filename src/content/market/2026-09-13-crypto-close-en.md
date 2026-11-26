@@ -49,7 +49,7 @@ _Observation notes: most frequent regime shift in this market so far: extreme_be
 - **US:** The US market sentiment is neutral, but the underlying trend is noted as deteriorating. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence, with stable volatility contrasting sharply against bearish readings in credit and liquidity. While the US market shows signs of deterioration, the crypto space is improving, suggesting underlying shifts across asset classes. The overall tape appears to be navigating conflicting signals between macro weakness and localized strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence, with stable volatility contrasting sharply against bearish readings in credit and liquidity. While the US market shows signs of deterioration, the crypto space is improving, suggesting underlying shifts across asset classes. The overall tape appears to be navigating conflicting signals between macro weakness and localized strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: gaming nft, defi, meme, layer1 · weak: — · dominance: btc_dominant
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings indicate a predominantly bearish sentiment, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond market sentiment is balanced, showing a slight leaning towards bullishness despite mixed directional signals. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange indicators suggest a strongly bullish environment, with bullish conviction outweighing bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is mixed, showing a moderate bullish bias with limited bearish conviction. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto assets show a neutral reading, with the broader market structure indicating a dominance pattern centered on Bitcoin. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Lovble(Global):** Volatility readings indicate a predominantly bearish sentiment, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond market sentiment is balanced, showing a slight leaning towards bullishness despite mixed directional signals. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange indicators suggest a strongly bullish environment, with bullish conviction outweighing bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is mixed, showing a moderate bullish bias with limited bearish conviction. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto assets show a neutral reading, with the broader market structure indicating a dominance pattern centered on Bitcoin. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market exhibits a divergence where FX and Inflation show strong bullish tilts, contrasting with the bearish leanings seen in VIX and Credit. US market sentiment is reading as improving, while crypto remains range-bound. Overall, the data suggests underlying structural support in certain areas despite persistent caution reflected across multiple asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market exhibits a divergence where FX and Inflation show strong bullish tilts, contrasting with the bearish leanings seen in VIX and Credit. US market sentiment is reading as improving, while crypto remains range-bound. Overall, the data suggests underlying structural support in certain areas despite persistent caution reflected across multiple asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

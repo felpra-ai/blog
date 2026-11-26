@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-21 09:00 KST — Johnson Controls International  배당락일 (JCI)
-- 🔴 09-21 09:00 KST — Vistra Corp. 배당락일 (VST)
-- 🔴 09-21 09:00 KST — W.R. Berkley Corporation 배당락일 (WRB)
-- 🔴 09-21 09:00 KST — DTE Energy Company 배당락일 (DTE)
-- 🔴 09-21 09:00 KST — Broadcom Inc. 배당락일 (AVGO)
-- 🔴 09-21 09:00 KST — Kenvue Inc. 배당락일 (KVUE)
+- 🔴 09-21 09:00 KST — Johnson Controls International  ex-dividend date (JCI)
+- 🔴 09-21 09:00 KST — Vistra Corp. ex-dividend date (VST)
+- 🔴 09-21 09:00 KST — W.R. Berkley Corporation ex-dividend date (WRB)
+- 🔴 09-21 09:00 KST — DTE Energy Company ex-dividend date (DTE)
+- 🔴 09-21 09:00 KST — Broadcom Inc. ex-dividend date (AVGO)
+- 🔴 09-21 09:00 KST — Kenvue Inc. ex-dividend date (KVUE)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.27) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains elevated, with bearish readings dominating the current reading. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond sentiment is balanced, showing no clear directional bias from the current readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange readings indicate a strong leaning toward bearish sentiment across the board. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity readings suggest a soft bias, with bearish indicators showing a notable weight. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equity sentiment is showing a deteriorating trend, with specific sectors like Industrials, Real Estate, and Financial Services showing weakness. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains elevated, with bearish readings dominating the current reading. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond sentiment is balanced, showing no clear directional bias from the current readings. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange readings indicate a strong leaning toward bearish sentiment across the board. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity readings suggest a soft bias, with bearish indicators showing a notable weight. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equity sentiment is showing a deteriorating trend, with specific sectors like Industrials, Real Estate, and Financial Services showing weakness. <img class="emoji-char" src="/characters/us/05_anxious.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure shows notable divergence, with US equities exhibiting clear deterioration despite other asset classes maintaining a neutral or balanced posture. The confluence of bearish readings in FX and the weakness observed in key US sectors suggests underlying caution across multiple fronts. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The market structure shows notable divergence, with US equities exhibiting clear deterioration despite other asset classes maintaining a neutral or balanced posture. The confluence of bearish readings in FX and the weakness observed in key US sectors suggests underlying caution across multiple fronts. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

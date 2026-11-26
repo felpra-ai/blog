@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-19 15:00 KST — HANMISemi 실적 발표 (042700)
-- 🔴 10-22 15:00 KST — LS ELECTRIC 실적 발표 (010120)
-- 🔴 10-22 15:00 KST — NHIS 실적 발표 (005940)
-- 🔴 10-22 15:00 KST — HD HYUNDAI ELECTRIC 실적 발표 (267260)
+- 🔴 10-19 15:00 KST — HANMISemi earnings (042700)
+- 🔴 10-22 15:00 KST — LS ELECTRIC earnings (010120)
+- 🔴 10-22 15:00 KST — NHIS earnings (005940)
+- 🔴 10-22 15:00 KST — HD HYUNDAI ELECTRIC earnings (267260)
 - 🔴 10-22 21:30 KST — US GDP (Advance)
-- 🔴 10-23 15:00 KST — HYUNDAI ROTEM 실적 발표 (064350)
+- 🔴 10-23 15:00 KST — HYUNDAI ROTEM earnings (064350)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Bsho(Bonds):** Bonds show a tendency towards bearishness, though the overall trend remains stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements suggest a slight leaning towards bearishness, with liquidity remaining supportive. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity pricing exhibits a neutral stance, with bearish indicators showing more weight than bullish ones. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are showing a bearish tilt, with the IT/Media sector showing strength while Industrials, Materials, and Financials are lagging. <img class="emoji-char" src="/characters/kr/10_suspicious.png" alt="코숏" />
-- **Lovble(Global):** Volatility remains at a neutral reading, with the broader market sentiment leaning slightly towards bullishness. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
+- **Bsho(Bonds):** Bonds show a tendency towards bearishness, though the overall trend remains stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements suggest a slight leaning towards bearishness, with liquidity remaining supportive. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity pricing exhibits a neutral stance, with bearish indicators showing more weight than bullish ones. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are showing a bearish tilt, with the IT/Media sector showing strength while Industrials, Materials, and Financials are lagging. <img class="emoji-char" src="/characters/kr/10_suspicious.png" alt="Kosho" />
+- **Lovble(Global):** Volatility remains at a neutral reading, with the broader market sentiment leaning slightly towards bullishness. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The US market shows signs of improvement, which is broadly supportive of the overall environment, although the cryptocurrency space is exhibiting deteriorating bearish momentum. On balance, the cross-market picture suggests a cautious, range-seeking tape amidst mixed signals. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
+**Beom(Chair):** The US market shows signs of improvement, which is broadly supportive of the overall environment, although the cryptocurrency space is exhibiting deteriorating bearish momentum. On balance, the cross-market picture suggests a cautious, range-seeking tape amidst mixed signals. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

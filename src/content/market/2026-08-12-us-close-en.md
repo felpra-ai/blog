@@ -32,9 +32,9 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-12 21:30 KST — Amcor plc 실적 발표 (AMCR)
-- 🔴 08-13 21:30 KST — Amcor plc 실적 발표 (AMCR)
-- 🔴 08-14 05:00 KST — Applied Materials, Inc. 실적 발표 (AMAT)
+- 🔴 08-12 21:30 KST — Amcor plc earnings (AMCR)
+- 🔴 08-13 21:30 KST — Amcor plc earnings (AMCR)
+- 🔴 08-14 05:00 KST — Applied Materials, Inc. earnings (AMAT)
 - 🟡 08-13 21:30 KST — US PPI Release
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Strength is noted in Communication Services and Basic Materials, while Utilities shows weakness. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence, with bearish signals noted across FX and liquidity, contrasting with bullish readings in bonds. The relative strength in Korean markets stands out against the neutral readings in US equities and crypto. On balance, the market structure suggests caution amidst differing directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence, with bearish signals noted across FX and liquidity, contrasting with bullish readings in bonds. The relative strength in Korean markets stands out against the neutral readings in US equities and crypto. On balance, the market structure suggests caution amidst differing directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-16 09:00 KST — International Paper Company 배당락일 (IP)
-- 🔴 11-16 09:00 KST — United Parcel Service, Inc. 배당락일 (UPS)
-- 🔴 11-16 09:00 KST — The Hershey Company 배당락일 (HSY)
-- 🔴 11-16 09:00 KST — UDR, Inc. 배당락일 (UDR)
-- 🔴 11-16 09:00 KST — Southern Company (The) 배당락일 (SO)
-- 🔴 11-16 21:30 KST — Qnity Electronics, Inc. 실적 발표 (Q)
+- 🔴 11-16 09:00 KST — International Paper Company ex-dividend date (IP)
+- 🔴 11-16 09:00 KST — United Parcel Service, Inc. ex-dividend date (UPS)
+- 🔴 11-16 09:00 KST — The Hershey Company ex-dividend date (HSY)
+- 🔴 11-16 09:00 KST — UDR, Inc. ex-dividend date (UDR)
+- 🔴 11-16 09:00 KST — Southern Company (The) ex-dividend date (SO)
+- 🔴 11-16 21:30 KST — Qnity Electronics, Inc. earnings (Q)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -50,7 +50,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Financial Services, Consumer Defensive, and Communication Services are showing strength, while TECHNOLOGY and Energy sectors are registering weakness. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents diverging signals, with bonds showing clear strength contrasting against bearish readings in commodities and crypto. US equities appear resilient within a defined range, while the overall market sentiment suggests caution despite pockets of sector strength. <img class="emoji-char" src="/characters/v2/orchestrator/face/07_confident.png" alt="범" />
+**Beom(Chair):** The macro picture presents diverging signals, with bonds showing clear strength contrasting against bearish readings in commodities and crypto. US equities appear resilient within a defined range, while the overall market sentiment suggests caution despite pockets of sector strength. <img class="emoji-char" src="/characters/v2/orchestrator/face/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

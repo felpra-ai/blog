@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-08 09:00 KST — Intuit Inc. 배당락일 (INTU)
+- 🔴 10-08 09:00 KST — Intuit Inc. ex-dividend date (INTU)
 - 🔴 10-08 10:00 KST — BOK Interest Rate Decision
 - 🔴 10-08 21:15 KST — ECB Interest Rate Decision
-- 🔴 10-08 21:30 KST — Delta Air Lines, Inc. 실적 발표 (DAL)
-- 🔴 10-08 21:30 KST — Pepsico, Inc. 실적 발표 (PEP)
-- 🔴 10-09 09:00 KST — Mastercard Incorporated 배당락일 (MA)
+- 🔴 10-08 21:30 KST — Delta Air Lines, Inc. earnings (DAL)
+- 🔴 10-08 21:30 KST — Pepsico, Inc. earnings (PEP)
+- 🔴 10-09 09:00 KST — Mastercard Incorporated ex-dividend date (MA)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (57 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains neutral, with bearish readings showing a dominant presence in the current regime. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds maintain a neutral stance, showing no directional bias between bullish and bearish indicators. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** FX movements are neutral, with a slightly higher weighting toward bullish sentiment compared to bearish. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit a sideways-bearish posture, with bearish indicators holding a clear majority. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are in a sideways-bearish pattern, while the Technology and Communication Services sectors show mixed strength, with Utilities providing some support. <img class="emoji-char" src="/characters/us/10_suspicious.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains neutral, with bearish readings showing a dominant presence in the current regime. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds maintain a neutral stance, showing no directional bias between bullish and bearish indicators. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** FX movements are neutral, with a slightly higher weighting toward bullish sentiment compared to bearish. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit a sideways-bearish posture, with bearish indicators holding a clear majority. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are in a sideways-bearish pattern, while the Technology and Communication Services sectors show mixed strength, with Utilities providing some support. <img class="emoji-char" src="/characters/us/10_suspicious.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests stability across most measured variables, though commodities and crypto show clear downward pressure. The market structure reflects caution, particularly in US equities, despite some sectoral resilience noted in technology. On balance, the tape suggests a period of consolidation within established ranges. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
+**Beom(Chair):** The macro picture suggests stability across most measured variables, though commodities and crypto show clear downward pressure. The market structure reflects caution, particularly in US equities, despite some sectoral resilience noted in technology. On balance, the tape suggests a period of consolidation within established ranges. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

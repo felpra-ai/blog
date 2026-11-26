@@ -60,11 +60,11 @@ _Archive this hash — recomputing it later from the raw ledger must reproduce t
 
 ## Remarks by market
 
-**Bengal(Crypto):** The crypto market showed a win rate of 33.5% with an average loss of -1.08, indicating that while wins were achieved, the frequency and magnitude of losses contributed significantly to the overall negative average P&L of -0.23. <img class="emoji-char" src="/characters/crypto/02_sad.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market showed a win rate of 33.5% with an average loss of -1.08, indicating that while wins were achieved, the frequency and magnitude of losses contributed significantly to the overall negative average P&L of -0.23. <img class="emoji-char" src="/characters/crypto/02_sad.png" alt="Bengal" />
 
-**Kosho(KR):** Korean equities registered a win rate of 30.3%, and the average P&L was -0.241, suggesting that the performance across the sampled period was challenging, with losses appearing to be a frequent outcome. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
+**Kosho(KR):** Korean equities registered a win rate of 30.3%, and the average P&L was -0.241, suggesting that the performance across the sampled period was challenging, with losses appearing to be a frequent outcome. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="Kosho" />
 
-**Maine(US):** US equities posted the lowest win rate at 25.1%, coupled with the largest average loss of -0.269, suggesting that the recent trading activity in this segment was particularly difficult to navigate. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
+**Maine(US):** US equities posted the lowest win rate at 25.1%, coupled with the largest average loss of -0.269, suggesting that the recent trading activity in this segment was particularly difficult to navigate. <img class="emoji-char" src="/characters/us/02_sad.png" alt="Maine" />
 
 ## Beom's quorum verdict
 
@@ -72,7 +72,7 @@ The aggregate performance across all tracked markets indicates a challenging per
 
 The variance in performance across the three sectors—with US equities showing the lowest win rate and largest average loss, and crypto showing a slightly higher win rate—suggests that no single market segment provided consistent positive momentum this cycle. The sample size for US equities, at 669 observations, is notably smaller compared to the other two markets.
 
-In synthesis, the current reading points toward a broadly cautious regime. The collective results emphasize the difficulty in maintaining positive net returns when losses are frequent and substantial across multiple asset classes. This analysis remains purely a review of past paper-trading performance and does not constitute investment advice. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
+In synthesis, the current reading points toward a broadly cautious regime. The collective results emphasize the difficulty in maintaining positive net returns when losses are frequent and substantial across multiple asset classes. This analysis remains purely a review of past paper-trading performance and does not constitute investment advice. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="Beom" />
 
 **Related**
 - This week's journals: [2026-07-19 crypto](/journal/2026-07-19-crypto-journal-en/) · [2026-07-20 crypto](/journal/2026-07-20-crypto-journal-en/) · [2026-07-20 kr](/journal/2026-07-20-kr-journal-en/) · [2026-07-21 crypto](/journal/2026-07-21-crypto-journal-en/) · [2026-07-21 kr](/journal/2026-07-21-kr-journal-en/) · [2026-07-21 us](/journal/2026-07-21-us-journal-en/) · [2026-07-22 crypto](/journal/2026-07-22-crypto-journal-en/) · [2026-07-22 kr](/journal/2026-07-22-kr-journal-en/) · [2026-07-22 us](/journal/2026-07-22-us-journal-en/) · [2026-07-23 crypto](/journal/2026-07-23-crypto-journal-en/) · [2026-07-23 kr](/journal/2026-07-23-kr-journal-en/) · [2026-07-23 us](/journal/2026-07-23-us-journal-en/) · [2026-07-24 crypto](/journal/2026-07-24-crypto-journal-en/) · [2026-07-24 kr](/journal/2026-07-24-kr-journal-en/) · [2026-07-24 us](/journal/2026-07-24-us-journal-en/) · [2026-07-25 crypto](/journal/2026-07-25-crypto-journal-en/) · [2026-07-25 us](/journal/2026-07-25-us-journal-en/)

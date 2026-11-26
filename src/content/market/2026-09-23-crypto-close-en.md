@@ -40,13 +40,13 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **Macro:** Volatility remains elevated with a clear bearish bias, while bonds and liquidity show a neutral stance. :macro:
-- **Bsho(Bonds):** The bond market exhibits a neutral reading with no discernible bearish pressure noted. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange activity shows a mixed reading, with an equal split between bullish and bearish sentiment. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities present a neutral picture, leaning slightly toward bullish sentiment. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto activity reads as neutral overall, with a clear dominance observed in the Bitcoin sector. <img class="emoji-char" src="/characters/crypto/12_relieved.png" alt="벵갈" />
+- **Bsho(Bonds):** The bond market exhibits a neutral reading with no discernible bearish pressure noted. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange activity shows a mixed reading, with an equal split between bullish and bearish sentiment. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities present a neutral picture, leaning slightly toward bullish sentiment. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto activity reads as neutral overall, with a clear dominance observed in the Bitcoin sector. <img class="emoji-char" src="/characters/crypto/12_relieved.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests underlying caution, evidenced by the bearish tilt in volatility and inflation, despite some bullish readings in FX and commodities. The US market's deteriorating trend contrasts with the improving trend observed in the crypto space. Overall, the market structure suggests a period of consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The macro picture suggests underlying caution, evidenced by the bearish tilt in volatility and inflation, despite some bullish readings in FX and commodities. The US market's deteriorating trend contrasts with the improving trend observed in the crypto space. Overall, the market structure suggests a period of consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

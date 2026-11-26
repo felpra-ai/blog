@@ -38,7 +38,7 @@ altLang: ko
 - **Sectors:** Industrials, Financial Services, Utilities, and Consumer Cyclical show strength, while ENERGY, UTILITIES, and Communication Services are noted as weaker areas. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests underlying support in credit and bonds, while FX strength and liquidity readings point to a generally supportive, albeit cautious, environment. The market structure shows sector divergence, with cyclical and financial names showing relative strength against energy and communication services. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The macro picture suggests underlying support in credit and bonds, while FX strength and liquidity readings point to a generally supportive, albeit cautious, environment. The market structure shows sector divergence, with cyclical and financial names showing relative strength against energy and communication services. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

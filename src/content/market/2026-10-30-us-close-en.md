@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-30 09:00 KST — Constellation Brands, Inc. 배당락일 (STZ)
-- 🔴 10-30 09:00 KST — Realty Income Corporation 배당락일 (O)
-- 🔴 10-30 09:00 KST — The AES Corporation 배당락일 (AES)
-- 🔴 10-30 09:00 KST — Alliant Energy Corporation 배당락일 (LNT)
-- 🔴 10-30 09:00 KST — Citizens Financial Group, Inc. 배당락일 (CFG)
-- 🔴 10-30 21:30 KST — Cboe Global Markets, Inc. 실적 발표 (CBOE)
+- 🔴 10-30 09:00 KST — Constellation Brands, Inc. ex-dividend date (STZ)
+- 🔴 10-30 09:00 KST — Realty Income Corporation ex-dividend date (O)
+- 🔴 10-30 09:00 KST — The AES Corporation ex-dividend date (AES)
+- 🔴 10-30 09:00 KST — Alliant Energy Corporation ex-dividend date (LNT)
+- 🔴 10-30 09:00 KST — Citizens Financial Group, Inc. ex-dividend date (CFG)
+- 🔴 10-30 21:30 KST — Cboe Global Markets, Inc. earnings (CBOE)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -56,7 +56,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Financial Services, Consumer Cyclical, and Industrials show strength, while Technology sectors show weakness. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence, with strong liquidity and credit support contrasting sharply with bearish commodity readings and softening crypto. US equities show underlying strength amidst sector rotation, suggesting caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence, with strong liquidity and credit support contrasting sharply with bearish commodity readings and softening crypto. US equities show underlying strength amidst sector rotation, suggesting caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

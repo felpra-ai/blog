@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: layer1, storage · weak: exchange, oracle infra · dominance: btc_dominant
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains weighted toward the bearish side, while overall risk appetite shows a stable, mixed picture. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond indicators suggest a sideways bias leaning toward bullish territory, with credit conditions registering as neutral. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are balanced, showing equal weight across bullish and bearish indicators, indicating a neutral stance. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity indicators are balanced, with equal weight observed across bullish and bearish readings, suggesting a neutral regime. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Bengal(Crypto):** Cryptocurrency sentiment is neutral overall, with the layer1 and storage sectors showing strength, while the exchange and oracle_infra sectors exhibited weakness, with BTC maintaining dominance. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Lovble(Global):** Volatility remains weighted toward the bearish side, while overall risk appetite shows a stable, mixed picture. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond indicators suggest a sideways bias leaning toward bullish territory, with credit conditions registering as neutral. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are balanced, showing equal weight across bullish and bearish indicators, indicating a neutral stance. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity indicators are balanced, with equal weight observed across bullish and bearish readings, suggesting a neutral regime. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Bengal(Crypto):** Cryptocurrency sentiment is neutral overall, with the layer1 and storage sectors showing strength, while the exchange and oracle_infra sectors exhibited weakness, with BTC maintaining dominance. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure reflects a divergence: while US and Korean equities show improving momentum, underlying macro indicators point toward significant bearish pressure, particularly concerning liquidity and inflation. The crypto space mirrors this mixed sentiment, showing sector divergence but overall stability. The prevailing theme is one of cautious consolidation amidst conflicting macro signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure reflects a divergence: while US and Korean equities show improving momentum, underlying macro indicators point toward significant bearish pressure, particularly concerning liquidity and inflation. The crypto space mirrors this mixed sentiment, showing sector divergence but overall stability. The prevailing theme is one of cautious consolidation amidst conflicting macro signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

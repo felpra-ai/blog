@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-23 — Microchip Technology Incorporat 배당락일 (MCHP)
-- 🔴 11-24 US after close — Jacobs Solutions Inc. 실적 발표 (J)
-- 🔴 11-24 US after close — Agilent Technologies, Inc. 실적 발표 (A)
-- 🔴 11-24 US after close — Hewlett Packard Enterprise Comp 실적 발표 (HPE)
-- 🔴 11-24 — Prudential Financial, Inc. 배당락일 (PRU)
-- 🔴 11-24 US pre-market — Dollar Tree, Inc. 실적 발표 (DLTR)
+- 🔴 11-23 — Microchip Technology Incorporat ex-dividend date (MCHP)
+- 🔴 11-24 US after close — Jacobs Solutions Inc. earnings (J)
+- 🔴 11-24 US after close — Agilent Technologies, Inc. earnings (A)
+- 🔴 11-24 US after close — Hewlett Packard Enterprise Comp earnings (HPE)
+- 🔴 11-24 — Prudential Financial, Inc. ex-dividend date (PRU)
+- 🔴 11-24 US pre-market — Dollar Tree, Inc. earnings (DLTR)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (60 times observed) · macro cross-correlation watch: inflation leads credit by 1d (ρ=-0.35) — only 12 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** News flow shows a clear bearish tilt across multiple asset classes, with commodity weakness being particularly pronounced. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Credit shows a strong bearish leaning, while the underlying liquidity remains fully bullish. <img class="emoji-char" src="/characters/v2/bond/face/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** The foreign exchange environment registers a pronounced bearish bias, contrasting with the fully bullish reading for liquidity. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Grain and energy inputs suggest a soft underlying current, moving against the backdrop of persistent inflationary pressures. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Maine(US):** The weekly picture suggests a general lack of directional conviction across major developed markets, with consumer staples showing relative strength. <img class="emoji-char" src="/characters/v2/us/face/10_suspicious.png" alt="멘쿤" />
+- **Lovble(Global):** News flow shows a clear bearish tilt across multiple asset classes, with commodity weakness being particularly pronounced. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit shows a strong bearish leaning, while the underlying liquidity remains fully bullish. <img class="emoji-char" src="/characters/v2/bond/face/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** The foreign exchange environment registers a pronounced bearish bias, contrasting with the fully bullish reading for liquidity. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Grain and energy inputs suggest a soft underlying current, moving against the backdrop of persistent inflationary pressures. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** The weekly picture suggests a general lack of directional conviction across major developed markets, with consumer staples showing relative strength. <img class="emoji-char" src="/characters/v2/us/face/10_suspicious.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Volatility is registering a bullish trend, while credit and commodities show clear bearish tilts. The open question remains the divergence between strong liquidity readings and deteriorating asset class sentiment. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
+**Beom(Chair):** Volatility is registering a bullish trend, while credit and commodities show clear bearish tilts. The open question remains the divergence between strong liquidity readings and deteriorating asset class sentiment. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

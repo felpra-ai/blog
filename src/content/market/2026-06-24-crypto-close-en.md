@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: gaming nft · weak: — · dominance: btc_dominant
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable with a leaning towards bearish readings, suggesting caution in risk appetite. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Fixed income exhibits a clear bullish bias, while credit conditions read entirely bullish. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange shows a pronounced bullish leaning, supported by liquidity readings that are sideways but bullish. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is balanced, showing no discernible directional bias. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Bengal(Crypto):** Cryptocurrency is reading as neutral overall, with Bitcoin showing clear dominance across the basket. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Lovble(Global):** Volatility remains stable with a leaning towards bearish readings, suggesting caution in risk appetite. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Fixed income exhibits a clear bullish bias, while credit conditions read entirely bullish. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange shows a pronounced bullish leaning, supported by liquidity readings that are sideways but bullish. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is balanced, showing no discernible directional bias. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Bengal(Crypto):** Cryptocurrency is reading as neutral overall, with Bitcoin showing clear dominance across the basket. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market data presents a mixed picture: fixed income and FX lean strongly positive, while inflation signals a bearish drift. The overall market structure suggests underlying support from liquidity and credit, despite varied signals across asset classes. On balance, the tape appears to be consolidating within established ranges. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The cross-market data presents a mixed picture: fixed income and FX lean strongly positive, while inflation signals a bearish drift. The overall market structure suggests underlying support from liquidity and credit, despite varied signals across asset classes. On balance, the tape appears to be consolidating within established ranges. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

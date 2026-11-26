@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-19 09:00 KST — UDR, Inc. 배당락일 (UDR)
-- 🔴 10-19 09:00 KST — Caterpillar, Inc. 배당락일 (CAT)
-- 🔴 10-19 09:00 KST — Healthpeak Properties, Inc. 배당락일 (DOC)
-- 🔴 10-19 21:30 KST — Fifth Third Bancorp 실적 발표 (FITB)
-- 🔴 10-20 05:00 KST — W.R. Berkley Corporation 실적 발표 (WRB)
-- 🔴 10-20 05:00 KST — Steel Dynamics, Inc. 실적 발표 (STLD)
+- 🔴 10-19 09:00 KST — UDR, Inc. ex-dividend date (UDR)
+- 🔴 10-19 09:00 KST — Caterpillar, Inc. ex-dividend date (CAT)
+- 🔴 10-19 09:00 KST — Healthpeak Properties, Inc. ex-dividend date (DOC)
+- 🔴 10-19 21:30 KST — Fifth Third Bancorp earnings (FITB)
+- 🔴 10-20 05:00 KST — W.R. Berkley Corporation earnings (WRB)
+- 🔴 10-20 05:00 KST — Steel Dynamics, Inc. earnings (STLD)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (57 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 10 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is stable, showing no directional bias in the current reading. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a notable bearish leaning, though the underlying trend remains stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are characterized by a neutral stance, with a slight bearish tilt observed. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are showing a neutral posture, with bearish indicators holding a more pronounced weight. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are displaying a sideways bias with a bullish leaning, while the financial services sector shows strength, contrasting with weakness in real estate. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is stable, showing no directional bias in the current reading. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a notable bearish leaning, though the underlying trend remains stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are characterized by a neutral stance, with a slight bearish tilt observed. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are showing a neutral posture, with bearish indicators holding a more pronounced weight. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities are displaying a sideways bias with a bullish leaning, while the financial services sector shows strength, contrasting with weakness in real estate. <img class="emoji-char" src="/characters/us/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** US market structure appears to be improving, providing a supportive backdrop to the broader market, though the crypto asset class is showing signs of deterioration. Overall, the market sentiment suggests a cautious, range-seeking environment. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** US market structure appears to be improving, providing a supportive backdrop to the broader market, though the crypto asset class is showing signs of deterioration. Overall, the market sentiment suggests a cautious, range-seeking environment. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-12](/track-record/2026-10-12-weekly-hitrate-en/)

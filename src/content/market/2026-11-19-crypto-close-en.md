@@ -41,14 +41,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (82 times observed) · macro cross-correlation watch: inflation leads credit by 1d (ρ=-0.35) — only 12 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Inflation headlines set the tone, volatility leans higher, and crypto keeps sliding. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** The FX tilt is clearly to the downside, and that is the first thing on the board. Bonds lean the other way and credit has yet to pick a side. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="브숏" />
-- **Sham(FX):** The dollar tilts lower. Liquidity leans a touch up. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities lean down, and that means less pressure on the raw inputs that feed through to factories and shelves, while inflation also tilts lower, like a cooling season working its way through the supply chain. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is moving fastest, and downward, with nearly nine in ten readings bearish and the trend getting worse. Korea is weakening too. What strength there is sits in BTC. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="벵갈" />
+- **Lovble(Global):** Inflation headlines set the tone, volatility leans higher, and crypto keeps sliding. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** The FX tilt is clearly to the downside, and that is the first thing on the board. Bonds lean the other way and credit has yet to pick a side. <img class="emoji-char" src="/characters/v2/bond/face/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** The dollar tilts lower. Liquidity leans a touch up. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities lean down, and that means less pressure on the raw inputs that feed through to factories and shelves, while inflation also tilts lower, like a cooling season working its way through the supply chain. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is moving fastest, and downward, with nearly nine in ten readings bearish and the trend getting worse. Korea is weakening too. What strength there is sits in BTC. <img class="emoji-char" src="/characters/v2/crypto/face/08_defensive.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The desk sees bearish tilts in FX and commodities, with crypto and Korea both deteriorating. Bonds lean the opposite way. How far that gap between bonds and FX runs is still open. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
+**Beom(Chair):** The desk sees bearish tilts in FX and commodities, with crypto and Korea both deteriorating. Bonds lean the opposite way. How far that gap between bonds and FX runs is still open. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

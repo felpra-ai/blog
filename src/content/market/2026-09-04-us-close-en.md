@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-04 09:00 KST — Kimco Realty Corporation (HC) 배당락일 (KIM)
-- 🔴 09-04 09:00 KST — Dominion Energy, Inc. 배당락일 (D)
-- 🔴 09-04 09:00 KST — Northern Trust Corporation 배당락일 (NTRS)
-- 🔴 09-04 09:00 KST — Tapestry, Inc. 배당락일 (TPR)
-- 🔴 09-04 09:00 KST — Trane Technologies plc 배당락일 (TT)
-- 🔴 09-04 09:00 KST — Kimberly-Clark Corporation 배당락일 (KMB)
+- 🔴 09-04 09:00 KST — Kimco Realty Corporation (HC) ex-dividend date (KIM)
+- 🔴 09-04 09:00 KST — Dominion Energy, Inc. ex-dividend date (D)
+- 🔴 09-04 09:00 KST — Northern Trust Corporation ex-dividend date (NTRS)
+- 🔴 09-04 09:00 KST — Tapestry, Inc. ex-dividend date (TPR)
+- 🔴 09-04 09:00 KST — Trane Technologies plc ex-dividend date (TT)
+- 🔴 09-04 09:00 KST — Kimberly-Clark Corporation ex-dividend date (KMB)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -52,7 +52,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **US:** The US market is neutral overall, with bullish readings slightly trailing the bearish ones. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market picture suggests divergence, with commodities showing clear strength while credit and liquidity point to significant underlying caution. The sector data indicates relative strength in Communication Services and Energy, contrasting with weakness observed in Utilities and Industrials. On balance, the market appears to be navigating a period of cautious consolidation amid differing asset class signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The cross-market picture suggests divergence, with commodities showing clear strength while credit and liquidity point to significant underlying caution. The sector data indicates relative strength in Communication Services and Energy, contrasting with weakness observed in Utilities and Industrials. On balance, the market appears to be navigating a period of cautious consolidation amid differing asset class signals. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

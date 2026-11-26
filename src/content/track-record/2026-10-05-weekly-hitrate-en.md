@@ -60,11 +60,11 @@ _Archive this hash — recomputing it later from the raw ledger must reproduce t
 
 ## Remarks by market
 
-**Bengal(Crypto):** The crypto space showed a win rate of 47.7%, which is close to parity, but the average profit and loss figures suggest a net negative performance for the period. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto space showed a win rate of 47.7%, which is close to parity, but the average profit and loss figures suggest a net negative performance for the period. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="Bengal" />
 
-**Kosho(KR):** Korean equities maintained a win rate slightly above 50.6%, and the average profit and loss was positive, indicating a positive drift for the market this week. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
+**Kosho(KR):** Korean equities maintained a win rate slightly above 50.6%, and the average profit and loss was positive, indicating a positive drift for the market this week. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="Kosho" />
 
-**Maine(US):** US equities posted a win rate of 38.7%, which is notably lower than the other two markets, and the average profit and loss was negative, reflecting significant drawdowns. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
+**Maine(US):** US equities posted a win rate of 38.7%, which is notably lower than the other two markets, and the average profit and loss was negative, reflecting significant drawdowns. <img class="emoji-char" src="/characters/us/02_sad.png" alt="Maine" />
 
 ## Beom's quorum verdict
 
@@ -72,7 +72,7 @@ The overall sentiment across the monitored markets is decidedly 'down', as evide
 
 The data suggests divergent immediate market conditions; Kosho appears to have captured positive momentum, whereas both crypto and US equities experienced more challenging periods characterized by losses exceeding gains on average. The sample size for the US market was relatively small compared to the others.
 
-This summary reflects the historical outcomes of the paper-trading research conducted through the last observed day. It should be understood that this is purely descriptive analysis of past performance and does not constitute any form of investment advice. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
+This summary reflects the historical outcomes of the paper-trading research conducted through the last observed day. It should be understood that this is purely descriptive analysis of past performance and does not constitute any form of investment advice. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="Beom" />
 
 **Related**
 - This week's journals: [2026-09-27 crypto](/journal/2026-09-27-crypto-journal-en/) · [2026-09-28 crypto](/journal/2026-09-28-crypto-journal-en/) · [2026-09-28 kr](/journal/2026-09-28-kr-journal-en/) · [2026-09-29 crypto](/journal/2026-09-29-crypto-journal-en/) · [2026-09-29 kr](/journal/2026-09-29-kr-journal-en/) · [2026-09-29 us](/journal/2026-09-29-us-journal-en/) · [2026-09-30 crypto](/journal/2026-09-30-crypto-journal-en/) · [2026-09-30 kr](/journal/2026-09-30-kr-journal-en/) · [2026-09-30 us](/journal/2026-09-30-us-journal-en/) · [2026-10-01 crypto](/journal/2026-10-01-crypto-journal-en/) · [2026-10-01 kr](/journal/2026-10-01-kr-journal-en/) · [2026-10-01 us](/journal/2026-10-01-us-journal-en/) · [2026-10-02 crypto](/journal/2026-10-02-crypto-journal-en/) · [2026-10-02 kr](/journal/2026-10-02-kr-journal-en/) · [2026-10-02 us](/journal/2026-10-02-us-journal-en/) · [2026-10-03 crypto](/journal/2026-10-03-crypto-journal-en/) · [2026-10-03 us](/journal/2026-10-03-us-journal-en/)

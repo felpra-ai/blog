@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-21 US pre-market — AutoZone, Inc. 실적 발표 (AZO)
-- 🔴 11-23 — Microchip Technology Incorporat 배당락일 (MCHP)
-- 🔴 11-24 US after close — Hewlett Packard Enterprise Comp 실적 발표 (HPE)
-- 🔴 11-24 US after close — Agilent Technologies, Inc. 실적 발표 (A)
-- 🔴 11-24 US after close — Jacobs Solutions Inc. 실적 발표 (J)
-- 🔴 11-24 — Prudential Financial, Inc. 배당락일 (PRU)
+- 🔴 11-21 US pre-market — AutoZone, Inc. earnings (AZO)
+- 🔴 11-23 — Microchip Technology Incorporat ex-dividend date (MCHP)
+- 🔴 11-24 US after close — Hewlett Packard Enterprise Comp earnings (HPE)
+- 🔴 11-24 US after close — Agilent Technologies, Inc. earnings (A)
+- 🔴 11-24 US after close — Jacobs Solutions Inc. earnings (J)
+- 🔴 11-24 — Prudential Financial, Inc. ex-dividend date (PRU)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (60 times observed) · macro cross-correlation watch: inflation leads credit by 1d (ρ=-0.35) — only 11 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Stocks slid and the VIX hit its highest since the tariff turmoil, with weakness running through most asset classes. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Credit is the warning sign, with three in four readings bearish and none bullish; against that, liquidity is bullish across the board and bonds lean the same way. <img class="emoji-char" src="/characters/v2/bond/face/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** FX tilts hard to the bearish side. Liquidity reads fully bullish all the same, so the money is there and is simply not going anywhere. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities sit deep in bearish territory, a cold field where little is growing, and inflation drifts sideways with a downward lean. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="노웰" />
-- **Maine(US):** Stepping back from the day, the US market has settled into a sideways drift that leans lower, with only one in fourteen readings bullish. Consumer Defensive is the one sector holding up, while Technology, Basic Materials and Consumer Cyclical carry the weakness. <img class="emoji-char" src="/characters/v2/us/face/10_suspicious.png" alt="멘쿤" />
+- **Lovble(Global):** Stocks slid and the VIX hit its highest since the tariff turmoil, with weakness running through most asset classes. <img class="emoji-char" src="/characters/v2/news/face/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit is the warning sign, with three in four readings bearish and none bullish; against that, liquidity is bullish across the board and bonds lean the same way. <img class="emoji-char" src="/characters/v2/bond/face/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** FX tilts hard to the bearish side. Liquidity reads fully bullish all the same, so the money is there and is simply not going anywhere. <img class="emoji-char" src="/characters/v2/forex/face/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities sit deep in bearish territory, a cold field where little is growing, and inflation drifts sideways with a downward lean. <img class="emoji-char" src="/characters/v2/commodity/face/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** Stepping back from the day, the US market has settled into a sideways drift that leans lower, with only one in fourteen readings bullish. Consumer Defensive is the one sector holding up, while Technology, Basic Materials and Consumer Cyclical carry the weakness. <img class="emoji-char" src="/characters/v2/us/face/10_suspicious.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Lovble opened with the volatility spike, and Bsho and Sham each set the bearish reads on credit and FX against liquidity that is fully bullish. Nowel pointed to soft commodities, and Maine to defensives standing alone in a US market that leans lower. That leaves the open question of how long ample liquidity can sit beside bearish credit and commodities without one giving way. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="범" />
+**Beom(Chair):** Lovble opened with the volatility spike, and Bsho and Sham each set the bearish reads on credit and FX against liquidity that is fully bullish. Nowel pointed to soft commodities, and Maine to defensives standing alone in a US market that leans lower. That leaves the open question of how long ample liquidity can sit beside bearish credit and commodities without one giving way. <img class="emoji-char" src="/characters/v2/orchestrator/face/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-16](/track-record/2026-11-16-weekly-hitrate-en/)

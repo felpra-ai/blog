@@ -41,14 +41,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: bearish → neutral (15 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing a slight leaning toward bearish sentiment. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit conditions read decidedly bearish. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are characterized by an extreme bearish leaning, despite some bullish participation. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are in a neutral state, with a notable skew towards bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is showing a sideways-bearish pattern, with underlying sector strength concentrated in gaming_nft, layer1, defi, and oracle_infra, while BTC maintains dominance. <img class="emoji-char" src="/characters/crypto/10_suspicious.png" alt="벵갈" />
+- **Lovble(Global):** Volatility remains stable, showing a slight leaning toward bearish sentiment. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit conditions read decidedly bearish. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are characterized by an extreme bearish leaning, despite some bullish participation. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are in a neutral state, with a notable skew towards bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is showing a sideways-bearish pattern, with underlying sector strength concentrated in gaming_nft, layer1, defi, and oracle_infra, while BTC maintains dominance. <img class="emoji-char" src="/characters/crypto/10_suspicious.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: fixed income remains strongly bullish, contrasting sharply with bearish readings across credit and FX. Equities in both the US and Korea are exhibiting deteriorating, sideways-bearish trends, while crypto mirrors this caution. The overall picture suggests caution, with underlying macro signals pointing to differentiated strength across asset classes. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: fixed income remains strongly bullish, contrasting sharply with bearish readings across credit and FX. Equities in both the US and Korea are exhibiting deteriorating, sideways-bearish trends, while crypto mirrors this caution. The overall picture suggests caution, with underlying macro signals pointing to differentiated strength across asset classes. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

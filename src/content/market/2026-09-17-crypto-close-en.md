@@ -39,7 +39,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral â†
 - **Strong:** The strong basket shows no directional bias, while the weak basket is characterized by meme, defi, and layer1 components, with Bitcoin maintaining dominance. :strong:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure reflects a divergence: while volatility and FX suggest underlying strength, credit and inflation point to significant headwinds. The cross-market view is one of cautious consolidation, digesting mixed signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="ë²”" />
+**Beom(Chair):** The market structure reflects a divergence: while volatility and FX suggest underlying strength, credit and inflation point to significant headwinds. The cross-market view is one of cautious consolidation, digesting mixed signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

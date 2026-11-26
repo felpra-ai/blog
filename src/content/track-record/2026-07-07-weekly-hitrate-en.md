@@ -41,11 +41,11 @@ altLang: ko
 
 ## Remarks by market
 
-**Bengal(Crypto):** The crypto market showed a win rate of 38.1%, which was relatively stronger than the other sectors, though the average profit and loss indicated a net negative performance for the period. <img class="emoji-char" src="/characters/crypto/02_sad.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market showed a win rate of 38.1%, which was relatively stronger than the other sectors, though the average profit and loss indicated a net negative performance for the period. <img class="emoji-char" src="/characters/crypto/02_sad.png" alt="Bengal" />
 
-**Kosho(KR):** Korean equities posted a win rate of 28.5%, and the average profit and loss suggests a significant negative trend across the analyzed trades. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
+**Kosho(KR):** Korean equities posted a win rate of 28.5%, and the average profit and loss suggests a significant negative trend across the analyzed trades. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="Kosho" />
 
-**Maine(US):** US equities recorded the lowest win rate at 22.7%, and the average profit and loss also points toward a negative outcome for the week. <img class="emoji-char" src="/characters/us/02_sad.png" alt="멘쿤" />
+**Maine(US):** US equities recorded the lowest win rate at 22.7%, and the average profit and loss also points toward a negative outcome for the week. <img class="emoji-char" src="/characters/us/02_sad.png" alt="Maine" />
 
 ## Beom's quorum verdict
 
@@ -53,7 +53,7 @@ The overall performance across the analyzed markets reflects a challenging perio
 
 The analysis of the trading activity shows that the frequency of losses outweighed the frequency of wins when considering the overall portfolio metrics. This confluence of lower win rates and negative average P&L across the board points toward a cautious or bearish regime interpretation for the immediate term.
 
-This summary represents a review of paper-trading research and does not constitute investment advice. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
+This summary represents a review of paper-trading research and does not constitute investment advice. <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="Beom" />
 
 ---
 

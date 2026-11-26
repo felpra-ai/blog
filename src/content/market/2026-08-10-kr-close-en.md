@@ -33,11 +33,11 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 08-11 21:30 KST — US CPI Release
-- 🔴 08-12 15:00 KST — SamsungF&MIns 실적 발표 (000810)
-- 🔴 08-13 15:00 KST — LG Corp. 실적 발표 (003550)
-- 🔴 08-13 15:00 KST — Hyundai M&F INS 실적 발표 (001450)
-- 🔴 08-13 15:00 KST — Nongshim 실적 발표 (004370)
-- 🔴 08-13 15:00 KST — SamsungF&MIns 실적 발표 (000810)
+- 🔴 08-12 15:00 KST — SamsungF&MIns earnings (000810)
+- 🔴 08-13 15:00 KST — LG Corp. earnings (003550)
+- 🔴 08-13 15:00 KST — Hyundai M&F INS earnings (001450)
+- 🔴 08-13 15:00 KST — Nongshim earnings (004370)
+- 🔴 08-13 15:00 KST — SamsungF&MIns earnings (000810)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -45,18 +45,18 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility readings indicate a persistent bearish leaning, with the trend remaining stable. :vix:
-- **Bonds:** The bond market sentiment is registering as neutral, showing an equal split between bullish and bearish indicators, with no discernible trend shift. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Credit:** Credit conditions exhibit a sideways bias leaning toward bullishness, maintaining a stable trend. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **FX:** Foreign exchange movements are leaning bearish, with a majority of indicators pointing in that direction, and the trend remains stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Liquidity:** Liquidity conditions are reading bearish, with a strong indication of tightness, and the trend remains stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
-- **Commodities:** Commodity sentiment is neutral, with a slight lean toward bullishness, and the trend remains stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
-- **Inflation:** Inflation readings are neutral, showing a greater weight on the bearish side, while the trend remains stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
-- **Crypto:** Cryptocurrency sentiment is neutral, with a slight upward tilt, and the trend is noted as improving. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
-- **Korea:** Korean equities are showing a neutral stance overall, with the trend remaining stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
-- **US:** US equities are displaying a neutral reading, with the trend remaining stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Bonds:** The bond market sentiment is registering as neutral, showing an equal split between bullish and bearish indicators, with no discernible trend shift. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Credit:** Credit conditions exhibit a sideways bias leaning toward bullishness, maintaining a stable trend. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **FX:** Foreign exchange movements are leaning bearish, with a majority of indicators pointing in that direction, and the trend remains stable. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Liquidity:** Liquidity conditions are reading bearish, with a strong indication of tightness, and the trend remains stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
+- **Commodities:** Commodity sentiment is neutral, with a slight lean toward bullishness, and the trend remains stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
+- **Inflation:** Inflation readings are neutral, showing a greater weight on the bearish side, while the trend remains stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
+- **Crypto:** Cryptocurrency sentiment is neutral, with a slight upward tilt, and the trend is noted as improving. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
+- **Korea:** Korean equities are showing a neutral stance overall, with the trend remaining stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
+- **US:** US equities are displaying a neutral reading, with the trend remaining stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents conflicting signals, notably bearish readings in liquidity and FX contrasting with stable credit strength. While regional equities show neutral readings, the improving trend in crypto suggests some underlying directional shift in risk assets. The overall tape suggests a period of consolidation amidst varied underlying pressures. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The macro picture presents conflicting signals, notably bearish readings in liquidity and FX contrasting with stable credit strength. While regional equities show neutral readings, the improving trend in crypto suggests some underlying directional shift in risk assets. The overall tape suggests a period of consolidation amidst varied underlying pressures. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

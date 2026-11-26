@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-19 09:00 KST — Apollo Global Management, Inc.  배당락일 (APO)
-- 🔴 08-19 09:00 KST — Archer-Daniels-Midland Company 배당락일 (ADM)
-- 🔴 08-19 09:00 KST — AFLAC Incorporated 배당락일 (AFL)
-- 🔴 08-19 21:30 KST — Analog Devices, Inc. 실적 발표 (ADI)
-- 🔴 08-20 09:00 KST — Applied Materials, Inc. 배당락일 (AMAT)
-- 🔴 08-21 09:00 KST — Amgen Inc. 배당락일 (AMGN)
+- 🔴 08-19 09:00 KST — Apollo Global Management, Inc.  ex-dividend date (APO)
+- 🔴 08-19 09:00 KST — Archer-Daniels-Midland Company ex-dividend date (ADM)
+- 🔴 08-19 09:00 KST — AFLAC Incorporated ex-dividend date (AFL)
+- 🔴 08-19 21:30 KST — Analog Devices, Inc. earnings (ADI)
+- 🔴 08-20 09:00 KST — Applied Materials, Inc. ex-dividend date (AMAT)
+- 🔴 08-21 09:00 KST — Amgen Inc. ex-dividend date (AMGN)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains in an extreme bearish regime, while the overall trend across various metrics suggests stability. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Credit conditions read distinctly bullish, contrasting with bonds showing a neutral stance. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements indicate a bullish bias, though the underlying liquidity environment is registering as neutral. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are exhibiting a sideways bias leaning toward bullishness, with inflation remaining in a neutral zone. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are showing a neutral trend that is improving, with strength observed in Industrials, Energy, and Communication Services, while Consumer Defensive appears weaker. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains in an extreme bearish regime, while the overall trend across various metrics suggests stability. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit conditions read distinctly bullish, contrasting with bonds showing a neutral stance. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements indicate a bullish bias, though the underlying liquidity environment is registering as neutral. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are exhibiting a sideways bias leaning toward bullishness, with inflation remaining in a neutral zone. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a neutral trend that is improving, with strength observed in Industrials, Energy, and Communication Services, while Consumer Defensive appears weaker. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: credit and commodities lean positive, while volatility remains elevated. The notable upward movement in long-term Treasury yields, alongside gold gains linked to a lower dollar, suggests underlying shifts in rate expectations that are influencing risk assets. Overall, the tape suggests caution amidst sectoral strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: credit and commodities lean positive, while volatility remains elevated. The notable upward movement in long-term Treasury yields, alongside gold gains linked to a lower dollar, suggests underlying shifts in rate expectations that are influencing risk assets. Overall, the tape suggests caution amidst sectoral strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

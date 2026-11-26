@@ -52,7 +52,7 @@ _Observation notes: most frequent regime shift in this market so far: bearish â†
 - **Sectors:** Sector analysis shows strength concentrated in Bitcoin, while storage, payments, and layer2 are showing weakness. :strong:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market presents a mixed picture: liquidity and bond strength suggest underlying support, yet bearish readings persist in FX and crypto. The divergence between macro strength indicators and asset class weakness warrants caution. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="ë²”" />
+**Beom(Chair):** The market presents a mixed picture: liquidity and bond strength suggest underlying support, yet bearish readings persist in FX and crypto. The divergence between macro strength indicators and asset class weakness warrants caution. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Financial Services, Utilities, Consumer Defensive · weak: —
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains at a neutral reading, with the bearish side showing a higher proportion of activity. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish leaning, while credit maintains a sideways bullish posture. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movement is characterized as neutral, with slightly more bearish leaning observed. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities show a neutral reading, with a noticeable leaning toward the bearish side. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities are showing a neutral overall reading, with the financial services, utilities, and consumer defensive sectors showing strength. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains at a neutral reading, with the bearish side showing a higher proportion of activity. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish leaning, while credit maintains a sideways bullish posture. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movement is characterized as neutral, with slightly more bearish leaning observed. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities show a neutral reading, with a noticeable leaning toward the bearish side. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a neutral overall reading, with the financial services, utilities, and consumer defensive sectors showing strength. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The bond market's pronounced bullishness contrasts with the more subdued readings across commodities and crypto, suggesting underlying structural support in fixed income despite mixed risk sentiment. On balance, the market exhibits a cautious, range-seeking tape, with improving momentum noted in US equities. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The bond market's pronounced bullishness contrasts with the more subdued readings across commodities and crypto, suggesting underlying structural support in fixed income despite mixed risk sentiment. On balance, the market exhibits a cautious, range-seeking tape, with improving momentum noted in US equities. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

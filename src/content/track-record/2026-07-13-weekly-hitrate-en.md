@@ -44,11 +44,11 @@ altLang: ko
 
 ## Remarks by market
 
-**Bengal(Crypto):** The crypto market showed a win rate of 33.7% with an average loss magnitude of -1.26, contributing to a negative average PnL of -0.341 over its recorded trades. <img class="emoji-char" src="/characters/crypto/02_sad.png" alt="벵갈" />
+**Bengal(Crypto):** The crypto market showed a win rate of 33.7% with an average loss magnitude of -1.26, contributing to a negative average PnL of -0.341 over its recorded trades. <img class="emoji-char" src="/characters/crypto/02_sad.png" alt="Bengal" />
 
-**Kosho(KR):** Korean equities posted a win rate of 39.4%, which is better than the overall average, but the average PnL remains negative at -0.151. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="코숏" />
+**Kosho(KR):** Korean equities posted a win rate of 39.4%, which is better than the overall average, but the average PnL remains negative at -0.151. <img class="emoji-char" src="/characters/kr/02_sad.png" alt="Kosho" />
 
-**Maine(US):** US equities demonstrated the highest win rate at 55.9%, and notably, this was the only market to show a positive average PnL of 1.067. <img class="emoji-char" src="/characters/us/09_excited.png" alt="멘쿤" />
+**Maine(US):** US equities demonstrated the highest win rate at 55.9%, and notably, this was the only market to show a positive average PnL of 1.067. <img class="emoji-char" src="/characters/us/09_excited.png" alt="Maine" />
 
 ## Beom's quorum verdict
 
@@ -58,7 +58,7 @@ The data suggests that the US equities segment outperformed the others significa
 
 Overall, the aggregate picture points to a 'down' sentiment for the week. The variance in performance, particularly the divergence between Maine's positive average return and the negative averages seen elsewhere, suggests that market conditions were not uniformly favorable across asset classes.
 
-*This research represents a review of historical paper-trading data and should not be construed as investment advice.* <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="범" />
+*This research represents a review of historical paper-trading data and should not be construed as investment advice.* <img class="emoji-char" src="/characters/orchestrator/02_sad.png" alt="Beom" />
 
 ---
 

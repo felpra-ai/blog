@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-21 09:00 KST — Amgen Inc. 배당락일 (AMGN)
-- 🔴 08-21 09:00 KST — Cummins Inc. 배당락일 (CMI)
-- 🔴 08-21 09:00 KST — Sherwin-Williams Company (The) 배당락일 (SHW)
-- 🔴 08-21 09:00 KST — TE Connectivity plc 배당락일 (TEL)
-- 🔴 08-21 09:00 KST — Hilton Worldwide Holdings Inc. 배당락일 (HLT)
-- 🔴 08-21 09:00 KST — Walmart Inc. 배당락일 (WMT)
+- 🔴 08-21 09:00 KST — Amgen Inc. ex-dividend date (AMGN)
+- 🔴 08-21 09:00 KST — Cummins Inc. ex-dividend date (CMI)
+- 🔴 08-21 09:00 KST — Sherwin-Williams Company (The) ex-dividend date (SHW)
+- 🔴 08-21 09:00 KST — TE Connectivity plc ex-dividend date (TEL)
+- 🔴 08-21 09:00 KST — Hilton Worldwide Holdings Inc. ex-dividend date (HLT)
+- 🔴 08-21 09:00 KST — Walmart Inc. ex-dividend date (WMT)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable with balanced bullish and bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Credit shows a uniformly bullish reading, while bonds maintain a neutral stance with a slight lean toward bearishness. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange exhibits a strong bullish bias, despite a higher proportion of bearish readings noted. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are reading extremely bullish, contrasting with inflation which also shows an extremely bullish reading. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities are showing a neutral trend, with the HEALTHCARE, Energy, and Communication Services sectors exhibiting strength, while INDUSTRIALS lagged. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable with balanced bullish and bearish readings across the board. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit shows a uniformly bullish reading, while bonds maintain a neutral stance with a slight lean toward bearishness. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange exhibits a strong bullish bias, despite a higher proportion of bearish readings noted. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are reading extremely bullish, contrasting with inflation which also shows an extremely bullish reading. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a neutral trend, with the HEALTHCARE, Energy, and Communication Services sectors exhibiting strength, while INDUSTRIALS lagged. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests strong underlying support from commodity and inflation metrics, which are reading extremely bullish. This contrasts with the mixed signals observed in the broader equity and crypto spaces. The overall tape appears to be digesting recent macro shifts, evidenced by the notable reading in US Treasury movements. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The market structure suggests strong underlying support from commodity and inflation metrics, which are reading extremely bullish. This contrasts with the mixed signals observed in the broader equity and crypto spaces. The overall tape appears to be digesting recent macro shifts, evidenced by the notable reading in US Treasury movements. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-17](/track-record/2026-08-17-weekly-hitrate-en/)

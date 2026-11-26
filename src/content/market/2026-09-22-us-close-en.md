@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-22 09:00 KST — Amphenol Corporation 배당락일 (APH)
-- 🔴 09-22 21:30 KST — AutoZone, Inc. 실적 발표 (AZO)
-- 🔴 09-23 09:00 KST — Cincinnati Financial Corporatio 배당락일 (CINF)
-- 🔴 09-23 09:00 KST — Lam Research Corporation 배당락일 (LRCX)
-- 🔴 09-23 21:30 KST — General Mills, Inc. 실적 발표 (GIS)
-- 🔴 09-23 21:30 KST — Cintas Corporation 실적 발표 (CTAS)
+- 🔴 09-22 09:00 KST — Amphenol Corporation ex-dividend date (APH)
+- 🔴 09-22 21:30 KST — AutoZone, Inc. earnings (AZO)
+- 🔴 09-23 09:00 KST — Cincinnati Financial Corporatio ex-dividend date (CINF)
+- 🔴 09-23 09:00 KST — Lam Research Corporation ex-dividend date (LRCX)
+- 🔴 09-23 21:30 KST — General Mills, Inc. earnings (GIS)
+- 🔴 09-23 21:30 KST — Cintas Corporation earnings (CTAS)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -50,7 +50,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sector:** Sector analysis indicates weakness across Communication Services, Healthcare, and Energy, while no sectors registered as strong. :sector:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro view presents a divergence, with FX showing clear strength while inflation leans bearish. US equities are showing signs of deterioration against a backdrop of mixed sector performance. Overall, the market structure suggests caution amid divergent cross-asset signals. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The macro view presents a divergence, with FX showing clear strength while inflation leans bearish. US equities are showing signs of deterioration against a backdrop of mixed sector performance. Overall, the market structure suggests caution amid divergent cross-asset signals. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

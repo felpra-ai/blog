@@ -32,8 +32,8 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-29 09:00 KST — HANSOLPAPER 배당락일 (213500)
-- 🔴 09-29 09:00 KST — HYUNDAIDEPTST 배당락일 (069960)
+- 🔴 09-29 09:00 KST — HANSOLPAPER ex-dividend date (213500)
+- 🔴 09-29 09:00 KST — HYUNDAIDEPTST ex-dividend date (069960)
 - 🔴 10-02 21:30 KST — US Nonfarm Payrolls
 - 🟡 10-01 23:00 KST — ISM Manufacturing PMI
 
@@ -49,7 +49,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Korea:** Korean equities are registering a neutral state, with industrials, consumer, chemical, and materials sectors showing relative strength compared to semiconductors. :korea:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The divergence between strong bond positioning and bearish readings across volatility and FX suggests underlying structural tension. While crypto shows signs of improvement, the broader US market context remains mixed, pointing toward a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The divergence between strong bond positioning and bearish readings across volatility and FX suggests underlying structural tension. While crypto shows signs of improvement, the broader US market context remains mixed, pointing toward a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-21](/track-record/2026-09-21-weekly-hitrate-en/)

@@ -33,7 +33,7 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 09-08 21:30 KST — US CPI Release
-- 🔴 09-10 09:00 KST — LG Corp. 배당락일 (003550)
+- 🔴 09-10 09:00 KST — LG Corp. ex-dividend date (003550)
 - 🔴 09-10 21:15 KST — ECB Interest Rate Decision
 - 🟡 09-10 21:30 KST — US PPI Release
 
@@ -55,7 +55,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Sector Focus:** Materials sectors in Korea show strength, while Utilities sectors in Korea exhibit weakness. :sector:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market exhibits a divergence where underlying macro indicators, particularly liquidity and credit, suggest significant strain, contrasting with improving trends in crypto and Korean equities. The strength noted in materials, coupled with heightened geopolitical trade tensions, suggests underlying sector rotation dynamics are active. On balance, the tape reflects caution amid conflicting signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The market exhibits a divergence where underlying macro indicators, particularly liquidity and credit, suggest significant strain, contrasting with improving trends in crypto and Korean equities. The strength noted in materials, coupled with heightened geopolitical trade tensions, suggests underlying sector rotation dynamics are active. On balance, the tape reflects caution amid conflicting signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

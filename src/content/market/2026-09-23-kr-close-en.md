@@ -33,8 +33,8 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 09-25 21:30 KST — US PCE Price Index
-- 🔴 09-29 09:00 KST — HANSOLPAPER 배당락일 (213500)
-- 🔴 09-29 09:00 KST — HYUNDAIDEPTST 배당락일 (069960)
+- 🔴 09-29 09:00 KST — HANSOLPAPER ex-dividend date (213500)
+- 🔴 09-29 09:00 KST — HYUNDAIDEPTST ex-dividend date (069960)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -42,14 +42,14 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **VIX:** Volatility readings show a strong bearish bias, though the underlying trend remains stable. :vix:
-- **Bonds:** The bond market exhibits a neutral reading, with no discernible directional bias in the trend. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions are reading neutral, showing no clear bullish or bearish leaning in the current cycle. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **FX:** Foreign exchange markets show a balanced reading, with equal weight assigned to bullish and bearish indicators. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Liquidity:** Liquidity remains neutral, with a slight leaning toward bullish indicators but no established trend. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Commodities:** Commodities display a neutral state, with a notable bullish component outweighing the bearish indicators. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Inflation:** Inflation readings are showing a sideways bias leaning bearish, while the trend remains stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Bonds:** The bond market exhibits a neutral reading, with no discernible directional bias in the trend. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions are reading neutral, showing no clear bullish or bearish leaning in the current cycle. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **FX:** Foreign exchange markets show a balanced reading, with equal weight assigned to bullish and bearish indicators. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Liquidity:** Liquidity remains neutral, with a slight leaning toward bullish indicators but no established trend. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Commodities:** Commodities display a neutral state, with a notable bullish component outweighing the bearish indicators. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Inflation:** Inflation readings are showing a sideways bias leaning bearish, while the trend remains stable. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 - **Crypto:** Cryptocurrency markets show an improving trend, supported by a majority bullish reading. :crypto:
-- **Korea:** Korean equities are reading neutral, with a slight indication of bullish strength compared to bearish readings. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Korea:** Korean equities are reading neutral, with a slight indication of bullish strength compared to bearish readings. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 - **US:** US equities are reading neutral, but the underlying trend shows signs of deterioration. :us:
 
 ## Cross-market & Beom's verdict

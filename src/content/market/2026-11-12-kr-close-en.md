@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-13 15:00 KST — Misto Holdings 실적 발표 (081660)
-- 🔴 11-13 15:00 KST — Hyundai M&F INS 실적 발표 (001450)
-- 🔴 11-13 15:00 KST — SKSQUARE 실적 발표 (402340)
-- 🔴 11-13 15:00 KST — SK 실적 발표 (034730)
-- 🔴 11-13 15:00 KST — DB INSURANCE 실적 발표 (005830)
-- 🔴 11-13 15:00 KST — Nongshim 실적 발표 (004370)
+- 🔴 11-13 15:00 KST — Misto Holdings earnings (081660)
+- 🔴 11-13 15:00 KST — Hyundai M&F INS earnings (001450)
+- 🔴 11-13 15:00 KST — SKSQUARE earnings (402340)
+- 🔴 11-13 15:00 KST — SK earnings (034730)
+- 🔴 11-13 15:00 KST — DB INSURANCE earnings (005830)
+- 🔴 11-13 15:00 KST — Nongshim earnings (004370)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -54,7 +54,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **US:** US equities maintain a stable trend, leaning toward bullish sentiment. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents mixed signals, with stable but cautious readings across key areas, contrasting with deteriorating trends observed in crypto and Korean equities. The US market appears to offer a more stable backdrop against this backdrop of sector-specific weakness. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture presents mixed signals, with stable but cautious readings across key areas, contrasting with deteriorating trends observed in crypto and Korean equities. The US market appears to offer a more stable backdrop against this backdrop of sector-specific weakness. <img class="emoji-char" src="/characters/v2/orchestrator/face/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-10 09:00 KST — JB Financial Group 배당락일 (175330)
-- 🔴 11-10 09:00 KST — HD HYUNDAI 배당락일 (267250)
-- 🔴 11-10 15:00 KST — Wemade 실적 발표 (112040)
-- 🔴 11-10 15:00 KST — KT 실적 발표 (030200)
-- 🔴 11-10 15:00 KST — OCI Holdings 실적 발표 (010060)
-- 🔴 11-10 15:00 KST — LG H&H 실적 발표 (051900)
+- 🔴 11-10 09:00 KST — JB Financial Group ex-dividend date (175330)
+- 🔴 11-10 09:00 KST — HD HYUNDAI ex-dividend date (267250)
+- 🔴 11-10 15:00 KST — Wemade earnings (112040)
+- 🔴 11-10 15:00 KST — KT earnings (030200)
+- 🔴 11-10 15:00 KST — OCI Holdings earnings (010060)
+- 🔴 11-10 15:00 KST — LG H&H earnings (051900)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 7 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains high with a stable, bullish reading across the board. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Bonds show a balanced sentiment, while credit indicators suggest a neutral environment. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange exhibits a leaning toward bullish sentiment, though caution remains evident. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are exhibiting a clear bearish tilt, contrasting with the inflation reading. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities show a bearish bias, with consumer and IT media sectors appearing stronger than semiconductors or financials. <img class="emoji-char" src="/characters/kr/10_suspicious.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains high with a stable, bullish reading across the board. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds show a balanced sentiment, while credit indicators suggest a neutral environment. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange exhibits a leaning toward bullish sentiment, though caution remains evident. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are exhibiting a clear bearish tilt, contrasting with the inflation reading. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities show a bearish bias, with consumer and IT media sectors appearing stronger than semiconductors or financials. <img class="emoji-char" src="/characters/kr/10_suspicious.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents divergence, with inflation showing significant bearish pressure while volatility remains elevated. US equities are showing a slight bullish bias, yet crypto assets are trending negatively. Overall, the market structure suggests caution amid mixed directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
+**Beom(Chair):** The macro picture presents divergence, with inflation showing significant bearish pressure while volatility remains elevated. US equities are showing a slight bullish bias, yet crypto assets are trending negatively. Overall, the market structure suggests caution amid mixed directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

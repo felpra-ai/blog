@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Real Estate, Healthcare, Utilities · weak: Technology
 
 ## Desk panel
-- **Lovble(Global):** Volatility is showing a clear bearish bias, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Credit indicators point to a bearish leaning, though the bond trend itself remains stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements suggest a sideways bias with a slight bullish tilt. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are registering an extreme bullish reading, contrasting with the bearish inflation signal. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are showing a neutral reading with an improving trend, while strong sectors include Real Estate, HEALTHCARE, and UTILITIES, and weak sectors include TECHNOLOGY. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is showing a clear bearish bias, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit indicators point to a bearish leaning, though the bond trend itself remains stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements suggest a sideways bias with a slight bullish tilt. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are registering an extreme bullish reading, contrasting with the bearish inflation signal. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a neutral reading with an improving trend, while strong sectors include Real Estate, HEALTHCARE, and UTILITIES, and weak sectors include TECHNOLOGY. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market exhibits a divergence where commodities show extreme strength and US equities show improving momentum, yet this is counterbalanced by bearish signals across liquidity and inflation. The overall picture suggests caution amidst sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The market exhibits a divergence where commodities show extreme strength and US equities show improving momentum, yet this is counterbalanced by bearish signals across liquidity and inflation. The overall picture suggests caution amidst sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

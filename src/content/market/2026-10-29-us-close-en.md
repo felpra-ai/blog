@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-29 21:30 KST — Biogen Inc. 실적 발표 (BIIB)
-- 🔴 10-29 21:30 KST — Southern Company (The) 실적 발표 (SO)
-- 🔴 10-29 21:30 KST — D.R. Horton, Inc. 실적 발표 (DHI)
-- 🔴 10-29 21:30 KST — Eli Lilly and Company 실적 발표 (LLY)
-- 🔴 10-29 21:30 KST — AbbVie Inc. 실적 발표 (ABBV)
-- 🔴 10-29 21:30 KST — Builders FirstSource, Inc. 실적 발표 (BLDR)
+- 🔴 10-29 21:30 KST — Biogen Inc. earnings (BIIB)
+- 🔴 10-29 21:30 KST — Southern Company (The) earnings (SO)
+- 🔴 10-29 21:30 KST — D.R. Horton, Inc. earnings (DHI)
+- 🔴 10-29 21:30 KST — Eli Lilly and Company earnings (LLY)
+- 🔴 10-29 21:30 KST — AbbVie Inc. earnings (ABBV)
+- 🔴 10-29 21:30 KST — Builders FirstSource, Inc. earnings (BLDR)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -55,7 +55,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Financial Services, Consumer Defensive, TECHNOLOGY, and Healthcare show strength, while Communication Services and Technology exhibit weakness. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** US equities show an improving trajectory, which is broadly supportive of the market structure, although the crypto segment is registering a deteriorating trend. On balance, the cross-market picture suggests caution amidst sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** US equities show an improving trajectory, which is broadly supportive of the market structure, although the crypto segment is registering a deteriorating trend. On balance, the cross-market picture suggests caution amidst sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

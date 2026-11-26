@@ -40,8 +40,8 @@ images:
 
 | Name | × usual turnover | Day change |
 |---|---|---|
-| 휴림로봇 (090710) | 16.7× | +30% |
-| 스튜디오드래곤 (253450) | 6.6× | +4.3% |
+| Hyurimrobot (090710) | 16.7× | +30% |
+| Seutyudiodeuraegon (253450) | 6.6× | +4.3% |
 
 _Rule: that day's turnover ÷ average of the prior 10 sessions. 2 of 314 names screened passed the threshold. Volume shows attention, not direction._
 

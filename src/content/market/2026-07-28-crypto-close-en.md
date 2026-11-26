@@ -41,16 +41,16 @@ _Observation notes: most frequent regime shift in this market so far: bearish �
 
 ## Desk panel
 - **VIX:** Volatility indicators show a stable, yet leaning bullish posture. :vix:
-- **Bonds:** The bond market sentiment is balanced, with no discernible directional lean. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Credit:** Credit conditions are reading distinctly bearish across the board. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Liquidity:** Liquidity metrics indicate a stable, yet predominantly bullish environment. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Commodities:** Commodity sentiment is neutral, with a slight leaning towards bullishness. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
-- **Crypto:** Cryptocurrency sentiment is neutral, showing a slight leaning towards bearishness. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Bonds:** The bond market sentiment is balanced, with no discernible directional lean. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Credit:** Credit conditions are reading distinctly bearish across the board. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Liquidity:** Liquidity metrics indicate a stable, yet predominantly bullish environment. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Commodities:** Commodity sentiment is neutral, with a slight leaning towards bullishness. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
+- **Crypto:** Cryptocurrency sentiment is neutral, showing a slight leaning towards bearishness. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 - **Korea:** The Korean market shows signs of an improving trend. :korea:
 - **US:** The US market sentiment is stable, with a slight leaning towards bearishness. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: liquidity and volatility suggest underlying support, while credit remains firmly in bearish territory. The mixed signals across major asset classes point toward a period of consolidation and caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: liquidity and volatility suggest underlying support, while credit remains firmly in bearish territory. The mixed signals across major asset classes point toward a period of consolidation and caution. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

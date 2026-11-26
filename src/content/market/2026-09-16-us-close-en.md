@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-16 09:00 KST — HCA Healthcare, Inc. 배당락일 (HCA)
-- 🔴 09-16 09:00 KST — American International Group, I 배당락일 (AIG)
-- 🔴 09-16 09:00 KST — Motorola Solutions, Inc. 배당락일 (MSI)
-- 🔴 09-16 09:00 KST — Intercontinental Exchange Inc. 배당락일 (ICE)
-- 🔴 09-16 09:00 KST — Ares Management Corporation 배당락일 (ARES)
-- 🔴 09-16 09:00 KST — Prologis, Inc. 배당락일 (PLD)
+- 🔴 09-16 09:00 KST — HCA Healthcare, Inc. ex-dividend date (HCA)
+- 🔴 09-16 09:00 KST — American International Group, I ex-dividend date (AIG)
+- 🔴 09-16 09:00 KST — Motorola Solutions, Inc. ex-dividend date (MSI)
+- 🔴 09-16 09:00 KST — Intercontinental Exchange Inc. ex-dividend date (ICE)
+- 🔴 09-16 09:00 KST — Ares Management Corporation ex-dividend date (ARES)
+- 🔴 09-16 09:00 KST — Prologis, Inc. ex-dividend date (PLD)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -51,7 +51,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Sector analysis indicates strength concentrated in Communication Services, while Real Estate, Consumer Defensive, and INDUSTRIALS show weakness. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market data presents a divergence between elevated short-term bullish readings across macro indicators and underlying structural weakness noted in credit, commodities, and US equities. The sector rotation suggests specific areas of relative strength within the broader market structure. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The market data presents a divergence between elevated short-term bullish readings across macro indicators and underlying structural weakness noted in credit, commodities, and US equities. The sector rotation suggests specific areas of relative strength within the broader market structure. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

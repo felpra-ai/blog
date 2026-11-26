@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Financial Services, Utilities, Consumer Defensive · weak: —
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing a slight leaning towards bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit maintains a bullish bias. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are registering as neutral, with a slight bearish tilt. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are showing a neutral stance, with bearish indicators holding more weight. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities are showing a neutral overall trend, with financial services and utilities appearing relatively strong. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable, showing a slight leaning towards bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit maintains a bullish bias. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are registering as neutral, with a slight bearish tilt. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are showing a neutral stance, with bearish indicators holding more weight. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a neutral overall trend, with financial services and utilities appearing relatively strong. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests underlying support from fixed income and credit, while the US market shows signs of improvement. The divergence between bond strength and commodity softness warrants attention, suggesting a cautious, mixed-signal environment. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The macro picture suggests underlying support from fixed income and credit, while the US market shows signs of improvement. The divergence between bond strength and commodity softness warrants attention, suggesting a cautious, mixed-signal environment. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

@@ -33,11 +33,11 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 07-24 21:30 KST — US PCE Price Index
-- 🔴 07-24 21:30 KST — Aon plc 실적 발표 (AON)
-- 🔴 07-28 21:30 KST — American Tower Corporation (REI 실적 발표 (AMT)
-- 🔴 07-29 05:00 KST — Arch Capital Group Ltd. 실적 발표 (ACGL)
-- 🔴 07-29 21:30 KST — Amphenol Corporation 실적 발표 (APH)
-- 🔴 07-29 21:30 KST — Aon plc 실적 발표 (AON)
+- 🔴 07-24 21:30 KST — Aon plc earnings (AON)
+- 🔴 07-28 21:30 KST — American Tower Corporation (REI earnings (AMT)
+- 🔴 07-29 05:00 KST — Arch Capital Group Ltd. earnings (ACGL)
+- 🔴 07-29 21:30 KST — Amphenol Corporation earnings (APH)
+- 🔴 07-29 21:30 KST — Aon plc earnings (AON)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -51,7 +51,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 - **Commodities:** Commodities are strongly bullish across the board, suggesting robust underlying strength. :commodities:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: commodities and inflation signal significant strength, while fixed income and credit indicators point toward bearish pressure. US equities are stable, but the overall picture suggests caution amidst diverging sector strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: commodities and inflation signal significant strength, while fixed income and credit indicators point toward bearish pressure. US equities are stable, but the overall picture suggests caution amidst diverging sector strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-20](/track-record/2026-07-20-weekly-hitrate-en/)

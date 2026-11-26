@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: bearish â†
 - **US:** The US market sentiment is registering as neutral, with a slight bullish tilt observed against the backdrop of stable readings. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The data suggests a divergence in sentiment, with commodities and FX showing distinct bullish tilts, while the broader macro picture remains balanced, pointing toward a period of consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="ë²”" />
+**Beom(Chair):** The data suggests a divergence in sentiment, with commodities and FX showing distinct bullish tilts, while the broader macro picture remains balanced, pointing toward a period of consolidation across major asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

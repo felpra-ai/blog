@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Financial Services, Utilities, Consumer Defensive · weak: —
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing a slight tilt towards bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit maintains a fully bullish reading. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** FX sentiment is mixed, leaning slightly more toward bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are showing a neutral stance, with a noticeable bearish leaning. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities are reading neutral overall, with Financial Services and Utilities showing strength. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable, showing a slight tilt towards bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit maintains a fully bullish reading. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** FX sentiment is mixed, leaning slightly more toward bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are showing a neutral stance, with a noticeable bearish leaning. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities are reading neutral overall, with Financial Services and Utilities showing strength. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The bond market's strong bullishness contrasts with the more mixed signals across FX and commodities. US market readings suggest an improving trend, while the deteriorating trend noted in crypto warrants attention. Overall, the tape suggests a cautious, range-seeking environment underpinned by relative strength in certain sectors. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The bond market's strong bullishness contrasts with the more mixed signals across FX and commodities. US market readings suggest an improving trend, while the deteriorating trend noted in crypto warrants attention. Overall, the tape suggests a cautious, range-seeking environment underpinned by relative strength in certain sectors. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

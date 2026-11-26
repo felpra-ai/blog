@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-05 09:00 KST — Globe Life Inc. 배당락일 (GL)
-- 🔴 10-05 09:00 KST — Vivmark Residential 배당락일 (VMRK)
-- 🔴 10-05 09:00 KST — Erie Indemnity Company 배당락일 (ERIE)
-- 🔴 10-05 09:00 KST — GE Aerospace 배당락일 (GE)
-- 🔴 10-06 05:00 KST — Constellation Brands, Inc. 실적 발표 (STZ)
-- 🔴 10-06 09:00 KST — JP Morgan Chase & Co. 배당락일 (JPM)
+- 🔴 10-05 09:00 KST — Globe Life Inc. ex-dividend date (GL)
+- 🔴 10-05 09:00 KST — Vivmark Residential ex-dividend date (VMRK)
+- 🔴 10-05 09:00 KST — Erie Indemnity Company ex-dividend date (ERIE)
+- 🔴 10-05 09:00 KST — GE Aerospace ex-dividend date (GE)
+- 🔴 10-06 05:00 KST — Constellation Brands, Inc. earnings (STZ)
+- 🔴 10-06 09:00 KST — JP Morgan Chase & Co. ex-dividend date (JPM)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is stable, showing a slight leaning toward bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit indicators read decidedly bearish. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movement is registering as extremely bearish, with a notable bearish bias. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are positioned in a bearish regime, suggesting downward pressure across the basket. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are showing a sideways-bearish pattern, with the overall trend deteriorating, while technology remains a relative strength area. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is stable, showing a slight leaning toward bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit indicators read decidedly bearish. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movement is registering as extremely bearish, with a notable bearish bias. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are positioned in a bearish regime, suggesting downward pressure across the basket. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a sideways-bearish pattern, with the overall trend deteriorating, while technology remains a relative strength area. <img class="emoji-char" src="/characters/us/08_defensive.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence: bonds show extreme strength while credit and FX signal significant weakness. Equity markets, particularly in the US, are displaying deteriorating bearish tendencies despite technology sector strength. On balance, the market appears to be navigating conflicting signals between fixed income strength and broader risk asset weakness. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence: bonds show extreme strength while credit and FX signal significant weakness. Equity markets, particularly in the US, are displaying deteriorating bearish tendencies despite technology sector strength. On balance, the market appears to be navigating conflicting signals between fixed income strength and broader risk asset weakness. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

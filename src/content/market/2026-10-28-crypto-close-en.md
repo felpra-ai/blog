@@ -50,7 +50,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Commodities:** Commodities are leaning bearish, suggesting downward pressure across the basket. :commodities:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Macro indicators suggest underlying strength in credit and liquidity, though commodities signal caution. The divergence between the US market's stable, slightly bullish posture and the deteriorating trends seen in crypto and Korea warrants attention. Overall, the tape appears to be navigating mixed signals between asset classes. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** Macro indicators suggest underlying strength in credit and liquidity, though commodities signal caution. The divergence between the US market's stable, slightly bullish posture and the deteriorating trends seen in crypto and Korea warrants attention. Overall, the tape appears to be navigating mixed signals between asset classes. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

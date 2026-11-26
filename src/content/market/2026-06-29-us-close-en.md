@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Financial Services, Industrials, Basic Materials, Utilities · weak: Energy
 
 ## Desk panel
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish leaning, while credit maintains a fully bullish posture. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange dynamics show a pronounced bearish bias, though the overall trend remains stable. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are registering a neutral reading, with bearish sentiment showing a higher weight than bullish. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are showing an improving trend, with strength noted across Financial Services, INDUSTRIALS, Basic Materials, and Utilities, while ENERGY lagged. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
-- **Lovble(Global):** Volatility is reading as neutral, with both bullish and bearish indicators showing equal weight. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish leaning, while credit maintains a fully bullish posture. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange dynamics show a pronounced bearish bias, though the overall trend remains stable. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are registering a neutral reading, with bearish sentiment showing a higher weight than bullish. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are showing an improving trend, with strength noted across Financial Services, INDUSTRIALS, Basic Materials, and Utilities, while ENERGY lagged. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
+- **Lovble(Global):** Volatility is reading as neutral, with both bullish and bearish indicators showing equal weight. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests strong underlying support from liquidity and fixed income, contrasting with bearish signals in FX. US market structure appears supportive, although crypto activity is registering a neutral reading. Overall, the tape suggests a cautious environment balancing strong macro foundations against varied sector performance. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The macro picture suggests strong underlying support from liquidity and fixed income, contrasting with bearish signals in FX. US market structure appears supportive, although crypto activity is registering a neutral reading. Overall, the tape suggests a cautious environment balancing strong macro foundations against varied sector performance. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

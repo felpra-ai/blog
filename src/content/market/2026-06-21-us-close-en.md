@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Financial Services, Utilities, Consumer Defensive · weak: —
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains stable, showing a slight leaning towards bearish sentiment. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish reading, while credit maintains a bullish bias. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements are characterized by neutrality, with a slight tilt toward bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are reading neutral, with a notable weight on the bearish side. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities show a neutral reading overall, with the financial services sector and consumer defensive areas showing relative strength. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains stable, showing a slight leaning towards bearish sentiment. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish reading, while credit maintains a bullish bias. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements are characterized by neutrality, with a slight tilt toward bearish readings. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are reading neutral, with a notable weight on the bearish side. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities show a neutral reading overall, with the financial services sector and consumer defensive areas showing relative strength. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a mixed signal, with bonds showing strong bullish conviction while commodities are leaning softer. US markets reflect an improving trend, though crypto activity shows signs of deterioration. Overall, the market structure suggests a period of cautious consolidation across asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The macro picture presents a mixed signal, with bonds showing strong bullish conviction while commodities are leaning softer. US markets reflect an improving trend, though crypto activity shows signs of deterioration. Overall, the market structure suggests a period of cautious consolidation across asset classes. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

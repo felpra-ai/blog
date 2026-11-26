@@ -41,15 +41,15 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 
 ## Desk panel
 - **Macro:** Volatility remains stable with a slight tilt towards bullish readings, while FX shows a clear bearish bias. :macro:
-- **Bonds:** The bond sector reads bullish, maintaining a stable trend amidst mixed macro signals. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions are reading neutral, showing no discernible directional bias in the current environment. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Commodities:** Commodities are registering as neutral, though the data leans heavily towards bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Crypto:** Crypto exhibits a deteriorating trend, showing a significant bearish skew across its metrics. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
+- **Bonds:** The bond sector reads bullish, maintaining a stable trend amidst mixed macro signals. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions are reading neutral, showing no discernible directional bias in the current environment. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Commodities:** Commodities are registering as neutral, though the data leans heavily towards bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Crypto:** Crypto exhibits a deteriorating trend, showing a significant bearish skew across its metrics. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="Bengal" />
 - **Korea:** The Korean market is reading bearish, with the data indicating a stable, downward bias. :korea:
 - **US:** The US market is reading bullish, reflecting an improving trend across its observed metrics. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The US market shows clear strength and improvement, which contrasts with the bearish readings observed in both the Korean and crypto segments. Macro indicators suggest a cautious environment, with bonds maintaining support while FX shows weakness. On balance, the cross-market picture suggests divergence, with US strength not fully translating across all asset classes. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The US market shows clear strength and improvement, which contrasts with the bearish readings observed in both the Korean and crypto segments. Macro indicators suggest a cautious environment, with bonds maintaining support while FX shows weakness. On balance, the cross-market picture suggests divergence, with US strength not fully translating across all asset classes. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

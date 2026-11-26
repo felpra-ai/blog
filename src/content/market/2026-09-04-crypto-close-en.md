@@ -49,7 +49,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral â†
 - **Commodities:** Commodities maintain a neutral reading, leaning slightly more towards bullish conviction. :commodities:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests caution, highlighted by the bearish readings across Credit and Liquidity, even as Inflation shows a slight bullish bias. The market structure is characterized by neutral readings across major asset classes, suggesting a period of consolidation or indecision across the board. The confluence of macro uncertainty and mixed sector signals points toward a highly watchful, range-bound environment. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="ë²”" />
+**Beom(Chair):** The macro picture suggests caution, highlighted by the bearish readings across Credit and Liquidity, even as Inflation shows a slight bullish bias. The market structure is characterized by neutral readings across major asset classes, suggesting a period of consolidation or indecision across the board. The confluence of macro uncertainty and mixed sector signals points toward a highly watchful, range-bound environment. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-31](/track-record/2026-08-31-weekly-hitrate-en/)

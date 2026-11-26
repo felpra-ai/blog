@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-28 09:00 KST — Clorox Company (The) 배당락일 (CLX)
-- 🔴 10-28 21:30 KST — International Paper Company 실적 발표 (IP)
-- 🔴 10-28 21:30 KST — Aon plc 실적 발표 (AON)
-- 🔴 10-28 21:30 KST — Amphenol Corporation 실적 발표 (APH)
-- 🔴 10-28 21:30 KST — Garmin Ltd. 실적 발표 (GRMN)
-- 🔴 10-28 21:30 KST — Verisk Analytics, Inc. 실적 발표 (VRSK)
+- 🔴 10-28 09:00 KST — Clorox Company (The) ex-dividend date (CLX)
+- 🔴 10-28 21:30 KST — International Paper Company earnings (IP)
+- 🔴 10-28 21:30 KST — Aon plc earnings (AON)
+- 🔴 10-28 21:30 KST — Amphenol Corporation earnings (APH)
+- 🔴 10-28 21:30 KST — Garmin Ltd. earnings (GRMN)
+- 🔴 10-28 21:30 KST — Verisk Analytics, Inc. earnings (VRSK)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (57 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.23) — only 7 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains elevated with all observed sentiment pointing toward bullish readings. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Bond indicators show an extreme bullish posture, while credit metrics maintain a stable bullish reading. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements suggest a bearish bias, with the trend remaining stable. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity indicators reflect an extreme bearish leaning, suggesting softening trends. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Maine(US):** US equities exhibit a sideways bias with a slight bullish leaning, while Financial Services, Basic Materials, and Consumer Defensive show strength, contrasting with weakness in Technology and Communication Services. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains elevated with all observed sentiment pointing toward bullish readings. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond indicators show an extreme bullish posture, while credit metrics maintain a stable bullish reading. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements suggest a bearish bias, with the trend remaining stable. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity indicators reflect an extreme bearish leaning, suggesting softening trends. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Maine(US):** US equities exhibit a sideways bias with a slight bullish leaning, while Financial Services, Basic Materials, and Consumer Defensive show strength, contrasting with weakness in Technology and Communication Services. <img class="emoji-char" src="/characters/us/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence, with bonds and inflation showing strong bullish readings against bearish signals in commodities and FX. US equities show resilience within a range, but the deteriorating trend observed in crypto and Korean markets warrants attention. The overall sentiment suggests caution amidst underlying structural support in certain asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence, with bonds and inflation showing strong bullish readings against bearish signals in commodities and FX. US equities show resilience within a range, but the deteriorating trend observed in crypto and Korean markets warrants attention. The overall sentiment suggests caution amidst underlying structural support in certain asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-26](/track-record/2026-10-26-weekly-hitrate-en/)

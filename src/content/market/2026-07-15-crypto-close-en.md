@@ -38,7 +38,7 @@ altLang: ko
 - **Commodities:** Commodities are registering a bullish reading, indicating strong underlying support. :commodities:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: while core commodities and the US market show signs of underlying support or improvement, fixed income and credit indicators point toward persistent caution. The overall picture suggests a period of mixed directional conviction across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: while core commodities and the US market show signs of underlying support or improvement, fixed income and credit indicators point toward persistent caution. The overall picture suggests a period of mixed directional conviction across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

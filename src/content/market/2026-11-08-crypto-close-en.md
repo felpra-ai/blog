@@ -40,14 +40,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (62 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 7 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is reading strongly bullish, while the overall trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Bonds show a mixed sentiment, leaning more towards bearish readings, though the trend remains stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange sentiment is leaning bullish, with a notable degree of bullish conviction present. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are showing a distinct bearish leaning, with the trend remaining stable. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is exhibiting a deteriorating sideways-bearish pattern, with a clear dominance observed in Bitcoin. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="벵갈" />
+- **Lovble(Global):** Volatility is reading strongly bullish, while the overall trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds show a mixed sentiment, leaning more towards bearish readings, though the trend remains stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange sentiment is leaning bullish, with a notable degree of bullish conviction present. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are showing a distinct bearish leaning, with the trend remaining stable. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is exhibiting a deteriorating sideways-bearish pattern, with a clear dominance observed in Bitcoin. <img class="emoji-char" src="/characters/crypto/08_defensive.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents diverging signals; while FX and VIX suggest underlying strength or elevated risk perception, the bearish lean in commodities and inflation, alongside the deteriorating crypto trend, suggests caution. The US market shows a stable, slightly bullish bias, contrasting with the weaker readings observed in Korea. On balance, the market structure suggests a period of consolidation amidst mixed directional pressures. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The macro picture presents diverging signals; while FX and VIX suggest underlying strength or elevated risk perception, the bearish lean in commodities and inflation, alongside the deteriorating crypto trend, suggests caution. The US market shows a stable, slightly bullish bias, contrasting with the weaker readings observed in Korea. On balance, the market structure suggests a period of consolidation amidst mixed directional pressures. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

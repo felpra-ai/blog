@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-10 09:00 KST — American Electric Power Company 배당락일 (AEP)
-- 🔴 08-10 09:00 KST — Apple Inc. 배당락일 (AAPL)
+- 🔴 08-10 09:00 KST — American Electric Power Company ex-dividend date (AEP)
+- 🔴 08-10 09:00 KST — Apple Inc. ex-dividend date (AAPL)
 - 🔴 08-11 21:30 KST — US CPI Release
-- 🔴 08-12 21:30 KST — Amcor plc 실적 발표 (AMCR)
-- 🔴 08-13 21:30 KST — Amcor plc 실적 발표 (AMCR)
-- 🔴 08-14 05:00 KST — Applied Materials, Inc. 실적 발표 (AMAT)
+- 🔴 08-12 21:30 KST — Amcor plc earnings (AMCR)
+- 🔴 08-13 21:30 KST — Amcor plc earnings (AMCR)
+- 🔴 08-14 05:00 KST — Applied Materials, Inc. earnings (AMAT)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings show a pronounced bearish bias across the board, while overall risk appetite remains subdued. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** The bond market exhibits a neutral stance, with bullish sentiment slightly outweighing bearish indicators, suggesting stability. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements indicate a clear bearish leaning, suggesting underlying pressure in currency pairs. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is balanced, with no discernible directional bias noted from the data. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are reading neutral, with Technology and Communication Services showing strength while Utilities are lagging. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility readings show a pronounced bearish bias across the board, while overall risk appetite remains subdued. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market exhibits a neutral stance, with bullish sentiment slightly outweighing bearish indicators, suggesting stability. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements indicate a clear bearish leaning, suggesting underlying pressure in currency pairs. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is balanced, with no discernible directional bias noted from the data. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are reading neutral, with Technology and Communication Services showing strength while Utilities are lagging. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests caution, evidenced by the bearish tilt in liquidity and FX, even as core asset classes like US equities remain range-bound. The divergence in central bank policies, particularly noted in the Australian dollar's movement, adds a layer of complexity to the cross-asset picture. The current environment appears to favor measured, tactical positioning rather than broad directional bets. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure suggests caution, evidenced by the bearish tilt in liquidity and FX, even as core asset classes like US equities remain range-bound. The divergence in central bank policies, particularly noted in the Australian dollar's movement, adds a layer of complexity to the cross-asset picture. The current environment appears to favor measured, tactical positioning rather than broad directional bets. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

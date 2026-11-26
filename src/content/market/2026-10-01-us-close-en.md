@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-01 09:00 KST — Cardinal Health, Inc. 배당락일 (CAH)
-- 🔴 10-01 09:00 KST — State Street Corporation 배당락일 (STT)
-- 🔴 10-01 09:00 KST — Air Products and Chemicals, Inc 배당락일 (APD)
-- 🔴 10-01 09:00 KST — Quanta Services, Inc. 배당락일 (PWR)
-- 🔴 10-01 09:00 KST — Federal Realty Investment Trust 배당락일 (FRT)
-- 🔴 10-01 09:00 KST — Raymond James Financial, Inc. 배당락일 (RJF)
+- 🔴 10-01 09:00 KST — Cardinal Health, Inc. ex-dividend date (CAH)
+- 🔴 10-01 09:00 KST — State Street Corporation ex-dividend date (STT)
+- 🔴 10-01 09:00 KST — Air Products and Chemicals, Inc ex-dividend date (APD)
+- 🔴 10-01 09:00 KST — Quanta Services, Inc. ex-dividend date (PWR)
+- 🔴 10-01 09:00 KST — Federal Realty Investment Trust ex-dividend date (FRT)
+- 🔴 10-01 09:00 KST — Raymond James Financial, Inc. ex-dividend date (RJF)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is stable, showing no directional bias in the immediate term. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
-- **Bsho(Bonds):** Bond indicators suggest a strong upward bias, while credit conditions read as distinctly negative. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements show a clear bearish leaning, though the underlying liquidity picture remains supportive. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity indicators point toward a bearish environment, contrasting with the general bullishness observed in liquidity. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities exhibit a bearish leaning overall, with Technology and Consumer Cyclical sectors showing relative strength compared to Utilities and Industrials. <img class="emoji-char" src="/characters/us/10_suspicious.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is stable, showing no directional bias in the immediate term. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond indicators suggest a strong upward bias, while credit conditions read as distinctly negative. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements show a clear bearish leaning, though the underlying liquidity picture remains supportive. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity indicators point toward a bearish environment, contrasting with the general bullishness observed in liquidity. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities exhibit a bearish leaning overall, with Technology and Consumer Cyclical sectors showing relative strength compared to Utilities and Industrials. <img class="emoji-char" src="/characters/us/10_suspicious.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure presents a divergence: bonds and liquidity suggest underlying support, yet credit, commodities, and US equities point toward caution. The relative strength noted in Technology within US equities suggests sector-specific resilience amidst broader caution. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
+**Beom(Chair):** The market structure presents a divergence: bonds and liquidity suggest underlying support, yet credit, commodities, and US equities point toward caution. The relative strength noted in Technology within US equities suggests sector-specific resilience amidst broader caution. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-28](/track-record/2026-09-28-weekly-hitrate-en/)

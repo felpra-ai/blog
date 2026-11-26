@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 11-09 21:30 KST — Tyson Foods, Inc. 실적 발표 (TSN)
-- 🔴 11-09 22:30 KST — NRG Energy, Inc. 실적 발표 (NRG)
-- 🔴 11-09 22:30 KST — Bio-Techne Corp 실적 발표 (TECH)
-- 🔴 11-09 22:30 KST — KKR & Co. Inc. 실적 발표 (KKR)
-- 🔴 11-09 22:30 KST — Constellation Energy Corporatio 실적 발표 (CEG)
-- 🔴 11-09 22:30 KST — Ferguson Enterprises Inc. 실적 발표 (FERG)
+- 🔴 11-09 21:30 KST — Tyson Foods, Inc. earnings (TSN)
+- 🔴 11-09 22:30 KST — NRG Energy, Inc. earnings (NRG)
+- 🔴 11-09 22:30 KST — Bio-Techne Corp earnings (TECH)
+- 🔴 11-09 22:30 KST — KKR & Co. Inc. earnings (KKR)
+- 🔴 11-09 22:30 KST — Constellation Energy Corporatio earnings (CEG)
+- 🔴 11-09 22:30 KST — Ferguson Enterprises Inc. earnings (FERG)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (58 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 7 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is showing a strong bullish bias, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a neutral reading, with bearish sentiment outweighing bullish indicators, though the trend is stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange shows a bullish leaning, with bullish indicators representing twice the weight of bearish ones, and the trend is stable. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are reading bearish, with a significant majority of indicators pointing to the downside, and the trend is stable. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are registering a sideways bullish bias, with the overall trend remaining stable, while Financial Services, Communication Services, and Consumer Defensive are showing strength relative to Technology and Technology. <img class="emoji-char" src="/characters/us/07_confident.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is showing a strong bullish bias, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a neutral reading, with bearish sentiment outweighing bullish indicators, though the trend is stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange shows a bullish leaning, with bullish indicators representing twice the weight of bearish ones, and the trend is stable. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are reading bearish, with a significant majority of indicators pointing to the downside, and the trend is stable. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities are registering a sideways bullish bias, with the overall trend remaining stable, while Financial Services, Communication Services, and Consumer Defensive are showing strength relative to Technology and Technology. <img class="emoji-char" src="/characters/us/07_confident.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure suggests a divergence where US equities show relative strength despite broader commodity weakness and persistent inflationary concerns. The crypto space is exhibiting a clear bearish drift, while the overall liquidity environment remains balanced. The confluence of these readings suggests caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The market structure suggests a divergence where US equities show relative strength despite broader commodity weakness and persistent inflationary concerns. The crypto space is exhibiting a clear bearish drift, while the overall liquidity environment remains balanced. The confluence of these readings suggests caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-09](/track-record/2026-11-09-weekly-hitrate-en/)

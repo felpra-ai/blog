@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-19 09:00 KST — AFLAC Incorporated 배당락일 (AFL)
-- 🔴 08-19 09:00 KST — Archer-Daniels-Midland Company 배당락일 (ADM)
-- 🔴 08-19 09:00 KST — Apollo Global Management, Inc.  배당락일 (APO)
-- 🔴 08-19 21:30 KST — Analog Devices, Inc. 실적 발표 (ADI)
-- 🔴 08-20 09:00 KST — Applied Materials, Inc. 배당락일 (AMAT)
-- 🔴 08-21 09:00 KST — Amgen Inc. 배당락일 (AMGN)
+- 🔴 08-19 09:00 KST — AFLAC Incorporated ex-dividend date (AFL)
+- 🔴 08-19 09:00 KST — Archer-Daniels-Midland Company ex-dividend date (ADM)
+- 🔴 08-19 09:00 KST — Apollo Global Management, Inc.  ex-dividend date (APO)
+- 🔴 08-19 21:30 KST — Analog Devices, Inc. earnings (ADI)
+- 🔴 08-20 09:00 KST — Applied Materials, Inc. ex-dividend date (AMAT)
+- 🔴 08-21 09:00 KST — Amgen Inc. ex-dividend date (AMGN)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is reading extreme bearish, while the overall trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds are showing a neutral stance, with a slight leaning towards bullishness. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** FX remains neutral, with a slight indication of bearish pressure. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are neutral, showing an equal distribution between bullish and bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are reading neutral overall, with TECHNOLOGY and HEALTHCARE sectors showing strength. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility is reading extreme bearish, while the overall trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds are showing a neutral stance, with a slight leaning towards bullishness. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** FX remains neutral, with a slight indication of bearish pressure. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are neutral, showing an equal distribution between bullish and bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are reading neutral overall, with TECHNOLOGY and HEALTHCARE sectors showing strength. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Credit conditions are reading extremely bullish, contrasting with the bearish leaning observed in liquidity and crypto. The US market shows signs of improvement, though the broader picture suggests caution. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** Credit conditions are reading extremely bullish, contrasting with the bearish leaning observed in liquidity and crypto. The US market shows signs of improvement, though the broader picture suggests caution. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

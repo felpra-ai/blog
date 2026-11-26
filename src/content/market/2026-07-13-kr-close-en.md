@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: consumer, IT-media · weak: chemicals, Industrials
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains elevated with a clear bearish tilt across the board, though the trend itself is stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond sentiment is balanced, while credit conditions show a notable leaning toward bearishness. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange dynamics are strongly bullish, suggesting significant directional flow in currency pairs. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit a leaning toward bullishness, while inflation metrics show a pronounced bullish bias. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Kosho(KR):** Korean equities show a neutral reading, with consumer and IT/media sectors demonstrating relative strength compared to chemicals and industrials. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains elevated with a clear bearish tilt across the board, though the trend itself is stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond sentiment is balanced, while credit conditions show a notable leaning toward bearishness. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange dynamics are strongly bullish, suggesting significant directional flow in currency pairs. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit a leaning toward bullishness, while inflation metrics show a pronounced bullish bias. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities show a neutral reading, with consumer and IT/media sectors demonstrating relative strength compared to chemicals and industrials. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The data suggests a divergence where FX and Inflation are strongly bullish, contrasting with the bearish lean in Credit and the mixed signals from the US and Crypto. The market structure appears to be absorbing geopolitical risk, as evidenced by the focus on energy trade flows and AI infrastructure developments. Overall, the tape suggests caution amid sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The data suggests a divergence where FX and Inflation are strongly bullish, contrasting with the bearish lean in Credit and the mixed signals from the US and Crypto. The market structure appears to be absorbing geopolitical risk, as evidenced by the focus on energy trade flows and AI infrastructure developments. Overall, the tape suggests caution amid sector-specific strength. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

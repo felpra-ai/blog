@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Utilities · weak: materials, Crypto, chemicals
 
 ## Desk panel
-- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit conditions read as entirely bullish. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements suggest an extreme bearish bias, though liquidity remains fully bullish. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity sentiment is neutral, showing a slight leaning toward bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities show a neutral overall reading, with utilities showing strength while materials, crypto, and chemicals are weak. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
-- **Lovble(Global):** Volatility is reading as neutral, with the overall trend remaining stable across bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="러블" />
+- **Bsho(Bonds):** Bonds exhibit an extreme bullish posture, while credit conditions read as entirely bullish. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements suggest an extreme bearish bias, though liquidity remains fully bullish. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity sentiment is neutral, showing a slight leaning toward bearish readings. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities show a neutral overall reading, with utilities showing strength while materials, crypto, and chemicals are weak. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="Kosho" />
+- **Lovble(Global):** Volatility is reading as neutral, with the overall trend remaining stable across bullish and bearish readings. <img class="emoji-char" src="/characters/news/06_neutral.png" alt="Lovble" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence: bonds and credit suggest strong underlying support, contrasting with the bearish readings in FX and the softening trend noted in Korean equities. The US market shows an improving trend, while commodities remain range-bound. On balance, the tape suggests caution amidst differing directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence: bonds and credit suggest strong underlying support, contrasting with the bearish readings in FX and the softening trend noted in Korean equities. The US market shows an improving trend, while commodities remain range-bound. On balance, the tape suggests caution amidst differing directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 ---
 

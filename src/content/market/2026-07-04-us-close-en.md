@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Basic Materials, Consumer Defensive, Healthcare, Financial Services · weak: —
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings indicate a stable bearish leaning, suggesting underlying caution across the board. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond indicators show a sideways bias with a slight leaning toward bullish sentiment. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange remains in a neutral state, with bullish and bearish readings showing relative balance. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity indicators suggest a neutral environment, with bullish readings showing a slight edge over bearish ones. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Maine(US):** US equities are registering a neutral state, with the Basic Materials, Consumer Defensive, and Healthcare sectors showing relative strength. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility readings indicate a stable bearish leaning, suggesting underlying caution across the board. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond indicators show a sideways bias with a slight leaning toward bullish sentiment. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange remains in a neutral state, with bullish and bearish readings showing relative balance. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity indicators suggest a neutral environment, with bullish readings showing a slight edge over bearish ones. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Maine(US):** US equities are registering a neutral state, with the Basic Materials, Consumer Defensive, and Healthcare sectors showing relative strength. <img class="emoji-char" src="/characters/us/06_neutral.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market structure reflects a general state of caution, evidenced by the bearish readings in volatility and liquidity, despite some sector strength noted in US equities. The cross-market picture is mixed, with crypto and US indices showing stability while Korea's trend is noted as deteriorating. On balance, the tape suggests a period of consolidation and measured movement across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The market structure reflects a general state of caution, evidenced by the bearish readings in volatility and liquidity, despite some sector strength noted in US equities. The cross-market picture is mixed, with crypto and US indices showing stability while Korea's trend is noted as deteriorating. On balance, the tape suggests a period of consolidation and measured movement across asset classes. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

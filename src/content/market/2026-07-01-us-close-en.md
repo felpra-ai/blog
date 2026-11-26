@@ -43,7 +43,7 @@ altLang: ko
 - **Sectors:** Financial Services, Industrials, Basic Materials, and Utilities read as strong, while Energy shows weakness. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence: strong liquidity and credit support are juxtaposed against a bearish tilt in FX and a deteriorating trend in Korea. US markets show signs of improvement, which is generally supportive, but the sector strength is concentrated away from energy. On balance, the tape suggests caution amidst underlying structural support in certain credit and liquidity areas. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence: strong liquidity and credit support are juxtaposed against a bearish tilt in FX and a deteriorating trend in Korea. US markets show signs of improvement, which is generally supportive, but the sector strength is concentrated away from energy. On balance, the tape suggests caution amidst underlying structural support in certain credit and liquidity areas. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 ---
 

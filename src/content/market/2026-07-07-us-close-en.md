@@ -38,7 +38,7 @@ altLang: ko
 - **Sectors:** Sector performance indicates strength concentrated in Healthcare, Financial Services, Utilities, and Real Estate, while Basic Materials, Technology, and ENERGY are showing weakness. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** US market strength is evident across sectors, providing a supportive backdrop, although the broader liquidity picture remains bearish. The mixed signals across macro indicators suggest that while some areas show resilience, caution regarding systemic liquidity persists. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** US market strength is evident across sectors, providing a supportive backdrop, although the broader liquidity picture remains bearish. The mixed signals across macro indicators suggest that while some areas show resilience, caution regarding systemic liquidity persists. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 ---
 

@@ -34,21 +34,21 @@ altLang: ko
 
 - 🔴 08-07 21:30 KST — US Nonfarm Payrolls
 - 🔴 08-11 21:30 KST — US CPI Release
-- 🔴 08-12 15:00 KST — SamsungF&MIns 실적 발표 (000810)
-- 🔴 08-13 15:00 KST — SamsungF&MIns 실적 발표 (000810)
-- 🔴 08-13 15:00 KST — LG Corp. 실적 발표 (003550)
-- 🔴 08-13 15:00 KST — DB INSURANCE 실적 발표 (005830)
+- 🔴 08-12 15:00 KST — SamsungF&MIns earnings (000810)
+- 🔴 08-13 15:00 KST — SamsungF&MIns earnings (000810)
+- 🔴 08-13 15:00 KST — LG Corp. earnings (003550)
+- 🔴 08-13 15:00 KST — DB INSURANCE earnings (005830)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (61 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings indicate a strong bearish leaning across the board, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bond market sentiment is balanced, showing a slight bullish tilt against a backdrop of stable trends. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange dynamics show a pronounced bearish bias, though the trend itself is reported as stable. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity markets exhibit a strong bullish leaning, contrasting with the neutral readings observed for inflation. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities show a markedly bullish leaning, with the industrial, IT media, and chemical sectors showing strength, while consumer segments lag. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
+- **Lovble(Global):** Volatility readings indicate a strong bearish leaning across the board, while the underlying trend remains stable. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bond market sentiment is balanced, showing a slight bullish tilt against a backdrop of stable trends. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange dynamics show a pronounced bearish bias, though the trend itself is reported as stable. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity markets exhibit a strong bullish leaning, contrasting with the neutral readings observed for inflation. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities show a markedly bullish leaning, with the industrial, IT media, and chemical sectors showing strength, while consumer segments lag. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
 **Beom(Chair):** The market structure presents a divergence: commodities and Korean equities show distinct bullish momentum, while broader risk indicators like FX and liquidity point toward caution. The underlying stability in macro trends suggests that sector-specific strength may be driving current price action, rather than a broad consensus shift.

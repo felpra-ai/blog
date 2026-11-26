@@ -33,10 +33,10 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 10-22 21:30 KST — US GDP (Advance)
-- 🔴 10-23 15:00 KST — WooriFinancialGroup 실적 발표 (316140)
-- 🔴 10-23 15:00 KST — KIA CORP. 실적 발표 (000270)
-- 🔴 10-23 15:00 KST — HANMISemi 실적 발표 (042700)
-- 🔴 10-23 15:00 KST — HYUNDAI ROTEM 실적 발표 (064350)
+- 🔴 10-23 15:00 KST — WooriFinancialGroup earnings (316140)
+- 🔴 10-23 15:00 KST — KIA CORP. earnings (000270)
+- 🔴 10-23 15:00 KST — HANMISemi earnings (042700)
+- 🔴 10-23 15:00 KST — HYUNDAI ROTEM earnings (064350)
 - 🔴 10-23 21:30 KST — US PCE Price Index
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
@@ -44,14 +44,14 @@ _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.22) — only 6 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility is showing a stable trend with a slight tilt toward bearish readings. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a bullish leaning, while credit remains balanced. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange dynamics are leaning bearish, with a notable lack of bullish conviction. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are registering a neutral state, despite a pronounced bearish leaning in the data. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are showing a bearish trend, with specific sectors like Biotechnology/Healthcare and Consumer showing relative strength compared to Utilities, Industrials, and Materials. <img class="emoji-char" src="/characters/kr/10_suspicious.png" alt="코숏" />
+- **Lovble(Global):** Volatility is showing a stable trend with a slight tilt toward bearish readings. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a bullish leaning, while credit remains balanced. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange dynamics are leaning bearish, with a notable lack of bullish conviction. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are registering a neutral state, despite a pronounced bearish leaning in the data. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are showing a bearish trend, with specific sectors like Biotechnology/Healthcare and Consumer showing relative strength compared to Utilities, Industrials, and Materials. <img class="emoji-char" src="/characters/kr/10_suspicious.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** US equities are displaying a bullish trend with improving momentum, which contrasts with the bearish readings observed in Crypto and Korean markets. The macro picture presents mixed signals, with bonds leaning positive while FX leans negative. Overall, the market structure suggests caution, balancing sector-specific strength against broader asset class divergence. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
+**Beom(Chair):** US equities are displaying a bullish trend with improving momentum, which contrasts with the bearish readings observed in Crypto and Korean markets. The macro picture presents mixed signals, with bonds leaning positive while FX leans negative. Overall, the market structure suggests caution, balancing sector-specific strength against broader asset class divergence. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

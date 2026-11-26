@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: consumer, IT-media · weak: chemicals, Industrials
 
 ## Desk panel
-- **Lovble(Global):** Volatility is trending toward the bearish side, while the general risk appetite remains mixed. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Fixed income sentiment reads bearish, though the underlying trend for bonds is stable. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements show a bullish tilt, suggesting underlying strength in currency pairs. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity pricing exhibits a decidedly bullish posture, contrasting with inflation readings that are leaning bearish. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities show a neutral reading overall, with consumer and IT/Media sectors showing relative strength compared to chemicals and industrials. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="코숏" />
+- **Lovble(Global):** Volatility is trending toward the bearish side, while the general risk appetite remains mixed. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Fixed income sentiment reads bearish, though the underlying trend for bonds is stable. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements show a bullish tilt, suggesting underlying strength in currency pairs. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity pricing exhibits a decidedly bullish posture, contrasting with inflation readings that are leaning bearish. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities show a neutral reading overall, with consumer and IT/Media sectors showing relative strength compared to chemicals and industrials. <img class="emoji-char" src="/characters/kr/06_neutral.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence: commodities and FX suggest underlying strength, while credit and bonds lean bearish. The US market shows an improving trend, which contrasts with the mixed signals observed in the broader asset classes. On balance, the tape suggests caution amid sector-specific divergences. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence: commodities and FX suggest underlying strength, while credit and bonds lean bearish. The US market shows an improving trend, which contrasts with the mixed signals observed in the broader asset classes. On balance, the tape suggests caution amid sector-specific divergences. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 ---
 

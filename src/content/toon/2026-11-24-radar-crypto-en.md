@@ -43,7 +43,7 @@ images:
 | Name | × usual turnover | Day change |
 |---|---|---|
 | Cysic (CYS) | 9.9× | +11.9% |
-| 프롬 (PROM) | 7× | -28.2% |
+| PROM | 7× | -28.2% |
 
 _Rule: that day's turnover ÷ average of the prior 10 sessions. 2 of 443 names screened passed the threshold. Volume shows attention, not direction._
 

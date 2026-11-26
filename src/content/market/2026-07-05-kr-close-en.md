@@ -31,14 +31,14 @@ altLang: ko
 **Sectors/baskets** — strong: Utilities · weak: —
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains in a bearish regime, suggesting caution in immediate risk appetite. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** Bonds exhibit a sideways-bullish posture, while credit conditions read as neutral. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movement is neutral, with liquidity showing a bearish tilt. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are reading as neutral, with a slight leaning towards bullishness. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Kosho(KR):** Korean equities are showing a neutral reading, though the underlying trend is noted as deteriorating. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains in a bearish regime, suggesting caution in immediate risk appetite. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** Bonds exhibit a sideways-bullish posture, while credit conditions read as neutral. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movement is neutral, with liquidity showing a bearish tilt. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are reading as neutral, with a slight leaning towards bullishness. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities are showing a neutral reading, though the underlying trend is noted as deteriorating. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** Macro indicators present a mixed picture; while bonds show some underlying support, liquidity and volatility suggest caution. The relative stability across major asset classes, juxtaposed with the deteriorating trend noted in Korean equities, points toward a period of consolidation and selective strength. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** Macro indicators present a mixed picture; while bonds show some underlying support, liquidity and volatility suggest caution. The relative stability across major asset classes, juxtaposed with the deteriorating trend noted in Korean equities, points toward a period of consolidation and selective strength. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 ---
 

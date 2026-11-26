@@ -30,12 +30,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-03 15:00 KST — DL 실적 발표 (000210)
-- 🔴 08-03 15:00 KST — HYUNDAI STEEL 실적 발표 (004020)
-- 🔴 08-04 15:00 KST — Hanwha 실적 발표 (000880)
-- 🔴 08-06 09:00 KST — DOOSAN 배당락일 (000150)
-- 🔴 08-06 15:00 KST — AMOREPACIFIC Holdings 실적 발표 (002790)
-- 🔴 08-06 15:00 KST — LOTTE Fine Chem 실적 발표 (004000)
+- 🔴 08-03 15:00 KST — DL earnings (000210)
+- 🔴 08-03 15:00 KST — HYUNDAI STEEL earnings (004020)
+- 🔴 08-04 15:00 KST — Hanwha earnings (000880)
+- 🔴 08-06 09:00 KST — DOOSAN ex-dividend date (000150)
+- 🔴 08-06 15:00 KST — AMOREPACIFIC Holdings earnings (002790)
+- 🔴 08-06 15:00 KST — LOTTE Fine Chem earnings (004000)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -43,13 +43,13 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **Macro:** Volatility remains stable across directional biases, while liquidity shows a notable bullish leaning. :macro:
-- **Bonds:** The bond market exhibits a more pronounced bearish tilt relative to its bullish positioning, though the overall trend remains stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Credit:** Credit conditions are reading as entirely neutral, with no discernible directional bias observed. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Liquidity:** Liquidity metrics indicate a clear bullish bias, suggesting supportive conditions across the board. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Korea:** Korean equities are showing a deteriorating trend, with bullish and bearish momentum nearly balanced. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="코숏" />
+- **Bonds:** The bond market exhibits a more pronounced bearish tilt relative to its bullish positioning, though the overall trend remains stable. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Credit:** Credit conditions are reading as entirely neutral, with no discernible directional bias observed. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Liquidity:** Liquidity metrics indicate a clear bullish bias, suggesting supportive conditions across the board. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Korea:** Korean equities are showing a deteriorating trend, with bullish and bearish momentum nearly balanced. <img class="emoji-char" src="/characters/kr/05_anxious.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The broader US market sentiment reads as improving, offering a degree of support to the overall tape, though the crypto asset class shows a clear deterioration in its trend. On balance, the confluence of strong liquidity support against mixed directional signals suggests a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="범" />
+**Beom(Chair):** The broader US market sentiment reads as improving, offering a degree of support to the overall tape, though the crypto asset class shows a clear deterioration in its trend. On balance, the confluence of strong liquidity support against mixed directional signals suggests a cautious, range-seeking tape. <img class="emoji-char" src="/characters/orchestrator/05_anxious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-07-27](/track-record/2026-07-27-weekly-hitrate-en/)

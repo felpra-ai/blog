@@ -42,16 +42,16 @@ _Observation notes: most frequent regime shift in this market so far: neutral �
 
 ## Desk panel
 - **Macro:** Volatility remains stable with balanced directional readings, while credit and inflation show clear bullish leaning. :macro:
-- **Bonds:** The bond market exhibits a sideways bias with a slight leaning toward bullish sentiment. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **FX:** Currency movements are characterized by a sideways pattern with a notable bearish tilt. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Liquidity:** Liquidity conditions are reading sideways but with a distinct bullish bias. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="노웰" />
-- **Commodities:** Commodities are showing a clear bullish tendency, with the majority of sentiment leaning positive. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="벵갈" />
+- **Bonds:** The bond market exhibits a sideways bias with a slight leaning toward bullish sentiment. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **FX:** Currency movements are characterized by a sideways pattern with a notable bearish tilt. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Liquidity:** Liquidity conditions are reading sideways but with a distinct bullish bias. <img class="emoji-char" src="/characters/commodity/07_confident.png" alt="Nowel" />
+- **Commodities:** Commodities are showing a clear bullish tendency, with the majority of sentiment leaning positive. <img class="emoji-char" src="/characters/crypto/07_confident.png" alt="Bengal" />
 - **Crypto:** The cryptocurrency space is registering a bullish trend with improving momentum. :crypto:
 - **Korea:** The Korean market is showing a neutral stance with stable directional readings. :korea:
 - **US:** The US market is showing an improving trend with a neutral overall sentiment. :us:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture suggests underlying strength in credit and inflation, contrasting with a more cautious, bearish leaning in the FX space. Crypto shows improving momentum, while US and Korean equities are settling into neutral, range-bound patterns. The overall market tone suggests a period of consolidation underpinned by stable, if mixed, macro indicators. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The macro picture suggests underlying strength in credit and inflation, contrasting with a more cautious, bearish leaning in the FX space. Crypto shows improving momentum, while US and Korean equities are settling into neutral, range-bound patterns. The overall market tone suggests a period of consolidation underpinned by stable, if mixed, macro indicators. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-24](/track-record/2026-08-24-weekly-hitrate-en/)

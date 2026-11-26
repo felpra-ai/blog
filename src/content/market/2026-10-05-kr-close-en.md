@@ -48,7 +48,7 @@ _Observation notes: most frequent regime shift in this market so far: neutral â†
 - **Sector:** Within Korean markets, the semiconductor, financials, chemical, and industrials sectors appear strong, contrasting with IT media and crypto. :sector:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The market exhibits a divergence where fixed income remains strongly positive, contrasting with bearish readings across credit and the US equity space. The overall sentiment suggests caution, particularly given the deteriorating trends noted in both US and Korean indices, despite strength observed in specific Korean industrial baskets. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="ë²”" />
+**Beom(Chair):** The market exhibits a divergence where fixed income remains strongly positive, contrasting with bearish readings across credit and the US equity space. The overall sentiment suggests caution, particularly given the deteriorating trends noted in both US and Korean indices, despite strength observed in specific Korean industrial baskets. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

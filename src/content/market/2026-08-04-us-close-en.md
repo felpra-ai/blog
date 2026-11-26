@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 08-04 21:30 KST — Apollo Global Management, Inc.  실적 발표 (APO)
-- 🔴 08-04 21:30 KST — Archer-Daniels-Midland Company 실적 발표 (ADM)
-- 🔴 08-04 21:30 KST — AMETEK, Inc. 실적 발표 (AME)
-- 🔴 08-05 05:00 KST — Astera Labs, Inc. 실적 발표 (ALAB)
-- 🔴 08-05 05:00 KST — Amgen Inc. 실적 발표 (AMGN)
-- 🔴 08-05 05:00 KST — Arista Networks, Inc. 실적 발표 (ANET)
+- 🔴 08-04 21:30 KST — Apollo Global Management, Inc.  earnings (APO)
+- 🔴 08-04 21:30 KST — Archer-Daniels-Midland Company earnings (ADM)
+- 🔴 08-04 21:30 KST — AMETEK, Inc. earnings (AME)
+- 🔴 08-05 05:00 KST — Astera Labs, Inc. earnings (ALAB)
+- 🔴 08-05 05:00 KST — Amgen Inc. earnings (AMGN)
+- 🔴 08-05 05:00 KST — Arista Networks, Inc. earnings (ANET)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -50,7 +50,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Cyclical consumer spending and healthcare sectors are showing relative strength, while real estate, basic materials, and utilities appear weaker. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The cross-market data presents a divergence: while liquidity is extremely bullish and bonds are leaning positive, the FX and Crypto readings suggest significant bearish pressure in those specific areas. The general market structure appears to be finding a stable, albeit cautious, range. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="범" />
+**Beom(Chair):** The cross-market data presents a divergence: while liquidity is extremely bullish and bonds are leaning positive, the FX and Crypto readings suggest significant bearish pressure in those specific areas. The general market structure appears to be finding a stable, albeit cautious, range. <img class="emoji-char" src="/characters/orchestrator/06_neutral.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-03](/track-record/2026-08-03-weekly-hitrate-en/)

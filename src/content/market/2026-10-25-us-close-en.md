@@ -32,12 +32,12 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-26 09:00 KST — Paychex, Inc. 배당락일 (PAYX)
-- 🔴 10-26 21:30 KST — Verizon Communications Inc. 실적 발표 (VZ)
-- 🔴 10-26 21:30 KST — Revvity, Inc. 실적 발표 (RVTY)
-- 🔴 10-26 21:30 KST — Keurig Dr Pepper Inc. 실적 발표 (KDP)
-- 🔴 10-27 05:00 KST — Arch Capital Group Ltd. 실적 발표 (ACGL)
-- 🔴 10-27 05:00 KST — Universal Health Services, Inc. 실적 발표 (UHS)
+- 🔴 10-26 09:00 KST — Paychex, Inc. ex-dividend date (PAYX)
+- 🔴 10-26 21:30 KST — Verizon Communications Inc. earnings (VZ)
+- 🔴 10-26 21:30 KST — Revvity, Inc. earnings (RVTY)
+- 🔴 10-26 21:30 KST — Keurig Dr Pepper Inc. earnings (KDP)
+- 🔴 10-27 05:00 KST — Arch Capital Group Ltd. earnings (ACGL)
+- 🔴 10-27 05:00 KST — Universal Health Services, Inc. earnings (UHS)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
@@ -55,7 +55,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Financial Services, Crypto, Communication Services, and Consumer Cyclical sectors are showing strength, while Technology and Communication Services sectors are weaker. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The divergence between improving US equity sentiment and deteriorating crypto/Korean market trends is notable. Macro indicators show underlying strength in credit and liquidity, contrasting with bearish signals in commodities and bonds. The overall picture suggests caution, with sector strength concentrated in cyclical and financial names. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The divergence between improving US equity sentiment and deteriorating crypto/Korean market trends is notable. Macro indicators show underlying strength in credit and liquidity, contrasting with bearish signals in commodities and bonds. The overall picture suggests caution, with sector strength concentrated in cyclical and financial names. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

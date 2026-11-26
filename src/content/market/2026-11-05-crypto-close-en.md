@@ -45,7 +45,7 @@ _Observation notes: most frequent regime shift in this market so far: sideways_b
 - **Sectors:** Strength is noted in the overall market structure, while specific areas like payments and exchanges are showing relative weakness, with Bitcoin maintaining dominance. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence: while credit and volatility suggest underlying stability, the extreme bearishness in commodities and the softening in crypto suggest significant underlying sector stress. The US market's improving bias offers some counter-balance, but the overall tape appears range-bound with notable sector divergence. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence: while credit and volatility suggest underlying stability, the extreme bearishness in commodities and the softening in crypto suggest significant underlying sector stress. The US market's improving bias offers some counter-balance, but the overall tape appears range-bound with notable sector divergence. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-11-02](/track-record/2026-11-02-weekly-hitrate-en/)

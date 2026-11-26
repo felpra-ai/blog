@@ -33,25 +33,25 @@ altLang: ko
 ### This week's calendar
 
 - 🔴 08-11 21:30 KST — US CPI Release
-- 🔴 08-12 15:00 KST — SamsungF&MIns 실적 발표 (000810)
-- 🔴 08-13 15:00 KST — LG Corp. 실적 발표 (003550)
-- 🔴 08-13 15:00 KST — Hyundai M&F INS 실적 발표 (001450)
-- 🔴 08-13 15:00 KST — Nongshim 실적 발표 (004370)
-- 🔴 08-13 15:00 KST — SamsungF&MIns 실적 발표 (000810)
+- 🔴 08-12 15:00 KST — SamsungF&MIns earnings (000810)
+- 🔴 08-13 15:00 KST — LG Corp. earnings (003550)
+- 🔴 08-13 15:00 KST — Hyundai M&F INS earnings (001450)
+- 🔴 08-13 15:00 KST — Nongshim earnings (004370)
+- 🔴 08-13 15:00 KST — SamsungF&MIns earnings (000810)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (61 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.26) — only 4 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains elevated with a clear bearish tilt across the board. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="러블" />
-- **Bsho(Bonds):** The bond market exhibits a bullish bias, while credit conditions are registering as neutral. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements show a bearish leaning, coupled with significantly bearish liquidity readings. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are currently in a neutral state, with a slight bullish lean observed. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities display an extreme bullish reading, with utilities, industrials, materials, and IT media showing strength. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="코숏" />
+- **Lovble(Global):** Volatility remains elevated with a clear bearish tilt across the board. <img class="emoji-char" src="/characters/news/10_suspicious.png" alt="Lovble" />
+- **Bsho(Bonds):** The bond market exhibits a bullish bias, while credit conditions are registering as neutral. <img class="emoji-char" src="/characters/bond/06_neutral.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements show a bearish leaning, coupled with significantly bearish liquidity readings. <img class="emoji-char" src="/characters/forex/10_suspicious.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are currently in a neutral state, with a slight bullish lean observed. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities display an extreme bullish reading, with utilities, industrials, materials, and IT media showing strength. <img class="emoji-char" src="/characters/kr/07_confident.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence: bonds and commodities show underlying support, while liquidity and FX point toward caution. The contrast between the extreme bullish reading in Korean equities and the bearish signals in liquidity suggests sector-specific strength is currently decoupled from broader systemic conditions. The market appears to be navigating differing directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence: bonds and commodities show underlying support, while liquidity and FX point toward caution. The contrast between the extreme bullish reading in Korean equities and the bearish signals in liquidity suggests sector-specific strength is currently decoupled from broader systemic conditions. The market appears to be navigating differing directional signals across asset classes. <img class="emoji-char" src="/characters/orchestrator/07_confident.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-08-10](/track-record/2026-08-10-weekly-hitrate-en/)

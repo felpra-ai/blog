@@ -46,7 +46,7 @@ _Observation notes: most frequent regime shift in this market so far: bearish â†
 - **Sectors:** The gaming_nft and defi sectors are showing strength, while the overall market dominance remains concentrated in btc. :sectors:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The data presents a divergence where fixed income indicators are strongly positive, contrasting with bearish readings in credit and the US equity structure. The crypto space mirrors this caution with a sideways-bearish posture. Overall, the market exhibits mixed signals, suggesting caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="ë²”" />
+**Beom(Chair):** The data presents a divergence where fixed income indicators are strongly positive, contrasting with bearish readings in credit and the US equity structure. The crypto space mirrors this caution with a sideways-bearish posture. Overall, the market exhibits mixed signals, suggesting caution is warranted across asset classes. <img class="emoji-char" src="/characters/orchestrator/10_suspicious.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-05](/track-record/2026-10-05-weekly-hitrate-en/)

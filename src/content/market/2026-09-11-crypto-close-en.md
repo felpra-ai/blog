@@ -46,7 +46,7 @@ _Observation notes: most frequent regime shift in this market so far: extreme_be
 - **Commodities:** Commodities show a bullish reading, though the bearish component remains significant. :commodities:
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The data presents a mixed picture: macro indicators show significant divergence between volatility and credit, while the US market trend is deteriorating despite positive signals in commodities and crypto's improving trend. The overall picture suggests caution amidst conflicting signals. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The data presents a mixed picture: macro indicators show significant divergence between volatility and credit, while the US market trend is deteriorating despite positive signals in commodities and crypto's improving trend. The overall picture suggests caution amidst conflicting signals. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-07](/track-record/2026-09-07-weekly-hitrate-en/)

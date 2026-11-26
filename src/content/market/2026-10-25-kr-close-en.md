@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 10-26 15:00 KST — BNK Financial Group 실적 발표 (138930)
-- 🔴 10-26 15:00 KST — POSCO Holdings 실적 발표 (005490)
-- 🔴 10-26 15:00 KST — HANMISemi 실적 발표 (042700)
-- 🔴 10-26 15:00 KST — SKBS 실적 발표 (302440)
-- 🔴 10-26 15:00 KST — NHIS 실적 발표 (005940)
-- 🔴 10-26 15:00 KST — Hanwha Ocean 실적 발표 (042660)
+- 🔴 10-26 15:00 KST — BNK Financial Group earnings (138930)
+- 🔴 10-26 15:00 KST — POSCO Holdings earnings (005490)
+- 🔴 10-26 15:00 KST — HANMISemi earnings (042700)
+- 🔴 10-26 15:00 KST — SKBS earnings (302440)
+- 🔴 10-26 15:00 KST — NHIS earnings (005940)
+- 🔴 10-26 15:00 KST — Hanwha Ocean earnings (042660)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: neutral → sideways_bearish (62 times observed) · macro cross-correlation watch: bonds leads forex by 1d (ρ=+0.23) — only 6 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility readings show a strong bullish bias, while the overall trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Credit indicators suggest a sideways bias leaning towards bullishness, with stable trends observed. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements indicate a neutral stance, with a slight leaning towards bearish sentiment. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodity indicators reflect an extreme bearish reading, maintaining a stable trend. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Kosho(KR):** Korean equities show a bearish reading with a deteriorating trend, while consumer sectors are noted as strong. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="코숏" />
+- **Lovble(Global):** Volatility readings show a strong bullish bias, while the overall trend remains stable. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit indicators suggest a sideways bias leaning towards bullishness, with stable trends observed. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements indicate a neutral stance, with a slight leaning towards bearish sentiment. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodity indicators reflect an extreme bearish reading, maintaining a stable trend. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Kosho(KR):** Korean equities show a bearish reading with a deteriorating trend, while consumer sectors are noted as strong. <img class="emoji-char" src="/characters/kr/08_defensive.png" alt="Kosho" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The US market exhibits a bullish reading with an improving trend, contrasting with the bearish and deteriorating trend noted in Korean equities. While liquidity and credit show positive leanings, the extreme bearishness in commodities and the bearish tilt in crypto suggest caution across asset classes. The overall picture points to divergent sector strength against broader macro headwinds. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="범" />
+**Beom(Chair):** The US market exhibits a bullish reading with an improving trend, contrasting with the bearish and deteriorating trend noted in Korean equities. While liquidity and credit show positive leanings, the extreme bearishness in commodities and the bearish tilt in crypto suggest caution across asset classes. The overall picture points to divergent sector strength against broader macro headwinds. <img class="emoji-char" src="/characters/orchestrator/08_defensive.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-10-19](/track-record/2026-10-19-weekly-hitrate-en/)

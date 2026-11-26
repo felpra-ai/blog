@@ -32,26 +32,26 @@ altLang: ko
 
 ### This week's calendar
 
-- 🔴 09-17 09:00 KST — VICI Properties Inc. 배당락일 (VICI)
-- 🔴 09-17 09:00 KST — Huntington Bancshares Incorpora 배당락일 (HBAN)
-- 🔴 09-17 09:00 KST — Best Buy Co., Inc. 배당락일 (BBY)
-- 🔴 09-17 09:00 KST — Hewlett Packard Enterprise Comp 배당락일 (HPE)
-- 🔴 09-17 09:00 KST — Royal Caribbean Cruises Ltd. 배당락일 (RCL)
-- 🔴 09-17 09:00 KST — Salesforce, Inc. 배당락일 (CRM)
+- 🔴 09-17 09:00 KST — VICI Properties Inc. ex-dividend date (VICI)
+- 🔴 09-17 09:00 KST — Huntington Bancshares Incorpora ex-dividend date (HBAN)
+- 🔴 09-17 09:00 KST — Best Buy Co., Inc. ex-dividend date (BBY)
+- 🔴 09-17 09:00 KST — Hewlett Packard Enterprise Comp ex-dividend date (HPE)
+- 🔴 09-17 09:00 KST — Royal Caribbean Cruises Ltd. ex-dividend date (RCL)
+- 🔴 09-17 09:00 KST — Salesforce, Inc. ex-dividend date (CRM)
 
 _Public calendar sources (BLS, Fed, exchanges via yfinance) — schedule, not a signal._
 
 _Observation notes: most frequent regime shift in this market so far: sideways_bullish → sideways_bearish (55 times observed) · macro cross-correlation watch: forex leads vix by 1d (ρ=+0.27) — only 2 of 210 tested pairs are significant (no multiple-comparison correction); weak, observational only_
 
 ## Desk panel
-- **Lovble(Global):** Volatility remains elevated with a strong bullish bias, while the underlying trend shows stability. <img class="emoji-char" src="/characters/news/07_confident.png" alt="러블" />
-- **Bsho(Bonds):** Credit conditions are registering an extreme bearish reading, while the bond market shows an equal split between bullish and bearish sentiment. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange movements indicate a bullish leaning, with the trend showing signs of improvement. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities are exhibiting a sideways bias with a slight bullish tilt, and inflation readings are strongly bearish. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="노웰" />
-- **Maine(US):** US equities are showing a neutral stance with an improving trend, while the Energy sector is noted as strong, contrasting with weakness in Real Estate, UTILITIES, and Consumer Cyclical. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="멘쿤" />
+- **Lovble(Global):** Volatility remains elevated with a strong bullish bias, while the underlying trend shows stability. <img class="emoji-char" src="/characters/news/07_confident.png" alt="Lovble" />
+- **Bsho(Bonds):** Credit conditions are registering an extreme bearish reading, while the bond market shows an equal split between bullish and bearish sentiment. <img class="emoji-char" src="/characters/bond/10_suspicious.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange movements indicate a bullish leaning, with the trend showing signs of improvement. <img class="emoji-char" src="/characters/forex/06_neutral.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities are exhibiting a sideways bias with a slight bullish tilt, and inflation readings are strongly bearish. <img class="emoji-char" src="/characters/commodity/10_suspicious.png" alt="Nowel" />
+- **Maine(US):** US equities are showing a neutral stance with an improving trend, while the Energy sector is noted as strong, contrasting with weakness in Real Estate, UTILITIES, and Consumer Cyclical. <img class="emoji-char" src="/characters/us/12_relieved.png" alt="Maine" />
 
 ## Cross-market & Beom's verdict
-**Beom(Chair):** The macro picture presents a divergence, with strong bullishness noted in volatility and FX, yet significant bearish pressure is evident across credit, inflation, and commodities. US equities are showing an improving trend amidst this backdrop, though crypto sentiment is deteriorating. Overall, the market structure suggests caution, balancing improving directional signals against deep underlying sector weakness. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="범" />
+**Beom(Chair):** The macro picture presents a divergence, with strong bullishness noted in volatility and FX, yet significant bearish pressure is evident across credit, inflation, and commodities. US equities are showing an improving trend amidst this backdrop, though crypto sentiment is deteriorating. Overall, the market structure suggests caution, balancing improving directional signals against deep underlying sector weakness. <img class="emoji-char" src="/characters/orchestrator/12_relieved.png" alt="Beom" />
 
 **Related**
 - Latest weekly track record: [2026-09-14](/track-record/2026-09-14-weekly-hitrate-en/)

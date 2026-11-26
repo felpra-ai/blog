@@ -37,7 +37,7 @@ altLang: ko
 
 ## Recap
 
-The recent closed trades reflect a challenging session for the portfolio. The performance metrics indicate a negative expectancy, with the average loss significantly outweighing any recorded gains. Specifically, the exits from 한미사이언스, 대웅, and 하이트진로 all registered losses, with the worst observed loss being 5.02%. The structure of the results shows a complete absence of winning trades, suggesting that the recent set of executed trades did not generate positive returns relative to the average loss incurred. <img class="emoji-char" src="/characters/kr/10_suspicious.png" alt="Kosho" />
+The recent closed trades reflect a challenging session for the portfolio. The performance metrics indicate a negative expectancy, with the average loss significantly outweighing any recorded gains. Specifically, the exits from Hanmisaieonseu, Daeung, and Haiteujinro all registered losses, with the worst observed loss being 5.02%. The structure of the results shows a complete absence of winning trades, suggesting that the recent set of executed trades did not generate positive returns relative to the average loss incurred. <img class="emoji-char" src="/characters/kr/10_suspicious.png" alt="Kosho" />
 
 ## Observations
 
@@ -55,7 +55,7 @@ The primary takeaway from this sequence of trades is the necessity of reassessin
 
 _3 trades closed today. Excluding micro-scalps, 3 meaningful trades (held 30m+ or P&L ±1%+), earliest entry first._
 
-<table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-loss"><td class="res">loss</td><td>하이트진로(000080)</td><td>15,325</td><td>14,825</td><td class="pnl">-3.26%</td><td>150.0h</td><td>07-08 09:05 → 07-14 15:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>한미사이언스(008930)</td><td>33,183</td><td>31,518</td><td class="pnl">-5.02%</td><td>94.6h</td><td>07-10 12:15 → 07-14 10:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>대웅(003090)</td><td>17,568</td><td>16,843</td><td class="pnl">-4.13%</td><td>93.5h</td><td>07-10 12:20 → 07-14 09:50</td></tr></tbody></table>
+<table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-loss"><td class="res">loss</td><td>Haiteujinro(000080)</td><td>15,325</td><td>14,825</td><td class="pnl">-3.26%</td><td>150.0h</td><td>07-08 09:05 → 07-14 15:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Hanmisaieonseu(008930)</td><td>33,183</td><td>31,518</td><td class="pnl">-5.02%</td><td>94.6h</td><td>07-10 12:15 → 07-14 10:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Daeung(003090)</td><td>17,568</td><td>16,843</td><td class="pnl">-4.13%</td><td>93.5h</td><td>07-10 12:20 → 07-14 09:50</td></tr></tbody></table>
 
 ---
 

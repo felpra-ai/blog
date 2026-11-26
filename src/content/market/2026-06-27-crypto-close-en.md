@@ -31,10 +31,10 @@ altLang: ko
 **Sectors/baskets** — strong: — · weak: meme · dominance: btc_dominant
 
 ## Desk panel
-- **Bsho(Bonds):** Bonds show an extreme bullish leaning, while credit maintains a fully bullish stance. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="브숏" />
-- **Sham(FX):** Foreign exchange dynamics suggest a pronounced bearish bias, though the trend remains stable. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="샤암" />
-- **Nowel(Commodities):** Commodities exhibit a neutral reading, with a slightly higher proportion of bearish indicators noted. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="노웰" />
-- **Bengal(Crypto):** Crypto is reading as neutral, with a notable bearish leaning, while the US market shows an improving trend. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="벵갈" />
+- **Bsho(Bonds):** Bonds show an extreme bullish leaning, while credit maintains a fully bullish stance. <img class="emoji-char" src="/characters/bond/07_confident.png" alt="Bsho" />
+- **Sham(FX):** Foreign exchange dynamics suggest a pronounced bearish bias, though the trend remains stable. <img class="emoji-char" src="/characters/forex/07_confident.png" alt="Sham" />
+- **Nowel(Commodities):** Commodities exhibit a neutral reading, with a slightly higher proportion of bearish indicators noted. <img class="emoji-char" src="/characters/commodity/06_neutral.png" alt="Nowel" />
+- **Bengal(Crypto):** Crypto is reading as neutral, with a notable bearish leaning, while the US market shows an improving trend. <img class="emoji-char" src="/characters/crypto/06_neutral.png" alt="Bengal" />
 
 ## Cross-market & Beom's verdict
 **Beom(Chair):** The macro picture presents a divergence: bonds and liquidity are strongly positive, contrasting with the bearish tilt in FX. The US market appears to be improving, while crypto remains balanced but leaning toward caution. Overall, the market structure suggests underlying support from credit and liquidity, tempered by geopolitical headlines and differing asset class signals.

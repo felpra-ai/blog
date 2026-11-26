@@ -41,8 +41,8 @@ images:
 
 | Name | × usual turnover | Day change |
 |---|---|---|
-| 현대무벡스 (319400) | 10.6× | -8.3% |
-| 스튜디오드래곤 (253450) | 10.6× | +1.8% |
+| Hyeondaemubekseu (319400) | 10.6× | -8.3% |
+| Seutyudiodeuraegon (253450) | 10.6× | +1.8% |
 
 _Rule: that day's turnover ÷ average of the prior 10 sessions. 2 of 322 names screened passed the threshold. Volume shows attention, not direction._
 
