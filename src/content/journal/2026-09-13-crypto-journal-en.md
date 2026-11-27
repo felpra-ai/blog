@@ -17,7 +17,7 @@ metrics:
   best_pct: 24.52
   worst_pct: -10.79
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.39
 ogImage: /characters/crypto/07_confident.png
 altUrl: /journal/2026-09-13-crypto-journal/
@@ -63,7 +63,7 @@ The current data set confirms the ability to generate positive expectancy across
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Mossland(MOC)</td><td>23.96</td><td>26.40</td><td class="pnl">+10.18%</td><td>45.5h</td><td>09-11 11:45 → 09-13 09:15</td></tr><tr class="t-win"><td class="res">win</td><td>LumiWave Protocol(LWP)</td><td>3.24</td><td>3.52</td><td class="pnl">+8.62%</td><td>49.0h</td><td>09-11 05:45 → 09-13 06:45</td></tr><tr class="t-win"><td class="res">win</td><td>Polymesh(POLYX)</td><td>48.29</td><td>52.34</td><td class="pnl">+8.39%</td><td>15.2h</td><td>09-12 17:45 → 09-13 09:00</td></tr><tr class="t-win"><td class="res">win</td><td>Pump.fun(PUMP)</td><td>4.87</td><td>5.28</td><td class="pnl">+8.33%</td><td>17.2h</td><td>09-12 09:15 → 09-13 02:30</td></tr><tr class="t-win"><td class="res">win</td><td>MovieBloc(MBL)</td><td>1.01</td><td>1.09</td><td class="pnl">+8.15%</td><td>25.0h</td><td>09-12 12:00 → 09-13 13:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>CONX(XPLA)</td><td>8.18</td><td>7.70</td><td class="pnl">-5.86%</td><td>1.8h</td><td>09-12 19:45 → 09-12 21:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>LeisureMeta(LM)</td><td>1.03</td><td>0.977</td><td class="pnl">-5.05%</td><td>27.8h</td><td>09-12 09:15 → 09-13 13:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Delysium(AGI)</td><td>7.12</td><td>6.80</td><td class="pnl">-4.54%</td><td>4.5h</td><td>09-12 22:45 → 09-13 03:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Block Street(BSB)</td><td>143.10</td><td>136.90</td><td class="pnl">-4.33%</td><td>0.8h</td><td>09-12 23:30 → 09-13 00:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Squid(QUID)</td><td>86.64</td><td>82.93</td><td class="pnl">-4.28%</td><td>25.0h</td><td>09-12 13:00 → 09-13 14:00</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -5.86% · P25 -3.04% · median +1.56% · P75 +3.08% · max +10.18%_
 
-**Full data** — all 738 closed trades: [CSV download](/data/journal/2026-09-13-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 738 closed trades: [CSV download](/data/journal/2026-09-13-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -5.86% · P25 -3.04% · median +1
 
 _As of 2026-09-13 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

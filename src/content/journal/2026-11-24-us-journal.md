@@ -17,7 +17,7 @@ metrics:
   best_pct: 23.76
   worst_pct: -5.27
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 2.69
 ogImage: /og/journal/2026-11-24-us-journal--us--07_confident.jpg
 altUrl: /journal/2026-11-24-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>코히런트(COHR)</td><td>186.00</td><td>230.20</td><td class="pnl">+23.76%</td><td>67.4h</td><td>11-21 04:20 → 11-23 23:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Marvell Technology, Inc.(MRVL)</td><td>122.80</td><td>141.70</td><td class="pnl">+15.39%</td><td>66.3h</td><td>11-21 05:25 → 11-23 23:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Seagate Technology Holdings PLC(STX)</td><td>465.10</td><td>523.10</td><td class="pnl">+12.47%</td><td>70.6h</td><td>11-21 01:10 → 11-23 23:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Western Digital Corporation(WDC)</td><td>265.20</td><td>297.60</td><td class="pnl">+12.22%</td><td>70.3h</td><td>11-21 01:25 → 11-23 23:45</td></tr><tr class="t-win"><td class="res">이익</td><td>KLA Corporation(KLAC)</td><td>126.60</td><td>141.30</td><td class="pnl">+11.61%</td><td>65.9h</td><td>11-21 05:50 → 11-23 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>UnitedHealth Group Incorporated(UNH)</td><td>341.70</td><td>323.70</td><td class="pnl">-5.27%</td><td>66.8h</td><td>11-21 05:00 → 11-23 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Humana Inc.(HUM)</td><td>394.80</td><td>376.00</td><td class="pnl">-4.76%</td><td>67.0h</td><td>11-21 04:45 → 11-23 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Monster Beverage Corporation(MNST)</td><td>44.63</td><td>42.96</td><td class="pnl">-3.74%</td><td>138.1h</td><td>11-18 05:40 → 11-23 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Genuine Parts Company(GPC)</td><td>122.00</td><td>117.90</td><td class="pnl">-3.36%</td><td>69.1h</td><td>11-21 02:40 → 11-23 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Constellation Brands, Inc.(STZ)</td><td>143.60</td><td>138.80</td><td class="pnl">-3.34%</td><td>117.8h</td><td>11-19 02:00 → 11-23 23:45</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 174건 기준): 최소 -5.27% · P25 -1.02% · 중앙값 +0.06% · P75 +1.54% · 최대 +23.76%_
 
-**전체 데이터** — 마감 176건 전량: [CSV 다운로드](/data/journal/2026-11-24-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 176건 전량: [CSV 다운로드](/data/journal/2026-11-24-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 174건 기준): 최소 -5.27% · P25 -1.02% 
 
 _기준일: 2026-11-24 (KST) · as of 2026-11-24._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

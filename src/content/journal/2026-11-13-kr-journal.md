@@ -17,7 +17,7 @@ metrics:
   best_pct: 20.67
   worst_pct: -10.43
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.39
 ogImage: /characters/v2/kr/07_confident.png
 altUrl: /journal/2026-11-13-kr-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>가온칩스(399720)</td><td>29,680</td><td>35,814</td><td class="pnl">+20.67%</td><td>18.7h</td><td>11-12 14:30 → 11-13 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>ISC(095340)</td><td>142,142</td><td>155,344</td><td class="pnl">+9.29%</td><td>18.4h</td><td>11-12 14:50 → 11-13 09:15</td></tr><tr class="t-win"><td class="res">이익</td><td>선익시스템(171090)</td><td>71,672</td><td>78,322</td><td class="pnl">+9.28%</td><td>44.0h</td><td>11-11 13:15 → 11-13 09:15</td></tr><tr class="t-win"><td class="res">이익</td><td>레인보우로보틱스(277810)</td><td>349,849</td><td>380,619</td><td class="pnl">+8.80%</td><td>20.3h</td><td>11-12 12:55 → 11-13 09:15</td></tr><tr class="t-win"><td class="res">이익</td><td>루닛(328130)</td><td>13,413</td><td>14,585</td><td class="pnl">+8.74%</td><td>20.5h</td><td>11-12 12:45 → 11-13 09:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>큐리옥스바이오시스템즈(445680)</td><td>59,559</td><td>53,347</td><td class="pnl">-10.43%</td><td>22.4h</td><td>11-12 10:45 → 11-13 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>한국전력(015760)</td><td>30,631</td><td>27,872</td><td class="pnl">-9.01%</td><td>23.9h</td><td>11-12 09:15 → 11-13 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>SFA(056190)</td><td>26,526</td><td>24,476</td><td class="pnl">-7.73%</td><td>23.6h</td><td>11-12 09:35 → 11-13 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>펄어비스(263750)</td><td>30,631</td><td>28,771</td><td class="pnl">-6.07%</td><td>19.4h</td><td>11-12 13:45 → 11-13 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>태성(323280)</td><td>51,351</td><td>49,351</td><td class="pnl">-3.89%</td><td>2.6h</td><td>11-13 09:20 → 11-13 11:55</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -10.43% · P25 +0.03% · 중앙값 +2.80% · P75 +3.69% · 최대 +20.67%_
 
-**전체 데이터** — 마감 521건 전량: [CSV 다운로드](/data/journal/2026-11-13-kr.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 521건 전량: [CSV 다운로드](/data/journal/2026-11-13-kr.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -10.43% · P25 +0.03%
 
 _기준일: 2026-11-13 (KST) · as of 2026-11-13._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

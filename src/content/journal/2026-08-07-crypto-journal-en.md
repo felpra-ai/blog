@@ -17,7 +17,7 @@ metrics:
   best_pct: 26.13
   worst_pct: -12.2
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.0
 ogImage: /characters/crypto/05_anxious.png
 altUrl: /journal/2026-08-07-crypto-journal/
@@ -63,7 +63,7 @@ The pattern observed in the losses suggests that when trades encounter resistanc
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Zircuit(ZRC)</td><td>1.19</td><td>1.51</td><td class="pnl">+26.13%</td><td>9.5h</td><td>08-06 14:45 → 08-07 00:15</td></tr><tr class="t-win"><td class="res">win</td><td>Fusionist(ACE)</td><td>134.10</td><td>167.80</td><td class="pnl">+25.13%</td><td>1.2h</td><td>08-06 23:15 → 08-07 00:30</td></tr><tr class="t-win"><td class="res">win</td><td>Biconomy(BICO)</td><td>52.25</td><td>61.63</td><td class="pnl">+17.95%</td><td>1.2h</td><td>08-07 00:15 → 08-07 01:30</td></tr><tr class="t-win"><td class="res">win</td><td>Kamino(KMNO)</td><td>25.49</td><td>29.68</td><td class="pnl">+16.44%</td><td>41.0h</td><td>08-05 18:30 → 08-07 11:30</td></tr><tr class="t-win"><td class="res">win</td><td>Biconomy(BICO)</td><td>43.53</td><td>49.23</td><td class="pnl">+13.09%</td><td>0.5h</td><td>08-06 22:15 → 08-06 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>ZEROBASE(ZBT)</td><td>229.20</td><td>207.80</td><td class="pnl">-9.34%</td><td>0.8h</td><td>08-06 22:15 → 08-06 23:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Hashflow(HFT)</td><td>44.44</td><td>40.43</td><td class="pnl">-9.02%</td><td>0.5h</td><td>08-06 23:00 → 08-06 23:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Hashflow(HFT)</td><td>42.60</td><td>39.19</td><td class="pnl">-8.00%</td><td>0.5h</td><td>08-06 23:45 → 08-07 00:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Checkmate(CHECK)</td><td>26.44</td><td>24.45</td><td class="pnl">-7.53%</td><td>16.8h</td><td>08-06 13:30 → 08-07 06:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Cysic(CYS)</td><td>1,178</td><td>1,099</td><td class="pnl">-6.71%</td><td>3.0h</td><td>08-06 21:15 → 08-07 00:15</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -9.34% · P25 -3.14% · median +0.25% · P75 +2.48% · max +26.13%_
 
-**Full data** — all 791 closed trades: [CSV download](/data/journal/2026-08-07-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 791 closed trades: [CSV download](/data/journal/2026-08-07-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -9.34% · P25 -3.14% · median +0
 
 _As of 2026-08-07 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

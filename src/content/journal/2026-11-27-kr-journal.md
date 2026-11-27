@@ -17,7 +17,7 @@ metrics:
   best_pct: 19.05
   worst_pct: -4.14
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 7.35
 ogImage: /og/journal/2026-11-27-kr-journal--kr--09_excited.jpg
 altUrl: /journal/2026-11-27-kr-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>유진로봇(056080)</td><td>8,719</td><td>10,380</td><td class="pnl">+19.05%</td><td>17.8h</td><td>11-26 15:20 → 11-27 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>클로봇(466100)</td><td>18,138</td><td>21,329</td><td class="pnl">+17.59%</td><td>17.8h</td><td>11-26 15:20 → 11-27 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>디앤디파마텍(347850)</td><td>36,486</td><td>40,460</td><td class="pnl">+10.89%</td><td>17.7h</td><td>11-26 15:30 → 11-27 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>인텔리안테크(189300)</td><td>46,847</td><td>51,748</td><td class="pnl">+10.46%</td><td>23.9h</td><td>11-26 09:40 → 11-27 09:35</td></tr><tr class="t-win"><td class="res">이익</td><td>보로노이(310210)</td><td>139,439</td><td>152,947</td><td class="pnl">+9.69%</td><td>18.2h</td><td>11-26 15:00 → 11-27 09:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>한국콜마(161890)</td><td>131,732</td><td>126,274</td><td class="pnl">-4.14%</td><td>18.2h</td><td>11-26 15:10 → 11-27 09:25</td></tr><tr class="t-loss"><td class="res">손실</td><td>코스맥스(192820)</td><td>335,835</td><td>322,178</td><td class="pnl">-4.07%</td><td>18.2h</td><td>11-26 14:55 → 11-27 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>브이엠(089970)</td><td>34,384</td><td>33,017</td><td class="pnl">-3.98%</td><td>21.1h</td><td>11-26 12:10 → 11-27 09:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>선익시스템(171090)</td><td>74,174</td><td>71,428</td><td class="pnl">-3.70%</td><td>18.8h</td><td>11-26 15:05 → 11-27 09:55</td></tr><tr class="t-loss"><td class="res">손실</td><td>두산(000150)</td><td>545,545</td><td>525,474</td><td class="pnl">-3.68%</td><td>23.4h</td><td>11-26 09:55 → 11-27 09:20</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 250건 기준): 최소 -4.14% · P25 +0.23% · 중앙값 +2.59% · P75 +7.35% · 최대 +19.05%_
 
-**전체 데이터** — 마감 307건 전량: [CSV 다운로드](/data/journal/2026-11-27-kr.csv) · 또는 [OneQAZ MCP](https://github.com/oneqaz-trading/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 307건 전량: [CSV 다운로드](/data/journal/2026-11-27-kr.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 250건 기준): 최소 -4.14% · P25 +0.23% 
 
 _기준일: 2026-11-27 (KST) · as of 2026-11-27._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/oneqaz-trading/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

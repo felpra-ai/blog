@@ -17,7 +17,7 @@ metrics:
   best_pct: 22.23
   worst_pct: -14.26
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 2.46
 ogImage: /characters/crypto/09_excited.png
 altUrl: /journal/2026-09-21-crypto-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>리퀘스트(REQ)</td><td>75.14</td><td>86.67</td><td class="pnl">+15.34%</td><td>3.8h</td><td>09-20 20:15 → 09-21 00:00</td></tr><tr class="t-win"><td class="res">이익</td><td>마스크네트워크(MASK)</td><td>628.60</td><td>698.30</td><td class="pnl">+11.09%</td><td>42.8h</td><td>09-19 14:00 → 09-21 08:45</td></tr><tr class="t-win"><td class="res">이익</td><td>크라토스(CRTS)</td><td>0.0832</td><td>0.0924</td><td class="pnl">+11.06%</td><td>4.5h</td><td>09-20 19:00 → 09-20 23:30</td></tr><tr class="t-win"><td class="res">이익</td><td>캠프네트워크(CAMP)</td><td>0.5676</td><td>0.6167</td><td class="pnl">+8.65%</td><td>10.0h</td><td>09-20 14:00 → 09-21 00:00</td></tr><tr class="t-win"><td class="res">이익</td><td>제타체인(ZETA)</td><td>52.58</td><td>56.94</td><td class="pnl">+8.29%</td><td>23.0h</td><td>09-20 13:00 → 09-21 12:00</td></tr><tr class="t-loss"><td class="res">손실</td><td>엘리시아(EL)</td><td>2.25</td><td>2.15</td><td class="pnl">-4.53%</td><td>18.5h</td><td>09-20 15:15 → 09-21 09:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>엣지엑스(EDGEX)</td><td>771.80</td><td>737.30</td><td class="pnl">-4.47%</td><td>4.8h</td><td>09-20 20:00 → 09-21 00:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>플라즈마(XPL)</td><td>123.10</td><td>117.90</td><td class="pnl">-4.22%</td><td>10.2h</td><td>09-20 12:00 → 09-20 22:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>캐스퍼(CSPR)</td><td>3.81</td><td>3.65</td><td class="pnl">-4.15%</td><td>21.2h</td><td>09-20 02:45 → 09-21 00:00</td></tr><tr class="t-loss"><td class="res">손실</td><td>싸이식(CYS)</td><td>213.20</td><td>204.80</td><td class="pnl">-3.94%</td><td>3.5h</td><td>09-20 19:00 → 09-20 22:30</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -4.53% · P25 +0.38% · 중앙값 +2.54% · P75 +3.22% · 최대 +15.34%_
 
-**전체 데이터** — 마감 988건 전량: [CSV 다운로드](/data/journal/2026-09-21-crypto.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 988건 전량: [CSV 다운로드](/data/journal/2026-09-21-crypto.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -4.53% · P25 +0.38% 
 
 _기준일: 2026-09-21 (KST) · as of 2026-09-21._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

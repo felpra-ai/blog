@@ -17,7 +17,7 @@ metrics:
   best_pct: 30.4
   worst_pct: -7.57
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 6.57
 ogImage: /characters/kr/09_excited.png
 altUrl: /journal/2026-07-31-kr-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>삼성전기(009150)</td><td>874,874</td><td>1,140,858</td><td class="pnl">+30.40%</td><td>19.2h</td><td>07-30 14:35 → 07-31 09:50</td></tr><tr class="t-win"><td class="res">이익</td><td>SK스퀘어(402340)</td><td>794,794</td><td>1,029,969</td><td class="pnl">+29.59%</td><td>21.4h</td><td>07-30 12:15 → 07-31 09:40</td></tr><tr class="t-win"><td class="res">이익</td><td>엘티씨(170920)</td><td>26,577</td><td>34,366</td><td class="pnl">+29.31%</td><td>19.0h</td><td>07-30 14:50 → 07-31 09:50</td></tr><tr class="t-win"><td class="res">이익</td><td>티에스이(131290)</td><td>148,749</td><td>186,014</td><td class="pnl">+25.05%</td><td>21.6h</td><td>07-30 12:15 → 07-31 09:50</td></tr><tr class="t-win"><td class="res">이익</td><td>효성중공업(298040)</td><td>1,860,859</td><td>2,312,685</td><td class="pnl">+24.28%</td><td>18.8h</td><td>07-30 14:55 → 07-31 09:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>삼양식품(003230)</td><td>1,246,245</td><td>1,151,847</td><td class="pnl">-7.57%</td><td>22.0h</td><td>07-30 11:50 → 07-31 09:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>영원무역홀딩스(009970)</td><td>204,704</td><td>193,107</td><td class="pnl">-5.67%</td><td>20.7h</td><td>07-30 13:00 → 07-31 09:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>파마리서치(214450)</td><td>349,349</td><td>329,670</td><td class="pnl">-5.63%</td><td>21.9h</td><td>07-30 11:45 → 07-31 09:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>대한유화(006650)</td><td>90,090</td><td>85,115</td><td class="pnl">-5.52%</td><td>24.2h</td><td>07-30 09:40 → 07-31 09:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>현대건설(000720)</td><td>91,591</td><td>86,713</td><td class="pnl">-5.33%</td><td>2.9h</td><td>07-31 10:00 → 07-31 12:55</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 282건 기준): 최소 -7.57% · P25 +0.50% · 중앙값 +3.30% · P75 +8.04% · 최대 +30.40%_
 
-**전체 데이터** — 마감 315건 전량: [CSV 다운로드](/data/journal/2026-07-31-kr.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 315건 전량: [CSV 다운로드](/data/journal/2026-07-31-kr.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 282건 기준): 최소 -7.57% · P25 +0.50% 
 
 _기준일: 2026-07-31 (KST) · as of 2026-07-31._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

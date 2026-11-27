@@ -17,7 +17,7 @@ metrics:
   best_pct: 8.94
   worst_pct: -12.94
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.94
 ogImage: /og/journal/2026-11-25-us-journal-en--us--06_neutral.jpg
 altUrl: /journal/2026-11-25-us-journal/
@@ -55,7 +55,7 @@ The heaviest losses came from a particular kind of name. Sandisk fell -12.94%, a
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Agilent Technologies, Inc.(A)</td><td>171.20</td><td>186.50</td><td class="pnl">+8.94%</td><td>93.7h</td><td>11-21 02:05 → 11-24 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>Dollar Tree, Inc.(DLTR)</td><td>141.00</td><td>152.90</td><td class="pnl">+8.44%</td><td>118.2h</td><td>11-20 01:35 → 11-24 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>Vertex Pharmaceuticals Incorpor(VRTX)</td><td>518.70</td><td>560.30</td><td class="pnl">+8.02%</td><td>114.2h</td><td>11-20 05:35 → 11-24 23:50</td></tr><tr class="t-win"><td class="res">win</td><td>Zimmer Biomet Holdings, Inc.(ZBH)</td><td>101.20</td><td>109.30</td><td class="pnl">+8.00%</td><td>90.8h</td><td>11-21 05:35 → 11-25 00:20</td></tr><tr class="t-win"><td class="res">win</td><td>Deckers Outdoor Corporation(DECK)</td><td>79.47</td><td>85.10</td><td class="pnl">+7.08%</td><td>27.2h</td><td>11-23 23:50 → 11-25 03:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Sandisk Corporation(SNDK)</td><td>91.03</td><td>79.25</td><td class="pnl">-12.94%</td><td>23.9h</td><td>11-23 23:50 → 11-24 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Everpure, Inc.(P)</td><td>102.60</td><td>93.75</td><td class="pnl">-8.63%</td><td>23.9h</td><td>11-23 23:50 → 11-24 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Bloom Energy Corporation(BE)</td><td>167.60</td><td>154.70</td><td class="pnl">-7.70%</td><td>23.9h</td><td>11-23 23:50 → 11-24 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Western Digital Corporation(WDC)</td><td>297.60</td><td>279.30</td><td class="pnl">-6.15%</td><td>23.9h</td><td>11-23 23:50 → 11-24 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>NVIDIA Corporation(NVDA)</td><td>163.80</td><td>154.30</td><td class="pnl">-5.80%</td><td>23.9h</td><td>11-23 23:50 → 11-24 23:45</td></tr></tbody></table>
 _P&L distribution (142 meaningful trades): min -12.94% · P25 -1.64% · median +0.36% · P75 +1.55% · max +8.94%_
 
-**Full data** — all 172 closed trades: [CSV download](/data/journal/2026-11-25-us.csv) · or query live via [OneQAZ MCP](https://github.com/oneqaz-trading/oneqaz-trading-mcp).
+**Full data** — all 172 closed trades: [CSV download](/data/journal/2026-11-25-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _P&L distribution (142 meaningful trades): min -12.94% · P25 -1.64% · median +
 
 _As of 2026-11-25 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/oneqaz-trading/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

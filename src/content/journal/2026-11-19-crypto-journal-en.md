@@ -17,7 +17,7 @@ metrics:
   best_pct: 17.02
   worst_pct: -6.77
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.75
 ogImage: /og/journal/2026-11-19-crypto-journal-en--crypto--08_defensive.jpg
 altUrl: /journal/2026-11-19-crypto-journal/
@@ -53,7 +53,7 @@ The losers sat in a tight band. ZEST, MOCA and BLUE each gave back more than 4.5
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>ThetaDrop(TDROP)</td><td>0.4313</td><td>0.5047</td><td class="pnl">+17.02%</td><td>13.0h</td><td>11-18 11:00 → 11-19 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>AVAIL</td><td>1.96</td><td>2.29</td><td class="pnl">+16.74%</td><td>3.5h</td><td>11-18 20:30 → 11-19 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>VERONA</td><td>116.10</td><td>129.90</td><td class="pnl">+11.89%</td><td>7.0h</td><td>11-18 17:00 → 11-19 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>MetaDAO(META2)</td><td>4,193</td><td>4,612</td><td class="pnl">+9.99%</td><td>45.2h</td><td>11-17 02:15 → 11-18 23:30</td></tr><tr class="t-win"><td class="res">win</td><td>Huma Finance(HUMA)</td><td>9.73</td><td>10.69</td><td class="pnl">+9.81%</td><td>9.8h</td><td>11-18 14:30 → 11-19 00:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Zest Protocol(ZEST)</td><td>152.20</td><td>141.90</td><td class="pnl">-6.77%</td><td>36.8h</td><td>11-18 04:15 → 11-19 17:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Moca Network(MOCA)</td><td>9.56</td><td>9.10</td><td class="pnl">-4.77%</td><td>0.2h</td><td>11-18 21:45 → 11-18 22:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Bluefin(BLUE)</td><td>9.00</td><td>8.59</td><td class="pnl">-4.54%</td><td>17.0h</td><td>11-18 15:30 → 11-19 08:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Rocket Pool(RPL)</td><td>1,662</td><td>1,589</td><td class="pnl">-4.39%</td><td>30.0h</td><td>11-18 01:45 → 11-19 07:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Delysium(AGI)</td><td>4.50</td><td>4.30</td><td class="pnl">-4.38%</td><td>30.0h</td><td>11-18 10:15 → 11-19 16:15</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -6.77% · P25 -3.41% · median -3.09% · P75 +0.61% · max +17.02%_
 
-**Full data** — all 797 closed trades: [CSV download](/data/journal/2026-11-19-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 797 closed trades: [CSV download](/data/journal/2026-11-19-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -62,9 +62,9 @@ _P&L distribution (300 meaningful trades): min -6.77% · P25 -3.41% · median -3
 
 _As of 2026-11-19 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

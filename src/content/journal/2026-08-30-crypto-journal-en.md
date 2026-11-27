@@ -17,7 +17,7 @@ metrics:
   best_pct: 16.36
   worst_pct: -7.65
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.34
 ogImage: /characters/crypto/07_confident.png
 altUrl: /journal/2026-08-30-crypto-journal/
@@ -63,7 +63,7 @@ The trades that resulted in losses, particularly those on BTR and HNT, suggest t
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Cratos(CRTS)</td><td>0.0715</td><td>0.0832</td><td class="pnl">+16.36%</td><td>3.0h</td><td>08-29 21:00 → 08-30 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>ThetaDrop(TDROP)</td><td>0.5843</td><td>0.6457</td><td class="pnl">+10.51%</td><td>32.8h</td><td>08-29 00:45 → 08-30 09:30</td></tr><tr class="t-win"><td class="res">win</td><td>Bitrue Coin(BTR)</td><td>265.30</td><td>292.70</td><td class="pnl">+10.33%</td><td>0.2h</td><td>08-29 21:30 → 08-29 21:45</td></tr><tr class="t-win"><td class="res">win</td><td>Audius(AUDIO)</td><td>17.93</td><td>19.78</td><td class="pnl">+10.32%</td><td>27.0h</td><td>08-28 19:00 → 08-29 22:00</td></tr><tr class="t-win"><td class="res">win</td><td>dKargo(DKA)</td><td>4.75</td><td>5.19</td><td class="pnl">+9.38%</td><td>12.5h</td><td>08-29 20:30 → 08-30 09:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Bitrue Coin(BTR)</td><td>295.30</td><td>272.70</td><td class="pnl">-7.65%</td><td>0.8h</td><td>08-29 22:15 → 08-29 23:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Contentos(COS)</td><td>0.3782</td><td>0.3599</td><td class="pnl">-4.84%</td><td>1.0h</td><td>08-29 22:30 → 08-29 23:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Helium(HNT)</td><td>544.50</td><td>518.50</td><td class="pnl">-4.78%</td><td>0.0h</td><td>08-29 22:15 → 08-29 22:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Osmosis(OSMO)</td><td>48.78</td><td>46.62</td><td class="pnl">-4.43%</td><td>41.8h</td><td>08-28 13:45 → 08-30 07:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Helium(HNT)</td><td>523.50</td><td>500.50</td><td class="pnl">-4.39%</td><td>1.0h</td><td>08-29 22:45 → 08-29 23:45</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -7.65% · P25 -0.90% · median +0.92% · P75 +2.81% · max +16.36%_
 
-**Full data** — all 801 closed trades: [CSV download](/data/journal/2026-08-30-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 801 closed trades: [CSV download](/data/journal/2026-08-30-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -7.65% · P25 -0.90% · median +0
 
 _As of 2026-08-30 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

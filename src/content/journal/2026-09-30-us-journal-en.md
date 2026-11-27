@@ -17,7 +17,7 @@ metrics:
   best_pct: 8.46
   worst_pct: -4.92
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.37
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-09-30-us-journal/
@@ -61,7 +61,7 @@ The data indicates that the frequency of losing trades relative to winning trade
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Lumentum Holdings Inc.(LITE)</td><td>910.40</td><td>987.40</td><td class="pnl">+8.46%</td><td>24.2h</td><td>09-28 23:25 → 09-29 23:35</td></tr><tr class="t-win"><td class="res">win</td><td>Oracle Corporation(ORCL)</td><td>132.60</td><td>141.40</td><td class="pnl">+6.64%</td><td>23.9h</td><td>09-29 00:10 → 09-30 00:05</td></tr><tr class="t-win"><td class="res">win</td><td>Applied Materials, Inc.(AMAT)</td><td>474.80</td><td>504.90</td><td class="pnl">+6.34%</td><td>22.9h</td><td>09-29 00:10 → 09-29 23:05</td></tr><tr class="t-win"><td class="res">win</td><td>Teradyne, Inc.(TER)</td><td>388.00</td><td>409.30</td><td class="pnl">+5.49%</td><td>23.2h</td><td>09-29 00:20 → 09-29 23:35</td></tr><tr class="t-win"><td class="res">win</td><td>Lam Research Corporation(LRCX)</td><td>307.90</td><td>324.30</td><td class="pnl">+5.33%</td><td>23.4h</td><td>09-29 00:20 → 09-29 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>United Rentals, Inc.(URI)</td><td>1,041</td><td>989.80</td><td class="pnl">-4.92%</td><td>140.4h</td><td>09-24 04:10 → 09-30 00:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>EQT Corporation(EQT)</td><td>51.39</td><td>49.01</td><td class="pnl">-4.63%</td><td>143.6h</td><td>09-23 23:10 → 09-29 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Equifax, Inc.(EFX)</td><td>145.70</td><td>139.20</td><td class="pnl">-4.46%</td><td>23.8h</td><td>09-28 22:55 → 09-29 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Occidental Petroleum Corporatio(OXY)</td><td>57.50</td><td>55.02</td><td class="pnl">-4.31%</td><td>138.4h</td><td>09-24 04:20 → 09-29 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Expand Energy Corporation(EXE)</td><td>87.41</td><td>83.75</td><td class="pnl">-4.19%</td><td>164.8h</td><td>09-23 02:00 → 09-29 22:45</td></tr></tbody></table>
 _P&L distribution (170 meaningful trades): min -4.92% · P25 -3.12% · median -0.80% · P75 +0.32% · max +8.46%_
 
-**Full data** — all 171 closed trades: [CSV download](/data/journal/2026-09-30-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 171 closed trades: [CSV download](/data/journal/2026-09-30-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (170 meaningful trades): min -4.92% · P25 -3.12% · median -0
 
 _As of 2026-09-30 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

@@ -17,7 +17,7 @@ metrics:
   best_pct: 15.47
   worst_pct: -7.27
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 9.35
 ogImage: /characters/kr/09_excited.png
 altUrl: /journal/2026-08-10-kr-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>LIG디펜스앤에어로스페이스(079550)</td><td>707,707</td><td>817,182</td><td class="pnl">+15.47%</td><td>90.1h</td><td>08-06 15:30 → 08-10 09:35</td></tr><tr class="t-win"><td class="res">이익</td><td>알테오젠(196170)</td><td>284,784</td><td>326,673</td><td class="pnl">+14.71%</td><td>70.8h</td><td>08-07 10:45 → 08-10 09:35</td></tr><tr class="t-win"><td class="res">이익</td><td>페니트리움바이오(187660)</td><td>3,784</td><td>4,296</td><td class="pnl">+13.53%</td><td>68.2h</td><td>08-07 13:20 → 08-10 09:35</td></tr><tr class="t-win"><td class="res">이익</td><td>주성엔지니어링(036930)</td><td>126,326</td><td>142,258</td><td class="pnl">+12.61%</td><td>71.0h</td><td>08-07 10:45 → 08-10 09:45</td></tr><tr class="t-win"><td class="res">이익</td><td>헥토파이낸셜(234340)</td><td>18,569</td><td>20,829</td><td class="pnl">+12.17%</td><td>2.7h</td><td>08-10 11:15 → 08-10 13:55</td></tr><tr class="t-loss"><td class="res">손실</td><td>썸에이지(208640)</td><td>1,017</td><td>943.10</td><td class="pnl">-7.27%</td><td>71.1h</td><td>08-07 10:30 → 08-10 09:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>나눔테크(244880)</td><td>1,759</td><td>1,648</td><td class="pnl">-6.31%</td><td>0.5h</td><td>08-10 11:00 → 08-10 11:30</td></tr><tr class="t-loss"><td class="res">손실</td><td>야스(255440)</td><td>8,098</td><td>7,592</td><td class="pnl">-6.25%</td><td>66.1h</td><td>08-07 15:30 → 08-10 09:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>JTC(950170)</td><td>4,244</td><td>4,061</td><td class="pnl">-4.31%</td><td>1.4h</td><td>08-10 09:50 → 08-10 11:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>금호타이어(073240)</td><td>7,828</td><td>7,502</td><td class="pnl">-4.16%</td><td>70.4h</td><td>08-07 11:20 → 08-10 09:45</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 224건 기준): 최소 -7.27% · P25 +1.62% · 중앙값 +3.24% · P75 +6.51% · 최대 +15.47%_
 
-**전체 데이터** — 마감 248건 전량: [CSV 다운로드](/data/journal/2026-08-10-kr.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 248건 전량: [CSV 다운로드](/data/journal/2026-08-10-kr.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 224건 기준): 최소 -7.27% · P25 +1.62% 
 
 _기준일: 2026-08-10 (KST) · as of 2026-08-10._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

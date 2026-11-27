@@ -17,7 +17,7 @@ metrics:
   best_pct: 13.46
   worst_pct: -5.38
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 2.9
 ogImage: /characters/kr/09_excited.png
 altUrl: /journal/2026-09-04-kr-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>우리기술투자(041190)</td><td>5,706</td><td>6,474</td><td class="pnl">+13.46%</td><td>18.6h</td><td>09-03 14:35 → 09-04 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>원익홀딩스(030530)</td><td>19,409</td><td>21,528</td><td class="pnl">+10.92%</td><td>2.9h</td><td>09-04 10:40 → 09-04 13:35</td></tr><tr class="t-win"><td class="res">이익</td><td>원익홀딩스(030530)</td><td>17,417</td><td>19,271</td><td class="pnl">+10.64%</td><td>18.7h</td><td>09-03 15:25 → 09-04 10:05</td></tr><tr class="t-win"><td class="res">이익</td><td>HD현대(267250)</td><td>209,709</td><td>229,270</td><td class="pnl">+9.33%</td><td>46.2h</td><td>09-02 11:25 → 09-04 09:35</td></tr><tr class="t-win"><td class="res">이익</td><td>세아베스틸지주(001430)</td><td>39,790</td><td>43,357</td><td class="pnl">+8.96%</td><td>48.6h</td><td>09-02 09:30 → 09-04 10:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>현대바이오(048410)</td><td>6,166</td><td>5,834</td><td class="pnl">-5.38%</td><td>48.8h</td><td>09-02 09:15 → 09-04 10:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>펌텍코리아(251970)</td><td>57,658</td><td>54,845</td><td class="pnl">-4.88%</td><td>19.8h</td><td>09-03 13:50 → 09-04 09:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>BGF리테일(282330)</td><td>150,450</td><td>143,856</td><td class="pnl">-4.38%</td><td>20.7h</td><td>09-03 13:25 → 09-04 10:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>큐리옥스바이오시스템즈(445680)</td><td>48,448</td><td>46,553</td><td class="pnl">-3.91%</td><td>19.7h</td><td>09-03 14:25 → 09-04 10:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>달바글로벌(483650)</td><td>192,592</td><td>185,314</td><td class="pnl">-3.78%</td><td>20.1h</td><td>09-03 14:25 → 09-04 10:30</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 91건 기준): 최소 -5.38% · P25 -1.27% · 중앙값 +2.41% · P75 +3.60% · 최대 +13.46%_
 
-**전체 데이터** — 마감 93건 전량: [CSV 다운로드](/data/journal/2026-09-04-kr.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 93건 전량: [CSV 다운로드](/data/journal/2026-09-04-kr.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 91건 기준): 최소 -5.38% · P25 -1.27% �
 
 _기준일: 2026-09-04 (KST) · as of 2026-09-04._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

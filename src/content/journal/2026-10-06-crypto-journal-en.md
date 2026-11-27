@@ -17,7 +17,7 @@ metrics:
   best_pct: 43.05
   worst_pct: -7.01
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.93
 ogImage: /characters/crypto/05_anxious.png
 altUrl: /journal/2026-10-06-crypto-journal/
@@ -63,7 +63,7 @@ The trades that resulted in losses, such as those on BICO, KAITO, and DRV, point
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Numeraire(NMR)</td><td>15,776</td><td>22,567</td><td class="pnl">+43.05%</td><td>35.0h</td><td>10-05 09:30 → 10-06 20:30</td></tr><tr class="t-win"><td class="res">win</td><td>VeThor(VTHO)</td><td>0.8768</td><td>0.9726</td><td class="pnl">+10.93%</td><td>63.5h</td><td>10-03 17:30 → 10-06 09:00</td></tr><tr class="t-win"><td class="res">win</td><td>Vulcan Forged(PYR)</td><td>79.89</td><td>85.68</td><td class="pnl">+7.25%</td><td>8.8h</td><td>10-05 15:30 → 10-06 00:15</td></tr><tr class="t-win"><td class="res">win</td><td>Tellor Tributes(TRB)</td><td>26,927</td><td>28,621</td><td class="pnl">+6.29%</td><td>57.5h</td><td>10-04 10:15 → 10-06 19:45</td></tr><tr class="t-win"><td class="res">win</td><td>AEON</td><td>72.83</td><td>77.17</td><td class="pnl">+5.96%</td><td>29.0h</td><td>10-04 16:45 → 10-05 21:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Biconomy(BICO)</td><td>29.37</td><td>27.92</td><td class="pnl">-4.94%</td><td>55.5h</td><td>10-03 17:00 → 10-06 00:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>KAITO</td><td>473.50</td><td>453.50</td><td class="pnl">-4.22%</td><td>12.0h</td><td>10-05 11:30 → 10-05 23:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Derive(DRV)</td><td>550.50</td><td>527.50</td><td class="pnl">-4.18%</td><td>30.0h</td><td>10-04 19:00 → 10-06 01:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Contentos(COS)</td><td>0.4607</td><td>0.4418</td><td class="pnl">-4.10%</td><td>3.5h</td><td>10-05 20:00 → 10-05 23:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Chromia(CHR)</td><td>31.44</td><td>30.16</td><td class="pnl">-4.07%</td><td>11.0h</td><td>10-05 12:00 → 10-05 23:00</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -4.94% · P25 -3.31% · median -0.43% · P75 +2.05% · max +43.05%_
 
-**Full data** — all 791 closed trades: [CSV download](/data/journal/2026-10-06-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 791 closed trades: [CSV download](/data/journal/2026-10-06-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -4.94% · P25 -3.31% · median -0
 
 _As of 2026-10-06 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

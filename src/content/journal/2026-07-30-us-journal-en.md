@@ -17,7 +17,7 @@ metrics:
   best_pct: 13.91
   worst_pct: -12.93
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.51
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-07-30-us-journal/
@@ -59,7 +59,7 @@ The losses, specifically those involving LII, VRT, and KLAC, highlight instances
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>GE HealthCare Technologies Inc.(GEHC)</td><td>61.99</td><td>70.61</td><td class="pnl">+13.91%</td><td>45.8h</td><td>07-28 00:50 → 07-29 22:35</td></tr><tr class="t-win"><td class="res">win</td><td>Amphenol Corporation(APH)</td><td>143.80</td><td>156.90</td><td class="pnl">+9.11%</td><td>20.8h</td><td>07-29 01:45 → 07-29 22:35</td></tr><tr class="t-win"><td class="res">win</td><td>Fortinet, Inc.(FTNT)</td><td>144.40</td><td>153.00</td><td class="pnl">+5.96%</td><td>3.2h</td><td>07-30 01:40 → 07-30 04:55</td></tr><tr class="t-win"><td class="res">win</td><td>Corning Incorporated(GLW)</td><td>119.40</td><td>125.60</td><td class="pnl">+5.19%</td><td>23.7h</td><td>07-29 00:50 → 07-30 00:30</td></tr><tr class="t-win"><td class="res">win</td><td>APA Corporation(APA)</td><td>34.41</td><td>36.11</td><td class="pnl">+4.94%</td><td>23.2h</td><td>07-29 01:45 → 07-30 00:55</td></tr><tr class="t-loss"><td class="res">loss</td><td>Lennox International, Inc.(LII)</td><td>536.60</td><td>467.20</td><td class="pnl">-12.93%</td><td>19.8h</td><td>07-29 02:45 → 07-29 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Vertiv Holdings, LLC(VRT)</td><td>267.60</td><td>241.60</td><td class="pnl">-9.72%</td><td>20.9h</td><td>07-29 01:40 → 07-29 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>KLA Corporation(KLAC)</td><td>191.00</td><td>175.00</td><td class="pnl">-8.38%</td><td>23.4h</td><td>07-29 00:50 → 07-30 00:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Smurfit WestRock plc(SW)</td><td>51.04</td><td>47.21</td><td class="pnl">-7.50%</td><td>18.4h</td><td>07-29 04:10 → 07-29 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>NXP Semiconductors N.V.(NXPI)</td><td>263.40</td><td>244.80</td><td class="pnl">-7.06%</td><td>45.6h</td><td>07-28 02:35 → 07-30 00:10</td></tr></tbody></table>
 _P&L distribution (224 meaningful trades): min -12.93% · P25 -3.25% · median -0.45% · P75 +1.11% · max +13.91%_
 
-**Full data** — all 299 closed trades: [CSV download](/data/journal/2026-07-30-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 299 closed trades: [CSV download](/data/journal/2026-07-30-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -68,9 +68,9 @@ _P&L distribution (224 meaningful trades): min -12.93% · P25 -3.25% · median -
 
 _As of 2026-07-30 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

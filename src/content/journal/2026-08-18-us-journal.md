@@ -17,7 +17,7 @@ metrics:
   best_pct: 8.66
   worst_pct: -4.84
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.38
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-08-18-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Sandisk Corporation(SNDK)</td><td>1,628</td><td>1,769</td><td class="pnl">+8.66%</td><td>71.3h</td><td>08-14 23:50 → 08-17 23:10</td></tr><tr class="t-win"><td class="res">이익</td><td>Western Digital Corporation(WDC)</td><td>498.90</td><td>541.90</td><td class="pnl">+8.62%</td><td>94.5h</td><td>08-14 00:40 → 08-17 23:10</td></tr><tr class="t-win"><td class="res">이익</td><td>코히런트(COHR)</td><td>332.40</td><td>356.20</td><td class="pnl">+7.16%</td><td>72.6h</td><td>08-15 00:20 → 08-18 00:55</td></tr><tr class="t-win"><td class="res">이익</td><td>시에나(CIEN)</td><td>425.30</td><td>454.20</td><td class="pnl">+6.80%</td><td>72.4h</td><td>08-15 01:25 → 08-18 01:50</td></tr><tr class="t-win"><td class="res">이익</td><td>Marvell Technology, Inc.(MRVL)</td><td>221.50</td><td>234.90</td><td class="pnl">+6.05%</td><td>71.7h</td><td>08-15 00:00 → 08-17 23:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Zoetis Inc.(ZTS)</td><td>74.75</td><td>71.13</td><td class="pnl">-4.84%</td><td>71.2h</td><td>08-15 00:00 → 08-17 23:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>Yum! Brands, Inc.(YUM)</td><td>152.40</td><td>145.10</td><td class="pnl">-4.79%</td><td>93.0h</td><td>08-14 01:50 → 08-17 22:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>Domino's Pizza Inc(DPZ)</td><td>354.30</td><td>337.80</td><td class="pnl">-4.66%</td><td>116.6h</td><td>08-13 02:15 → 08-17 22:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>Weyerhaeuser Company(WY)</td><td>25.25</td><td>24.10</td><td class="pnl">-4.55%</td><td>162.0h</td><td>08-11 04:50 → 08-17 22:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>블랙스톤(BX)</td><td>147.90</td><td>141.30</td><td class="pnl">-4.46%</td><td>141.3h</td><td>08-12 01:30 → 08-17 22:50</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -4.84% · P25 -2.54% · 중앙값 -0.69% · P75 +0.25% · 최대 +8.66%_
 
-**전체 데이터** — 마감 343건 전량: [CSV 다운로드](/data/journal/2026-08-18-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 343건 전량: [CSV 다운로드](/data/journal/2026-08-18-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -4.84% · P25 -2.54% 
 
 _기준일: 2026-08-18 (KST) · as of 2026-08-18._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

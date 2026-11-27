@@ -17,7 +17,7 @@ metrics:
   best_pct: 13.79
   worst_pct: -19.22
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.54
 ogImage: /characters/us/09_excited.png
 altUrl: /journal/2026-11-05-us-journal/
@@ -63,7 +63,7 @@ The structure of the results—a solid win rate paired with a positive expectanc
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>First Solar, Inc.(FSLR)</td><td>183.40</td><td>208.70</td><td class="pnl">+13.79%</td><td>23.9h</td><td>11-03 23:45 → 11-04 23:40</td></tr><tr class="t-win"><td class="res">win</td><td>Stanley Black & Decker, Inc.(SWK)</td><td>106.90</td><td>118.70</td><td class="pnl">+11.04%</td><td>44.7h</td><td>11-03 03:05 → 11-04 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>Booking Holdings Inc. Common St(BKNG)</td><td>152.30</td><td>168.50</td><td class="pnl">+10.64%</td><td>23.8h</td><td>11-03 23:55 → 11-04 23:40</td></tr><tr class="t-win"><td class="res">win</td><td>Zimmer Biomet Holdings, Inc.(ZBH)</td><td>97.74</td><td>107.70</td><td class="pnl">+10.19%</td><td>22.8h</td><td>11-04 00:55 → 11-04 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>Arista Networks, Inc.(ANET)</td><td>167.20</td><td>183.10</td><td class="pnl">+9.51%</td><td>116.2h</td><td>10-31 03:40 → 11-04 23:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Fidelity National Information S(FIS)</td><td>39.29</td><td>31.74</td><td class="pnl">-19.22%</td><td>117.9h</td><td>10-31 01:50 → 11-04 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Trimble Inc.(TRMB)</td><td>66.59</td><td>54.65</td><td class="pnl">-17.93%</td><td>43.3h</td><td>11-03 04:25 → 11-04 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Comfort Systems USA, Inc.(FIX)</td><td>1,248</td><td>1,072</td><td class="pnl">-14.10%</td><td>23.7h</td><td>11-04 00:00 → 11-04 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Vertiv Holdings, LLC(VRT)</td><td>238.80</td><td>210.90</td><td class="pnl">-11.68%</td><td>23.3h</td><td>11-04 00:25 → 11-04 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Datadog, Inc.(DDOG)</td><td>216.30</td><td>194.60</td><td class="pnl">-10.03%</td><td>41.7h</td><td>11-03 06:00 → 11-04 23:40</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -19.22% · P25 -1.57% · median +2.85% · P75 +3.68% · max +13.79%_
 
-**Full data** — all 591 closed trades: [CSV download](/data/journal/2026-11-05-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 591 closed trades: [CSV download](/data/journal/2026-11-05-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -19.22% · P25 -1.57% · median +
 
 _As of 2026-11-05 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

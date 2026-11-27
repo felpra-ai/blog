@@ -17,7 +17,7 @@ metrics:
   best_pct: 19.03
   worst_pct: -11.16
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.29
 ogImage: /characters/crypto/02_sad.png
 altUrl: /journal/2026-09-28-crypto-journal/
@@ -61,7 +61,7 @@ The performance highlights that the frequency of smaller wins is currently insuf
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>GameBuild(GAME2)</td><td>1.42</td><td>1.69</td><td class="pnl">+19.03%</td><td>19.0h</td><td>09-27 14:00 → 09-28 09:00</td></tr><tr class="t-win"><td class="res">win</td><td>Boba Cat(BOBA)</td><td>29.03</td><td>34.14</td><td class="pnl">+17.60%</td><td>23.5h</td><td>09-27 00:30 → 09-28 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>AIOZ Network(AIOZ)</td><td>162.20</td><td>175.80</td><td class="pnl">+8.38%</td><td>16.5h</td><td>09-27 13:45 → 09-28 06:15</td></tr><tr class="t-win"><td class="res">win</td><td>Audius(AUDIO)</td><td>20.36</td><td>22.00</td><td class="pnl">+8.06%</td><td>10.2h</td><td>09-27 11:00 → 09-27 21:15</td></tr><tr class="t-win"><td class="res">win</td><td>Pudgy Penguins(PENGU)</td><td>13.66</td><td>14.76</td><td class="pnl">+8.05%</td><td>3.2h</td><td>09-27 18:15 → 09-27 21:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>SAPIEN</td><td>109.10</td><td>103.90</td><td class="pnl">-4.77%</td><td>44.2h</td><td>09-26 18:00 → 09-28 14:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>AWE Network(AWE)</td><td>100.10</td><td>95.39</td><td class="pnl">-4.71%</td><td>7.8h</td><td>09-27 14:00 → 09-27 21:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>ArchLoot(AL)</td><td>2.83</td><td>2.70</td><td class="pnl">-4.63%</td><td>32.8h</td><td>09-26 23:00 → 09-28 07:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Impossible Cloud Network Token(ICNT)</td><td>136.10</td><td>129.90</td><td class="pnl">-4.56%</td><td>16.5h</td><td>09-27 20:00 → 09-28 12:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Helium(HNT)</td><td>684.70</td><td>654.30</td><td class="pnl">-4.44%</td><td>18.5h</td><td>09-27 14:00 → 09-28 08:30</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -4.77% · P25 -3.43% · median -3.23% · P75 +0.21% · max +19.03%_
 
-**Full data** — all 1071 closed trades: [CSV download](/data/journal/2026-09-28-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 1071 closed trades: [CSV download](/data/journal/2026-09-28-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (300 meaningful trades): min -4.77% · P25 -3.43% · median -3
 
 _As of 2026-09-28 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

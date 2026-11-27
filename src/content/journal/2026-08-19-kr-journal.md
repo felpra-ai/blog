@@ -17,7 +17,7 @@ metrics:
   best_pct: 10.11
   worst_pct: -10.16
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.24
 ogImage: /characters/kr/02_sad.png
 altUrl: /journal/2026-08-19-kr-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>현대건설(000720)</td><td>105,605</td><td>116,284</td><td class="pnl">+10.11%</td><td>1.6h</td><td>08-19 09:15 → 08-19 10:50</td></tr><tr class="t-win"><td class="res">이익</td><td>이퓨쳐(134060)</td><td>5,045</td><td>5,514</td><td class="pnl">+9.30%</td><td>22.9h</td><td>08-18 10:40 → 08-19 09:35</td></tr><tr class="t-win"><td class="res">이익</td><td>삼성E&A(028050)</td><td>45,495</td><td>48,651</td><td class="pnl">+6.94%</td><td>3.0h</td><td>08-19 09:50 → 08-19 12:50</td></tr><tr class="t-win"><td class="res">이익</td><td>카카오게임즈(293490)</td><td>8,378</td><td>8,871</td><td class="pnl">+5.88%</td><td>0.7h</td><td>08-19 14:40 → 08-19 15:20</td></tr><tr class="t-win"><td class="res">이익</td><td>리노공업(058470)</td><td>64,564</td><td>68,332</td><td class="pnl">+5.84%</td><td>1.8h</td><td>08-19 09:15 → 08-19 11:00</td></tr><tr class="t-loss"><td class="res">손실</td><td>한미반도체(042700)</td><td>235,735</td><td>211,788</td><td class="pnl">-10.16%</td><td>21.4h</td><td>08-18 11:40 → 08-19 09:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>SK하이닉스(000660)</td><td>1,688,687</td><td>1,517,481</td><td class="pnl">-10.14%</td><td>21.4h</td><td>08-18 11:40 → 08-19 09:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>HD현대일렉트릭(267260)</td><td>798,798</td><td>720,279</td><td class="pnl">-9.83%</td><td>21.4h</td><td>08-18 11:40 → 08-19 09:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>LS ELECTRIC(010120)</td><td>213,713</td><td>195,304</td><td class="pnl">-8.61%</td><td>23.5h</td><td>08-18 09:35 → 08-19 09:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>키움증권(039490)</td><td>288,288</td><td>263,736</td><td class="pnl">-8.52%</td><td>18.8h</td><td>08-18 14:20 → 08-19 09:05</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 220건 기준): 최소 -10.16% · P25 -5.05% · 중앙값 -3.79% · P75 -0.22% · 최대 +10.11%_
 
-**전체 데이터** — 마감 225건 전량: [CSV 다운로드](/data/journal/2026-08-19-kr.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 225건 전량: [CSV 다운로드](/data/journal/2026-08-19-kr.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 220건 기준): 최소 -10.16% · P25 -5.05%
 
 _기준일: 2026-08-19 (KST) · as of 2026-08-19._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

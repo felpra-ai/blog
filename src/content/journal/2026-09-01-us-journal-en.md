@@ -17,7 +17,7 @@ metrics:
   best_pct: 6.43
   worst_pct: -20.1
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.3
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-09-01-us-journal/
@@ -59,7 +59,7 @@ The frequency of trades, combined with the negative expectancy and low profit fa
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>CrowdStrike Holdings, Inc.(CRWD)</td><td>213.00</td><td>226.70</td><td class="pnl">+6.43%</td><td>71.9h</td><td>08-28 23:10 → 08-31 23:05</td></tr><tr class="t-win"><td class="res">win</td><td>SLB Limited(SLB)</td><td>55.75</td><td>59.22</td><td class="pnl">+6.22%</td><td>91.1h</td><td>08-28 04:00 → 08-31 23:05</td></tr><tr class="t-win"><td class="res">win</td><td>Halliburton Company(HAL)</td><td>35.50</td><td>37.23</td><td class="pnl">+4.87%</td><td>72.3h</td><td>08-28 22:45 → 08-31 23:05</td></tr><tr class="t-win"><td class="res">win</td><td>Ulta Beauty, Inc.(ULTA)</td><td>510.30</td><td>530.60</td><td class="pnl">+3.98%</td><td>71.8h</td><td>08-28 23:50 → 08-31 23:35</td></tr><tr class="t-win"><td class="res">win</td><td>APA Corporation(APA)</td><td>41.57</td><td>43.22</td><td class="pnl">+3.97%</td><td>119.8h</td><td>08-26 23:20 → 08-31 23:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Edison International(EIX)</td><td>70.14</td><td>56.04</td><td class="pnl">-20.10%</td><td>68.2h</td><td>08-29 02:45 → 08-31 22:55</td></tr><tr class="t-loss"><td class="res">loss</td><td>Pacific Gas & Electric Co.(PCG)</td><td>16.15</td><td>13.41</td><td class="pnl">-16.97%</td><td>68.5h</td><td>08-29 02:25 → 08-31 22:55</td></tr><tr class="t-loss"><td class="res">loss</td><td>Take-Two Interactive Software,(TTWO)</td><td>238.80</td><td>218.80</td><td class="pnl">-8.38%</td><td>69.2h</td><td>08-29 01:40 → 08-31 22:55</td></tr><tr class="t-loss"><td class="res">loss</td><td>Reddit, Inc.(RDDT)</td><td>157.00</td><td>147.50</td><td class="pnl">-6.05%</td><td>95.2h</td><td>08-27 23:40 → 08-31 22:55</td></tr><tr class="t-loss"><td class="res">loss</td><td>Clorox Company (The)(CLX)</td><td>105.20</td><td>99.32</td><td class="pnl">-5.59%</td><td>139.9h</td><td>08-26 03:00 → 08-31 22:55</td></tr></tbody></table>
 _P&L distribution (214 meaningful trades): min -20.10% · P25 -3.18% · median -0.88% · P75 +0.23% · max +6.43%_
 
-**Full data** — all 224 closed trades: [CSV download](/data/journal/2026-09-01-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 224 closed trades: [CSV download](/data/journal/2026-09-01-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -68,9 +68,9 @@ _P&L distribution (214 meaningful trades): min -20.10% · P25 -3.18% · median -
 
 _As of 2026-09-01 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

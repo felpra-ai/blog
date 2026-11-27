@@ -17,7 +17,7 @@ metrics:
   best_pct: 2.2
   worst_pct: -1.59
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.38
 ogImage: /characters/us/07_confident.png
 altUrl: /journal/2026-09-18-us-journal/
@@ -61,7 +61,7 @@ The performance metrics—specifically the positive expectancy combined with a m
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Lockheed Martin Corporation(LMT)</td><td>527.10</td><td>538.70</td><td class="pnl">+2.20%</td><td>185.8h</td><td>09-10 05:00 → 09-17 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Charles Schwab Corporation (The(SCHW)</td><td>106.80</td><td>105.10</td><td class="pnl">-1.59%</td><td>185.8h</td><td>09-10 05:00 → 09-17 22:45</td></tr></tbody></table>
 _P&L distribution (2 meaningful trades): min -1.59% · P25 -1.59% · median +2.20% · P75 +2.20% · max +2.20%_
 
-**Full data** — all 2 closed trades: [CSV download](/data/journal/2026-09-18-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 2 closed trades: [CSV download](/data/journal/2026-09-18-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (2 meaningful trades): min -1.59% · P25 -1.59% · median +2.2
 
 _As of 2026-09-18 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

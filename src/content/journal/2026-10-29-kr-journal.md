@@ -17,7 +17,7 @@ metrics:
   best_pct: 11.39
   worst_pct: -8.61
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.37
 ogImage: /characters/kr/02_sad.png
 altUrl: /journal/2026-10-29-kr-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>제주반도체(080220)</td><td>68,969</td><td>76,823</td><td class="pnl">+11.39%</td><td>20.5h</td><td>10-28 12:40 → 10-29 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>루닛(328130)</td><td>14,214</td><td>15,524</td><td class="pnl">+9.22%</td><td>22.8h</td><td>10-28 10:20 → 10-29 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>JYP Ent.(035900)</td><td>39,189</td><td>42,507</td><td class="pnl">+8.47%</td><td>23.9h</td><td>10-28 09:15 → 10-29 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>케이엠더블유(032500)</td><td>17,968</td><td>18,991</td><td class="pnl">+5.69%</td><td>45.9h</td><td>10-27 11:40 → 10-29 09:35</td></tr><tr class="t-win"><td class="res">이익</td><td>SK하이닉스(000660)</td><td>1,459,458</td><td>1,538,460</td><td class="pnl">+5.41%</td><td>22.2h</td><td>10-28 10:55 → 10-29 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>HD현대마린엔진(071970)</td><td>41,592</td><td>38,012</td><td class="pnl">-8.61%</td><td>18.8h</td><td>10-28 14:25 → 10-29 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>현대건설(000720)</td><td>95,195</td><td>88,511</td><td class="pnl">-7.02%</td><td>23.1h</td><td>10-28 10:30 → 10-29 09:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>삼성에스디에스(018260)</td><td>222,722</td><td>207,792</td><td class="pnl">-6.70%</td><td>0.9h</td><td>10-29 09:15 → 10-29 10:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>LG에너지솔루션(373220)</td><td>389,139</td><td>364,136</td><td class="pnl">-6.43%</td><td>21.8h</td><td>10-28 11:20 → 10-29 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>한화에어로스페이스(012450)</td><td>788,788</td><td>738,261</td><td class="pnl">-6.41%</td><td>23.0h</td><td>10-28 10:10 → 10-29 09:10</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -8.61% · P25 -3.38% · 중앙값 -3.18% · P75 -1.21% · 최대 +11.39%_
 
-**전체 데이터** — 마감 488건 전량: [CSV 다운로드](/data/journal/2026-10-29-kr.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 488건 전량: [CSV 다운로드](/data/journal/2026-10-29-kr.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -8.61% · P25 -3.38% 
 
 _기준일: 2026-10-29 (KST) · as of 2026-10-29._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

@@ -17,7 +17,7 @@ metrics:
   best_pct: 13.91
   worst_pct: -12.93
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.51
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-07-30-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>GE HealthCare Technologies Inc.(GEHC)</td><td>61.99</td><td>70.61</td><td class="pnl">+13.91%</td><td>45.8h</td><td>07-28 00:50 → 07-29 22:35</td></tr><tr class="t-win"><td class="res">이익</td><td>안팟홀딩스(APH)</td><td>143.80</td><td>156.90</td><td class="pnl">+9.11%</td><td>20.8h</td><td>07-29 01:45 → 07-29 22:35</td></tr><tr class="t-win"><td class="res">이익</td><td>Fortinet, Inc.(FTNT)</td><td>144.40</td><td>153.00</td><td class="pnl">+5.96%</td><td>3.2h</td><td>07-30 01:40 → 07-30 04:55</td></tr><tr class="t-win"><td class="res">이익</td><td>Corning Incorporated(GLW)</td><td>119.40</td><td>125.60</td><td class="pnl">+5.19%</td><td>23.7h</td><td>07-29 00:50 → 07-30 00:30</td></tr><tr class="t-win"><td class="res">이익</td><td>APA Corporation(APA)</td><td>34.41</td><td>36.11</td><td class="pnl">+4.94%</td><td>23.2h</td><td>07-29 01:45 → 07-30 00:55</td></tr><tr class="t-loss"><td class="res">손실</td><td>Lennox International, Inc.(LII)</td><td>536.60</td><td>467.20</td><td class="pnl">-12.93%</td><td>19.8h</td><td>07-29 02:45 → 07-29 22:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>Vertiv Holdings, LLC(VRT)</td><td>267.60</td><td>241.60</td><td class="pnl">-9.72%</td><td>20.9h</td><td>07-29 01:40 → 07-29 22:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>KLA Corporation(KLAC)</td><td>191.00</td><td>175.00</td><td class="pnl">-8.38%</td><td>23.4h</td><td>07-29 00:50 → 07-30 00:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>Smurfit WestRock plc(SW)</td><td>51.04</td><td>47.21</td><td class="pnl">-7.50%</td><td>18.4h</td><td>07-29 04:10 → 07-29 22:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>NXP Semiconductors N.V.(NXPI)</td><td>263.40</td><td>244.80</td><td class="pnl">-7.06%</td><td>45.6h</td><td>07-28 02:35 → 07-30 00:10</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 224건 기준): 최소 -12.93% · P25 -3.25% · 중앙값 -0.45% · P75 +1.11% · 최대 +13.91%_
 
-**전체 데이터** — 마감 299건 전량: [CSV 다운로드](/data/journal/2026-07-30-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 299건 전량: [CSV 다운로드](/data/journal/2026-07-30-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 224건 기준): 최소 -12.93% · P25 -3.25%
 
 _기준일: 2026-07-30 (KST) · as of 2026-07-30._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

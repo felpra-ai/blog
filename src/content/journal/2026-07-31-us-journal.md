@@ -17,7 +17,7 @@ metrics:
   best_pct: 17.23
   worst_pct: -9.77
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.86
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-07-31-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Quanta Services, Inc.(PWR)</td><td>558.20</td><td>654.40</td><td class="pnl">+17.23%</td><td>20.3h</td><td>07-30 02:15 → 07-30 22:35</td></tr><tr class="t-win"><td class="res">이익</td><td>EMCOR Group, Inc.(EME)</td><td>679.50</td><td>789.80</td><td class="pnl">+16.23%</td><td>21.4h</td><td>07-30 01:10 → 07-30 22:35</td></tr><tr class="t-win"><td class="res">이익</td><td>AMD(어드밴스드 마이크로 디바이시스)(AMD)</td><td>440.90</td><td>491.70</td><td class="pnl">+11.52%</td><td>18.9h</td><td>07-30 04:30 → 07-30 23:25</td></tr><tr class="t-win"><td class="res">이익</td><td>Micron Technology, Inc.(MU)</td><td>765.20</td><td>850.60</td><td class="pnl">+11.16%</td><td>18.6h</td><td>07-30 04:50 → 07-30 23:25</td></tr><tr class="t-win"><td class="res">이익</td><td>에이버리 데니슨(AVY)</td><td>167.30</td><td>185.50</td><td class="pnl">+10.88%</td><td>21.7h</td><td>07-30 00:55 → 07-30 22:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>L3Harris Technologies, Inc.(LHX)</td><td>298.80</td><td>269.60</td><td class="pnl">-9.77%</td><td>20.2h</td><td>07-30 02:25 → 07-30 22:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>Omnicom Group Inc.(OMC)</td><td>83.22</td><td>77.24</td><td class="pnl">-7.19%</td><td>20.7h</td><td>07-30 01:55 → 07-30 22:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>HP Inc.(HPQ)</td><td>28.36</td><td>26.77</td><td class="pnl">-5.61%</td><td>17.7h</td><td>07-30 04:55 → 07-30 22:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>Public Storage(PSA)</td><td>332.30</td><td>314.90</td><td class="pnl">-5.24%</td><td>18.9h</td><td>07-30 03:40 → 07-30 22:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>브라운 & 브라운(BRO)</td><td>74.89</td><td>70.97</td><td class="pnl">-5.23%</td><td>19.1h</td><td>07-30 04:20 → 07-30 23:25</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 228건 기준): 최소 -9.77% · P25 -3.20% · 중앙값 -0.52% · P75 +0.78% · 최대 +17.23%_
 
-**전체 데이터** — 마감 264건 전량: [CSV 다운로드](/data/journal/2026-07-31-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 264건 전량: [CSV 다운로드](/data/journal/2026-07-31-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 228건 기준): 최소 -9.77% · P25 -3.20% 
 
 _기준일: 2026-07-31 (KST) · as of 2026-07-31._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

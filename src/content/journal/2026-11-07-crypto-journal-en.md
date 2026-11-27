@@ -17,7 +17,7 @@ metrics:
   best_pct: 13.06
   worst_pct: -6.74
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.94
 ogImage: /characters/crypto/06_neutral.png
 altUrl: /journal/2026-11-07-crypto-journal/
@@ -61,7 +61,7 @@ The trades resulting in losses, particularly those involving PROVE and CONX (XPL
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>NEXO</td><td>997.00</td><td>1,119</td><td class="pnl">+12.24%</td><td>8.8h</td><td>11-06 22:30 → 11-07 07:15</td></tr><tr class="t-win"><td class="res">win</td><td>Casper(CSPR)</td><td>2.85</td><td>3.14</td><td class="pnl">+10.11%</td><td>2.2h</td><td>11-06 23:00 → 11-07 01:15</td></tr><tr class="t-win"><td class="res">win</td><td>NEXO</td><td>997.00</td><td>1,093</td><td class="pnl">+9.63%</td><td>3.2h</td><td>11-06 18:45 → 11-06 22:00</td></tr><tr class="t-win"><td class="res">win</td><td>ELYSIA(EL)</td><td>1.81</td><td>1.96</td><td class="pnl">+8.29%</td><td>35.8h</td><td>11-06 05:30 → 11-07 17:15</td></tr><tr class="t-win"><td class="res">win</td><td>Spacecoin(SPACE)</td><td>4.34</td><td>4.61</td><td class="pnl">+6.01%</td><td>16.2h</td><td>11-06 08:15 → 11-07 00:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Succinct(PROVE)</td><td>243.20</td><td>226.80</td><td class="pnl">-6.74%</td><td>40.8h</td><td>11-06 01:15 → 11-07 18:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>CONX(XPLA)</td><td>6.68</td><td>6.28</td><td class="pnl">-6.00%</td><td>2.5h</td><td>11-06 21:30 → 11-07 00:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>House Party Protocol(HPP)</td><td>6.45</td><td>6.14</td><td class="pnl">-4.73%</td><td>13.8h</td><td>11-06 21:45 → 11-07 11:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>DAO Maker(DAO)</td><td>27.42</td><td>26.13</td><td class="pnl">-4.70%</td><td>15.8h</td><td>11-06 21:15 → 11-07 13:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Wayfinder(PROMPT)</td><td>25.08</td><td>23.91</td><td class="pnl">-4.67%</td><td>0.5h</td><td>11-07 00:15 → 11-07 00:45</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -6.74% · P25 -3.15% · median +0.34% · P75 +2.71% · max +12.24%_
 
-**Full data** — all 624 closed trades: [CSV download](/data/journal/2026-11-07-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 624 closed trades: [CSV download](/data/journal/2026-11-07-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (300 meaningful trades): min -6.74% · P25 -3.15% · median +0
 
 _As of 2026-11-07 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

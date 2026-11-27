@@ -17,7 +17,7 @@ metrics:
   best_pct: 10.95
   worst_pct: -8.74
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.99
 ogImage: /characters/kr/06_neutral.png
 altUrl: /journal/2026-10-19-kr-journal/
@@ -59,7 +59,7 @@ The outcomes highlight that even with a positive win rate, the negative expectan
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Kyuriokseubaiosiseutemjeu(445680)</td><td>68,068</td><td>75,524</td><td class="pnl">+10.95%</td><td>70.1h</td><td>10-16 11:10 → 10-19 09:15</td></tr><tr class="t-win"><td class="res">win</td><td>Pepteuron(087010)</td><td>100,500</td><td>109,191</td><td class="pnl">+8.65%</td><td>70.2h</td><td>10-16 11:10 → 10-19 09:25</td></tr><tr class="t-win"><td class="res">win</td><td>Taeseong(323280)</td><td>52,653</td><td>57,043</td><td class="pnl">+8.34%</td><td>65.8h</td><td>10-16 15:30 → 10-19 09:15</td></tr><tr class="t-win"><td class="res">win</td><td>Hyeondaewia(011210)</td><td>48,398</td><td>51,748</td><td class="pnl">+6.92%</td><td>1.9h</td><td>10-19 09:15 → 10-19 11:10</td></tr><tr class="t-win"><td class="res">win</td><td>0009K0</td><td>21,121</td><td>22,228</td><td class="pnl">+5.24%</td><td>74.2h</td><td>10-16 12:25 → 10-19 14:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Eraenssibaio(290650)</td><td>71,371</td><td>65,135</td><td class="pnl">-8.74%</td><td>66.9h</td><td>10-16 14:20 → 10-19 09:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Hanmisaieonseu(008930)</td><td>48,949</td><td>45,255</td><td class="pnl">-7.55%</td><td>68.5h</td><td>10-16 12:40 → 10-19 09:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Hanhwaosyeon(042660)</td><td>66,266</td><td>61,538</td><td class="pnl">-7.13%</td><td>67.8h</td><td>10-16 13:25 → 10-19 09:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Dusanteseuna(131970)</td><td>117,417</td><td>109,990</td><td class="pnl">-6.33%</td><td>69.6h</td><td>10-16 11:35 → 10-19 09:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Eraenepeu(066970)</td><td>96,196</td><td>90,210</td><td class="pnl">-6.22%</td><td>68.6h</td><td>10-16 12:35 → 10-19 09:10</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -8.74% · P25 -3.40% · median -1.00% · P75 +2.84% · max +10.95%_
 
-**Full data** — all 437 closed trades: [CSV download](/data/journal/2026-10-19-kr.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 437 closed trades: [CSV download](/data/journal/2026-10-19-kr.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -68,9 +68,9 @@ _P&L distribution (300 meaningful trades): min -8.74% · P25 -3.40% · median -1
 
 _As of 2026-10-19 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

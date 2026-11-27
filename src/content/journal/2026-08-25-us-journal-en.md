@@ -17,7 +17,7 @@ metrics:
   best_pct: 5.53
   worst_pct: -8.89
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.77
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-08-25-us-journal/
@@ -61,7 +61,7 @@ The negative expectancy, despite a 50% win rate, points to a structural imbalanc
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Target Corporation(TGT)</td><td>160.90</td><td>169.80</td><td class="pnl">+5.53%</td><td>115.4h</td><td>08-20 04:45 → 08-25 00:10</td></tr><tr class="t-win"><td class="res">win</td><td>Gartner, Inc.(IT)</td><td>191.50</td><td>200.50</td><td class="pnl">+4.70%</td><td>73.8h</td><td>08-21 22:50 → 08-25 00:35</td></tr><tr class="t-win"><td class="res">win</td><td>VeriSign, Inc.(VRSN)</td><td>279.90</td><td>291.70</td><td class="pnl">+4.22%</td><td>141.8h</td><td>08-19 03:55 → 08-25 01:45</td></tr><tr class="t-win"><td class="res">win</td><td>Corteva, Inc.(CTVA)</td><td>80.17</td><td>83.49</td><td class="pnl">+4.14%</td><td>93.2h</td><td>08-21 01:55 → 08-24 23:05</td></tr><tr class="t-win"><td class="res">win</td><td>DoorDash, Inc.(DASH)</td><td>218.70</td><td>227.50</td><td class="pnl">+4.02%</td><td>142.2h</td><td>08-19 02:55 → 08-25 01:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Western Digital Corporation(WDC)</td><td>472.20</td><td>430.20</td><td class="pnl">-8.89%</td><td>119.1h</td><td>08-19 23:45 → 08-24 22:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Coherent Corp.(COHR)</td><td>290.80</td><td>265.20</td><td class="pnl">-8.80%</td><td>71.0h</td><td>08-21 23:50 → 08-24 22:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Sandisk Corporation(SNDK)</td><td>1,571</td><td>1,437</td><td class="pnl">-8.53%</td><td>119.2h</td><td>08-19 23:40 → 08-24 22:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Lumentum Holdings Inc.(LITE)</td><td>870.90</td><td>797.60</td><td class="pnl">-8.42%</td><td>71.3h</td><td>08-21 23:30 → 08-24 22:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Marvell Technology, Inc.(MRVL)</td><td>237.80</td><td>221.10</td><td class="pnl">-7.02%</td><td>71.3h</td><td>08-21 23:30 → 08-24 22:50</td></tr></tbody></table>
 _P&L distribution (243 meaningful trades): min -8.89% · P25 -3.02% · median +0.18% · P75 +1.74% · max +5.53%_
 
-**Full data** — all 254 closed trades: [CSV download](/data/journal/2026-08-25-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 254 closed trades: [CSV download](/data/journal/2026-08-25-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (243 meaningful trades): min -8.89% · P25 -3.02% · median +0
 
 _As of 2026-08-25 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

@@ -17,7 +17,7 @@ metrics:
   best_pct: 12.54
   worst_pct: -18.08
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.33
 ogImage: /characters/kr/02_sad.png
 altUrl: /journal/2026-11-06-kr-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>선익시스템(171090)</td><td>59,459</td><td>62,238</td><td class="pnl">+4.67%</td><td>0.5h</td><td>11-06 09:15 → 11-06 09:45</td></tr><tr class="t-win"><td class="res">이익</td><td>피에스케이홀딩스(031980)</td><td>121,722</td><td>127,273</td><td class="pnl">+4.56%</td><td>0.4h</td><td>11-06 09:15 → 11-06 09:40</td></tr><tr class="t-win"><td class="res">이익</td><td>LS ELECTRIC(010120)</td><td>114,214</td><td>118,981</td><td class="pnl">+4.17%</td><td>0.4h</td><td>11-06 09:15 → 11-06 09:40</td></tr><tr class="t-win"><td class="res">이익</td><td>엘앤씨바이오(290650)</td><td>23,073</td><td>24,026</td><td class="pnl">+4.13%</td><td>0.5h</td><td>11-06 09:15 → 11-06 09:45</td></tr><tr class="t-win"><td class="res">이익</td><td>삼성중공업(010140)</td><td>15,966</td><td>16,593</td><td class="pnl">+3.93%</td><td>4.7h</td><td>11-06 09:15 → 11-06 13:55</td></tr><tr class="t-loss"><td class="res">손실</td><td>효성중공업(298040)</td><td>1,815,814</td><td>1,487,511</td><td class="pnl">-18.08%</td><td>22.6h</td><td>11-05 10:35 → 11-06 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>삼성전기(009150)</td><td>960,960</td><td>808,191</td><td class="pnl">-15.90%</td><td>18.9h</td><td>11-05 14:15 → 11-06 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>카페24(042000)</td><td>16,557</td><td>14,166</td><td class="pnl">-14.44%</td><td>18.1h</td><td>11-05 15:05 → 11-06 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>한국금융지주(071050)</td><td>147,848</td><td>126,573</td><td class="pnl">-14.39%</td><td>23.1h</td><td>11-05 10:05 → 11-06 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>SK스퀘어(402340)</td><td>815,314</td><td>699,300</td><td class="pnl">-14.23%</td><td>20.0h</td><td>11-05 13:10 → 11-06 09:10</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -18.08% · P25 -8.79% · 중앙값 -6.46% · P75 -3.71% · 최대 +4.67%_
 
-**전체 데이터** — 마감 660건 전량: [CSV 다운로드](/data/journal/2026-11-06-kr.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 660건 전량: [CSV 다운로드](/data/journal/2026-11-06-kr.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -18.08% · P25 -8.79%
 
 _기준일: 2026-11-06 (KST) · as of 2026-11-06._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

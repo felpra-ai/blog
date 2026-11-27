@@ -17,7 +17,7 @@ metrics:
   best_pct: 11.16
   worst_pct: -16.93
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.32
 ogImage: /characters/kr/02_sad.png
 altUrl: /journal/2026-10-20-kr-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>천보(278280)</td><td>35,185</td><td>38,262</td><td class="pnl">+8.75%</td><td>19.1h</td><td>10-19 14:05 → 10-20 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>삼현(437730)</td><td>39,990</td><td>42,707</td><td class="pnl">+6.79%</td><td>20.8h</td><td>10-19 12:25 → 10-20 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>심텍(222800)</td><td>122,723</td><td>127,672</td><td class="pnl">+4.03%</td><td>0.8h</td><td>10-20 09:55 → 10-20 10:45</td></tr><tr class="t-win"><td class="res">이익</td><td>원익IPS(240810)</td><td>102,402</td><td>106,394</td><td class="pnl">+3.90%</td><td>1.6h</td><td>10-20 09:50 → 10-20 11:25</td></tr><tr class="t-win"><td class="res">이익</td><td>브이엠(089970)</td><td>46,196</td><td>47,852</td><td class="pnl">+3.58%</td><td>1.2h</td><td>10-20 09:50 → 10-20 11:00</td></tr><tr class="t-loss"><td class="res">손실</td><td>큐리옥스바이오시스템즈(445680)</td><td>70,470</td><td>58,541</td><td class="pnl">-16.93%</td><td>17.8h</td><td>10-19 15:25 → 10-20 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>큐리옥스바이오시스템즈(445680)</td><td>56,556</td><td>52,747</td><td class="pnl">-6.73%</td><td>0.1h</td><td>10-20 09:10 → 10-20 09:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>두산(000150)</td><td>1,074,073</td><td>1,013,985</td><td class="pnl">-5.59%</td><td>17.7h</td><td>10-19 15:30 → 10-20 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>LS머트리얼즈(417200)</td><td>14,214</td><td>13,427</td><td class="pnl">-5.54%</td><td>18.0h</td><td>10-19 15:15 → 10-20 09:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>SOOP(067160)</td><td>39,590</td><td>37,512</td><td class="pnl">-5.25%</td><td>93.4h</td><td>10-16 12:50 → 10-20 10:15</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -16.93% · P25 -3.36% · 중앙값 -3.19% · P75 -0.34% · 최대 +8.75%_
 
-**전체 데이터** — 마감 443건 전량: [CSV 다운로드](/data/journal/2026-10-20-kr.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 443건 전량: [CSV 다운로드](/data/journal/2026-10-20-kr.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -16.93% · P25 -3.36%
 
 _기준일: 2026-10-20 (KST) · as of 2026-10-20._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

@@ -17,7 +17,7 @@ metrics:
   best_pct: 37.51
   worst_pct: -33.57
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.12
 ogImage: /characters/crypto/01_joy.png
 altUrl: /journal/2026-08-24-crypto-journal/
@@ -61,7 +61,7 @@ The losses recorded on COTI, WAVES, and THQ suggest that when the market exhibit
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>UOS</td><td>3.74</td><td>4.13</td><td class="pnl">+10.54%</td><td>23.8h</td><td>08-23 00:15 → 08-24 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>SIGN</td><td>9.99</td><td>10.85</td><td class="pnl">+8.59%</td><td>7.5h</td><td>08-23 15:30 → 08-23 23:00</td></tr><tr class="t-win"><td class="res">win</td><td>TURBO</td><td>1.23</td><td>1.34</td><td class="pnl">+8.27%</td><td>7.8h</td><td>08-23 13:45 → 08-23 21:30</td></tr><tr class="t-win"><td class="res">win</td><td>Aethir(ATH)</td><td>6.11</td><td>6.61</td><td class="pnl">+8.13%</td><td>10.0h</td><td>08-23 12:45 → 08-23 22:45</td></tr><tr class="t-win"><td class="res">win</td><td>SynFutures(F)</td><td>4.09</td><td>4.43</td><td class="pnl">+8.08%</td><td>8.2h</td><td>08-23 15:00 → 08-23 23:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>COTI</td><td>16.81</td><td>16.05</td><td class="pnl">-4.52%</td><td>5.2h</td><td>08-23 18:15 → 08-23 23:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>WAVES</td><td>313.30</td><td>300.70</td><td class="pnl">-4.02%</td><td>13.2h</td><td>08-23 20:00 → 08-24 09:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Theoriq(THQ)</td><td>14.67</td><td>14.10</td><td class="pnl">-3.89%</td><td>12.5h</td><td>08-23 20:00 → 08-24 08:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>HEMI</td><td>13.19</td><td>12.70</td><td class="pnl">-3.71%</td><td>9.5h</td><td>08-23 18:15 → 08-24 03:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Casper Network(CSPR)</td><td>3.53</td><td>3.40</td><td class="pnl">-3.71%</td><td>13.0h</td><td>08-23 17:45 → 08-24 06:45</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -4.52% · P25 +0.54% · median +2.56% · P75 +3.18% · max +10.54%_
 
-**Full data** — all 1309 closed trades: [CSV download](/data/journal/2026-08-24-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 1309 closed trades: [CSV download](/data/journal/2026-08-24-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (300 meaningful trades): min -4.52% · P25 +0.54% · median +2
 
 _As of 2026-08-24 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

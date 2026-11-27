@@ -17,7 +17,7 @@ metrics:
   best_pct: 16.06
   worst_pct: -5.38
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.27
 ogImage: /characters/us/01_joy.png
 altUrl: /journal/2026-08-08-us-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>에어비앤비(ABNB)</td><td>150.70</td><td>174.90</td><td class="pnl">+16.06%</td><td>96.2h</td><td>08-03 23:55 → 08-08 00:10</td></tr><tr class="t-win"><td class="res">이익</td><td>Microchip Technology Incorporat(MCHP)</td><td>75.59</td><td>84.01</td><td class="pnl">+11.14%</td><td>19.2h</td><td>08-07 04:55 → 08-08 00:10</td></tr><tr class="t-win"><td class="res">이익</td><td>Newmont Corporation(NEM)</td><td>104.90</td><td>112.80</td><td class="pnl">+7.53%</td><td>48.3h</td><td>08-06 00:25 → 08-08 00:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Moderna, Inc.(MRNA)</td><td>55.21</td><td>58.22</td><td class="pnl">+5.45%</td><td>28.3h</td><td>08-06 23:50 → 08-08 04:10</td></tr><tr class="t-win"><td class="res">이익</td><td>Humana Inc.(HUM)</td><td>364.00</td><td>382.00</td><td class="pnl">+4.95%</td><td>44.4h</td><td>08-06 05:00 → 08-08 01:25</td></tr><tr class="t-loss"><td class="res">손실</td><td>ResMed Inc.(RMD)</td><td>224.90</td><td>212.80</td><td class="pnl">-5.38%</td><td>20.7h</td><td>08-07 03:40 → 08-08 00:20</td></tr><tr class="t-loss"><td class="res">손실</td><td>GE Vernova Inc.(GEV)</td><td>1,025</td><td>970.50</td><td class="pnl">-5.32%</td><td>47.6h</td><td>08-06 00:35 → 08-08 00:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>Sandisk Corporation(SNDK)</td><td>1,280</td><td>1,216</td><td class="pnl">-5.00%</td><td>22.7h</td><td>08-07 01:30 → 08-08 00:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>Keurig Dr Pepper Inc.(KDP)</td><td>31.21</td><td>29.70</td><td class="pnl">-4.84%</td><td>96.4h</td><td>08-03 23:45 → 08-08 00:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>Valero Energy Corporation(VLO)</td><td>308.40</td><td>293.90</td><td class="pnl">-4.70%</td><td>48.4h</td><td>08-05 23:45 → 08-08 00:10</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 148건 기준): 최소 -5.38% · P25 -1.27% · 중앙값 -0.07% · P75 +2.10% · 최대 +16.06%_
 
-**전체 데이터** — 마감 168건 전량: [CSV 다운로드](/data/journal/2026-08-08-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 168건 전량: [CSV 다운로드](/data/journal/2026-08-08-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 148건 기준): 최소 -5.38% · P25 -1.27% 
 
 _기준일: 2026-08-08 (KST) · as of 2026-08-08._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

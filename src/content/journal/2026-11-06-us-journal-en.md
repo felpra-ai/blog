@@ -17,7 +17,7 @@ metrics:
   best_pct: 32.51
   worst_pct: -12.41
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.31
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-11-06-us-journal/
@@ -63,7 +63,7 @@ The losses incurred on EXPE, STX, and BE highlight the difficulty in maintaining
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Applovin Corporation(APP)</td><td>267.90</td><td>355.00</td><td class="pnl">+32.51%</td><td>22.8h</td><td>11-05 00:50 → 11-05 23:40</td></tr><tr class="t-win"><td class="res">win</td><td>Corpay, Inc.(CPAY)</td><td>410.60</td><td>468.10</td><td class="pnl">+14.00%</td><td>70.2h</td><td>11-03 01:30 → 11-05 23:40</td></tr><tr class="t-win"><td class="res">win</td><td>Tapestry, Inc.(TPR)</td><td>123.20</td><td>138.80</td><td class="pnl">+12.66%</td><td>23.8h</td><td>11-04 23:55 → 11-05 23:40</td></tr><tr class="t-win"><td class="res">win</td><td>Texas Pacific Land Corporation(TPL)</td><td>280.60</td><td>313.60</td><td class="pnl">+11.76%</td><td>18.0h</td><td>11-05 05:40 → 11-05 23:40</td></tr><tr class="t-win"><td class="res">win</td><td>Cardinal Health, Inc.(CAH)</td><td>258.40</td><td>284.40</td><td class="pnl">+10.06%</td><td>22.2h</td><td>11-05 01:30 → 11-05 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Expedia Group, Inc.(EXPE)</td><td>324.00</td><td>283.80</td><td class="pnl">-12.41%</td><td>21.7h</td><td>11-05 02:00 → 11-05 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Seagate Technology Holdings PLC(STX)</td><td>568.70</td><td>501.10</td><td class="pnl">-11.89%</td><td>21.0h</td><td>11-05 02:40 → 11-05 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Bloom Energy Corporation(BE)</td><td>198.10</td><td>174.90</td><td class="pnl">-11.71%</td><td>21.7h</td><td>11-05 02:00 → 11-05 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Advanced Micro Devices, Inc.(AMD)</td><td>492.70</td><td>435.00</td><td class="pnl">-11.71%</td><td>23.2h</td><td>11-05 00:30 → 11-05 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Everpure, Inc.(P)</td><td>112.20</td><td>99.40</td><td class="pnl">-11.41%</td><td>22.7h</td><td>11-05 01:00 → 11-05 23:40</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -12.41% · P25 -3.41% · median -3.13% · P75 +2.41% · max +32.51%_
 
-**Full data** — all 720 closed trades: [CSV download](/data/journal/2026-11-06-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 720 closed trades: [CSV download](/data/journal/2026-11-06-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -12.41% · P25 -3.41% · median -
 
 _As of 2026-11-06 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

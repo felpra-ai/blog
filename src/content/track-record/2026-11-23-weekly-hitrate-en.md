@@ -1,7 +1,7 @@
 ---
 title: "Quorum Minutes #23 — Week of 2026-11-21"
 date: 2026-11-23T08:00:57+09:00
-description: "Last week 9218 trades, 37.4% win rate, avg -0.67% · OneQAZ Quorum market review (paper-trading)"
+description: "Last week 9218 trades, 37.4% win rate, avg -0.67% · FELPRA Quorum market review (paper-trading)"
 category: track-record
 markets: [kr, us, crypto]
 tags: [hitrate, weekly, track-record]
@@ -17,7 +17,7 @@ metrics:
   best_pct: 36.03
   worst_pct: -15.62
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.55
 ogImage: /og/track-record/2026-11-23-weekly-hitrate-en--orchestrator--02_sad.jpg
 altUrl: /track-record/2026-11-23-weekly-hitrate/
@@ -78,9 +78,9 @@ The week's data shows a pattern where the average loss magnitude exceeded the av
 
 _As of 2026-11-21 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

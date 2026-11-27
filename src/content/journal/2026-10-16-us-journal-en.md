@@ -17,7 +17,7 @@ metrics:
   best_pct: 6.8
   worst_pct: -10.57
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 2.03
 ogImage: /characters/us/09_excited.png
 altUrl: /journal/2026-10-16-us-journal/
@@ -63,7 +63,7 @@ Overall, the structure of the closed trades suggests a pattern where positive co
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Intuit Inc.(INTU)</td><td>308.90</td><td>329.90</td><td class="pnl">+6.80%</td><td>144.4h</td><td>10-09 22:45 → 10-15 23:10</td></tr><tr class="t-win"><td class="res">win</td><td>Waste Management, Inc.(WM)</td><td>209.10</td><td>221.80</td><td class="pnl">+6.07%</td><td>168.0h</td><td>10-08 23:05 → 10-15 23:05</td></tr><tr class="t-win"><td class="res">win</td><td>Nike, Inc.(NKE)</td><td>34.84</td><td>36.87</td><td class="pnl">+5.83%</td><td>139.8h</td><td>10-10 03:10 → 10-15 22:55</td></tr><tr class="t-win"><td class="res">win</td><td>ServiceNow, Inc.(NOW)</td><td>138.80</td><td>146.50</td><td class="pnl">+5.55%</td><td>42.2h</td><td>10-14 05:00 → 10-15 23:15</td></tr><tr class="t-win"><td class="res">win</td><td>Adobe Inc.(ADBE)</td><td>237.10</td><td>250.10</td><td class="pnl">+5.48%</td><td>71.8h</td><td>10-12 23:05 → 10-15 22:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Lumentum Holdings Inc.(LITE)</td><td>917.00</td><td>820.10</td><td class="pnl">-10.57%</td><td>21.8h</td><td>10-15 00:50 → 10-15 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Coherent Corp.(COHR)</td><td>269.50</td><td>241.40</td><td class="pnl">-10.43%</td><td>21.8h</td><td>10-15 00:50 → 10-15 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Sandisk Corporation(SNDK)</td><td>1,446</td><td>1,305</td><td class="pnl">-9.75%</td><td>24.0h</td><td>10-14 22:45 → 10-15 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Hewlett Packard Enterprise Comp(HPE)</td><td>64.48</td><td>58.26</td><td class="pnl">-9.65%</td><td>23.9h</td><td>10-14 22:45 → 10-15 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Dell Technologies Inc.(DELL)</td><td>514.10</td><td>466.10</td><td class="pnl">-9.34%</td><td>21.2h</td><td>10-15 01:25 → 10-15 22:40</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -10.57% · P25 -1.84% · median +2.85% · P75 +3.57% · max +6.80%_
 
-**Full data** — all 380 closed trades: [CSV download](/data/journal/2026-10-16-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 380 closed trades: [CSV download](/data/journal/2026-10-16-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -10.57% · P25 -1.84% · median +
 
 _As of 2026-10-16 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

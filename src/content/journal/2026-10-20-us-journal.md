@@ -17,7 +17,7 @@ metrics:
   best_pct: 8.76
   worst_pct: -4.37
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.61
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-10-20-us-journal-en/
@@ -59,7 +59,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Moderna, Inc.(MRNA)</td><td>214.60</td><td>233.40</td><td class="pnl">+8.76%</td><td>70.7h</td><td>10-17 00:00 → 10-19 22:40</td></tr><tr class="t-win"><td class="res">이익</td><td>Sandisk Corporation(SNDK)</td><td>1,313</td><td>1,381</td><td class="pnl">+5.18%</td><td>66.8h</td><td>10-17 04:00 → 10-19 22:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Twilio Inc.(TWLO)</td><td>241.20</td><td>251.80</td><td class="pnl">+4.39%</td><td>69.7h</td><td>10-17 01:05 → 10-19 22:45</td></tr><tr class="t-win"><td class="res">이익</td><td>아리스타 네트웍스(ANET)</td><td>177.90</td><td>185.20</td><td class="pnl">+4.10%</td><td>70.5h</td><td>10-17 02:30 → 10-20 01:00</td></tr><tr class="t-win"><td class="res">이익</td><td>Intel Corporation(INTC)</td><td>91.09</td><td>94.67</td><td class="pnl">+3.93%</td><td>68.2h</td><td>10-17 02:40 → 10-19 22:55</td></tr><tr class="t-loss"><td class="res">손실</td><td>Skydance Corporation(SKYD)</td><td>6.96</td><td>6.66</td><td class="pnl">-4.37%</td><td>68.5h</td><td>10-17 02:10 → 10-19 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>아메리프라이즈 파이낸셜(AMP)</td><td>508.50</td><td>489.60</td><td class="pnl">-3.72%</td><td>71.7h</td><td>10-16 23:00 → 10-19 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Halliburton Company(HAL)</td><td>33.68</td><td>32.47</td><td class="pnl">-3.59%</td><td>72.8h</td><td>10-16 23:05 → 10-19 23:55</td></tr><tr class="t-loss"><td class="res">손실</td><td>Flex Ltd.(FLEX)</td><td>91.79</td><td>88.61</td><td class="pnl">-3.46%</td><td>71.6h</td><td>10-17 02:30 → 10-20 02:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>Intuit Inc.(INTU)</td><td>330.60</td><td>319.20</td><td class="pnl">-3.45%</td><td>95.6h</td><td>10-15 23:15 → 10-19 22:50</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 237건 기준): 최소 -4.37% · P25 -1.46% · 중앙값 -0.38% · P75 +0.39% · 최대 +8.76%_
 
-**전체 데이터** — 마감 270건 전량: [CSV 다운로드](/data/journal/2026-10-20-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 270건 전량: [CSV 다운로드](/data/journal/2026-10-20-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -68,9 +68,9 @@ _손익 분포 (의미있는 거래 237건 기준): 최소 -4.37% · P25 -1.46% 
 
 _기준일: 2026-10-20 (KST) · as of 2026-10-20._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

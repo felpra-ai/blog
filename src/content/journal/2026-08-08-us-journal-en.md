@@ -17,7 +17,7 @@ metrics:
   best_pct: 16.06
   worst_pct: -5.38
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.27
 ogImage: /characters/us/01_joy.png
 altUrl: /journal/2026-08-08-us-journal/
@@ -63,7 +63,7 @@ The data set provides a solid foundation for observing the distribution of outco
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Airbnb, Inc.(ABNB)</td><td>150.70</td><td>174.90</td><td class="pnl">+16.06%</td><td>96.2h</td><td>08-03 23:55 → 08-08 00:10</td></tr><tr class="t-win"><td class="res">win</td><td>Microchip Technology Incorporat(MCHP)</td><td>75.59</td><td>84.01</td><td class="pnl">+11.14%</td><td>19.2h</td><td>08-07 04:55 → 08-08 00:10</td></tr><tr class="t-win"><td class="res">win</td><td>Newmont Corporation(NEM)</td><td>104.90</td><td>112.80</td><td class="pnl">+7.53%</td><td>48.3h</td><td>08-06 00:25 → 08-08 00:45</td></tr><tr class="t-win"><td class="res">win</td><td>Moderna, Inc.(MRNA)</td><td>55.21</td><td>58.22</td><td class="pnl">+5.45%</td><td>28.3h</td><td>08-06 23:50 → 08-08 04:10</td></tr><tr class="t-win"><td class="res">win</td><td>Humana Inc.(HUM)</td><td>364.00</td><td>382.00</td><td class="pnl">+4.95%</td><td>44.4h</td><td>08-06 05:00 → 08-08 01:25</td></tr><tr class="t-loss"><td class="res">loss</td><td>ResMed Inc.(RMD)</td><td>224.90</td><td>212.80</td><td class="pnl">-5.38%</td><td>20.7h</td><td>08-07 03:40 → 08-08 00:20</td></tr><tr class="t-loss"><td class="res">loss</td><td>GE Vernova Inc.(GEV)</td><td>1,025</td><td>970.50</td><td class="pnl">-5.32%</td><td>47.6h</td><td>08-06 00:35 → 08-08 00:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Sandisk Corporation(SNDK)</td><td>1,280</td><td>1,216</td><td class="pnl">-5.00%</td><td>22.7h</td><td>08-07 01:30 → 08-08 00:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Keurig Dr Pepper Inc.(KDP)</td><td>31.21</td><td>29.70</td><td class="pnl">-4.84%</td><td>96.4h</td><td>08-03 23:45 → 08-08 00:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Valero Energy Corporation(VLO)</td><td>308.40</td><td>293.90</td><td class="pnl">-4.70%</td><td>48.4h</td><td>08-05 23:45 → 08-08 00:10</td></tr></tbody></table>
 _P&L distribution (148 meaningful trades): min -5.38% · P25 -1.27% · median -0.07% · P75 +2.10% · max +16.06%_
 
-**Full data** — all 168 closed trades: [CSV download](/data/journal/2026-08-08-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 168 closed trades: [CSV download](/data/journal/2026-08-08-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (148 meaningful trades): min -5.38% · P25 -1.27% · median -0
 
 _As of 2026-08-08 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

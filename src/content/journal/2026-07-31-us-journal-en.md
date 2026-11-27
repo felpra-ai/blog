@@ -17,7 +17,7 @@ metrics:
   best_pct: 17.23
   worst_pct: -9.77
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.86
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-07-31-us-journal/
@@ -63,7 +63,7 @@ The losses incurred in names like LHX and HPQ, which represented the largest neg
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Quanta Services, Inc.(PWR)</td><td>558.20</td><td>654.40</td><td class="pnl">+17.23%</td><td>20.3h</td><td>07-30 02:15 → 07-30 22:35</td></tr><tr class="t-win"><td class="res">win</td><td>EMCOR Group, Inc.(EME)</td><td>679.50</td><td>789.80</td><td class="pnl">+16.23%</td><td>21.4h</td><td>07-30 01:10 → 07-30 22:35</td></tr><tr class="t-win"><td class="res">win</td><td>Advanced Micro Devices, Inc.(AMD)</td><td>440.90</td><td>491.70</td><td class="pnl">+11.52%</td><td>18.9h</td><td>07-30 04:30 → 07-30 23:25</td></tr><tr class="t-win"><td class="res">win</td><td>Micron Technology, Inc.(MU)</td><td>765.20</td><td>850.60</td><td class="pnl">+11.16%</td><td>18.6h</td><td>07-30 04:50 → 07-30 23:25</td></tr><tr class="t-win"><td class="res">win</td><td>Avery Dennison Corporation(AVY)</td><td>167.30</td><td>185.50</td><td class="pnl">+10.88%</td><td>21.7h</td><td>07-30 00:55 → 07-30 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>L3Harris Technologies, Inc.(LHX)</td><td>298.80</td><td>269.60</td><td class="pnl">-9.77%</td><td>20.2h</td><td>07-30 02:25 → 07-30 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Omnicom Group Inc.(OMC)</td><td>83.22</td><td>77.24</td><td class="pnl">-7.19%</td><td>20.7h</td><td>07-30 01:55 → 07-30 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>HP Inc.(HPQ)</td><td>28.36</td><td>26.77</td><td class="pnl">-5.61%</td><td>17.7h</td><td>07-30 04:55 → 07-30 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Public Storage(PSA)</td><td>332.30</td><td>314.90</td><td class="pnl">-5.24%</td><td>18.9h</td><td>07-30 03:40 → 07-30 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Brown & Brown, Inc.(BRO)</td><td>74.89</td><td>70.97</td><td class="pnl">-5.23%</td><td>19.1h</td><td>07-30 04:20 → 07-30 23:25</td></tr></tbody></table>
 _P&L distribution (228 meaningful trades): min -9.77% · P25 -3.20% · median -0.52% · P75 +0.78% · max +17.23%_
 
-**Full data** — all 264 closed trades: [CSV download](/data/journal/2026-07-31-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 264 closed trades: [CSV download](/data/journal/2026-07-31-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (228 meaningful trades): min -9.77% · P25 -3.20% · median -0
 
 _As of 2026-07-31 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

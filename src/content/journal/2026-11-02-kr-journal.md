@@ -17,7 +17,7 @@ metrics:
   best_pct: 9.01
   worst_pct: -24.01
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 2.98
 ogImage: /characters/kr/09_excited.png
 altUrl: /journal/2026-11-02-kr-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>성광벤드(014620)</td><td>26,026</td><td>28,372</td><td class="pnl">+9.01%</td><td>71.9h</td><td>10-30 09:15 → 11-02 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>HD현대마린엔진(071970)</td><td>35,786</td><td>38,861</td><td class="pnl">+8.59%</td><td>71.6h</td><td>10-30 09:45 → 11-02 09:20</td></tr><tr class="t-win"><td class="res">이익</td><td>케어젠(214370)</td><td>24,324</td><td>26,374</td><td class="pnl">+8.43%</td><td>0.3h</td><td>11-02 09:25 → 11-02 09:45</td></tr><tr class="t-win"><td class="res">이익</td><td>큐리옥스바이오시스템즈(445680)</td><td>49,099</td><td>53,147</td><td class="pnl">+8.24%</td><td>66.2h</td><td>10-30 15:05 → 11-02 09:20</td></tr><tr class="t-win"><td class="res">이익</td><td>한화오션(042660)</td><td>49,850</td><td>53,546</td><td class="pnl">+7.41%</td><td>71.8h</td><td>10-30 09:25 → 11-02 09:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>케어젠(214370)</td><td>32,933</td><td>25,025</td><td class="pnl">-24.01%</td><td>70.2h</td><td>10-30 11:00 → 11-02 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>SOOP(067160)</td><td>36,336</td><td>32,517</td><td class="pnl">-10.51%</td><td>94.8h</td><td>10-29 10:20 → 11-02 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>네오위즈(095660)</td><td>17,137</td><td>16,194</td><td class="pnl">-5.50%</td><td>114.9h</td><td>10-28 14:15 → 11-02 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>와이지엔터테인먼트(122870)</td><td>38,889</td><td>36,763</td><td class="pnl">-5.47%</td><td>94.5h</td><td>10-29 10:40 → 11-02 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>성호전자(043260)</td><td>26,977</td><td>25,674</td><td class="pnl">-4.83%</td><td>71.8h</td><td>10-30 09:20 → 11-02 09:10</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -24.01% · P25 -0.06% · 중앙값 +2.15% · P75 +2.98% · 최대 +9.01%_
 
-**전체 데이터** — 마감 349건 전량: [CSV 다운로드](/data/journal/2026-11-02-kr.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 349건 전량: [CSV 다운로드](/data/journal/2026-11-02-kr.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -24.01% · P25 -0.06%
 
 _기준일: 2026-11-02 (KST) · as of 2026-11-02._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

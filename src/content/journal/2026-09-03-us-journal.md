@@ -17,7 +17,7 @@ metrics:
   best_pct: 8.0
   worst_pct: -7.28
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.85
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-09-03-us-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>베스트 바이(BBY)</td><td>79.52</td><td>85.88</td><td class="pnl">+8.00%</td><td>47.5h</td><td>08-31 23:40 → 09-02 23:10</td></tr><tr class="t-win"><td class="res">이익</td><td>Skyworks Solutions, Inc.(SWKS)</td><td>66.50</td><td>70.29</td><td class="pnl">+5.70%</td><td>145.2h</td><td>08-27 23:10 → 09-03 00:20</td></tr><tr class="t-win"><td class="res">이익</td><td>Wells Fargo & Company(WFC)</td><td>85.65</td><td>89.45</td><td class="pnl">+4.44%</td><td>163.5h</td><td>08-27 04:50 → 09-03 00:20</td></tr><tr class="t-win"><td class="res">이익</td><td>Deere & Company(DE)</td><td>653.80</td><td>682.30</td><td class="pnl">+4.36%</td><td>45.0h</td><td>09-01 02:10 → 09-02 23:10</td></tr><tr class="t-win"><td class="res">이익</td><td>Reddit, Inc.(RDDT)</td><td>147.80</td><td>153.90</td><td class="pnl">+4.13%</td><td>49.1h</td><td>08-31 23:00 → 09-03 00:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>Palo Alto Networks, Inc.(PANW)</td><td>362.40</td><td>336.00</td><td class="pnl">-7.28%</td><td>23.1h</td><td>09-01 23:40 → 09-02 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Palantir Technologies Inc.(PLTR)</td><td>185.00</td><td>173.90</td><td class="pnl">-6.00%</td><td>142.7h</td><td>08-28 00:05 → 09-02 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Seagate Technology Holdings PLC(STX)</td><td>823.30</td><td>785.70</td><td class="pnl">-4.57%</td><td>49.0h</td><td>08-31 23:05 → 09-03 00:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>Tesla, Inc.(TSLA)</td><td>364.50</td><td>350.60</td><td class="pnl">-3.81%</td><td>46.8h</td><td>09-01 00:20 → 09-02 23:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>Equinix, Inc.(EQIX)</td><td>1,050</td><td>1,012</td><td class="pnl">-3.62%</td><td>117.3h</td><td>08-29 01:25 → 09-02 22:45</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 150건 기준): 최소 -7.28% · P25 -2.08% · 중앙값 -0.23% · P75 +1.85% · 최대 +8.00%_
 
-**전체 데이터** — 마감 150건 전량: [CSV 다운로드](/data/journal/2026-09-03-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 150건 전량: [CSV 다운로드](/data/journal/2026-09-03-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 150건 기준): 최소 -7.28% · P25 -2.08% 
 
 _기준일: 2026-09-03 (KST) · as of 2026-09-03._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

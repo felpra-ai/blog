@@ -17,7 +17,7 @@ metrics:
   best_pct: 27.05
   worst_pct: -9.34
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 2.95
 ogImage: /characters/crypto/09_excited.png
 altUrl: /journal/2026-08-20-crypto-journal/
@@ -65,7 +65,7 @@ The overall data set suggests a positive operational bias for the period. The co
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>PONKE</td><td>19.91</td><td>21.86</td><td class="pnl">+9.79%</td><td>21.2h</td><td>08-19 09:00 → 08-20 06:15</td></tr><tr class="t-win"><td class="res">win</td><td>GRVT Token(GRVT)</td><td>416.40</td><td>448.60</td><td class="pnl">+7.73%</td><td>8.5h</td><td>08-19 16:15 → 08-20 00:45</td></tr><tr class="t-win"><td class="res">win</td><td>ZAMA</td><td>57.10</td><td>61.06</td><td class="pnl">+6.94%</td><td>18.5h</td><td>08-19 06:15 → 08-20 00:45</td></tr><tr class="t-win"><td class="res">win</td><td>Momentum(MMT)</td><td>225.20</td><td>240.80</td><td class="pnl">+6.93%</td><td>10.8h</td><td>08-19 14:00 → 08-20 00:45</td></tr><tr class="t-win"><td class="res">win</td><td>Curve DAO(CRV)</td><td>328.30</td><td>350.60</td><td class="pnl">+6.79%</td><td>7.5h</td><td>08-19 17:00 → 08-20 00:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Zircuit(ZRC)</td><td>1.01</td><td>0.969</td><td class="pnl">-4.15%</td><td>19.5h</td><td>08-19 04:45 → 08-20 00:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Derive(DRV)</td><td>129.10</td><td>123.90</td><td class="pnl">-4.03%</td><td>24.2h</td><td>08-18 21:15 → 08-19 21:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>BASED</td><td>108.10</td><td>103.90</td><td class="pnl">-3.89%</td><td>10.5h</td><td>08-19 12:30 → 08-19 23:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Squid(QUID)</td><td>92.73</td><td>89.22</td><td class="pnl">-3.79%</td><td>10.8h</td><td>08-19 14:45 → 08-20 01:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>AEON</td><td>113.10</td><td>108.90</td><td class="pnl">-3.71%</td><td>10.2h</td><td>08-19 14:45 → 08-20 01:00</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -4.15% · P25 +1.48% · median +2.79% · P75 +3.55% · max +9.79%_
 
-**Full data** — all 1304 closed trades: [CSV download](/data/journal/2026-08-20-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 1304 closed trades: [CSV download](/data/journal/2026-08-20-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -74,9 +74,9 @@ _P&L distribution (300 meaningful trades): min -4.15% · P25 +1.48% · median +2
 
 _As of 2026-08-20 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

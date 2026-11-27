@@ -17,7 +17,7 @@ metrics:
   best_pct: 3.86
   worst_pct: -4.89
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.09
 ogImage: /characters/v2/us/02_sad.png
 altUrl: /journal/2026-11-18-us-journal/
@@ -55,7 +55,7 @@ The deepest losses gathered in a familiar part of the market. Salesforce fell 4.
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Comfort Systems USA, Inc.(FIX)</td><td>1,062</td><td>1,103</td><td class="pnl">+3.86%</td><td>19.8h</td><td>11-17 04:05 → 11-17 23:50</td></tr><tr class="t-win"><td class="res">win</td><td>Flex Ltd.(FLEX)</td><td>73.23</td><td>76.03</td><td class="pnl">+3.82%</td><td>23.9h</td><td>11-16 23:55 → 11-17 23:50</td></tr><tr class="t-win"><td class="res">win</td><td>Nike, Inc.(NKE)</td><td>38.22</td><td>39.65</td><td class="pnl">+3.74%</td><td>96.1h</td><td>11-13 23:45 → 11-17 23:50</td></tr><tr class="t-win"><td class="res">win</td><td>Coherent Corp.(COHR)</td><td>201.50</td><td>208.60</td><td class="pnl">+3.52%</td><td>0.2h</td><td>11-18 00:55 → 11-18 01:10</td></tr><tr class="t-win"><td class="res">win</td><td>Chipotle Mexican Grill, Inc.(CMG)</td><td>35.00</td><td>36.00</td><td class="pnl">+2.86%</td><td>96.2h</td><td>11-13 23:50 → 11-18 00:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Salesforce, Inc.(CRM)</td><td>216.80</td><td>206.20</td><td class="pnl">-4.89%</td><td>95.0h</td><td>11-14 00:45 → 11-17 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Adobe Inc.(ADBE)</td><td>250.50</td><td>239.00</td><td class="pnl">-4.59%</td><td>22.6h</td><td>11-17 01:10 → 11-17 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>GoDaddy Inc.(GDDY)</td><td>113.40</td><td>108.30</td><td class="pnl">-4.50%</td><td>138.0h</td><td>11-12 05:45 → 11-17 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Robinhood Markets, Inc.(HOOD)</td><td>70.52</td><td>67.49</td><td class="pnl">-4.30%</td><td>1.0h</td><td>11-17 23:55 → 11-18 00:55</td></tr><tr class="t-loss"><td class="res">loss</td><td>International Business Machines(IBM)</td><td>248.60</td><td>238.00</td><td class="pnl">-4.26%</td><td>139.8h</td><td>11-12 03:55 → 11-17 23:45</td></tr></tbody></table>
 _P&L distribution (291 meaningful trades): min -4.89% · P25 -3.19% · median -1.30% · P75 -0.41% · max +3.86%_
 
-**Full data** — all 330 closed trades: [CSV download](/data/journal/2026-11-18-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 330 closed trades: [CSV download](/data/journal/2026-11-18-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _P&L distribution (291 meaningful trades): min -4.89% · P25 -3.19% · median -1
 
 _As of 2026-11-18 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

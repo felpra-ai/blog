@@ -17,7 +17,7 @@ metrics:
   best_pct: 10.69
   worst_pct: -20.81
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.7
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-08-07-us-journal/
@@ -61,7 +61,7 @@ The larger losses, such as those seen with HONA and SNDK, highlight instances wh
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Parker-Hannifin Corporation(PH)</td><td>987.40</td><td>1,093</td><td class="pnl">+10.69%</td><td>47.8h</td><td>08-04 23:40 → 08-06 23:30</td></tr><tr class="t-win"><td class="res">win</td><td>First Solar, Inc.(FSLR)</td><td>229.50</td><td>248.80</td><td class="pnl">+8.41%</td><td>19.2h</td><td>08-06 04:40 → 08-06 23:50</td></tr><tr class="t-win"><td class="res">win</td><td>Fox Corporation(FOXA)</td><td>58.44</td><td>61.77</td><td class="pnl">+5.70%</td><td>24.8h</td><td>08-05 23:50 → 08-07 00:40</td></tr><tr class="t-win"><td class="res">win</td><td>News Corporation(NWS)</td><td>32.30</td><td>34.08</td><td class="pnl">+5.51%</td><td>21.2h</td><td>08-06 02:20 → 08-06 23:30</td></tr><tr class="t-win"><td class="res">win</td><td>Motorola Solutions, Inc.(MSI)</td><td>445.00</td><td>467.70</td><td class="pnl">+5.10%</td><td>44.8h</td><td>08-05 03:35 → 08-07 00:20</td></tr><tr class="t-loss"><td class="res">loss</td><td>Honeywell Aerospace Inc.(HONA)</td><td>207.10</td><td>164.00</td><td class="pnl">-20.81%</td><td>18.8h</td><td>08-06 04:40 → 08-06 23:25</td></tr><tr class="t-loss"><td class="res">loss</td><td>Sandisk Corporation(SNDK)</td><td>1,408</td><td>1,284</td><td class="pnl">-8.81%</td><td>22.5h</td><td>08-06 00:55 → 08-06 23:25</td></tr><tr class="t-loss"><td class="res">loss</td><td>Fiserv, Inc.(FISV)</td><td>53.80</td><td>50.31</td><td class="pnl">-6.49%</td><td>22.1h</td><td>08-06 01:20 → 08-06 23:25</td></tr><tr class="t-loss"><td class="res">loss</td><td>Host Hotels & Resorts, Inc.(HST)</td><td>24.97</td><td>23.58</td><td class="pnl">-5.57%</td><td>162.8h</td><td>07-31 04:40 → 08-06 23:25</td></tr><tr class="t-loss"><td class="res">loss</td><td>Block, Inc.(XYZ)</td><td>83.93</td><td>79.71</td><td class="pnl">-5.03%</td><td>48.1h</td><td>08-04 23:40 → 08-06 23:45</td></tr></tbody></table>
 _P&L distribution (275 meaningful trades): min -20.81% · P25 -1.36% · median -0.23% · P75 +1.03% · max +10.69%_
 
-**Full data** — all 340 closed trades: [CSV download](/data/journal/2026-08-07-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 340 closed trades: [CSV download](/data/journal/2026-08-07-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (275 meaningful trades): min -20.81% · P25 -1.36% · median -
 
 _As of 2026-08-07 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

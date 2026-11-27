@@ -17,7 +17,7 @@ metrics:
   best_pct: 3.51
   worst_pct: -3.82
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.35
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-07-23-us-journal/
@@ -63,7 +63,7 @@ The trades that resulted in the largest losses, such as those in AXON, CSGP, and
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Netflix, Inc.(NFLX)</td><td>67.79</td><td>70.17</td><td class="pnl">+3.51%</td><td>19.9h</td><td>07-22 04:10 → 07-23 00:05</td></tr><tr class="t-win"><td class="res">win</td><td>Brown Forman Inc(BF-B)</td><td>25.82</td><td>26.63</td><td class="pnl">+3.14%</td><td>115.2h</td><td>07-18 03:20 → 07-22 22:35</td></tr><tr class="t-win"><td class="res">win</td><td>First Solar, Inc.(FSLR)</td><td>205.30</td><td>211.50</td><td class="pnl">+3.02%</td><td>20.2h</td><td>07-22 05:00 → 07-23 01:10</td></tr><tr class="t-win"><td class="res">win</td><td>CoStar Group, Inc.(CSGP)</td><td>27.69</td><td>28.13</td><td class="pnl">+1.59%</td><td>3.2h</td><td>07-22 23:45 → 07-23 02:55</td></tr><tr class="t-win"><td class="res">win</td><td>Charter Communications, Inc.(CHTR)</td><td>126.50</td><td>128.50</td><td class="pnl">+1.58%</td><td>0.9h</td><td>07-22 23:55 → 07-23 00:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Axon Enterprise, Inc.(AXON)</td><td>521.60</td><td>501.70</td><td class="pnl">-3.82%</td><td>22.2h</td><td>07-22 00:55 → 07-22 23:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>CoStar Group, Inc.(CSGP)</td><td>28.62</td><td>27.63</td><td class="pnl">-3.46%</td><td>20.6h</td><td>07-22 03:00 → 07-22 23:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>ServiceNow, Inc.(NOW)</td><td>102.10</td><td>98.66</td><td class="pnl">-3.37%</td><td>17.8h</td><td>07-22 04:45 → 07-22 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Uber Technologies, Inc.(UBER)</td><td>72.67</td><td>70.36</td><td class="pnl">-3.18%</td><td>117.0h</td><td>07-18 02:35 → 07-22 23:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Palantir Technologies Inc.(PLTR)</td><td>133.10</td><td>128.90</td><td class="pnl">-3.16%</td><td>18.0h</td><td>07-22 04:35 → 07-22 22:35</td></tr></tbody></table>
 _P&L distribution (107 meaningful trades): min -3.82% · P25 -0.73% · median -0.25% · P75 +0.14% · max +3.51%_
 
-**Full data** — all 212 closed trades: [CSV download](/data/journal/2026-07-23-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 212 closed trades: [CSV download](/data/journal/2026-07-23-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (107 meaningful trades): min -3.82% · P25 -0.73% · median -0
 
 _As of 2026-07-23 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

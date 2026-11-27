@@ -17,7 +17,7 @@ metrics:
   best_pct: 8.29
   worst_pct: -6.51
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.25
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-09-02-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Edison International(EIX)</td><td>54.03</td><td>58.51</td><td class="pnl">+8.29%</td><td>28.3h</td><td>08-31 23:45 → 09-02 04:05</td></tr><tr class="t-win"><td class="res">이익</td><td>Sandisk Corporation(SNDK)</td><td>1,496</td><td>1,588</td><td class="pnl">+6.15%</td><td>23.7h</td><td>09-01 01:40 → 09-02 01:20</td></tr><tr class="t-win"><td class="res">이익</td><td>Moderna, Inc.(MRNA)</td><td>136.80</td><td>144.40</td><td class="pnl">+5.56%</td><td>19.6h</td><td>09-01 04:25 → 09-02 00:00</td></tr><tr class="t-win"><td class="res">이익</td><td>Dollar General Corporation(DG)</td><td>123.40</td><td>129.90</td><td class="pnl">+5.27%</td><td>97.1h</td><td>08-28 22:45 → 09-01 23:50</td></tr><tr class="t-win"><td class="res">이익</td><td>Howmet Aerospace Inc.(HWM)</td><td>241.50</td><td>252.80</td><td class="pnl">+4.68%</td><td>22.4h</td><td>09-01 01:25 → 09-01 23:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>액손 엔터프라이스(AXON)</td><td>579.20</td><td>541.50</td><td class="pnl">-6.51%</td><td>23.4h</td><td>08-31 23:25 → 09-01 22:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>Intel Corporation(INTC)</td><td>91.59</td><td>85.84</td><td class="pnl">-6.28%</td><td>118.4h</td><td>08-28 00:25 → 09-01 22:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>AMD(어드밴스드 마이크로 디바이시스)(AMD)</td><td>478.10</td><td>453.60</td><td class="pnl">-5.12%</td><td>119.2h</td><td>08-27 23:40 → 09-01 22:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>Microchip Technology Incorporat(MCHP)</td><td>74.79</td><td>71.32</td><td class="pnl">-4.64%</td><td>115.8h</td><td>08-28 03:00 → 09-01 22:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>어플라이드 머티리얼즈(AMAT)</td><td>463.20</td><td>441.90</td><td class="pnl">-4.60%</td><td>93.2h</td><td>08-29 01:40 → 09-01 22:50</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 222건 기준): 최소 -6.51% · P25 -3.25% · 중앙값 -1.69% · P75 -0.10% · 최대 +8.29%_
 
-**전체 데이터** — 마감 237건 전량: [CSV 다운로드](/data/journal/2026-09-02-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 237건 전량: [CSV 다운로드](/data/journal/2026-09-02-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 222건 기준): 최소 -6.51% · P25 -3.25% 
 
 _기준일: 2026-09-02 (KST) · as of 2026-09-02._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

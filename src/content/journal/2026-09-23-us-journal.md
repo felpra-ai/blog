@@ -17,7 +17,7 @@ metrics:
   best_pct: 4.11
   worst_pct: -4.72
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.31
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-09-23-us-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Teradyne, Inc.(TER)</td><td>377.50</td><td>393.00</td><td class="pnl">+4.11%</td><td>3.6h</td><td>09-22 22:45 → 09-23 02:20</td></tr><tr class="t-win"><td class="res">이익</td><td>Mettler-Toledo International, I(MTD)</td><td>1,436</td><td>1,493</td><td class="pnl">+3.97%</td><td>4.6h</td><td>09-22 23:15 → 09-23 03:50</td></tr><tr class="t-win"><td class="res">이익</td><td>Sandisk Corporation(SNDK)</td><td>1,814</td><td>1,885</td><td class="pnl">+3.91%</td><td>0.8h</td><td>09-22 22:45 → 09-22 23:35</td></tr><tr class="t-win"><td class="res">이익</td><td>Illumina, Inc.(ILMN)</td><td>235.90</td><td>245.10</td><td class="pnl">+3.90%</td><td>2.8h</td><td>09-22 22:45 → 09-23 01:30</td></tr><tr class="t-win"><td class="res">이익</td><td>Marathon Petroleum Corporation(MPC)</td><td>389.00</td><td>400.90</td><td class="pnl">+3.06%</td><td>2.8h</td><td>09-22 22:45 → 09-23 01:30</td></tr><tr class="t-loss"><td class="res">손실</td><td>Expedia Group, Inc.(EXPE)</td><td>283.70</td><td>270.30</td><td class="pnl">-4.72%</td><td>0.8h</td><td>09-22 22:45 → 09-22 23:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>Charles Schwab Corporation (The(SCHW)</td><td>104.70</td><td>100.40</td><td class="pnl">-4.11%</td><td>0.8h</td><td>09-22 22:45 → 09-22 23:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>시스코 시스템즈(CSCO)</td><td>109.40</td><td>105.10</td><td class="pnl">-3.93%</td><td>2.3h</td><td>09-22 22:45 → 09-23 01:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>Gen Digital Inc.(GEN)</td><td>29.22</td><td>28.11</td><td class="pnl">-3.80%</td><td>0.7h</td><td>09-22 22:55 → 09-22 23:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>Deckers Outdoor Corporation(DECK)</td><td>82.76</td><td>79.68</td><td class="pnl">-3.72%</td><td>1.9h</td><td>09-22 22:45 → 09-23 00:40</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 71건 기준): 최소 -4.72% · P25 -3.22% · 중앙값 -0.79% · P75 +0.39% · 최대 +4.11%_
 
-**전체 데이터** — 마감 76건 전량: [CSV 다운로드](/data/journal/2026-09-23-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 76건 전량: [CSV 다운로드](/data/journal/2026-09-23-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 71건 기준): 최소 -4.72% · P25 -3.22% �
 
 _기준일: 2026-09-23 (KST) · as of 2026-09-23._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

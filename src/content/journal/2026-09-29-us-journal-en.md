@@ -17,7 +17,7 @@ metrics:
   best_pct: 4.24
   worst_pct: -7.03
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.3
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-09-29-us-journal/
@@ -59,7 +59,7 @@ The performance highlights a structural imbalance where the cost of incorrect di
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>NVIDIA Corporation(NVDA)</td><td>221.80</td><td>231.20</td><td class="pnl">+4.24%</td><td>94.7h</td><td>09-25 00:25 → 09-28 23:05</td></tr><tr class="t-win"><td class="res">win</td><td>Valero Energy Corporation(VLO)</td><td>373.20</td><td>387.80</td><td class="pnl">+3.91%</td><td>71.7h</td><td>09-25 23:05 → 09-28 22:45</td></tr><tr class="t-win"><td class="res">win</td><td>Hilton Worldwide Holdings Inc.(HLT)</td><td>307.80</td><td>318.00</td><td class="pnl">+3.31%</td><td>145.3h</td><td>09-23 00:40 → 09-29 02:00</td></tr><tr class="t-win"><td class="res">win</td><td>Intuitive Surgical, Inc.(ISRG)</td><td>401.00</td><td>412.90</td><td class="pnl">+2.97%</td><td>145.7h</td><td>09-22 22:55 → 09-29 00:35</td></tr><tr class="t-win"><td class="res">win</td><td>Costco Wholesale Corporation(COST)</td><td>898.90</td><td>925.50</td><td class="pnl">+2.96%</td><td>144.5h</td><td>09-22 23:05 → 09-28 23:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Salesforce, Inc.(CRM)</td><td>239.10</td><td>222.30</td><td class="pnl">-7.03%</td><td>92.0h</td><td>09-25 02:45 → 09-28 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>CDW Corporation(CDW)</td><td>140.40</td><td>132.40</td><td class="pnl">-5.70%</td><td>71.0h</td><td>09-25 23:45 → 09-28 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Adobe Inc.(ADBE)</td><td>239.00</td><td>226.90</td><td class="pnl">-5.06%</td><td>139.9h</td><td>09-23 02:50 → 09-28 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Boeing Company (The)(BA)</td><td>198.50</td><td>188.50</td><td class="pnl">-5.04%</td><td>143.0h</td><td>09-22 23:45 → 09-28 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Roper Technologies, Inc.(ROP)</td><td>368.80</td><td>352.70</td><td class="pnl">-4.37%</td><td>144.0h</td><td>09-22 22:45 → 09-28 22:45</td></tr></tbody></table>
 _P&L distribution (93 meaningful trades): min -7.03% · P25 -3.40% · median -1.48% · P75 +0.35% · max +4.24%_
 
-**Full data** — all 94 closed trades: [CSV download](/data/journal/2026-09-29-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 94 closed trades: [CSV download](/data/journal/2026-09-29-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -68,9 +68,9 @@ _P&L distribution (93 meaningful trades): min -7.03% · P25 -3.40% · median -1.
 
 _As of 2026-09-29 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

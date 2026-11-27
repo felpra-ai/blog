@@ -17,7 +17,7 @@ metrics:
   best_pct: 29.59
   worst_pct: -7.24
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.63
 ogImage: /characters/us/10_suspicious.png
 altUrl: /journal/2026-10-02-us-journal/
@@ -62,7 +62,7 @@ The data confirms that while significant upside captures are possible, the overa
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Accenture plc(ACN)</td><td>173.70</td><td>225.10</td><td class="pnl">+29.59%</td><td>49.0h</td><td>09-29 22:50 → 10-01 23:50</td></tr><tr class="t-win"><td class="res">win</td><td>Cognizant Technology Solutions(CTSH)</td><td>57.59</td><td>63.35</td><td class="pnl">+10.00%</td><td>140.7h</td><td>09-26 03:10 → 10-01 23:50</td></tr><tr class="t-win"><td class="res">win</td><td>PTC Inc.(PTC)</td><td>138.20</td><td>146.80</td><td class="pnl">+6.22%</td><td>167.7h</td><td>09-25 01:00 → 10-02 00:40</td></tr><tr class="t-win"><td class="res">win</td><td>Cboe Global Markets, Inc.(CBOE)</td><td>263.70</td><td>278.90</td><td class="pnl">+5.76%</td><td>48.5h</td><td>09-29 23:35 → 10-02 00:05</td></tr><tr class="t-win"><td class="res">win</td><td>Applied Materials, Inc.(AMAT)</td><td>500.30</td><td>526.40</td><td class="pnl">+5.22%</td><td>47.8h</td><td>09-30 00:35 → 10-02 00:20</td></tr><tr class="t-loss"><td class="res">loss</td><td>General Mills, Inc.(GIS)</td><td>33.83</td><td>31.38</td><td class="pnl">-7.24%</td><td>139.2h</td><td>09-26 04:35 → 10-01 23:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Smurfit WestRock plc(SW)</td><td>45.40</td><td>42.20</td><td class="pnl">-7.05%</td><td>166.8h</td><td>09-25 01:00 → 10-01 23:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Deere & Company(DE)</td><td>700.10</td><td>652.30</td><td class="pnl">-6.83%</td><td>168.2h</td><td>09-24 23:35 → 10-01 23:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Home Depot, Inc. (The)(HD)</td><td>292.50</td><td>277.70</td><td class="pnl">-5.06%</td><td>168.2h</td><td>09-24 23:35 → 10-01 23:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Healthpeak Properties, Inc.(DOC)</td><td>20.46</td><td>19.47</td><td class="pnl">-4.84%</td><td>168.9h</td><td>09-24 22:55 → 10-01 23:50</td></tr></tbody></table>
 _P&L distribution (201 meaningful trades): min -7.24% · P25 -3.21% · median -0.96% · P75 +1.60% · max +29.59%_
 
-**Full data** — all 206 closed trades: [CSV download](/data/journal/2026-10-02-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 206 closed trades: [CSV download](/data/journal/2026-10-02-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -71,9 +71,9 @@ _P&L distribution (201 meaningful trades): min -7.24% · P25 -3.21% · median -0
 
 _As of 2026-10-02 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

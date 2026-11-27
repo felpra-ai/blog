@@ -17,7 +17,7 @@ metrics:
   best_pct: 19.84
   worst_pct: -5.82
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.41
 ogImage: /characters/crypto/07_confident.png
 altUrl: /journal/2026-09-27-crypto-journal/
@@ -61,7 +61,7 @@ The trades resulting in losses, such as Mayflower (MAY) and Cobak (CBK), undersc
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>LeisureMeta(LM)</td><td>1.11</td><td>1.33</td><td class="pnl">+19.84%</td><td>13.0h</td><td>09-26 11:00 → 09-27 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>Delysium(AGI)</td><td>7.84</td><td>8.72</td><td class="pnl">+11.25%</td><td>55.0h</td><td>09-24 17:15 → 09-27 00:15</td></tr><tr class="t-win"><td class="res">win</td><td>CoW Protocol(COW)</td><td>206.20</td><td>228.80</td><td class="pnl">+10.96%</td><td>10.8h</td><td>09-26 22:15 → 09-27 09:00</td></tr><tr class="t-win"><td class="res">win</td><td>Audius(AUDIO)</td><td>19.50</td><td>21.43</td><td class="pnl">+9.90%</td><td>5.8h</td><td>09-26 23:45 → 09-27 05:30</td></tr><tr class="t-win"><td class="res">win</td><td>Definitive(EDGE)</td><td>172.20</td><td>188.80</td><td class="pnl">+9.64%</td><td>0.0h</td><td>09-26 23:00 → 09-26 23:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Mayflower(MAY)</td><td>5.89</td><td>5.62</td><td class="pnl">-4.65%</td><td>7.8h</td><td>09-26 16:15 → 09-27 00:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Ameriprise Financial, Inc.(AMP)</td><td>1.00</td><td>0.9593</td><td class="pnl">-4.07%</td><td>0.2h</td><td>09-26 21:00 → 09-26 21:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Cobak(CBK)</td><td>311.30</td><td>298.70</td><td class="pnl">-4.05%</td><td>18.2h</td><td>09-26 15:30 → 09-27 09:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>GamerCoin(GHX)</td><td>17.31</td><td>16.61</td><td class="pnl">-4.04%</td><td>10.5h</td><td>09-26 23:00 → 09-27 09:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>ALTAVA(TAVA)</td><td>3.92</td><td>3.76</td><td class="pnl">-4.04%</td><td>2.8h</td><td>09-27 00:00 → 09-27 02:45</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -4.65% · P25 -3.26% · median +0.88% · P75 +2.86% · max +19.84%_
 
-**Full data** — all 704 closed trades: [CSV download](/data/journal/2026-09-27-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 704 closed trades: [CSV download](/data/journal/2026-09-27-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (300 meaningful trades): min -4.65% · P25 -3.26% · median +0
 
 _As of 2026-09-27 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

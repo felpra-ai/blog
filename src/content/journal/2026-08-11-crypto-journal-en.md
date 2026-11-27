@@ -17,7 +17,7 @@ metrics:
   best_pct: 45.63
   worst_pct: -9.52
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.61
 ogImage: /characters/crypto/02_sad.png
 altUrl: /journal/2026-08-11-crypto-journal/
@@ -63,7 +63,7 @@ The pattern observed in the losing trades suggests a susceptibility to rapid ret
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Derive(DRV)</td><td>135.10</td><td>155.80</td><td class="pnl">+15.32%</td><td>63.8h</td><td>08-08 19:00 → 08-11 10:45</td></tr><tr class="t-win"><td class="res">win</td><td>Defi App(HOME)</td><td>13.42</td><td>14.76</td><td class="pnl">+9.99%</td><td>8.8h</td><td>08-10 15:15 → 08-11 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>Yield Basis(YB)</td><td>104.10</td><td>110.90</td><td class="pnl">+6.53%</td><td>7.5h</td><td>08-10 14:15 → 08-10 21:45</td></tr><tr class="t-win"><td class="res">win</td><td>Allora(ALLO)</td><td>423.40</td><td>447.60</td><td class="pnl">+5.72%</td><td>13.2h</td><td>08-10 11:45 → 08-11 01:00</td></tr><tr class="t-win"><td class="res">win</td><td>Scroll(SCR)</td><td>29.92</td><td>31.56</td><td class="pnl">+5.48%</td><td>2.2h</td><td>08-10 20:30 → 08-10 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Bubblemaps(BMT)</td><td>41.50</td><td>38.53</td><td class="pnl">-7.16%</td><td>0.8h</td><td>08-10 21:30 → 08-10 22:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>CAP</td><td>62.83</td><td>58.76</td><td class="pnl">-6.48%</td><td>4.0h</td><td>08-10 20:00 → 08-11 00:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Dominion Energy, Inc.(D)</td><td>3.13</td><td>2.94</td><td class="pnl">-6.07%</td><td>0.2h</td><td>08-10 22:45 → 08-10 23:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Dominion Energy, Inc.(D)</td><td>3.37</td><td>3.17</td><td class="pnl">-5.94%</td><td>1.0h</td><td>08-10 21:15 → 08-10 22:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Fabric Protocol(ROBO)</td><td>19.15</td><td>18.04</td><td class="pnl">-5.80%</td><td>26.2h</td><td>08-09 19:45 → 08-10 22:00</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -7.16% · P25 -3.39% · median -1.41% · P75 +0.91% · max +15.32%_
 
-**Full data** — all 831 closed trades: [CSV download](/data/journal/2026-08-11-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 831 closed trades: [CSV download](/data/journal/2026-08-11-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -7.16% · P25 -3.39% · median -1
 
 _As of 2026-08-11 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

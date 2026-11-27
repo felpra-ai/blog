@@ -17,7 +17,7 @@ metrics:
   best_pct: 16.81
   worst_pct: -6.46
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.33
 ogImage: /characters/crypto/02_sad.png
 altUrl: /journal/2026-11-02-crypto-journal/
@@ -59,7 +59,7 @@ The data points toward a need to re-evaluate the risk sizing relative to the obs
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Talus(US)</td><td>6.29</td><td>6.80</td><td class="pnl">+8.18%</td><td>12.0h</td><td>11-01 12:15 → 11-02 00:15</td></tr><tr class="t-win"><td class="res">win</td><td>RedStone(RED)</td><td>181.20</td><td>195.80</td><td class="pnl">+8.06%</td><td>23.2h</td><td>11-01 18:45 → 11-02 18:00</td></tr><tr class="t-win"><td class="res">win</td><td>Contentos(COS)</td><td>0.3067</td><td>0.3261</td><td class="pnl">+6.33%</td><td>15.8h</td><td>11-01 08:15 → 11-02 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>Intuition(TRUST)</td><td>67.08</td><td>71.02</td><td class="pnl">+5.87%</td><td>26.5h</td><td>11-01 09:15 → 11-02 11:45</td></tr><tr class="t-win"><td class="res">win</td><td>Solv Protocol(SOLV)</td><td>6.90</td><td>7.24</td><td class="pnl">+4.96%</td><td>7.0h</td><td>11-01 15:45 → 11-01 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>CAP</td><td>98.24</td><td>91.89</td><td class="pnl">-6.46%</td><td>5.2h</td><td>11-01 18:30 → 11-01 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>AZTEC</td><td>20.47</td><td>19.27</td><td class="pnl">-5.86%</td><td>8.2h</td><td>11-01 20:00 → 11-02 04:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Particle Network(PARTI)</td><td>63.35</td><td>59.70</td><td class="pnl">-5.76%</td><td>3.0h</td><td>11-01 22:15 → 11-02 01:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Ameriprise Financial, Inc.(AMP)</td><td>0.9157</td><td>0.8705</td><td class="pnl">-4.94%</td><td>9.2h</td><td>11-01 22:00 → 11-02 07:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Axis Robotics(AXIS)</td><td>178.20</td><td>170.80</td><td class="pnl">-4.15%</td><td>13.8h</td><td>11-01 10:45 → 11-02 00:30</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -6.46% · P25 -3.45% · median -3.22% · P75 +0.00% · max +8.18%_
 
-**Full data** — all 596 closed trades: [CSV download](/data/journal/2026-11-02-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 596 closed trades: [CSV download](/data/journal/2026-11-02-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -68,9 +68,9 @@ _P&L distribution (300 meaningful trades): min -6.46% · P25 -3.45% · median -3
 
 _As of 2026-11-02 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

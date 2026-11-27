@@ -17,7 +17,7 @@ metrics:
   best_pct: 10.04
   worst_pct: -16.79
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.46
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-11-07-us-journal/
@@ -59,7 +59,7 @@ The trades that resulted in the largest losses, such as those on AXON and MCHP, 
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Airbnb, Inc.(ABNB)</td><td>170.30</td><td>187.40</td><td class="pnl">+10.04%</td><td>23.7h</td><td>11-06 00:00 → 11-06 23:40</td></tr><tr class="t-win"><td class="res">win</td><td>Lam Research Corporation(LRCX)</td><td>184.80</td><td>202.60</td><td class="pnl">+9.63%</td><td>17.7h</td><td>11-06 06:00 → 11-06 23:40</td></tr><tr class="t-win"><td class="res">win</td><td>Advanced Micro Devices, Inc.(AMD)</td><td>404.30</td><td>441.00</td><td class="pnl">+9.08%</td><td>17.8h</td><td>11-06 06:00 → 11-06 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>Coherent Corp.(COHR)</td><td>172.70</td><td>187.50</td><td class="pnl">+8.57%</td><td>19.4h</td><td>11-06 04:20 → 11-06 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>Everpure, Inc.(P)</td><td>93.69</td><td>101.70</td><td class="pnl">+8.55%</td><td>20.6h</td><td>11-06 03:20 → 11-06 23:55</td></tr><tr class="t-loss"><td class="res">loss</td><td>Axon Enterprise, Inc.(AXON)</td><td>376.90</td><td>313.60</td><td class="pnl">-16.79%</td><td>18.4h</td><td>11-06 05:15 → 11-06 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Microchip Technology Incorporat(MCHP)</td><td>66.71</td><td>61.13</td><td class="pnl">-8.36%</td><td>20.3h</td><td>11-06 03:20 → 11-06 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Monster Beverage Corporation(MNST)</td><td>49.15</td><td>45.32</td><td class="pnl">-7.79%</td><td>43.6h</td><td>11-05 04:10 → 11-06 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Fox Corporation(FOX)</td><td>61.57</td><td>57.81</td><td class="pnl">-6.11%</td><td>46.5h</td><td>11-05 01:10 → 11-06 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Live Nation Entertainment, Inc.(LYV)</td><td>184.80</td><td>173.90</td><td class="pnl">-5.90%</td><td>45.6h</td><td>11-05 02:10 → 11-06 23:45</td></tr></tbody></table>
 _P&L distribution (240 meaningful trades): min -16.79% · P25 -3.39% · median -3.12% · P75 +0.66% · max +10.04%_
 
-**Full data** — all 247 closed trades: [CSV download](/data/journal/2026-11-07-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 247 closed trades: [CSV download](/data/journal/2026-11-07-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -68,9 +68,9 @@ _P&L distribution (240 meaningful trades): min -16.79% · P25 -3.39% · median -
 
 _As of 2026-11-07 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

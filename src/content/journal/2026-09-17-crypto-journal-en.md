@@ -17,7 +17,7 @@ metrics:
   best_pct: 3.35
   worst_pct: -3.52
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.56
 ogImage: /characters/crypto/02_sad.png
 altUrl: /journal/2026-09-17-crypto-journal/
@@ -61,7 +61,7 @@ The notable losses highlight instances where the initial directional conviction 
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>ASTER</td><td>927.90</td><td>959.00</td><td class="pnl">+3.35%</td><td>109.0h</td><td>09-12 20:00 → 09-17 09:00</td></tr><tr class="t-win"><td class="res">win</td><td>VERONA</td><td>140.10</td><td>143.90</td><td class="pnl">+2.71%</td><td>62.0h</td><td>09-14 21:00 → 09-17 11:00</td></tr><tr class="t-win"><td class="res">win</td><td>Theoriq(THQ)</td><td>14.47</td><td>14.48</td><td class="pnl">+0.07%</td><td>76.5h</td><td>09-14 10:30 → 09-17 15:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Biconomy(BICO)</td><td>25.58</td><td>24.68</td><td class="pnl">-3.52%</td><td>65.0h</td><td>09-14 06:30 → 09-16 23:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Nexpace(NXPC)</td><td>289.30</td><td>279.70</td><td class="pnl">-3.32%</td><td>63.8h</td><td>09-14 08:00 → 09-16 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Gram (prev. Toncoin)(GRAM)</td><td>1,827</td><td>1,768</td><td class="pnl">-3.23%</td><td>82.0h</td><td>09-13 17:30 → 09-17 03:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>TRON(TRX)</td><td>463.50</td><td>459.50</td><td class="pnl">-0.86%</td><td>103.8h</td><td>09-13 00:00 → 09-17 07:45</td></tr></tbody></table>
 _P&L distribution (7 meaningful trades): min -3.52% · P25 -3.32% · median -0.86% · P75 +2.71% · max +3.35%_
 
-**Full data** — all 7 closed trades: [CSV download](/data/journal/2026-09-17-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 7 closed trades: [CSV download](/data/journal/2026-09-17-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (7 meaningful trades): min -3.52% · P25 -3.32% · median -0.8
 
 _As of 2026-09-17 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

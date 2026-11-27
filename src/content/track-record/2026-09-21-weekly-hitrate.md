@@ -1,7 +1,7 @@
 ---
 title: "Quorum 회의록 #14 — 2026-09-19 주간"
 date: 2026-09-21T08:00:00+09:00
-description: "지난 주 3088건 마감, 승률 48.4%, 평균 -0.06% · OneQAZ Quorum 시장별 결산 (모의매매)"
+description: "지난 주 3088건 마감, 승률 48.4%, 평균 -0.06% · FELPRA Quorum 시장별 결산 (모의매매)"
 category: track-record
 markets: [kr, us, crypto]
 tags: [hitrate, weekly, track-record]
@@ -17,7 +17,7 @@ metrics:
   best_pct: 35.14
   worst_pct: -12.69
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.96
 ogImage: /characters/orchestrator/05_anxious.png
 altUrl: /track-record/2026-09-21-weekly-hitrate-en/
@@ -75,9 +75,9 @@ _이 해시를 보관해 두세요 — 나중에 원장 원본으로 재계산�
 
 _기준일: 2026-09-19 (KST) · as of 2026-09-19._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

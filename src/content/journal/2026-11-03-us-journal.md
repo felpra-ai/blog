@@ -17,7 +17,7 @@ metrics:
   best_pct: 19.67
   worst_pct: -5.71
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.41
 ogImage: /characters/us/07_confident.png
 altUrl: /journal/2026-11-03-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>IDEXX Laboratories, Inc.(IDXX)</td><td>544.50</td><td>651.60</td><td class="pnl">+19.67%</td><td>67.5h</td><td>10-31 04:15 → 11-02 23:45</td></tr><tr class="t-win"><td class="res">이익</td><td>United Airlines Holdings, Inc.(UAL)</td><td>102.10</td><td>110.40</td><td class="pnl">+8.13%</td><td>69.8h</td><td>10-31 02:00 → 11-02 23:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Expedia Group, Inc.(EXPE)</td><td>282.70</td><td>299.50</td><td class="pnl">+5.94%</td><td>96.1h</td><td>10-29 23:55 → 11-03 00:00</td></tr><tr class="t-win"><td class="res">이익</td><td>D.R. Horton, Inc.(DHI)</td><td>143.20</td><td>150.90</td><td class="pnl">+5.38%</td><td>116.8h</td><td>10-29 03:20 → 11-03 00:05</td></tr><tr class="t-win"><td class="res">이익</td><td>CBRE 그룹(CBRE)</td><td>128.40</td><td>135.20</td><td class="pnl">+5.30%</td><td>91.9h</td><td>10-30 04:05 → 11-03 00:00</td></tr><tr class="t-loss"><td class="res">손실</td><td>Edwards Lifesciences Corporatio(EW)</td><td>94.25</td><td>88.87</td><td class="pnl">-5.71%</td><td>99.2h</td><td>10-29 23:40 → 11-03 02:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>Oracle Corporation(ORCL)</td><td>130.40</td><td>124.70</td><td class="pnl">-4.37%</td><td>67.9h</td><td>10-31 03:50 → 11-02 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Lumentum Holdings Inc.(LITE)</td><td>763.70</td><td>732.30</td><td class="pnl">-4.11%</td><td>1.8h</td><td>11-02 23:45 → 11-03 01:30</td></tr><tr class="t-loss"><td class="res">손실</td><td>Marvell Technology, Inc.(MRVL)</td><td>193.20</td><td>185.50</td><td class="pnl">-3.99%</td><td>69.1h</td><td>10-31 02:40 → 11-02 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Monolithic Power Systems, Inc.(MPWR)</td><td>1,298</td><td>1,250</td><td class="pnl">-3.70%</td><td>4.2h</td><td>11-03 00:35 → 11-03 04:50</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -5.71% · P25 -1.15% · 중앙값 +1.25% · P75 +2.97% · 최대 +19.67%_
 
-**전체 데이터** — 마감 402건 전량: [CSV 다운로드](/data/journal/2026-11-03-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 402건 전량: [CSV 다운로드](/data/journal/2026-11-03-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -5.71% · P25 -1.15% 
 
 _기준일: 2026-11-03 (KST) · as of 2026-11-03._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

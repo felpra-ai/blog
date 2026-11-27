@@ -17,7 +17,7 @@ metrics:
   best_pct: 9.43
   worst_pct: -6.48
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.14
 ogImage: /characters/us/01_joy.png
 altUrl: /journal/2026-08-11-us-journal/
@@ -61,7 +61,7 @@ The trades that resulted in losses, such as those in COHR and VRSK, underscore t
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Vertex Pharmaceuticals Incorpor(VRTX)</td><td>481.40</td><td>526.80</td><td class="pnl">+9.43%</td><td>118.0h</td><td>08-06 01:20 → 08-10 23:20</td></tr><tr class="t-win"><td class="res">win</td><td>APA Corporation(APA)</td><td>37.42</td><td>40.03</td><td class="pnl">+6.97%</td><td>67.8h</td><td>08-08 04:50 → 08-11 00:40</td></tr><tr class="t-win"><td class="res">win</td><td>Agilent Technologies, Inc.(A)</td><td>139.70</td><td>147.90</td><td class="pnl">+5.87%</td><td>95.0h</td><td>08-07 01:10 → 08-11 00:10</td></tr><tr class="t-win"><td class="res">win</td><td>Akamai Technologies, Inc.(AKAM)</td><td>111.70</td><td>118.10</td><td class="pnl">+5.73%</td><td>68.5h</td><td>08-08 03:15 → 08-10 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>NetApp, Inc.(NTAP)</td><td>188.40</td><td>199.10</td><td class="pnl">+5.68%</td><td>70.3h</td><td>08-08 01:00 → 08-10 23:20</td></tr><tr class="t-loss"><td class="res">loss</td><td>Coherent Corp.(COHR)</td><td>374.90</td><td>350.60</td><td class="pnl">-6.48%</td><td>68.0h</td><td>08-08 03:15 → 08-10 23:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Verisk Analytics, Inc.(VRSK)</td><td>193.00</td><td>183.20</td><td class="pnl">-5.08%</td><td>66.5h</td><td>08-08 04:50 → 08-10 23:20</td></tr><tr class="t-loss"><td class="res">loss</td><td>eBay Inc.(EBAY)</td><td>112.30</td><td>106.80</td><td class="pnl">-4.90%</td><td>67.3h</td><td>08-08 04:00 → 08-10 23:20</td></tr><tr class="t-loss"><td class="res">loss</td><td>Domino's Pizza Inc(DPZ)</td><td>359.50</td><td>342.50</td><td class="pnl">-4.73%</td><td>95.6h</td><td>08-06 23:45 → 08-10 23:20</td></tr><tr class="t-loss"><td class="res">loss</td><td>Honeywell Aerospace Inc.(HONA)</td><td>167.50</td><td>159.80</td><td class="pnl">-4.60%</td><td>66.4h</td><td>08-08 04:50 → 08-10 23:15</td></tr></tbody></table>
 _P&L distribution (214 meaningful trades): min -6.48% · P25 -0.95% · median -0.14% · P75 +1.50% · max +9.43%_
 
-**Full data** — all 292 closed trades: [CSV download](/data/journal/2026-08-11-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 292 closed trades: [CSV download](/data/journal/2026-08-11-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (214 meaningful trades): min -6.48% · P25 -0.95% · median -0
 
 _As of 2026-08-11 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

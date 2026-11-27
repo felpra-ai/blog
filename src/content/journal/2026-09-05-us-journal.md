@@ -17,7 +17,7 @@ metrics:
   best_pct: 10.29
   worst_pct: -20.05
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.79
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-09-05-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>KLA Corporation(KLAC)</td><td>168.20</td><td>185.50</td><td class="pnl">+10.29%</td><td>24.2h</td><td>09-03 22:50 → 09-04 23:05</td></tr><tr class="t-win"><td class="res">이익</td><td>Sandisk Corporation(SNDK)</td><td>1,548</td><td>1,686</td><td class="pnl">+8.91%</td><td>19.8h</td><td>09-04 04:25 → 09-05 00:10</td></tr><tr class="t-win"><td class="res">이익</td><td>Hewlett Packard Enterprise Comp(HPE)</td><td>50.12</td><td>54.31</td><td class="pnl">+8.36%</td><td>20.7h</td><td>09-04 02:55 → 09-04 23:35</td></tr><tr class="t-win"><td class="res">이익</td><td>코히런트(COHR)</td><td>264.60</td><td>281.40</td><td class="pnl">+6.35%</td><td>19.8h</td><td>09-04 03:25 → 09-04 23:10</td></tr><tr class="t-win"><td class="res">이익</td><td>Micron Technology, Inc.(MU)</td><td>935.00</td><td>993.60</td><td class="pnl">+6.27%</td><td>66.7h</td><td>09-02 04:55 → 09-04 23:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>Fair Isaac Corporation(FICO)</td><td>1,111</td><td>888.20</td><td class="pnl">-20.05%</td><td>20.8h</td><td>09-04 01:55 → 09-04 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>lululemon athletica inc.(LULU)</td><td>121.60</td><td>100.90</td><td class="pnl">-17.02%</td><td>91.8h</td><td>09-01 02:45 → 09-04 22:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>Equifax, Inc.(EFX)</td><td>189.00</td><td>172.10</td><td class="pnl">-8.94%</td><td>95.2h</td><td>08-31 23:20 → 09-04 22:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>어도비(ADBE)</td><td>289.40</td><td>266.50</td><td class="pnl">-7.91%</td><td>23.0h</td><td>09-03 23:35 → 09-04 22:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>PTC Inc.(PTC)</td><td>151.40</td><td>142.40</td><td class="pnl">-5.94%</td><td>20.4h</td><td>09-04 02:10 → 09-04 22:35</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 171건 기준): 최소 -20.05% · P25 -2.26% · 중앙값 -0.42% · P75 +2.18% · 최대 +10.29%_
 
-**전체 데이터** — 마감 179건 전량: [CSV 다운로드](/data/journal/2026-09-05-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 179건 전량: [CSV 다운로드](/data/journal/2026-09-05-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 171건 기준): 최소 -20.05% · P25 -2.26%
 
 _기준일: 2026-09-05 (KST) · as of 2026-09-05._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

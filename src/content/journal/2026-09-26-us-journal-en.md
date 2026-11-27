@@ -17,7 +17,7 @@ metrics:
   best_pct: 9.07
   worst_pct: -5.55
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.99
 ogImage: /characters/us/06_neutral.png
 altUrl: /journal/2026-09-26-us-journal/
@@ -63,7 +63,7 @@ The trades that concluded with losses, such as those in CMCSA and CME, point to 
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Datadog, Inc.(DDOG)</td><td>252.60</td><td>275.50</td><td class="pnl">+9.07%</td><td>42.9h</td><td>09-24 04:10 → 09-25 23:05</td></tr><tr class="t-win"><td class="res">win</td><td>Jabil Inc.(JBL)</td><td>305.00</td><td>329.30</td><td class="pnl">+7.97%</td><td>72.3h</td><td>09-22 22:45 → 09-25 23:05</td></tr><tr class="t-win"><td class="res">win</td><td>Humana Inc.(HUM)</td><td>379.10</td><td>409.30</td><td class="pnl">+7.97%</td><td>73.7h</td><td>09-22 22:55 → 09-26 00:35</td></tr><tr class="t-win"><td class="res">win</td><td>QUALCOMM Incorporated(QCOM)</td><td>192.30</td><td>204.10</td><td class="pnl">+6.14%</td><td>26.3h</td><td>09-24 23:15 → 09-26 01:35</td></tr><tr class="t-win"><td class="res">win</td><td>Dell Technologies Inc.(DELL)</td><td>535.30</td><td>563.20</td><td class="pnl">+5.21%</td><td>25.3h</td><td>09-24 23:45 → 09-26 01:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Comcast Corporation(CMCSA)</td><td>22.69</td><td>21.43</td><td class="pnl">-5.55%</td><td>23.9h</td><td>09-24 22:45 → 09-25 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Gen Digital Inc.(GEN)</td><td>23.69</td><td>22.61</td><td class="pnl">-4.56%</td><td>18.1h</td><td>09-25 04:35 → 09-25 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>CME Group Inc.(CME)</td><td>274.20</td><td>263.40</td><td class="pnl">-3.94%</td><td>73.3h</td><td>09-22 22:45 → 09-26 00:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Copart, Inc.(CPRT)</td><td>28.77</td><td>27.69</td><td class="pnl">-3.75%</td><td>70.9h</td><td>09-22 23:45 → 09-25 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Honeywell Aerospace Inc.(HONA)</td><td>163.60</td><td>157.50</td><td class="pnl">-3.73%</td><td>50.7h</td><td>09-24 00:55 → 09-26 03:35</td></tr></tbody></table>
 _P&L distribution (99 meaningful trades): min -5.55% · P25 -3.16% · median -0.18% · P75 +2.72% · max +9.07%_
 
-**Full data** — all 103 closed trades: [CSV download](/data/journal/2026-09-26-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 103 closed trades: [CSV download](/data/journal/2026-09-26-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (99 meaningful trades): min -5.55% · P25 -3.16% · median -0.
 
 _As of 2026-09-26 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

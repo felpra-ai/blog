@@ -17,7 +17,7 @@ metrics:
   best_pct: 7.99
   worst_pct: -6.46
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.99
 ogImage: /characters/us/06_neutral.png
 altUrl: /journal/2026-10-28-us-journal/
@@ -63,7 +63,7 @@ The trades that resulted in losses, such as those in XYL, SHW, and GLW, highligh
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Bloom Energy Corporation(BE)</td><td>204.10</td><td>220.40</td><td class="pnl">+7.99%</td><td>17.7h</td><td>10-27 05:00 → 10-27 22:40</td></tr><tr class="t-win"><td class="res">win</td><td>Broadcom Inc.(AVGO)</td><td>323.70</td><td>344.70</td><td class="pnl">+6.49%</td><td>113.8h</td><td>10-23 05:00 → 10-27 22:50</td></tr><tr class="t-win"><td class="res">win</td><td>Royal Caribbean Cruises Ltd.(RCL)</td><td>284.50</td><td>302.00</td><td class="pnl">+6.15%</td><td>23.1h</td><td>10-26 23:45 → 10-27 22:50</td></tr><tr class="t-win"><td class="res">win</td><td>Johnson Controls International(JCI)</td><td>146.40</td><td>154.60</td><td class="pnl">+5.60%</td><td>24.2h</td><td>10-26 22:50 → 10-27 23:00</td></tr><tr class="t-win"><td class="res">win</td><td>General Motors Company(GM)</td><td>75.79</td><td>80.01</td><td class="pnl">+5.57%</td><td>164.8h</td><td>10-21 02:10 → 10-27 23:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Xylem Inc.(XYL)</td><td>108.30</td><td>101.30</td><td class="pnl">-6.46%</td><td>116.5h</td><td>10-23 02:10 → 10-27 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Sherwin-Williams Company (The)(SHW)</td><td>340.70</td><td>324.00</td><td class="pnl">-4.90%</td><td>94.2h</td><td>10-24 00:30 → 10-27 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Corning Incorporated(GLW)</td><td>128.10</td><td>122.10</td><td class="pnl">-4.68%</td><td>19.8h</td><td>10-27 02:55 → 10-27 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Boeing Company (The)(BA)</td><td>179.90</td><td>172.50</td><td class="pnl">-4.11%</td><td>0.2h</td><td>10-27 23:35 → 10-27 23:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Masco Corporation(MAS)</td><td>77.38</td><td>74.34</td><td class="pnl">-3.93%</td><td>118.3h</td><td>10-23 00:20 → 10-27 22:40</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -6.46% · P25 -1.79% · median +0.00% · P75 +2.50% · max +7.99%_
 
-**Full data** — all 338 closed trades: [CSV download](/data/journal/2026-10-28-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 338 closed trades: [CSV download](/data/journal/2026-10-28-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -6.46% · P25 -1.79% · median +0
 
 _As of 2026-10-28 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

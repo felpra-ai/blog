@@ -17,7 +17,7 @@ metrics:
   best_pct: 9.43
   worst_pct: -6.48
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.14
 ogImage: /characters/us/01_joy.png
 altUrl: /journal/2026-08-11-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Vertex Pharmaceuticals Incorpor(VRTX)</td><td>481.40</td><td>526.80</td><td class="pnl">+9.43%</td><td>118.0h</td><td>08-06 01:20 → 08-10 23:20</td></tr><tr class="t-win"><td class="res">이익</td><td>APA Corporation(APA)</td><td>37.42</td><td>40.03</td><td class="pnl">+6.97%</td><td>67.8h</td><td>08-08 04:50 → 08-11 00:40</td></tr><tr class="t-win"><td class="res">이익</td><td>애질런트 테크놀로지스(A)</td><td>139.70</td><td>147.90</td><td class="pnl">+5.87%</td><td>95.0h</td><td>08-07 01:10 → 08-11 00:10</td></tr><tr class="t-win"><td class="res">이익</td><td>아카마이 테크놀로지(AKAM)</td><td>111.70</td><td>118.10</td><td class="pnl">+5.73%</td><td>68.5h</td><td>08-08 03:15 → 08-10 23:45</td></tr><tr class="t-win"><td class="res">이익</td><td>NetApp, Inc.(NTAP)</td><td>188.40</td><td>199.10</td><td class="pnl">+5.68%</td><td>70.3h</td><td>08-08 01:00 → 08-10 23:20</td></tr><tr class="t-loss"><td class="res">손실</td><td>코히런트(COHR)</td><td>374.90</td><td>350.60</td><td class="pnl">-6.48%</td><td>68.0h</td><td>08-08 03:15 → 08-10 23:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>Verisk Analytics, Inc.(VRSK)</td><td>193.00</td><td>183.20</td><td class="pnl">-5.08%</td><td>66.5h</td><td>08-08 04:50 → 08-10 23:20</td></tr><tr class="t-loss"><td class="res">손실</td><td>eBay Inc.(EBAY)</td><td>112.30</td><td>106.80</td><td class="pnl">-4.90%</td><td>67.3h</td><td>08-08 04:00 → 08-10 23:20</td></tr><tr class="t-loss"><td class="res">손실</td><td>Domino's Pizza Inc(DPZ)</td><td>359.50</td><td>342.50</td><td class="pnl">-4.73%</td><td>95.6h</td><td>08-06 23:45 → 08-10 23:20</td></tr><tr class="t-loss"><td class="res">손실</td><td>Honeywell Aerospace Inc.(HONA)</td><td>167.50</td><td>159.80</td><td class="pnl">-4.60%</td><td>66.4h</td><td>08-08 04:50 → 08-10 23:15</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 214건 기준): 최소 -6.48% · P25 -0.95% · 중앙값 -0.14% · P75 +1.50% · 최대 +9.43%_
 
-**전체 데이터** — 마감 292건 전량: [CSV 다운로드](/data/journal/2026-08-11-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 292건 전량: [CSV 다운로드](/data/journal/2026-08-11-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 214건 기준): 최소 -6.48% · P25 -0.95% 
 
 _기준일: 2026-08-11 (KST) · as of 2026-08-11._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

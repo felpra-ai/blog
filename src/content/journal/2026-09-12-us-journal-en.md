@@ -17,7 +17,7 @@ metrics:
   best_pct: 4.89
   worst_pct: -4.13
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.52
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-09-12-us-journal/
@@ -61,7 +61,7 @@ The trades resulting in the largest losses—EW, WYNN, and ADBE—highlight inst
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Gartner, Inc.(IT)</td><td>167.60</td><td>175.80</td><td class="pnl">+4.89%</td><td>50.7h</td><td>09-09 23:25 → 09-12 02:05</td></tr><tr class="t-win"><td class="res">win</td><td>Applovin Corporation(APP)</td><td>309.30</td><td>320.70</td><td class="pnl">+3.69%</td><td>49.0h</td><td>09-10 00:35 → 09-12 01:35</td></tr><tr class="t-win"><td class="res">win</td><td>AT&T Inc.(T)</td><td>25.29</td><td>26.09</td><td class="pnl">+3.16%</td><td>46.6h</td><td>09-10 04:00 → 09-12 02:35</td></tr><tr class="t-win"><td class="res">win</td><td>T-Mobile US, Inc.(TMUS)</td><td>177.70</td><td>183.30</td><td class="pnl">+3.15%</td><td>47.5h</td><td>09-10 00:35 → 09-12 00:05</td></tr><tr class="t-win"><td class="res">win</td><td>Kroger Company (The)(KR)</td><td>56.72</td><td>58.47</td><td class="pnl">+3.09%</td><td>46.2h</td><td>09-10 01:50 → 09-12 00:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Edwards Lifesciences Corporatio(EW)</td><td>87.48</td><td>83.87</td><td class="pnl">-4.13%</td><td>73.0h</td><td>09-08 23:35 → 09-12 00:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Wynn Resorts, Limited(WYNN)</td><td>91.07</td><td>87.43</td><td class="pnl">-4.00%</td><td>72.2h</td><td>09-08 22:55 → 09-11 23:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Adobe Inc.(ADBE)</td><td>255.40</td><td>245.40</td><td class="pnl">-3.92%</td><td>66.6h</td><td>09-09 04:00 → 09-11 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>The J.M. Smucker Company(SJM)</td><td>124.60</td><td>120.20</td><td class="pnl">-3.53%</td><td>71.7h</td><td>09-08 23:25 → 09-11 23:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Eversource Energy (D/B/A)(ES)</td><td>71.10</td><td>68.62</td><td class="pnl">-3.49%</td><td>164.7h</td><td>09-05 02:55 → 09-11 23:35</td></tr></tbody></table>
 _P&L distribution (56 meaningful trades): min -4.13% · P25 -3.21% · median -0.75% · P75 +1.05% · max +4.89%_
 
-**Full data** — all 56 closed trades: [CSV download](/data/journal/2026-09-12-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 56 closed trades: [CSV download](/data/journal/2026-09-12-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (56 meaningful trades): min -4.13% · P25 -3.21% · median -0.
 
 _As of 2026-09-12 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

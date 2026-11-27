@@ -17,7 +17,7 @@ metrics:
   best_pct: 17.01
   worst_pct: -8.08
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.53
 ogImage: /characters/crypto/02_sad.png
 altUrl: /journal/2026-10-17-crypto-journal/
@@ -65,7 +65,7 @@ The data points toward a need to manage the ratio between realized gains and los
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Contentos(COS)</td><td>0.365</td><td>0.4271</td><td class="pnl">+17.01%</td><td>2.8h</td><td>10-16 21:15 → 10-17 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>Ameriprise Financial, Inc.(AMP)</td><td>0.9238</td><td>1.01</td><td class="pnl">+9.76%</td><td>4.5h</td><td>10-16 19:30 → 10-17 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>Cratos(CRTS)</td><td>0.0783</td><td>0.0855</td><td class="pnl">+9.20%</td><td>2.0h</td><td>10-16 22:00 → 10-17 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>Litentry(LIT)</td><td>4,104</td><td>4,404</td><td class="pnl">+7.31%</td><td>13.2h</td><td>10-16 08:00 → 10-16 21:15</td></tr><tr class="t-win"><td class="res">win</td><td>Cluster Protocol(CP)</td><td>12.11</td><td>12.80</td><td class="pnl">+5.70%</td><td>16.5h</td><td>10-16 15:15 → 10-17 07:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>PROM</td><td>6,717</td><td>6,174</td><td class="pnl">-8.08%</td><td>2.2h</td><td>10-16 22:00 → 10-17 00:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>AEON</td><td>53.09</td><td>50.37</td><td class="pnl">-5.12%</td><td>9.0h</td><td>10-16 14:00 → 10-16 23:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Huma Finance(HUMA)</td><td>40.40</td><td>38.34</td><td class="pnl">-5.10%</td><td>3.8h</td><td>10-16 18:00 → 10-16 21:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>DAO Maker(DAO)</td><td>32.07</td><td>30.56</td><td class="pnl">-4.71%</td><td>1.5h</td><td>10-16 21:30 → 10-16 23:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Helium(HNT)</td><td>599.60</td><td>571.40</td><td class="pnl">-4.70%</td><td>1.5h</td><td>10-16 21:00 → 10-16 22:30</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -8.08% · P25 -3.48% · median -3.19% · P75 +0.29% · max +17.01%_
 
-**Full data** — all 666 closed trades: [CSV download](/data/journal/2026-10-17-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 666 closed trades: [CSV download](/data/journal/2026-10-17-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -74,9 +74,9 @@ _P&L distribution (300 meaningful trades): min -8.08% · P25 -3.48% · median -3
 
 _As of 2026-10-17 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

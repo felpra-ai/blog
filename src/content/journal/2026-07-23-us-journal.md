@@ -17,7 +17,7 @@ metrics:
   best_pct: 3.51
   worst_pct: -3.82
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.35
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-07-23-us-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Netflix, Inc.(NFLX)</td><td>67.79</td><td>70.17</td><td class="pnl">+3.51%</td><td>19.9h</td><td>07-22 04:10 → 07-23 00:05</td></tr><tr class="t-win"><td class="res">이익</td><td>Brown Forman Inc(BF-B)</td><td>25.82</td><td>26.63</td><td class="pnl">+3.14%</td><td>115.2h</td><td>07-18 03:20 → 07-22 22:35</td></tr><tr class="t-win"><td class="res">이익</td><td>First Solar, Inc.(FSLR)</td><td>205.30</td><td>211.50</td><td class="pnl">+3.02%</td><td>20.2h</td><td>07-22 05:00 → 07-23 01:10</td></tr><tr class="t-win"><td class="res">이익</td><td>코스타 그룹(CSGP)</td><td>27.69</td><td>28.13</td><td class="pnl">+1.59%</td><td>3.2h</td><td>07-22 23:45 → 07-23 02:55</td></tr><tr class="t-win"><td class="res">이익</td><td>차터 커뮤니케이션(CHTR)</td><td>126.50</td><td>128.50</td><td class="pnl">+1.58%</td><td>0.9h</td><td>07-22 23:55 → 07-23 00:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>액손 엔터프라이스(AXON)</td><td>521.60</td><td>501.70</td><td class="pnl">-3.82%</td><td>22.2h</td><td>07-22 00:55 → 07-22 23:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>코스타 그룹(CSGP)</td><td>28.62</td><td>27.63</td><td class="pnl">-3.46%</td><td>20.6h</td><td>07-22 03:00 → 07-22 23:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>ServiceNow, Inc.(NOW)</td><td>102.10</td><td>98.66</td><td class="pnl">-3.37%</td><td>17.8h</td><td>07-22 04:45 → 07-22 22:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>Uber Technologies, Inc.(UBER)</td><td>72.67</td><td>70.36</td><td class="pnl">-3.18%</td><td>117.0h</td><td>07-18 02:35 → 07-22 23:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>Palantir Technologies Inc.(PLTR)</td><td>133.10</td><td>128.90</td><td class="pnl">-3.16%</td><td>18.0h</td><td>07-22 04:35 → 07-22 22:35</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 107건 기준): 최소 -3.82% · P25 -0.73% · 중앙값 -0.25% · P75 +0.14% · 최대 +3.51%_
 
-**전체 데이터** — 마감 212건 전량: [CSV 다운로드](/data/journal/2026-07-23-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 212건 전량: [CSV 다운로드](/data/journal/2026-07-23-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 107건 기준): 최소 -3.82% · P25 -0.73% 
 
 _기준일: 2026-07-23 (KST) · as of 2026-07-23._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

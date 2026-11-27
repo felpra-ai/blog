@@ -17,7 +17,7 @@ metrics:
   best_pct: 8.37
   worst_pct: -49.91
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.63
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-08-12-us-journal/
@@ -63,7 +63,7 @@ The performance metrics point toward a period where the downside capture was pro
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Apollo Global Management, Inc.(APO)</td><td>127.90</td><td>138.60</td><td class="pnl">+8.37%</td><td>117.8h</td><td>08-07 01:40 → 08-11 23:30</td></tr><tr class="t-win"><td class="res">win</td><td>Blackstone Inc.(BX)</td><td>137.70</td><td>145.70</td><td class="pnl">+5.81%</td><td>24.2h</td><td>08-10 23:20 → 08-11 23:30</td></tr><tr class="t-win"><td class="res">win</td><td>Ares Management Corporation(ARES)</td><td>135.20</td><td>142.30</td><td class="pnl">+5.25%</td><td>23.2h</td><td>08-11 00:20 → 08-11 23:30</td></tr><tr class="t-win"><td class="res">win</td><td>Dow Inc.(DOW)</td><td>29.79</td><td>31.24</td><td class="pnl">+4.87%</td><td>95.9h</td><td>08-08 01:40 → 08-12 01:35</td></tr><tr class="t-win"><td class="res">win</td><td>LyondellBasell Industries NV(LYB)</td><td>60.70</td><td>63.60</td><td class="pnl">+4.78%</td><td>95.2h</td><td>08-08 00:20 → 08-11 23:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Monster Beverage Corporation(MNST)</td><td>91.70</td><td>45.93</td><td class="pnl">-49.91%</td><td>23.2h</td><td>08-10 23:20 → 08-11 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Applovin Corporation(APP)</td><td>342.50</td><td>324.30</td><td class="pnl">-5.31%</td><td>21.5h</td><td>08-11 01:05 → 08-11 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Advanced Micro Devices, Inc.(AMD)</td><td>489.00</td><td>465.20</td><td class="pnl">-4.87%</td><td>140.9h</td><td>08-06 01:40 → 08-11 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Hewlett Packard Enterprise Comp(HPE)</td><td>55.70</td><td>53.08</td><td class="pnl">-4.70%</td><td>21.2h</td><td>08-11 01:20 → 08-11 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Deckers Outdoor Corporation(DECK)</td><td>98.00</td><td>93.89</td><td class="pnl">-4.19%</td><td>113.8h</td><td>08-07 04:45 → 08-11 22:35</td></tr></tbody></table>
 _P&L distribution (204 meaningful trades): min -49.91% · P25 -1.30% · median -0.17% · P75 +0.91% · max +8.37%_
 
-**Full data** — all 256 closed trades: [CSV download](/data/journal/2026-08-12-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 256 closed trades: [CSV download](/data/journal/2026-08-12-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (204 meaningful trades): min -49.91% · P25 -1.30% · median -
 
 _As of 2026-08-12 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

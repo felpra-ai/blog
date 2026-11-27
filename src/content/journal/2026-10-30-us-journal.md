@@ -17,7 +17,7 @@ metrics:
   best_pct: 14.42
   worst_pct: -24.15
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.82
 ogImage: /characters/us/09_excited.png
 altUrl: /journal/2026-10-30-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Gen Digital Inc.(GEN)</td><td>24.21</td><td>27.70</td><td class="pnl">+14.42%</td><td>66.6h</td><td>10-27 04:10 → 10-29 22:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Carvana Co.(CVNA)</td><td>59.43</td><td>66.42</td><td class="pnl">+11.76%</td><td>21.1h</td><td>10-29 01:35 → 10-29 22:40</td></tr><tr class="t-win"><td class="res">이익</td><td>Textron Inc.(TXT)</td><td>78.13</td><td>86.72</td><td class="pnl">+10.99%</td><td>19.0h</td><td>10-29 03:45 → 10-29 22:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Eli Lilly and Company(LLY)</td><td>1,288</td><td>1,404</td><td class="pnl">+9.01%</td><td>144.0h</td><td>10-23 22:45 → 10-29 22:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Quanta Services, Inc.(PWR)</td><td>591.00</td><td>638.60</td><td class="pnl">+8.05%</td><td>22.8h</td><td>10-29 00:00 → 10-29 22:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>ServiceNow, Inc.(NOW)</td><td>150.30</td><td>114.00</td><td class="pnl">-24.15%</td><td>19.1h</td><td>10-29 03:40 → 10-29 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Fortinet, Inc.(FTNT)</td><td>173.80</td><td>133.90</td><td class="pnl">-22.96%</td><td>17.9h</td><td>10-29 04:50 → 10-29 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Marvell Technology, Inc.(MRVL)</td><td>252.00</td><td>219.90</td><td class="pnl">-12.74%</td><td>18.8h</td><td>10-29 03:55 → 10-29 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>캐터필러(CAT)</td><td>716.40</td><td>645.00</td><td class="pnl">-9.97%</td><td>41.8h</td><td>10-28 04:55 → 10-29 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Trane Technologies plc(TT)</td><td>460.10</td><td>419.10</td><td class="pnl">-8.91%</td><td>43.8h</td><td>10-28 03:00 → 10-29 22:45</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -24.15% · P25 -0.33% · 중앙값 +1.37% · P75 +2.92% · 최대 +14.42%_
 
-**전체 데이터** — 마감 411건 전량: [CSV 다운로드](/data/journal/2026-10-30-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 411건 전량: [CSV 다운로드](/data/journal/2026-10-30-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -24.15% · P25 -0.33%
 
 _기준일: 2026-10-30 (KST) · as of 2026-10-30._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

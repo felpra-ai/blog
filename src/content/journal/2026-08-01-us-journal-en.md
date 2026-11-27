@@ -17,7 +17,7 @@ metrics:
   best_pct: 12.72
   worst_pct: -22.37
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.03
 ogImage: /characters/us/01_joy.png
 altUrl: /journal/2026-08-01-us-journal/
@@ -62,7 +62,7 @@ The positive profit factor of 1.03 suggests that the gains are only marginally o
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Amazon.com, Inc.(AMZN)</td><td>237.40</td><td>267.60</td><td class="pnl">+12.72%</td><td>19.6h</td><td>07-31 03:55 → 07-31 23:30</td></tr><tr class="t-win"><td class="res">win</td><td>Monolithic Power Systems, Inc.(MPWR)</td><td>1,311</td><td>1,424</td><td class="pnl">+8.62%</td><td>19.7h</td><td>07-31 03:50 → 07-31 23:30</td></tr><tr class="t-win"><td class="res">win</td><td>Alphabet Inc.(GOOGL)</td><td>332.10</td><td>349.20</td><td class="pnl">+5.15%</td><td>24.0h</td><td>07-31 00:40 → 08-01 00:40</td></tr><tr class="t-win"><td class="res">win</td><td>Apollo Global Management, Inc.(APO)</td><td>118.00</td><td>124.00</td><td class="pnl">+5.08%</td><td>27.1h</td><td>07-30 23:50 → 08-01 02:55</td></tr><tr class="t-win"><td class="res">win</td><td>LyondellBasell Industries NV(LYB)</td><td>59.14</td><td>62.10</td><td class="pnl">+5.01%</td><td>24.8h</td><td>07-30 23:50 → 08-01 00:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>GoDaddy Inc.(GDDY)</td><td>99.70</td><td>77.40</td><td class="pnl">-22.37%</td><td>21.1h</td><td>07-31 02:30 → 07-31 23:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Coinbase Global, Inc.(COIN)</td><td>160.80</td><td>142.00</td><td class="pnl">-11.69%</td><td>23.2h</td><td>07-31 00:15 → 07-31 23:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>NXP Semiconductors N.V.(NXPI)</td><td>248.30</td><td>234.60</td><td class="pnl">-5.52%</td><td>22.7h</td><td>07-31 03:05 → 08-01 01:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Live Nation Entertainment, Inc.(LYV)</td><td>182.40</td><td>173.20</td><td class="pnl">-5.04%</td><td>23.3h</td><td>07-31 00:15 → 07-31 23:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>T. Rowe Price Group, Inc.(TROW)</td><td>119.70</td><td>113.70</td><td class="pnl">-5.01%</td><td>42.8h</td><td>07-30 04:50 → 07-31 23:35</td></tr></tbody></table>
 _P&L distribution (121 meaningful trades): min -22.37% · P25 -1.10% · median +0.06% · P75 +2.05% · max +12.72%_
 
-**Full data** — all 147 closed trades: [CSV download](/data/journal/2026-08-01-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 147 closed trades: [CSV download](/data/journal/2026-08-01-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -71,9 +71,9 @@ _P&L distribution (121 meaningful trades): min -22.37% · P25 -1.10% · median +
 
 _As of 2026-08-01 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

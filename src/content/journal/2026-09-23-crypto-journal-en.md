@@ -17,7 +17,7 @@ metrics:
   best_pct: 15.43
   worst_pct: -6.98
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 2.2
 ogImage: /characters/crypto/09_excited.png
 altUrl: /journal/2026-09-23-crypto-journal/
@@ -63,7 +63,7 @@ The overall metrics—a high win rate paired with a strong profit factor—are e
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Siacoin(SC)</td><td>1.28</td><td>1.48</td><td class="pnl">+15.43%</td><td>38.2h</td><td>09-21 19:30 → 09-23 09:45</td></tr><tr class="t-win"><td class="res">win</td><td>Pyth Network(PYTH)</td><td>83.43</td><td>95.56</td><td class="pnl">+14.54%</td><td>3.0h</td><td>09-22 20:00 → 09-22 23:00</td></tr><tr class="t-win"><td class="res">win</td><td>Checkmate(CHECK)</td><td>15.41</td><td>17.06</td><td class="pnl">+10.71%</td><td>14.2h</td><td>09-22 09:45 → 09-23 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>Teller(DEBIT)</td><td>2,993</td><td>3,299</td><td class="pnl">+10.22%</td><td>14.8h</td><td>09-22 09:15 → 09-23 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>dKargo(DKA)</td><td>5.49</td><td>5.99</td><td class="pnl">+9.13%</td><td>51.0h</td><td>09-21 11:00 → 09-23 14:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Pocket Network(POKT)</td><td>12.05</td><td>11.29</td><td class="pnl">-6.31%</td><td>38.8h</td><td>09-21 11:45 → 09-23 02:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>MARBLEX(MBX)</td><td>40.07</td><td>38.16</td><td class="pnl">-4.77%</td><td>7.2h</td><td>09-22 16:45 → 09-23 00:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>PEPE</td><td>0.0068</td><td>0.0065</td><td class="pnl">-4.41%</td><td>6.0h</td><td>09-22 15:30 → 09-22 21:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Falcon Finance(FF)</td><td>171.20</td><td>163.80</td><td class="pnl">-4.32%</td><td>42.0h</td><td>09-22 02:30 → 09-23 20:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Celer Network(CELR)</td><td>4.32</td><td>4.15</td><td class="pnl">-4.12%</td><td>12.8h</td><td>09-22 10:45 → 09-22 23:30</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -6.31% · P25 +1.12% · median +2.51% · P75 +3.14% · max +15.43%_
 
-**Full data** — all 1053 closed trades: [CSV download](/data/journal/2026-09-23-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 1053 closed trades: [CSV download](/data/journal/2026-09-23-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -6.31% · P25 +1.12% · median +2
 
 _As of 2026-09-23 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

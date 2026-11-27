@@ -17,7 +17,7 @@ metrics:
   best_pct: 2.86
   worst_pct: -3.88
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.39
 ogImage: /characters/crypto/09_excited.png
 altUrl: /journal/2026-09-18-crypto-journal/
@@ -63,7 +63,7 @@ The experience with the losing trades, particularly the one on ENSO, highlights 
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>BNB</td><td>977,977</td><td>1,005,993</td><td class="pnl">+2.86%</td><td>93.2h</td><td>09-14 00:00 → 09-17 21:15</td></tr><tr class="t-win"><td class="res">win</td><td>Boba Network(BOBA)</td><td>25.33</td><td>25.97</td><td class="pnl">+2.53%</td><td>71.8h</td><td>09-15 00:15 → 09-18 00:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>ENSO</td><td>1,238</td><td>1,190</td><td class="pnl">-3.88%</td><td>127.8h</td><td>09-13 04:15 → 09-18 12:00</td></tr></tbody></table>
 _P&L distribution (3 meaningful trades): min -3.88% · P25 -3.88% · median +2.53% · P75 +2.86% · max +2.86%_
 
-**Full data** — all 3 closed trades: [CSV download](/data/journal/2026-09-18-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 3 closed trades: [CSV download](/data/journal/2026-09-18-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (3 meaningful trades): min -3.88% · P25 -3.88% · median +2.5
 
 _As of 2026-09-18 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

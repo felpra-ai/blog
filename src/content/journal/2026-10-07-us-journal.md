@@ -17,7 +17,7 @@ metrics:
   best_pct: 12.49
   worst_pct: -5.55
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 3.42
 ogImage: /characters/us/09_excited.png
 altUrl: /journal/2026-10-07-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>콘스텔레이션 에너지(CEG)</td><td>268.20</td><td>301.70</td><td class="pnl">+12.49%</td><td>23.4h</td><td>10-05 23:15 → 10-06 22:40</td></tr><tr class="t-win"><td class="res">이익</td><td>Corteva, Inc.(CTVA)</td><td>12.21</td><td>13.46</td><td class="pnl">+10.24%</td><td>93.8h</td><td>10-03 00:50 → 10-06 22:40</td></tr><tr class="t-win"><td class="res">이익</td><td>찰스 리버 래보라토리스 인터내셔널(CRL)</td><td>302.00</td><td>331.80</td><td class="pnl">+9.87%</td><td>22.8h</td><td>10-05 23:50 → 10-06 22:40</td></tr><tr class="t-win"><td class="res">이익</td><td>Marvell Technology, Inc.(MRVL)</td><td>271.60</td><td>294.40</td><td class="pnl">+8.39%</td><td>20.6h</td><td>10-06 02:15 → 10-06 22:50</td></tr><tr class="t-win"><td class="res">이익</td><td>Vistra Corp.(VST)</td><td>145.00</td><td>156.80</td><td class="pnl">+8.14%</td><td>23.5h</td><td>10-05 23:10 → 10-06 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Western Digital Corporation(WDC)</td><td>441.60</td><td>417.10</td><td class="pnl">-5.55%</td><td>23.8h</td><td>10-05 22:50 → 10-06 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>찰스 리버 래보라토리스 인터내셔널(CRL)</td><td>331.20</td><td>318.80</td><td class="pnl">-3.74%</td><td>0.2h</td><td>10-06 22:50 → 10-06 23:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>액센추어(ACN)</td><td>199.90</td><td>192.70</td><td class="pnl">-3.60%</td><td>92.0h</td><td>10-03 02:50 → 10-06 22:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>Marvell Technology, Inc.(MRVL)</td><td>293.10</td><td>282.60</td><td class="pnl">-3.58%</td><td>2.0h</td><td>10-06 23:15 → 10-07 01:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>Revvity, Inc.(RVTY)</td><td>163.90</td><td>158.40</td><td class="pnl">-3.36%</td><td>0.3h</td><td>10-06 22:50 → 10-06 23:10</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 193건 기준): 최소 -5.55% · P25 -0.44% · 중앙값 +1.66% · P75 +3.00% · 최대 +12.49%_
 
-**전체 데이터** — 마감 205건 전량: [CSV 다운로드](/data/journal/2026-10-07-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 205건 전량: [CSV 다운로드](/data/journal/2026-10-07-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 193건 기준): 최소 -5.55% · P25 -0.44% 
 
 _기준일: 2026-10-07 (KST) · as of 2026-10-07._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

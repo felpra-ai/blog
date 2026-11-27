@@ -17,7 +17,7 @@ metrics:
   best_pct: 17.08
   worst_pct: -5.23
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.24
 ogImage: /characters/kr/01_joy.png
 altUrl: /journal/2026-09-09-kr-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>현대바이오(048410)</td><td>6,246</td><td>7,313</td><td class="pnl">+17.08%</td><td>49.4h</td><td>09-07 09:40 → 09-09 11:05</td></tr><tr class="t-win"><td class="res">이익</td><td>우리기술(032820)</td><td>11,912</td><td>13,237</td><td class="pnl">+11.12%</td><td>19.8h</td><td>09-08 13:15 → 09-09 09:05</td></tr><tr class="t-win"><td class="res">이익</td><td>성호전자(043260)</td><td>16,476</td><td>18,282</td><td class="pnl">+10.96%</td><td>18.4h</td><td>09-08 15:10 → 09-09 09:35</td></tr><tr class="t-win"><td class="res">이익</td><td>DB하이텍(000990)</td><td>103,804</td><td>114,186</td><td class="pnl">+10.00%</td><td>17.8h</td><td>09-08 15:20 → 09-09 09:05</td></tr><tr class="t-win"><td class="res">이익</td><td>엘앤에프(066970)</td><td>115,515</td><td>126,074</td><td class="pnl">+9.14%</td><td>46.5h</td><td>09-07 15:20 → 09-09 13:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>넥슨게임즈(225570)</td><td>11,501</td><td>10,899</td><td class="pnl">-5.23%</td><td>44.2h</td><td>09-07 12:55 → 09-09 09:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>아이티센글로벌(124500)</td><td>32,082</td><td>30,569</td><td class="pnl">-4.72%</td><td>21.9h</td><td>09-08 11:10 → 09-09 09:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>롯데쇼핑(023530)</td><td>119,019</td><td>113,586</td><td class="pnl">-4.56%</td><td>24.3h</td><td>09-08 09:15 → 09-09 09:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>우리기술(032820)</td><td>14,434</td><td>13,776</td><td class="pnl">-4.56%</td><td>0.5h</td><td>09-09 11:35 → 09-09 12:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>CJ(001040)</td><td>133,033</td><td>126,973</td><td class="pnl">-4.56%</td><td>24.0h</td><td>09-08 09:35 → 09-09 09:35</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 158건 기준): 최소 -5.23% · P25 -3.20% · 중앙값 +0.01% · P75 +2.94% · 최대 +17.08%_
 
-**전체 데이터** — 마감 161건 전량: [CSV 다운로드](/data/journal/2026-09-09-kr.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 161건 전량: [CSV 다운로드](/data/journal/2026-09-09-kr.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 158건 기준): 최소 -5.23% · P25 -3.20% 
 
 _기준일: 2026-09-09 (KST) · as of 2026-09-09._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

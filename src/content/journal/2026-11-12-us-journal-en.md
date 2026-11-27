@@ -17,7 +17,7 @@ metrics:
   best_pct: 11.76
   worst_pct: -4.54
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 3.93
 ogImage: /characters/v2/us/09_excited.png
 altUrl: /journal/2026-11-12-us-journal/
@@ -63,7 +63,7 @@ Overall, the performance metrics point to a robust capture of upside during the 
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Bloom Energy Corporation(BE)</td><td>182.80</td><td>204.30</td><td class="pnl">+11.76%</td><td>21.6h</td><td>11-11 02:05 → 11-11 23:40</td></tr><tr class="t-win"><td class="res">win</td><td>Seagate Technology Holdings PLC(STX)</td><td>488.00</td><td>535.80</td><td class="pnl">+9.80%</td><td>21.4h</td><td>11-11 02:15 → 11-11 23:40</td></tr><tr class="t-win"><td class="res">win</td><td>Micron Technology, Inc.(MU)</td><td>702.70</td><td>769.20</td><td class="pnl">+9.46%</td><td>21.8h</td><td>11-11 01:55 → 11-11 23:40</td></tr><tr class="t-win"><td class="res">win</td><td>Vertiv Holdings, LLC(VRT)</td><td>189.20</td><td>206.60</td><td class="pnl">+9.20%</td><td>21.7h</td><td>11-11 02:00 → 11-11 23:40</td></tr><tr class="t-win"><td class="res">win</td><td>Sandisk Corporation(SNDK)</td><td>857.40</td><td>936.00</td><td class="pnl">+9.17%</td><td>18.1h</td><td>11-11 05:35 → 11-11 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Airbnb, Inc.(ABNB)</td><td>189.30</td><td>180.70</td><td class="pnl">-4.54%</td><td>23.8h</td><td>11-10 23:55 → 11-11 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Domino's Pizza Inc(DPZ)</td><td>337.30</td><td>324.70</td><td class="pnl">-3.74%</td><td>167.0h</td><td>11-05 00:40 → 11-11 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Moderna, Inc.(MRNA)</td><td>256.00</td><td>247.20</td><td class="pnl">-3.44%</td><td>23.6h</td><td>11-11 00:15 → 11-11 23:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Medtronic plc.(MDT)</td><td>103.50</td><td>100.00</td><td class="pnl">-3.38%</td><td>45.2h</td><td>11-10 03:00 → 11-12 00:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Clorox Company (The)(CLX)</td><td>107.70</td><td>104.10</td><td class="pnl">-3.34%</td><td>19.5h</td><td>11-11 04:15 → 11-11 23:45</td></tr></tbody></table>
 _P&L distribution (278 meaningful trades): min -4.54% · P25 -0.43% · median +0.34% · P75 +2.96% · max +11.76%_
 
-**Full data** — all 317 closed trades: [CSV download](/data/journal/2026-11-12-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 317 closed trades: [CSV download](/data/journal/2026-11-12-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (278 meaningful trades): min -4.54% · P25 -0.43% · median +0
 
 _As of 2026-11-12 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

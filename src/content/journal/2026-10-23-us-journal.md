@@ -17,7 +17,7 @@ metrics:
   best_pct: 11.66
   worst_pct: -11.56
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.14
 ogImage: /characters/us/07_confident.png
 altUrl: /journal/2026-10-23-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Lockheed Martin Corporation(LMT)</td><td>543.90</td><td>607.30</td><td class="pnl">+11.66%</td><td>143.9h</td><td>10-16 22:50 → 10-22 22:45</td></tr><tr class="t-win"><td class="res">이익</td><td>얼리지언(ALLE)</td><td>156.00</td><td>169.90</td><td class="pnl">+8.91%</td><td>44.1h</td><td>10-21 02:40 → 10-22 22:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Nasdaq, Inc.(NDAQ)</td><td>94.04</td><td>101.70</td><td class="pnl">+8.15%</td><td>45.7h</td><td>10-21 01:10 → 10-22 22:50</td></tr><tr class="t-win"><td class="res">이익</td><td>CSX Corporation(CSX)</td><td>48.18</td><td>51.04</td><td class="pnl">+5.94%</td><td>18.8h</td><td>10-22 03:55 → 10-22 22:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Leidos Holdings, Inc.(LDOS)</td><td>125.90</td><td>132.20</td><td class="pnl">+5.00%</td><td>143.9h</td><td>10-16 22:50 → 10-22 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Lam Research Corporation(LRCX)</td><td>263.90</td><td>233.40</td><td class="pnl">-11.56%</td><td>44.6h</td><td>10-21 02:10 → 10-22 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Flex Ltd.(FLEX)</td><td>88.20</td><td>80.39</td><td class="pnl">-8.85%</td><td>46.2h</td><td>10-21 00:30 → 10-22 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Tractor Supply Company(TSCO)</td><td>32.61</td><td>30.18</td><td class="pnl">-7.45%</td><td>71.8h</td><td>10-19 22:55 → 10-22 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>KLA Corporation(KLAC)</td><td>164.00</td><td>153.10</td><td class="pnl">-6.65%</td><td>47.1h</td><td>10-20 23:40 → 10-22 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>코히런트(COHR)</td><td>235.50</td><td>220.50</td><td class="pnl">-6.37%</td><td>24.0h</td><td>10-21 22:45 → 10-22 22:45</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -11.56% · P25 -3.15% · 중앙값 +1.71% · P75 +2.93% · 최대 +11.66%_
 
-**전체 데이터** — 마감 495건 전량: [CSV 다운로드](/data/journal/2026-10-23-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 495건 전량: [CSV 다운로드](/data/journal/2026-10-23-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -11.56% · P25 -3.15%
 
 _기준일: 2026-10-23 (KST) · as of 2026-10-23._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

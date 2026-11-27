@@ -17,7 +17,7 @@ metrics:
   best_pct: 23.14
   worst_pct: -15.67
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.5
 ogImage: /characters/crypto/02_sad.png
 altUrl: /journal/2026-08-12-crypto-journal/
@@ -63,7 +63,7 @@ The data set emphasizes that high trade volume does not correlate with positive 
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>AVAIL</td><td>2.97</td><td>3.66</td><td class="pnl">+23.14%</td><td>19.2h</td><td>08-11 05:00 → 08-12 00:15</td></tr><tr class="t-win"><td class="res">win</td><td>Vulcan Forged(PYR)</td><td>87.27</td><td>100.90</td><td class="pnl">+15.62%</td><td>3.2h</td><td>08-11 20:45 → 08-12 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>aelf(ELF)</td><td>81.68</td><td>90.09</td><td class="pnl">+10.30%</td><td>39.8h</td><td>08-10 21:30 → 08-12 13:15</td></tr><tr class="t-win"><td class="res">win</td><td>Bitrue Coin(BTR)</td><td>41.73</td><td>45.42</td><td class="pnl">+8.84%</td><td>1.8h</td><td>08-11 20:15 → 08-11 22:00</td></tr><tr class="t-win"><td class="res">win</td><td>Espresso(ESP)</td><td>98.27</td><td>103.90</td><td class="pnl">+5.73%</td><td>22.2h</td><td>08-11 13:15 → 08-12 11:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Tokamak Network(TOKAMAK)</td><td>422.40</td><td>396.60</td><td class="pnl">-6.11%</td><td>12.0h</td><td>08-11 14:45 → 08-12 02:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>OpenEden(EDEN)</td><td>62.83</td><td>59.44</td><td class="pnl">-5.40%</td><td>3.8h</td><td>08-11 20:00 → 08-11 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>GRVT Token(GRVT)</td><td>464.50</td><td>441.60</td><td class="pnl">-4.93%</td><td>0.0h</td><td>08-11 21:15 → 08-11 21:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Impossible Cloud Network Token(ICNT)</td><td>193.20</td><td>183.80</td><td class="pnl">-4.87%</td><td>14.8h</td><td>08-11 19:45 → 08-12 10:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Hippo Protocol(HP)</td><td>9.33</td><td>8.88</td><td class="pnl">-4.78%</td><td>25.2h</td><td>08-11 01:45 → 08-12 03:00</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -6.11% · P25 -3.56% · median -3.23% · P75 +0.00% · max +23.14%_
 
-**Full data** — all 791 closed trades: [CSV download](/data/journal/2026-08-12-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 791 closed trades: [CSV download](/data/journal/2026-08-12-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -6.11% · P25 -3.56% · median -3
 
 _As of 2026-08-12 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

@@ -17,7 +17,7 @@ metrics:
   best_pct: 4.1
   worst_pct: -6.5
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.36
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-09-24-us-journal/
@@ -61,7 +61,7 @@ The performance review of the closed trades suggests that the downside capture m
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Palo Alto Networks, Inc.(PANW)</td><td>370.40</td><td>385.60</td><td class="pnl">+4.10%</td><td>25.1h</td><td>09-22 23:15 → 09-24 00:20</td></tr><tr class="t-win"><td class="res">win</td><td>CrowdStrike Holdings, Inc.(CRWD)</td><td>248.40</td><td>258.10</td><td class="pnl">+3.90%</td><td>25.6h</td><td>09-22 22:45 → 09-24 00:20</td></tr><tr class="t-win"><td class="res">win</td><td>Palantir Technologies Inc.(PLTR)</td><td>182.80</td><td>188.80</td><td class="pnl">+3.28%</td><td>24.0h</td><td>09-22 23:35 → 09-23 23:35</td></tr><tr class="t-win"><td class="res">win</td><td>Devon Energy Corporation(DVN)</td><td>46.68</td><td>48.08</td><td class="pnl">+3.00%</td><td>25.1h</td><td>09-22 22:55 → 09-24 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>PTC Inc.(PTC)</td><td>136.10</td><td>140.10</td><td class="pnl">+2.94%</td><td>24.3h</td><td>09-22 22:45 → 09-23 23:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Paychex, Inc.(PAYX)</td><td>115.30</td><td>107.80</td><td class="pnl">-6.50%</td><td>23.8h</td><td>09-22 22:55 → 09-23 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>GoDaddy Inc.(GDDY)</td><td>98.43</td><td>93.16</td><td class="pnl">-5.35%</td><td>18.8h</td><td>09-23 04:20 → 09-23 23:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>McDonald's Corporation(MCD)</td><td>251.30</td><td>238.40</td><td class="pnl">-5.13%</td><td>23.8h</td><td>09-22 23:15 → 09-23 23:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Booking Holdings Inc. Common St(BKNG)</td><td>165.40</td><td>157.10</td><td class="pnl">-5.02%</td><td>23.1h</td><td>09-22 23:35 → 09-23 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Carvana Co.(CVNA)</td><td>66.78</td><td>63.48</td><td class="pnl">-4.94%</td><td>20.2h</td><td>09-23 02:30 → 09-23 22:40</td></tr></tbody></table>
 _P&L distribution (120 meaningful trades): min -6.50% · P25 -3.36% · median -0.78% · P75 +0.80% · max +4.10%_
 
-**Full data** — all 122 closed trades: [CSV download](/data/journal/2026-09-24-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 122 closed trades: [CSV download](/data/journal/2026-09-24-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (120 meaningful trades): min -6.50% · P25 -3.36% · median -0
 
 _As of 2026-09-24 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

@@ -17,7 +17,7 @@ metrics:
   best_pct: 8.55
   worst_pct: -7.93
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 4.82
 ogImage: /characters/us/09_excited.png
 altUrl: /journal/2026-11-10-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>AMD(어드밴스드 마이크로 디바이시스)(AMD)</td><td>437.30</td><td>474.70</td><td class="pnl">+8.55%</td><td>71.1h</td><td>11-07 00:40 → 11-09 23:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Flex Ltd.(FLEX)</td><td>69.33</td><td>75.10</td><td class="pnl">+8.32%</td><td>67.2h</td><td>11-07 04:35 → 11-09 23:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Vertiv Holdings, LLC(VRT)</td><td>179.70</td><td>194.20</td><td class="pnl">+8.07%</td><td>68.8h</td><td>11-07 03:05 → 11-09 23:50</td></tr><tr class="t-win"><td class="res">이익</td><td>Bloom Energy Corporation(BE)</td><td>173.90</td><td>187.90</td><td class="pnl">+8.05%</td><td>67.1h</td><td>11-07 04:40 → 11-09 23:45</td></tr><tr class="t-win"><td class="res">이익</td><td>시에나(CIEN)</td><td>240.50</td><td>259.60</td><td class="pnl">+7.94%</td><td>69.8h</td><td>11-07 02:00 → 11-09 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>엔비디아(NVDA)</td><td>189.20</td><td>174.20</td><td class="pnl">-7.93%</td><td>70.3h</td><td>11-07 01:25 → 11-09 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>캐피털 원 파이낸셜(COF)</td><td>203.70</td><td>192.30</td><td class="pnl">-5.60%</td><td>70.0h</td><td>11-07 01:45 → 11-09 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Diamondback Energy, Inc.(FANG)</td><td>183.60</td><td>174.10</td><td class="pnl">-5.17%</td><td>117.9h</td><td>11-05 01:50 → 11-09 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Synchrony Financial(SYF)</td><td>73.70</td><td>70.34</td><td class="pnl">-4.56%</td><td>94.8h</td><td>11-06 01:00 → 11-09 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Monster Beverage Corporation(MNST)</td><td>46.74</td><td>45.12</td><td class="pnl">-3.47%</td><td>68.6h</td><td>11-07 03:15 → 11-09 23:50</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 231건 기준): 최소 -7.93% · P25 +0.00% · 중앙값 +2.65% · P75 +3.25% · 최대 +8.55%_
 
-**전체 데이터** — 마감 256건 전량: [CSV 다운로드](/data/journal/2026-11-10-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 256건 전량: [CSV 다운로드](/data/journal/2026-11-10-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 231건 기준): 최소 -7.93% · P25 +0.00% 
 
 _기준일: 2026-11-10 (KST) · as of 2026-11-10._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

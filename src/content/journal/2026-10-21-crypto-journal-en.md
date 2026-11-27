@@ -17,7 +17,7 @@ metrics:
   best_pct: 15.78
   worst_pct: -7.33
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 2.07
 ogImage: /characters/crypto/09_excited.png
 altUrl: /journal/2026-10-21-crypto-journal/
@@ -59,7 +59,7 @@ Overall, the performance metrics suggest a favorable risk-to-reward profile acro
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Particle Network(PARTI)</td><td>39.56</td><td>44.52</td><td class="pnl">+12.54%</td><td>27.5h</td><td>10-20 08:00 → 10-21 11:30</td></tr><tr class="t-win"><td class="res">win</td><td>AhaToken(AHT)</td><td>1.39</td><td>1.52</td><td class="pnl">+9.45%</td><td>139.0h</td><td>10-15 15:15 → 10-21 10:15</td></tr><tr class="t-win"><td class="res">win</td><td>Useless Coin(USELESS)</td><td>191.20</td><td>208.80</td><td class="pnl">+9.21%</td><td>6.8h</td><td>10-20 16:15 → 10-20 23:00</td></tr><tr class="t-win"><td class="res">win</td><td>Renzo(REZ)</td><td>4.65</td><td>5.07</td><td class="pnl">+9.12%</td><td>4.5h</td><td>10-20 18:30 → 10-20 23:00</td></tr><tr class="t-win"><td class="res">win</td><td>GameBuild(GAME2)</td><td>1.15</td><td>1.25</td><td class="pnl">+8.85%</td><td>50.0h</td><td>10-19 07:15 → 10-21 09:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Avalon(AVL)</td><td>26.88</td><td>25.22</td><td class="pnl">-6.18%</td><td>5.8h</td><td>10-20 20:45 → 10-21 02:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>PONKE</td><td>27.32</td><td>26.11</td><td class="pnl">-4.43%</td><td>6.0h</td><td>10-20 18:15 → 10-21 00:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Ava AI(AVA)</td><td>504.50</td><td>483.50</td><td class="pnl">-4.16%</td><td>3.5h</td><td>10-20 19:15 → 10-20 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>GRVT Token(GRVT)</td><td>340.30</td><td>327.70</td><td class="pnl">-3.70%</td><td>0.8h</td><td>10-20 21:30 → 10-20 22:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>CAP</td><td>93.11</td><td>89.69</td><td class="pnl">-3.67%</td><td>3.2h</td><td>10-20 19:30 → 10-20 22:45</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -6.18% · P25 +1.44% · median +2.77% · P75 +3.66% · max +12.54%_
 
-**Full data** — all 1058 closed trades: [CSV download](/data/journal/2026-10-21-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 1058 closed trades: [CSV download](/data/journal/2026-10-21-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -68,9 +68,9 @@ _P&L distribution (300 meaningful trades): min -6.18% · P25 +1.44% · median +2
 
 _As of 2026-10-21 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

@@ -17,7 +17,7 @@ metrics:
   best_pct: 11.45
   worst_pct: -11.37
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.25
 ogImage: /characters/kr/02_sad.png
 altUrl: /journal/2026-11-03-kr-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>한진칼(180640)</td><td>132,032</td><td>147,153</td><td class="pnl">+11.45%</td><td>19.2h</td><td>11-02 13:55 → 11-03 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>한진칼(180640)</td><td>148,148</td><td>160,040</td><td class="pnl">+8.03%</td><td>0.5h</td><td>11-03 09:10 → 11-03 09:40</td></tr><tr class="t-win"><td class="res">이익</td><td>카카오게임즈(293490)</td><td>11,522</td><td>12,188</td><td class="pnl">+5.78%</td><td>24.6h</td><td>11-02 10:25 → 11-03 11:00</td></tr><tr class="t-win"><td class="res">이익</td><td>피에스케이홀딩스(031980)</td><td>165,766</td><td>173,626</td><td class="pnl">+4.74%</td><td>0.7h</td><td>11-03 10:05 → 11-03 10:45</td></tr><tr class="t-win"><td class="res">이익</td><td>보로노이(310210)</td><td>101,101</td><td>105,894</td><td class="pnl">+4.74%</td><td>1.1h</td><td>11-03 09:10 → 11-03 10:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>S-Oil(010950)</td><td>127,928</td><td>113,386</td><td class="pnl">-11.37%</td><td>18.5h</td><td>11-02 14:40 → 11-03 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>기가비스(420770)</td><td>92,693</td><td>82,917</td><td class="pnl">-10.55%</td><td>22.9h</td><td>11-02 10:15 → 11-03 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>티에스이(131290)</td><td>225,725</td><td>203,796</td><td class="pnl">-9.71%</td><td>20.6h</td><td>11-02 12:35 → 11-03 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>유진테크(084370)</td><td>106,907</td><td>98,202</td><td class="pnl">-8.14%</td><td>20.2h</td><td>11-02 13:00 → 11-03 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>피에스케이홀딩스(031980)</td><td>184,785</td><td>169,830</td><td class="pnl">-8.09%</td><td>20.2h</td><td>11-02 12:55 → 11-03 09:10</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -11.37% · P25 -3.44% · 중앙값 -3.13% · P75 +0.34% · 최대 +11.45%_
 
-**전체 데이터** — 마감 395건 전량: [CSV 다운로드](/data/journal/2026-11-03-kr.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 395건 전량: [CSV 다운로드](/data/journal/2026-11-03-kr.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -11.37% · P25 -3.44%
 
 _기준일: 2026-11-03 (KST) · as of 2026-11-03._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

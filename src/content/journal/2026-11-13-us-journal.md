@@ -17,7 +17,7 @@ metrics:
   best_pct: 4.87
   worst_pct: -9.47
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.69
 ogImage: /characters/v2/us/02_sad.png
 altUrl: /journal/2026-11-13-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Teradyne, Inc.(TER)</td><td>256.50</td><td>269.00</td><td class="pnl">+4.87%</td><td>1.0h</td><td>11-13 00:15 → 11-13 01:15</td></tr><tr class="t-win"><td class="res">이익</td><td>Devon Energy Corporation(DVN)</td><td>43.58</td><td>45.60</td><td class="pnl">+4.64%</td><td>48.2h</td><td>11-11 00:15 → 11-13 00:25</td></tr><tr class="t-win"><td class="res">이익</td><td>아리스타 네트웍스(ANET)</td><td>197.20</td><td>205.90</td><td class="pnl">+4.41%</td><td>24.6h</td><td>11-12 00:50 → 11-13 01:25</td></tr><tr class="t-win"><td class="res">이익</td><td>올스테이트(ALL)</td><td>255.00</td><td>265.80</td><td class="pnl">+4.24%</td><td>71.8h</td><td>11-09 23:50 → 11-12 23:40</td></tr><tr class="t-win"><td class="res">이익</td><td>Super Micro Computer, Inc.(SMCI)</td><td>26.51</td><td>27.58</td><td class="pnl">+4.04%</td><td>2.8h</td><td>11-13 01:45 → 11-13 04:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>엔비디아(NVDA)</td><td>175.20</td><td>158.60</td><td class="pnl">-9.47%</td><td>22.3h</td><td>11-12 01:20 → 11-12 23:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Global Payments Inc.(GPN)</td><td>100.70</td><td>93.41</td><td class="pnl">-7.24%</td><td>1.3h</td><td>11-13 00:50 → 11-13 02:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>Bloom Energy Corporation(BE)</td><td>210.80</td><td>198.10</td><td class="pnl">-6.02%</td><td>17.8h</td><td>11-12 05:55 → 11-12 23:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Palo Alto Networks, Inc.(PANW)</td><td>339.40</td><td>319.90</td><td class="pnl">-5.75%</td><td>22.5h</td><td>11-12 01:10 → 11-12 23:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Illumina, Inc.(ILMN)</td><td>216.10</td><td>203.90</td><td class="pnl">-5.65%</td><td>47.9h</td><td>11-10 23:45 → 11-12 23:40</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -9.47% · P25 -1.78% · 중앙값 -0.23% · P75 +1.46% · 최대 +4.87%_
 
-**전체 데이터** — 마감 355건 전량: [CSV 다운로드](/data/journal/2026-11-13-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 355건 전량: [CSV 다운로드](/data/journal/2026-11-13-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -9.47% · P25 -1.78% 
 
 _기준일: 2026-11-13 (KST) · as of 2026-11-13._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

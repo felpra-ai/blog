@@ -17,7 +17,7 @@ metrics:
   best_pct: 20.31
   worst_pct: -8.28
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.88
 ogImage: /characters/crypto/09_excited.png
 altUrl: /journal/2026-09-04-crypto-journal/
@@ -59,7 +59,7 @@ The observed performance metrics indicate a favorable risk-to-reward profile acr
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Mina Protocol(MINA)</td><td>97.49</td><td>110.90</td><td class="pnl">+13.76%</td><td>4.0h</td><td>09-03 20:00 → 09-04 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>AVAIL</td><td>2.91</td><td>3.18</td><td class="pnl">+9.20%</td><td>5.2h</td><td>09-03 19:00 → 09-04 00:15</td></tr><tr class="t-win"><td class="res">win</td><td>Haedal Protocol(HAEDAL)</td><td>24.02</td><td>26.15</td><td class="pnl">+8.87%</td><td>33.8h</td><td>09-02 18:45 → 09-04 04:30</td></tr><tr class="t-win"><td class="res">win</td><td>PONKE</td><td>28.08</td><td>30.52</td><td class="pnl">+8.69%</td><td>12.5h</td><td>09-03 09:30 → 09-03 22:00</td></tr><tr class="t-win"><td class="res">win</td><td>PUMP(PUMPBTC)</td><td>15.74</td><td>17.08</td><td class="pnl">+8.51%</td><td>19.0h</td><td>09-03 14:15 → 09-04 09:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Cysic(CYS)</td><td>400.40</td><td>369.60</td><td class="pnl">-7.69%</td><td>5.8h</td><td>09-03 18:45 → 09-04 00:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Bitrue Coin(BTR)</td><td>69.07</td><td>65.57</td><td class="pnl">-5.07%</td><td>0.2h</td><td>09-03 21:15 → 09-03 21:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Bitrue Coin(BTR)</td><td>66.76</td><td>63.56</td><td class="pnl">-4.79%</td><td>2.5h</td><td>09-03 21:45 → 09-04 00:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>CARV</td><td>48.12</td><td>46.13</td><td class="pnl">-4.14%</td><td>30.2h</td><td>09-03 08:30 → 09-04 14:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Casper Network(CSPR)</td><td>3.62</td><td>3.47</td><td class="pnl">-4.01%</td><td>43.2h</td><td>09-03 00:00 → 09-04 19:15</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -7.69% · P25 +0.61% · median +2.47% · P75 +3.23% · max +13.76%_
 
-**Full data** — all 834 closed trades: [CSV download](/data/journal/2026-09-04-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 834 closed trades: [CSV download](/data/journal/2026-09-04-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -68,9 +68,9 @@ _P&L distribution (300 meaningful trades): min -7.69% · P25 +0.61% · median +2
 
 _As of 2026-09-04 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

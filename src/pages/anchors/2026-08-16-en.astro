@@ -5,10 +5,10 @@ import PostLayout from '../../layouts/PostLayout.astro';
 const anchorLd = {
   '@context': 'https://schema.org',
   '@type': 'Dataset',
-  name: 'OneQAZ prediction ledger anchor',
+  name: 'FELPRA prediction ledger anchor',
   dateCreated: '2026-08-18T23:07:00+09:00',
   inLanguage: 'en',
-  'oneqaz:anchor': {
+  'felpra:anchor': {
     type: 'ledger_anchor',
     anchor_day: '2026-08-16',
     latest_chain_hash: '03e6e5bb8fcaacf3f8865ce6c38db33e6ec75b524afefbac19274db8220f604d',
@@ -20,7 +20,7 @@ const anchorLd = {
 ---
 <PostLayout
   title="Ledger Anchor 2026-08-16"
-  description="OneQAZ prediction ledger weekly integrity anchor. Anchor day 2026-08-16, chain hash 03e6e5bb…, OpenTimestamps proof included."
+  description="FELPRA prediction ledger weekly integrity anchor. Anchor day 2026-08-16, chain hash 03e6e5bb…, OpenTimestamps proof included."
   date={new Date('2026-08-18T23:07:00+09:00')}
   category="anchors"
   lang="en"
@@ -29,7 +29,7 @@ const anchorLd = {
 >
   <script type="application/ld+json" is:inline set:html={JSON.stringify(anchorLd)} />
 
-  <p>This page is the weekly integrity anchor for the OneQAZ prediction ledger.
+  <p>This page is the weekly integrity anchor for the FELPRA prediction ledger.
   The hash below is cryptographically linked to the ledger's entire history:
   if any ledger row is edited or deleted after this page was published, a
   recomputed chain hash will diverge from this one. The accompanying
@@ -60,7 +60,7 @@ const anchorLd = {
       (or use the web verifier at <a href="https://opentimestamps.org" rel="noopener">opentimestamps.org</a>) —
       confirms via the Bitcoin blockchain that this hash existed around this date.</li>
     <li><strong>Chain integrity</strong>: recompute the hash chain from raw ledger rows
-      using the recipe returned by the OneQAZ MCP tool <code>get_ledger_integrity</code>,
+      using the recipe returned by the FELPRA MCP tool <code>get_ledger_integrity</code>,
       then check that the last row's <code>chain_hash</code> equals
       <code>03e6e5bb…</code> above.</li>
     <li><strong>Publication time</strong>: check this page's Wayback Machine archive

@@ -17,7 +17,7 @@ metrics:
   best_pct: 14.36
   worst_pct: -9.3
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.18
 ogImage: /characters/crypto/02_sad.png
 altUrl: /journal/2026-10-15-crypto-journal/
@@ -61,7 +61,7 @@ The pattern observed suggests that the risk taken on the losing trades was dispr
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>WalletConnect Token(WCT)</td><td>54.41</td><td>56.83</td><td class="pnl">+4.45%</td><td>8.0h</td><td>10-14 17:45 → 10-15 01:45</td></tr><tr class="t-win"><td class="res">win</td><td>Audius(AUDIO)</td><td>21.39</td><td>22.28</td><td class="pnl">+4.16%</td><td>9.5h</td><td>10-14 13:30 → 10-14 23:00</td></tr><tr class="t-win"><td class="res">win</td><td>AVAIL</td><td>3.50</td><td>3.65</td><td class="pnl">+4.02%</td><td>20.5h</td><td>10-14 16:15 → 10-15 12:45</td></tr><tr class="t-win"><td class="res">win</td><td>io.net(IO)</td><td>218.20</td><td>226.80</td><td class="pnl">+3.94%</td><td>20.2h</td><td>10-14 10:45 → 10-15 07:00</td></tr><tr class="t-win"><td class="res">win</td><td>Observer(OBSR)</td><td>0.7768</td><td>0.8061</td><td class="pnl">+3.77%</td><td>24.2h</td><td>10-14 00:00 → 10-15 00:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Spacecoin(SPACE)</td><td>5.29</td><td>4.87</td><td class="pnl">-7.99%</td><td>21.0h</td><td>10-14 14:15 → 10-15 11:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>INFINIT(IN)</td><td>40.36</td><td>37.57</td><td class="pnl">-6.91%</td><td>39.0h</td><td>10-13 20:15 → 10-15 11:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Sonic SVM(SONIC)</td><td>30.52</td><td>28.53</td><td class="pnl">-6.52%</td><td>20.2h</td><td>10-14 15:00 → 10-15 11:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>SynFutures(F)</td><td>4.16</td><td>3.90</td><td class="pnl">-6.23%</td><td>39.0h</td><td>10-13 20:15 → 10-15 11:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Lista DAO(LISTA)</td><td>102.10</td><td>95.86</td><td class="pnl">-6.11%</td><td>49.0h</td><td>10-13 10:15 → 10-15 11:15</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -7.99% · P25 -3.61% · median -3.38% · P75 -3.17% · max +4.45%_
 
-**Full data** — all 1116 closed trades: [CSV download](/data/journal/2026-10-15-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 1116 closed trades: [CSV download](/data/journal/2026-10-15-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (300 meaningful trades): min -7.99% · P25 -3.61% · median -3
 
 _As of 2026-10-15 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

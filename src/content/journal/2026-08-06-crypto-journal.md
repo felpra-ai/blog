@@ -17,7 +17,7 @@ metrics:
   best_pct: 17.46
   worst_pct: -8.96
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.92
 ogImage: /characters/crypto/02_sad.png
 altUrl: /journal/2026-08-06-crypto-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>비오비(BOB)</td><td>5.47</td><td>6.43</td><td class="pnl">+17.46%</td><td>59.5h</td><td>08-03 12:45 → 08-06 00:15</td></tr><tr class="t-win"><td class="res">이익</td><td>히포프로토콜(HP)</td><td>9.85</td><td>11.55</td><td class="pnl">+17.27%</td><td>18.5h</td><td>08-05 15:30 → 08-06 10:00</td></tr><tr class="t-win"><td class="res">이익</td><td>게임빌드(GAME2)</td><td>1.13</td><td>1.30</td><td class="pnl">+15.63%</td><td>9.8h</td><td>08-05 23:30 → 08-06 09:15</td></tr><tr class="t-win"><td class="res">이익</td><td>하우스파티프로토콜(HPP)</td><td>8.62</td><td>9.44</td><td class="pnl">+9.50%</td><td>3.2h</td><td>08-05 21:00 → 08-06 00:15</td></tr><tr class="t-win"><td class="res">이익</td><td>모멘텀(MMT)</td><td>211.20</td><td>229.80</td><td class="pnl">+8.81%</td><td>9.2h</td><td>08-05 16:00 → 08-06 01:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>이온(AEON)</td><td>87.62</td><td>81.55</td><td class="pnl">-6.93%</td><td>4.2h</td><td>08-05 23:15 → 08-06 03:30</td></tr><tr class="t-loss"><td class="res">손실</td><td>폰케(PONKE)</td><td>25.10</td><td>23.42</td><td class="pnl">-6.69%</td><td>51.8h</td><td>08-03 21:45 → 08-06 01:30</td></tr><tr class="t-loss"><td class="res">손실</td><td>슈퍼폼(UP)</td><td>86.99</td><td>81.81</td><td class="pnl">-5.95%</td><td>19.0h</td><td>08-05 15:00 → 08-06 10:00</td></tr><tr class="t-loss"><td class="res">손실</td><td>랩트나인크로니클골드(WNCG)</td><td>5.86</td><td>5.57</td><td class="pnl">-4.80%</td><td>2.2h</td><td>08-06 00:00 → 08-06 02:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>아이오넷(IO)</td><td>177.20</td><td>168.80</td><td class="pnl">-4.74%</td><td>46.8h</td><td>08-04 12:30 → 08-06 11:15</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -6.93% · P25 -3.17% · 중앙값 +0.12% · P75 +2.15% · 최대 +17.46%_
 
-**전체 데이터** — 마감 701건 전량: [CSV 다운로드](/data/journal/2026-08-06-crypto.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 701건 전량: [CSV 다운로드](/data/journal/2026-08-06-crypto.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -6.93% · P25 -3.17% 
 
 _기준일: 2026-08-06 (KST) · as of 2026-08-06._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

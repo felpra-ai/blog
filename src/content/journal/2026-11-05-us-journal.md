@@ -17,7 +17,7 @@ metrics:
   best_pct: 13.79
   worst_pct: -19.22
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.54
 ogImage: /characters/us/09_excited.png
 altUrl: /journal/2026-11-05-us-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>First Solar, Inc.(FSLR)</td><td>183.40</td><td>208.70</td><td class="pnl">+13.79%</td><td>23.9h</td><td>11-03 23:45 → 11-04 23:40</td></tr><tr class="t-win"><td class="res">이익</td><td>Stanley Black & Decker, Inc.(SWK)</td><td>106.90</td><td>118.70</td><td class="pnl">+11.04%</td><td>44.7h</td><td>11-03 03:05 → 11-04 23:45</td></tr><tr class="t-win"><td class="res">이익</td><td>부킹 홀딩스(BKNG)</td><td>152.30</td><td>168.50</td><td class="pnl">+10.64%</td><td>23.8h</td><td>11-03 23:55 → 11-04 23:40</td></tr><tr class="t-win"><td class="res">이익</td><td>Zimmer Biomet Holdings, Inc.(ZBH)</td><td>97.74</td><td>107.70</td><td class="pnl">+10.19%</td><td>22.8h</td><td>11-04 00:55 → 11-04 23:45</td></tr><tr class="t-win"><td class="res">이익</td><td>아리스타 네트웍스(ANET)</td><td>167.20</td><td>183.10</td><td class="pnl">+9.51%</td><td>116.2h</td><td>10-31 03:40 → 11-04 23:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>Fidelity National Information S(FIS)</td><td>39.29</td><td>31.74</td><td class="pnl">-19.22%</td><td>117.9h</td><td>10-31 01:50 → 11-04 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Trimble Inc.(TRMB)</td><td>66.59</td><td>54.65</td><td class="pnl">-17.93%</td><td>43.3h</td><td>11-03 04:25 → 11-04 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Comfort Systems USA, Inc.(FIX)</td><td>1,248</td><td>1,072</td><td class="pnl">-14.10%</td><td>23.7h</td><td>11-04 00:00 → 11-04 23:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Vertiv Holdings, LLC(VRT)</td><td>238.80</td><td>210.90</td><td class="pnl">-11.68%</td><td>23.3h</td><td>11-04 00:25 → 11-04 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Datadog, Inc.(DDOG)</td><td>216.30</td><td>194.60</td><td class="pnl">-10.03%</td><td>41.7h</td><td>11-03 06:00 → 11-04 23:40</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -19.22% · P25 -1.57% · 중앙값 +2.85% · P75 +3.68% · 최대 +13.79%_
 
-**전체 데이터** — 마감 591건 전량: [CSV 다운로드](/data/journal/2026-11-05-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 591건 전량: [CSV 다운로드](/data/journal/2026-11-05-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -19.22% · P25 -1.57%
 
 _기준일: 2026-11-05 (KST) · as of 2026-11-05._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

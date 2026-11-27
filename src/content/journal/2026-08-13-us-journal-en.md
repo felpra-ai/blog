@@ -17,7 +17,7 @@ metrics:
   best_pct: 14.23
   worst_pct: -5.04
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.87
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-08-13-us-journal/
@@ -59,7 +59,7 @@ The performance highlights that while strong individual catalysts can drive subs
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Super Micro Computer, Inc.(SMCI)</td><td>31.91</td><td>36.45</td><td class="pnl">+14.23%</td><td>43.8h</td><td>08-11 02:50 → 08-12 22:35</td></tr><tr class="t-win"><td class="res">win</td><td>Seagate Technology Holdings PLC(STX)</td><td>806.20</td><td>880.10</td><td class="pnl">+9.17%</td><td>42.4h</td><td>08-11 05:00 → 08-12 23:25</td></tr><tr class="t-win"><td class="res">win</td><td>Sandisk Corporation(SNDK)</td><td>1,267</td><td>1,379</td><td class="pnl">+8.84%</td><td>19.6h</td><td>08-12 04:00 → 08-12 23:35</td></tr><tr class="t-win"><td class="res">win</td><td>Teradyne, Inc.(TER)</td><td>375.80</td><td>404.10</td><td class="pnl">+7.53%</td><td>21.4h</td><td>08-12 02:40 → 08-13 00:05</td></tr><tr class="t-win"><td class="res">win</td><td>Ciena Corporation(CIEN)</td><td>387.50</td><td>416.40</td><td class="pnl">+7.46%</td><td>17.6h</td><td>08-12 05:00 → 08-12 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Adobe Inc.(ADBE)</td><td>269.90</td><td>256.30</td><td class="pnl">-5.04%</td><td>23.7h</td><td>08-11 23:45 → 08-12 23:25</td></tr><tr class="t-loss"><td class="res">loss</td><td>Charter Communications, Inc.(CHTR)</td><td>158.80</td><td>150.80</td><td class="pnl">-5.04%</td><td>18.4h</td><td>08-12 05:00 → 08-12 23:25</td></tr><tr class="t-loss"><td class="res">loss</td><td>CF Industries Holdings, Inc.(CF)</td><td>119.70</td><td>113.90</td><td class="pnl">-4.85%</td><td>23.2h</td><td>08-11 23:25 → 08-12 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Datadog, Inc.(DDOG)</td><td>251.10</td><td>240.50</td><td class="pnl">-4.22%</td><td>23.8h</td><td>08-12 02:40 → 08-13 02:25</td></tr><tr class="t-loss"><td class="res">loss</td><td>TJX Companies, Inc. (The)(TJX)</td><td>160.50</td><td>154.40</td><td class="pnl">-3.80%</td><td>141.9h</td><td>08-07 00:40 → 08-12 22:35</td></tr></tbody></table>
 _P&L distribution (200 meaningful trades): min -5.04% · P25 -1.51% · median -0.48% · P75 +0.66% · max +14.23%_
 
-**Full data** — all 206 closed trades: [CSV download](/data/journal/2026-08-13-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 206 closed trades: [CSV download](/data/journal/2026-08-13-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -68,9 +68,9 @@ _P&L distribution (200 meaningful trades): min -5.04% · P25 -1.51% · median -0
 
 _As of 2026-08-13 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

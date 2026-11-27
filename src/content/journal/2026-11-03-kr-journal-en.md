@@ -17,7 +17,7 @@ metrics:
   best_pct: 11.45
   worst_pct: -11.37
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.25
 ogImage: /characters/kr/02_sad.png
 altUrl: /journal/2026-11-03-kr-journal/
@@ -61,7 +61,7 @@ The observed activity highlights the difficulty in maintaining positive risk-adj
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Hanjinkal(180640)</td><td>132,032</td><td>147,153</td><td class="pnl">+11.45%</td><td>19.2h</td><td>11-02 13:55 → 11-03 09:10</td></tr><tr class="t-win"><td class="res">win</td><td>Hanjinkal(180640)</td><td>148,148</td><td>160,040</td><td class="pnl">+8.03%</td><td>0.5h</td><td>11-03 09:10 → 11-03 09:40</td></tr><tr class="t-win"><td class="res">win</td><td>Kakaogeimjeu(293490)</td><td>11,522</td><td>12,188</td><td class="pnl">+5.78%</td><td>24.6h</td><td>11-02 10:25 → 11-03 11:00</td></tr><tr class="t-win"><td class="res">win</td><td>Pieseukeiholdingseu(031980)</td><td>165,766</td><td>173,626</td><td class="pnl">+4.74%</td><td>0.7h</td><td>11-03 10:05 → 11-03 10:45</td></tr><tr class="t-win"><td class="res">win</td><td>Boronoi(310210)</td><td>101,101</td><td>105,894</td><td class="pnl">+4.74%</td><td>1.1h</td><td>11-03 09:10 → 11-03 10:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>S-Oil(010950)</td><td>127,928</td><td>113,386</td><td class="pnl">-11.37%</td><td>18.5h</td><td>11-02 14:40 → 11-03 09:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Gigabiseu(420770)</td><td>92,693</td><td>82,917</td><td class="pnl">-10.55%</td><td>22.9h</td><td>11-02 10:15 → 11-03 09:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Tieseui(131290)</td><td>225,725</td><td>203,796</td><td class="pnl">-9.71%</td><td>20.6h</td><td>11-02 12:35 → 11-03 09:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Yujintekeu(084370)</td><td>106,907</td><td>98,202</td><td class="pnl">-8.14%</td><td>20.2h</td><td>11-02 13:00 → 11-03 09:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Pieseukeiholdingseu(031980)</td><td>184,785</td><td>169,830</td><td class="pnl">-8.09%</td><td>20.2h</td><td>11-02 12:55 → 11-03 09:10</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -11.37% · P25 -3.44% · median -3.13% · P75 +0.34% · max +11.45%_
 
-**Full data** — all 395 closed trades: [CSV download](/data/journal/2026-11-03-kr.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 395 closed trades: [CSV download](/data/journal/2026-11-03-kr.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (300 meaningful trades): min -11.37% · P25 -3.44% · median -
 
 _As of 2026-11-03 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

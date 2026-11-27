@@ -17,7 +17,7 @@ metrics:
   best_pct: 6.26
   worst_pct: -5.63
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.84
 ogImage: /characters/us/08_defensive.png
 altUrl: /journal/2026-10-09-us-journal/
@@ -63,7 +63,7 @@ The trades resulting in losses, such as those in the semiconductor and consumer 
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Accenture plc(ACN)</td><td>193.40</td><td>205.50</td><td class="pnl">+6.26%</td><td>48.2h</td><td>10-06 22:55 → 10-08 23:10</td></tr><tr class="t-win"><td class="res">win</td><td>Philip Morris International Inc(PM)</td><td>188.10</td><td>197.70</td><td class="pnl">+5.10%</td><td>166.0h</td><td>10-02 00:50 → 10-08 22:50</td></tr><tr class="t-win"><td class="res">win</td><td>Accenture plc(ACN)</td><td>199.20</td><td>208.40</td><td class="pnl">+4.62%</td><td>5.1h</td><td>10-08 23:40 → 10-09 04:45</td></tr><tr class="t-win"><td class="res">win</td><td>Chipotle Mexican Grill, Inc.(CMG)</td><td>31.17</td><td>32.54</td><td class="pnl">+4.40%</td><td>71.6h</td><td>10-05 23:40 → 10-08 23:15</td></tr><tr class="t-win"><td class="res">win</td><td>Palantir Technologies Inc.(PLTR)</td><td>190.60</td><td>198.40</td><td class="pnl">+4.09%</td><td>141.9h</td><td>10-03 00:50 → 10-08 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Garmin Ltd.(GRMN)</td><td>282.30</td><td>266.40</td><td class="pnl">-5.63%</td><td>45.6h</td><td>10-07 01:10 → 10-08 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Starbucks Corporation(SBUX)</td><td>94.00</td><td>89.14</td><td class="pnl">-5.17%</td><td>0.3h</td><td>10-08 22:50 → 10-08 23:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Revvity, Inc.(RVTY)</td><td>154.30</td><td>146.80</td><td class="pnl">-4.86%</td><td>47.2h</td><td>10-06 23:25 → 10-08 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Oracle Corporation(ORCL)</td><td>141.60</td><td>135.30</td><td class="pnl">-4.45%</td><td>3.0h</td><td>10-08 22:55 → 10-09 01:55</td></tr><tr class="t-loss"><td class="res">loss</td><td>Bloom Energy Corporation(BE)</td><td>282.10</td><td>270.20</td><td class="pnl">-4.22%</td><td>2.2h</td><td>10-08 23:40 → 10-09 01:55</td></tr></tbody></table>
 _P&L distribution (268 meaningful trades): min -5.63% · P25 -3.16% · median +0.03% · P75 +2.71% · max +6.26%_
 
-**Full data** — all 286 closed trades: [CSV download](/data/journal/2026-10-09-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 286 closed trades: [CSV download](/data/journal/2026-10-09-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (268 meaningful trades): min -5.63% · P25 -3.16% · median +0
 
 _As of 2026-10-09 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

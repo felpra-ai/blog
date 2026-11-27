@@ -17,7 +17,7 @@ metrics:
   best_pct: 45.73
   worst_pct: -10.74
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.05
 ogImage: /characters/crypto/01_joy.png
 altUrl: /journal/2026-08-26-crypto-journal/
@@ -61,7 +61,7 @@ The trades that resulted in losses, such as GPS and DRV, underscore the importan
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>SuperWalk GRND(GRND)</td><td>13.16</td><td>14.30</td><td class="pnl">+8.66%</td><td>75.2h</td><td>08-23 13:30 → 08-26 16:45</td></tr><tr class="t-win"><td class="res">win</td><td>ThetaDrop(TDROP)</td><td>0.5683</td><td>0.6144</td><td class="pnl">+8.11%</td><td>28.0h</td><td>08-25 16:15 → 08-26 20:15</td></tr><tr class="t-win"><td class="res">win</td><td>RSS3</td><td>7.15</td><td>7.69</td><td class="pnl">+7.60%</td><td>4.0h</td><td>08-25 20:15 → 08-26 00:15</td></tr><tr class="t-win"><td class="res">win</td><td>UOS</td><td>4.00</td><td>4.25</td><td class="pnl">+6.31%</td><td>17.5h</td><td>08-25 11:45 → 08-26 05:15</td></tr><tr class="t-win"><td class="res">win</td><td>Air Lease Corporation(AL)</td><td>2.28</td><td>2.42</td><td class="pnl">+6.23%</td><td>14.2h</td><td>08-25 11:45 → 08-26 02:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>GoPlus Security(GPS)</td><td>16.77</td><td>15.47</td><td class="pnl">-7.75%</td><td>5.8h</td><td>08-25 17:30 → 08-25 23:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Derive(DRV)</td><td>204.20</td><td>194.80</td><td class="pnl">-4.60%</td><td>1.8h</td><td>08-25 19:45 → 08-25 21:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>POPCAT</td><td>88.52</td><td>84.51</td><td class="pnl">-4.53%</td><td>3.0h</td><td>08-25 18:30 → 08-25 21:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Geodnet(GEOD)</td><td>322.30</td><td>307.70</td><td class="pnl">-4.53%</td><td>17.5h</td><td>08-25 16:00 → 08-26 09:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>RECALL</td><td>68.16</td><td>65.19</td><td class="pnl">-4.36%</td><td>12.2h</td><td>08-25 18:45 → 08-26 07:00</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -7.75% · P25 -3.40% · median -3.15% · P75 +0.94% · max +8.66%_
 
-**Full data** — all 1411 closed trades: [CSV download](/data/journal/2026-08-26-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 1411 closed trades: [CSV download](/data/journal/2026-08-26-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (300 meaningful trades): min -7.75% · P25 -3.40% · median -3
 
 _As of 2026-08-26 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

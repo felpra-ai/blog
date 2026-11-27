@@ -17,7 +17,7 @@ metrics:
   best_pct: 14.21
   worst_pct: -8.04
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.28
 ogImage: /characters/v2/crypto/02_sad.png
 altUrl: /journal/2026-11-15-crypto-journal/
@@ -63,7 +63,7 @@ The consistent pattern observed is that while significant gains are achievable, 
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>ROA CORE(ROA)</td><td>3.94</td><td>4.49</td><td class="pnl">+14.21%</td><td>2.5h</td><td>11-14 21:30 → 11-15 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>PUMP(PUMPBTC)</td><td>7.27</td><td>7.86</td><td class="pnl">+8.17%</td><td>0.0h</td><td>11-14 21:15 → 11-14 21:15</td></tr><tr class="t-win"><td class="res">win</td><td>Lombard(BARD)</td><td>165.20</td><td>173.80</td><td class="pnl">+5.21%</td><td>1.5h</td><td>11-14 20:00 → 11-14 21:30</td></tr><tr class="t-win"><td class="res">win</td><td>Theoriq(THQ)</td><td>11.49</td><td>12.07</td><td class="pnl">+5.05%</td><td>54.5h</td><td>11-13 01:00 → 11-15 07:30</td></tr><tr class="t-win"><td class="res">win</td><td>Scroll(SCR)</td><td>23.97</td><td>24.79</td><td class="pnl">+3.42%</td><td>16.2h</td><td>11-14 16:30 → 11-15 08:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Fluent(BLEND)</td><td>64.81</td><td>61.14</td><td class="pnl">-5.66%</td><td>7.2h</td><td>11-14 17:15 → 11-15 00:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>PUMP(PUMPBTC)</td><td>7.61</td><td>7.19</td><td class="pnl">-5.44%</td><td>0.2h</td><td>11-14 22:00 → 11-14 22:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Sonic SVM(SONIC)</td><td>25.41</td><td>24.08</td><td class="pnl">-5.23%</td><td>11.8h</td><td>11-14 11:30 → 11-14 23:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>KAVA</td><td>76.20</td><td>72.29</td><td class="pnl">-5.13%</td><td>0.2h</td><td>11-14 22:15 → 11-14 22:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Siacoin(SC)</td><td>0.8418</td><td>0.7993</td><td class="pnl">-5.05%</td><td>8.0h</td><td>11-14 21:45 → 11-15 05:45</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -5.66% · P25 -3.63% · median -3.39% · P75 -3.17% · max +14.21%_
 
-**Full data** — all 958 closed trades: [CSV download](/data/journal/2026-11-15-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 958 closed trades: [CSV download](/data/journal/2026-11-15-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -5.66% · P25 -3.63% · median -3
 
 _As of 2026-11-15 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

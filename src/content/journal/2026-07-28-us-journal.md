@@ -17,7 +17,7 @@ metrics:
   best_pct: 5.6
   worst_pct: -8.54
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.47
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-07-28-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>차터 커뮤니케이션(CHTR)</td><td>123.20</td><td>130.10</td><td class="pnl">+5.60%</td><td>71.3h</td><td>07-25 04:30 → 07-28 03:50</td></tr><tr class="t-win"><td class="res">이익</td><td>액손 엔터프라이스(AXON)</td><td>490.30</td><td>517.50</td><td class="pnl">+5.55%</td><td>91.5h</td><td>07-24 04:25 → 07-27 23:55</td></tr><tr class="t-win"><td class="res">이익</td><td>F5, Inc.(FFIV)</td><td>389.10</td><td>407.00</td><td class="pnl">+4.60%</td><td>71.8h</td><td>07-25 04:50 → 07-28 04:40</td></tr><tr class="t-win"><td class="res">이익</td><td>부킹 홀딩스(BKNG)</td><td>177.30</td><td>183.70</td><td class="pnl">+3.61%</td><td>67.1h</td><td>07-25 04:50 → 07-27 23:55</td></tr><tr class="t-win"><td class="res">이익</td><td>Skyworks Solutions, Inc.(SWKS)</td><td>60.04</td><td>62.18</td><td class="pnl">+3.56%</td><td>94.6h</td><td>07-24 03:50 → 07-28 02:25</td></tr><tr class="t-loss"><td class="res">손실</td><td>Sandisk Corporation(SNDK)</td><td>1,428</td><td>1,306</td><td class="pnl">-8.54%</td><td>67.6h</td><td>07-25 04:05 → 07-27 23:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>어플라이드 머티어리얼즈(AMAT)</td><td>543.30</td><td>507.20</td><td class="pnl">-6.64%</td><td>68.2h</td><td>07-25 03:30 → 07-27 23:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>코히런트(COHR)</td><td>284.70</td><td>265.90</td><td class="pnl">-6.60%</td><td>67.8h</td><td>07-25 03:55 → 07-27 23:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Corning Incorporated(GLW)</td><td>149.30</td><td>139.50</td><td class="pnl">-6.56%</td><td>68.2h</td><td>07-25 03:30 → 07-27 23:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Paramount Skydance Corporation(PSKY)</td><td>8.54</td><td>8.07</td><td class="pnl">-5.47%</td><td>91.3h</td><td>07-24 04:20 → 07-27 23:40</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 92건 기준): 최소 -8.54% · P25 -1.48% · 중앙값 -0.40% · P75 +0.59% · 최대 +5.60%_
 
-**전체 데이터** — 마감 132건 전량: [CSV 다운로드](/data/journal/2026-07-28-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 132건 전량: [CSV 다운로드](/data/journal/2026-07-28-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 92건 기준): 최소 -8.54% · P25 -1.48% �
 
 _기준일: 2026-07-28 (KST) · as of 2026-07-28._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

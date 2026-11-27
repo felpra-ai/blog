@@ -17,7 +17,7 @@ metrics:
   best_pct: 14.27
   worst_pct: -5.46
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.2
 ogImage: /characters/crypto/07_confident.png
 altUrl: /journal/2026-09-29-crypto-journal/
@@ -59,7 +59,7 @@ The performance suggests that while capturing large upside moves remains possibl
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>MARBLEX(MBX)</td><td>40.29</td><td>46.04</td><td class="pnl">+14.27%</td><td>14.5h</td><td>09-28 09:30 → 09-29 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>Doodles(DOOD)</td><td>2.44</td><td>2.64</td><td class="pnl">+8.33%</td><td>7.5h</td><td>09-28 14:45 → 09-28 22:15</td></tr><tr class="t-win"><td class="res">win</td><td>PolySwarm(NCT)</td><td>13.69</td><td>14.79</td><td class="pnl">+8.04%</td><td>15.0h</td><td>09-28 16:30 → 09-29 07:30</td></tr><tr class="t-win"><td class="res">win</td><td>Cratos(CRTS)</td><td>0.0879</td><td>0.0949</td><td class="pnl">+7.96%</td><td>1.8h</td><td>09-28 20:30 → 09-28 22:15</td></tr><tr class="t-win"><td class="res">win</td><td>Citrea(CTR)</td><td>15.90</td><td>16.80</td><td class="pnl">+5.66%</td><td>15.8h</td><td>09-29 00:00 → 09-29 15:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>GRASS</td><td>798.80</td><td>755.20</td><td class="pnl">-5.46%</td><td>0.5h</td><td>09-28 23:30 → 09-29 00:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Audius(AUDIO)</td><td>22.24</td><td>21.05</td><td class="pnl">-5.35%</td><td>8.2h</td><td>09-28 23:00 → 09-29 07:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Arbitrum(ARB)</td><td>276.30</td><td>262.70</td><td class="pnl">-4.92%</td><td>10.2h</td><td>09-29 00:00 → 09-29 10:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Vulcan Forged(PYR)</td><td>79.60</td><td>75.72</td><td class="pnl">-4.87%</td><td>0.2h</td><td>09-29 00:00 → 09-29 00:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Orbiter Finance(OBT)</td><td>0.5244</td><td>0.4993</td><td class="pnl">-4.79%</td><td>21.0h</td><td>09-28 17:30 → 09-29 14:30</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -5.46% · P25 -3.41% · median -0.05% · P75 +2.63% · max +14.27%_
 
-**Full data** — all 659 closed trades: [CSV download](/data/journal/2026-09-29-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 659 closed trades: [CSV download](/data/journal/2026-09-29-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -68,9 +68,9 @@ _P&L distribution (300 meaningful trades): min -5.46% · P25 -3.41% · median -0
 
 _As of 2026-09-29 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

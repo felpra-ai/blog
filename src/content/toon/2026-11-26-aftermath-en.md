@@ -46,10 +46,10 @@ Official schedule: [https://www.bok.or.kr/portal/singl/crncyPolicyDrcMtg/listYea
 | Korean stocks | +2.17% | +0.76% | 4/6 |
 | crypto | +2.94% | +0% | 3/7 |
 
-_Release: 2026-11-26 10:00 KST. Median close-to-close move of the names OneQAZ trades (30m bars); closed-market windows dropped. Descriptive, not a forecast._
+_Release: 2026-11-26 10:00 KST. Median close-to-close move of the names FELPRA trades (30m bars); closed-market windows dropped. Descriptive, not a forecast._
 
 ---
 
 _As of 2026-11-26 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.

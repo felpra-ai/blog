@@ -17,7 +17,7 @@ metrics:
   best_pct: 8.48
   worst_pct: -12.16
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.45
 ogImage: /characters/us/07_confident.png
 altUrl: /journal/2026-07-29-us-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Workday, Inc.(WDAY)</td><td>147.40</td><td>159.90</td><td class="pnl">+8.48%</td><td>23.2h</td><td>07-28 01:35 → 07-29 00:45</td></tr><tr class="t-win"><td class="res">이익</td><td>HP Inc.(HPQ)</td><td>25.87</td><td>27.92</td><td class="pnl">+7.92%</td><td>93.3h</td><td>07-25 03:30 → 07-29 00:50</td></tr><tr class="t-win"><td class="res">이익</td><td>Sherwin-Williams Company (The)(SHW)</td><td>327.40</td><td>353.30</td><td class="pnl">+7.91%</td><td>20.3h</td><td>07-28 04:25 → 07-29 00:45</td></tr><tr class="t-win"><td class="res">이익</td><td>차터 커뮤니케이션(CHTR)</td><td>130.40</td><td>139.10</td><td class="pnl">+6.67%</td><td>21.5h</td><td>07-28 04:05 → 07-29 01:35</td></tr><tr class="t-win"><td class="res">이익</td><td>PTC Inc.(PTC)</td><td>122.20</td><td>129.20</td><td class="pnl">+5.73%</td><td>25.2h</td><td>07-27 23:50 → 07-29 01:00</td></tr><tr class="t-loss"><td class="res">손실</td><td>Corning Incorporated(GLW)</td><td>139.00</td><td>122.10</td><td class="pnl">-12.16%</td><td>21.8h</td><td>07-28 00:45 → 07-28 22:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>Lumentum Holdings Inc.(LITE)</td><td>721.10</td><td>642.00</td><td class="pnl">-10.97%</td><td>17.7h</td><td>07-28 04:55 → 07-28 22:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>Seagate Technology Holdings PLC(STX)</td><td>814.30</td><td>744.20</td><td class="pnl">-8.61%</td><td>20.6h</td><td>07-28 02:00 → 07-28 22:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>Dell Technologies Inc.(DELL)</td><td>419.40</td><td>384.80</td><td class="pnl">-8.25%</td><td>22.2h</td><td>07-28 00:20 → 07-28 22:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>Sandisk Corporation(SNDK)</td><td>1,262</td><td>1,174</td><td class="pnl">-6.97%</td><td>19.8h</td><td>07-28 02:45 → 07-28 22:35</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 144건 기준): 최소 -12.16% · P25 -0.79% · 중앙값 +0.84% · P75 +3.06% · 최대 +8.48%_
 
-**전체 데이터** — 마감 168건 전량: [CSV 다운로드](/data/journal/2026-07-29-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 168건 전량: [CSV 다운로드](/data/journal/2026-07-29-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 144건 기준): 최소 -12.16% · P25 -0.79%
 
 _기준일: 2026-07-29 (KST) · as of 2026-07-29._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

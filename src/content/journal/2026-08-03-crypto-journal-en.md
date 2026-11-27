@@ -17,7 +17,7 @@ metrics:
   best_pct: 19.98
   worst_pct: -19.25
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.45
 ogImage: /characters/crypto/02_sad.png
 altUrl: /journal/2026-08-03-crypto-journal/
@@ -63,7 +63,7 @@ The trading session concluded with a net negative expectancy, despite achieving 
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>RSS3</td><td>6.99</td><td>8.32</td><td class="pnl">+19.07%</td><td>8.8h</td><td>08-02 15:15 → 08-03 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>META [Old](META)</td><td>9.95</td><td>11.65</td><td class="pnl">+17.10%</td><td>53.8h</td><td>08-01 01:15 → 08-03 07:00</td></tr><tr class="t-win"><td class="res">win</td><td>WAX(WAXP)</td><td>5.29</td><td>5.75</td><td class="pnl">+8.69%</td><td>18.0h</td><td>08-02 19:15 → 08-03 13:15</td></tr><tr class="t-win"><td class="res">win</td><td>Fusionist(ACE)</td><td>93.81</td><td>101.90</td><td class="pnl">+8.62%</td><td>19.8h</td><td>08-02 20:45 → 08-03 16:30</td></tr><tr class="t-win"><td class="res">win</td><td>BLAST</td><td>0.3465</td><td>0.3657</td><td class="pnl">+5.54%</td><td>16.2h</td><td>08-02 20:30 → 08-03 12:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Hashflow(HFT)</td><td>12.57</td><td>10.15</td><td class="pnl">-19.25%</td><td>46.2h</td><td>08-01 14:30 → 08-03 12:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Across Protocol(ACX)</td><td>58.28</td><td>48.31</td><td class="pnl">-17.11%</td><td>37.0h</td><td>08-01 23:45 → 08-03 12:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>GoPlus Security(GPS)</td><td>13.52</td><td>12.44</td><td class="pnl">-7.99%</td><td>34.5h</td><td>08-02 05:30 → 08-03 16:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Casper Network(CSPR)</td><td>2.69</td><td>2.53</td><td class="pnl">-6.02%</td><td>2.8h</td><td>08-02 19:30 → 08-02 22:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>PLUME</td><td>15.80</td><td>14.98</td><td class="pnl">-5.19%</td><td>18.5h</td><td>08-02 14:30 → 08-03 09:00</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -19.25% · P25 -3.42% · median -3.11% · P75 +0.22% · max +19.07%_
 
-**Full data** — all 863 closed trades: [CSV download](/data/journal/2026-08-03-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 863 closed trades: [CSV download](/data/journal/2026-08-03-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -19.25% · P25 -3.42% · median -
 
 _As of 2026-08-03 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

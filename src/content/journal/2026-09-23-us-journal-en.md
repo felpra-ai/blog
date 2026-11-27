@@ -17,7 +17,7 @@ metrics:
   best_pct: 4.11
   worst_pct: -4.72
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.31
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-09-23-us-journal/
@@ -59,7 +59,7 @@ The performance metrics—specifically the low profit factor and negative expect
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Teradyne, Inc.(TER)</td><td>377.50</td><td>393.00</td><td class="pnl">+4.11%</td><td>3.6h</td><td>09-22 22:45 → 09-23 02:20</td></tr><tr class="t-win"><td class="res">win</td><td>Mettler-Toledo International, I(MTD)</td><td>1,436</td><td>1,493</td><td class="pnl">+3.97%</td><td>4.6h</td><td>09-22 23:15 → 09-23 03:50</td></tr><tr class="t-win"><td class="res">win</td><td>Sandisk Corporation(SNDK)</td><td>1,814</td><td>1,885</td><td class="pnl">+3.91%</td><td>0.8h</td><td>09-22 22:45 → 09-22 23:35</td></tr><tr class="t-win"><td class="res">win</td><td>Illumina, Inc.(ILMN)</td><td>235.90</td><td>245.10</td><td class="pnl">+3.90%</td><td>2.8h</td><td>09-22 22:45 → 09-23 01:30</td></tr><tr class="t-win"><td class="res">win</td><td>Marathon Petroleum Corporation(MPC)</td><td>389.00</td><td>400.90</td><td class="pnl">+3.06%</td><td>2.8h</td><td>09-22 22:45 → 09-23 01:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Expedia Group, Inc.(EXPE)</td><td>283.70</td><td>270.30</td><td class="pnl">-4.72%</td><td>0.8h</td><td>09-22 22:45 → 09-22 23:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Charles Schwab Corporation (The(SCHW)</td><td>104.70</td><td>100.40</td><td class="pnl">-4.11%</td><td>0.8h</td><td>09-22 22:45 → 09-22 23:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Cisco Systems, Inc.(CSCO)</td><td>109.40</td><td>105.10</td><td class="pnl">-3.93%</td><td>2.3h</td><td>09-22 22:45 → 09-23 01:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Gen Digital Inc.(GEN)</td><td>29.22</td><td>28.11</td><td class="pnl">-3.80%</td><td>0.7h</td><td>09-22 22:55 → 09-22 23:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Deckers Outdoor Corporation(DECK)</td><td>82.76</td><td>79.68</td><td class="pnl">-3.72%</td><td>1.9h</td><td>09-22 22:45 → 09-23 00:40</td></tr></tbody></table>
 _P&L distribution (71 meaningful trades): min -4.72% · P25 -3.22% · median -0.79% · P75 +0.39% · max +4.11%_
 
-**Full data** — all 76 closed trades: [CSV download](/data/journal/2026-09-23-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 76 closed trades: [CSV download](/data/journal/2026-09-23-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -68,9 +68,9 @@ _P&L distribution (71 meaningful trades): min -4.72% · P25 -3.22% · median -0.
 
 _As of 2026-09-23 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

@@ -17,7 +17,7 @@ metrics:
   best_pct: 3.75
   worst_pct: -22.16
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.31
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-10-15-us-journal/
@@ -63,7 +63,7 @@ The data points to a need for a more balanced risk profile across executed trade
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Pfizer, Inc.(PFE)</td><td>28.03</td><td>29.08</td><td class="pnl">+3.75%</td><td>167.1h</td><td>10-08 00:10 → 10-14 23:15</td></tr><tr class="t-win"><td class="res">win</td><td>Progressive Corporation (The)(PGR)</td><td>203.90</td><td>211.20</td><td class="pnl">+3.58%</td><td>4.2h</td><td>10-14 22:45 → 10-15 03:00</td></tr><tr class="t-win"><td class="res">win</td><td>Fastenal Company(FAST)</td><td>50.39</td><td>52.15</td><td class="pnl">+3.49%</td><td>0.7h</td><td>10-14 23:40 → 10-15 00:20</td></tr><tr class="t-win"><td class="res">win</td><td>CVS Health Corporation(CVS)</td><td>86.85</td><td>89.77</td><td class="pnl">+3.36%</td><td>121.7h</td><td>10-09 23:20 → 10-15 01:00</td></tr><tr class="t-win"><td class="res">win</td><td>Fastenal Company(FAST)</td><td>48.97</td><td>50.59</td><td class="pnl">+3.31%</td><td>0.9h</td><td>10-14 22:45 → 10-14 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Skydance Corporation(SKYD)</td><td>9.26</td><td>7.21</td><td class="pnl">-22.16%</td><td>23.4h</td><td>10-13 23:15 → 10-14 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Progressive Corporation (The)(PGR)</td><td>221.50</td><td>204.70</td><td class="pnl">-7.58%</td><td>23.1h</td><td>10-13 23:35 → 10-14 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>State Street Corporation(STT)</td><td>175.20</td><td>162.00</td><td class="pnl">-7.53%</td><td>46.7h</td><td>10-13 00:00 → 10-14 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Bank of America Corporation(BAC)</td><td>53.86</td><td>49.99</td><td class="pnl">-7.19%</td><td>118.2h</td><td>10-10 00:30 → 10-14 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Dell Technologies Inc.(DELL)</td><td>573.90</td><td>533.60</td><td class="pnl">-7.02%</td><td>118.7h</td><td>10-10 00:00 → 10-14 22:40</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -22.16% · P25 -3.19% · median -0.69% · P75 +0.42% · max +3.75%_
 
-**Full data** — all 329 closed trades: [CSV download](/data/journal/2026-10-15-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 329 closed trades: [CSV download](/data/journal/2026-10-15-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -22.16% · P25 -3.19% · median -
 
 _As of 2026-10-15 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

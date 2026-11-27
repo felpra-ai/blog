@@ -17,7 +17,7 @@ metrics:
   best_pct: 12.49
   worst_pct: -5.55
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 3.42
 ogImage: /characters/us/09_excited.png
 altUrl: /journal/2026-10-07-us-journal/
@@ -61,7 +61,7 @@ The data confirms that the positive skew—where wins significantly outweigh los
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Constellation Energy Corporatio(CEG)</td><td>268.20</td><td>301.70</td><td class="pnl">+12.49%</td><td>23.4h</td><td>10-05 23:15 → 10-06 22:40</td></tr><tr class="t-win"><td class="res">win</td><td>Corteva, Inc.(CTVA)</td><td>12.21</td><td>13.46</td><td class="pnl">+10.24%</td><td>93.8h</td><td>10-03 00:50 → 10-06 22:40</td></tr><tr class="t-win"><td class="res">win</td><td>Charles River Laboratories Inte(CRL)</td><td>302.00</td><td>331.80</td><td class="pnl">+9.87%</td><td>22.8h</td><td>10-05 23:50 → 10-06 22:40</td></tr><tr class="t-win"><td class="res">win</td><td>Marvell Technology, Inc.(MRVL)</td><td>271.60</td><td>294.40</td><td class="pnl">+8.39%</td><td>20.6h</td><td>10-06 02:15 → 10-06 22:50</td></tr><tr class="t-win"><td class="res">win</td><td>Vistra Corp.(VST)</td><td>145.00</td><td>156.80</td><td class="pnl">+8.14%</td><td>23.5h</td><td>10-05 23:10 → 10-06 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Western Digital Corporation(WDC)</td><td>441.60</td><td>417.10</td><td class="pnl">-5.55%</td><td>23.8h</td><td>10-05 22:50 → 10-06 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Charles River Laboratories Inte(CRL)</td><td>331.20</td><td>318.80</td><td class="pnl">-3.74%</td><td>0.2h</td><td>10-06 22:50 → 10-06 23:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Accenture plc(ACN)</td><td>199.90</td><td>192.70</td><td class="pnl">-3.60%</td><td>92.0h</td><td>10-03 02:50 → 10-06 22:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Marvell Technology, Inc.(MRVL)</td><td>293.10</td><td>282.60</td><td class="pnl">-3.58%</td><td>2.0h</td><td>10-06 23:15 → 10-07 01:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Revvity, Inc.(RVTY)</td><td>163.90</td><td>158.40</td><td class="pnl">-3.36%</td><td>0.3h</td><td>10-06 22:50 → 10-06 23:10</td></tr></tbody></table>
 _P&L distribution (193 meaningful trades): min -5.55% · P25 -0.44% · median +1.66% · P75 +3.00% · max +12.49%_
 
-**Full data** — all 205 closed trades: [CSV download](/data/journal/2026-10-07-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 205 closed trades: [CSV download](/data/journal/2026-10-07-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (193 meaningful trades): min -5.55% · P25 -0.44% · median +1
 
 _As of 2026-10-07 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

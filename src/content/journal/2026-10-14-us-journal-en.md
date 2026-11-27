@@ -17,7 +17,7 @@ metrics:
   best_pct: 4.05
   worst_pct: -6.55
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.98
 ogImage: /characters/us/06_neutral.png
 altUrl: /journal/2026-10-14-us-journal/
@@ -59,7 +59,7 @@ The data set highlights that while positive momentum can be captured effectively
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>HP Inc.(HPQ)</td><td>29.63</td><td>30.83</td><td class="pnl">+4.05%</td><td>24.2h</td><td>10-12 22:45 → 10-13 23:00</td></tr><tr class="t-win"><td class="res">win</td><td>International Business Machines(IBM)</td><td>223.60</td><td>232.50</td><td class="pnl">+3.98%</td><td>119.8h</td><td>10-08 23:10 → 10-13 23:00</td></tr><tr class="t-win"><td class="res">win</td><td>Ulta Beauty, Inc.(ULTA)</td><td>557.10</td><td>578.90</td><td class="pnl">+3.91%</td><td>118.9h</td><td>10-08 23:55 → 10-13 22:50</td></tr><tr class="t-win"><td class="res">win</td><td>Centene Corporation(CNC)</td><td>66.20</td><td>68.69</td><td class="pnl">+3.76%</td><td>95.9h</td><td>10-09 22:55 → 10-13 22:50</td></tr><tr class="t-win"><td class="res">win</td><td>Edison International(EIX)</td><td>53.22</td><td>55.18</td><td class="pnl">+3.68%</td><td>4.2h</td><td>10-13 23:15 → 10-14 03:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Seagate Technology Holdings PLC(STX)</td><td>755.40</td><td>705.90</td><td class="pnl">-6.55%</td><td>21.8h</td><td>10-13 00:50 → 10-13 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Western Digital Corporation(WDC)</td><td>389.40</td><td>365.00</td><td class="pnl">-6.27%</td><td>95.8h</td><td>10-09 22:55 → 10-13 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Applied Materials, Inc.(AMAT)</td><td>508.60</td><td>479.50</td><td class="pnl">-5.72%</td><td>119.9h</td><td>10-08 22:45 → 10-13 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Micron Technology, Inc.(MU)</td><td>994.10</td><td>942.30</td><td class="pnl">-5.21%</td><td>23.9h</td><td>10-12 22:45 → 10-13 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Ciena Corporation(CIEN)</td><td>410.40</td><td>389.60</td><td class="pnl">-5.07%</td><td>22.0h</td><td>10-13 00:40 → 10-13 22:40</td></tr></tbody></table>
 _P&L distribution (252 meaningful trades): min -6.55% · P25 -1.08% · median +0.25% · P75 +1.83% · max +4.05%_
 
-**Full data** — all 290 closed trades: [CSV download](/data/journal/2026-10-14-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 290 closed trades: [CSV download](/data/journal/2026-10-14-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -68,9 +68,9 @@ _P&L distribution (252 meaningful trades): min -6.55% · P25 -1.08% · median +0
 
 _As of 2026-10-14 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

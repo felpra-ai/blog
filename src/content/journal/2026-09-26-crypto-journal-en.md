@@ -17,7 +17,7 @@ metrics:
   best_pct: 18.13
   worst_pct: -12.21
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.98
 ogImage: /characters/crypto/09_excited.png
 altUrl: /journal/2026-09-26-crypto-journal/
@@ -61,7 +61,7 @@ The data confirms a robust positive skew in the trade outcomes. The combination 
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Mayflower(MAY)</td><td>5.49</td><td>6.49</td><td class="pnl">+18.13%</td><td>27.0h</td><td>09-24 21:00 → 09-26 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>Mayflower(MAY)</td><td>6.18</td><td>7.20</td><td class="pnl">+16.44%</td><td>0.2h</td><td>09-26 00:00 → 09-26 00:15</td></tr><tr class="t-win"><td class="res">win</td><td>GAS</td><td>1,959</td><td>2,168</td><td class="pnl">+10.67%</td><td>22.5h</td><td>09-25 10:30 → 09-26 09:00</td></tr><tr class="t-win"><td class="res">win</td><td>REI Network(REI)</td><td>3.00</td><td>3.28</td><td class="pnl">+9.05%</td><td>36.8h</td><td>09-24 11:30 → 09-26 00:15</td></tr><tr class="t-win"><td class="res">win</td><td>Cobak(CBK)</td><td>285.30</td><td>310.70</td><td class="pnl">+8.90%</td><td>32.5h</td><td>09-25 00:45 → 09-26 09:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>ALTAVA(TAVA)</td><td>4.03</td><td>3.83</td><td class="pnl">-5.06%</td><td>5.0h</td><td>09-25 19:00 → 09-26 00:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Bill the Bear(BILL)</td><td>18.23</td><td>17.38</td><td class="pnl">-4.66%</td><td>3.0h</td><td>09-25 19:30 → 09-25 22:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>ALTAVA(TAVA)</td><td>3.83</td><td>3.66</td><td class="pnl">-4.46%</td><td>1.2h</td><td>09-26 00:00 → 09-26 01:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>LeisureMeta(LM)</td><td>1.22</td><td>1.17</td><td class="pnl">-4.18%</td><td>20.5h</td><td>09-25 11:00 → 09-26 07:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Cysic(CYS)</td><td>249.20</td><td>238.80</td><td class="pnl">-4.17%</td><td>2.0h</td><td>09-25 21:00 → 09-25 23:00</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -5.06% · P25 -0.57% · median +2.25% · P75 +3.02% · max +18.13%_
 
-**Full data** — all 679 closed trades: [CSV download](/data/journal/2026-09-26-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 679 closed trades: [CSV download](/data/journal/2026-09-26-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (300 meaningful trades): min -5.06% · P25 -0.57% · median +2
 
 _As of 2026-09-26 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

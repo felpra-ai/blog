@@ -17,7 +17,7 @@ metrics:
   best_pct: 8.06
   worst_pct: -8.21
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.42
 ogImage: /og/journal/2026-11-19-us-journal-en--us--02_sad.jpg
 altUrl: /journal/2026-11-19-us-journal/
@@ -55,7 +55,7 @@ The losses that mattered most came from metals and energy. Freeport-McMoRan, Val
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>TJX Companies, Inc. (The)(TJX)</td><td>130.30</td><td>140.80</td><td class="pnl">+8.06%</td><td>18.2h</td><td>11-18 05:40 → 11-18 23:55</td></tr><tr class="t-win"><td class="res">win</td><td>Take-Two Interactive Software,(TTWO)</td><td>204.50</td><td>216.00</td><td class="pnl">+5.62%</td><td>20.2h</td><td>11-18 03:40 → 11-18 23:50</td></tr><tr class="t-win"><td class="res">win</td><td>Fortinet, Inc.(FTNT)</td><td>123.70</td><td>129.40</td><td class="pnl">+4.61%</td><td>47.8h</td><td>11-17 00:35 → 11-19 00:25</td></tr><tr class="t-win"><td class="res">win</td><td>Comfort Systems USA, Inc.(FIX)</td><td>1,072</td><td>1,118</td><td class="pnl">+4.29%</td><td>22.4h</td><td>11-18 01:20 → 11-18 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>Palo Alto Networks, Inc.(PANW)</td><td>306.90</td><td>319.20</td><td class="pnl">+4.01%</td><td>22.8h</td><td>11-18 01:15 → 11-19 00:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Freeport-McMoRan, Inc.(FCX)</td><td>55.78</td><td>51.20</td><td class="pnl">-8.21%</td><td>42.8h</td><td>11-17 05:00 → 11-18 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Valero Energy Corporation(VLO)</td><td>371.00</td><td>346.00</td><td class="pnl">-6.74%</td><td>47.8h</td><td>11-16 23:55 → 11-18 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Newmont Corporation(NEM)</td><td>112.70</td><td>105.20</td><td class="pnl">-6.65%</td><td>137.8h</td><td>11-13 06:00 → 11-18 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Phillips 66(PSX)</td><td>261.30</td><td>246.90</td><td class="pnl">-5.51%</td><td>116.8h</td><td>11-14 02:55 → 11-18 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Everpure, Inc.(P)</td><td>101.60</td><td>96.78</td><td class="pnl">-4.74%</td><td>26.5h</td><td>11-18 00:20 → 11-19 02:50</td></tr></tbody></table>
 _P&L distribution (223 meaningful trades): min -8.21% · P25 -3.16% · median -0.72% · P75 +0.36% · max +8.06%_
 
-**Full data** — all 241 closed trades: [CSV download](/data/journal/2026-11-19-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 241 closed trades: [CSV download](/data/journal/2026-11-19-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _P&L distribution (223 meaningful trades): min -8.21% · P25 -3.16% · median -0
 
 _As of 2026-11-19 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

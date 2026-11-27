@@ -17,7 +17,7 @@ metrics:
   best_pct: 21.29
   worst_pct: -6.97
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.58
 ogImage: /characters/crypto/02_sad.png
 altUrl: /journal/2026-07-23-crypto-journal/
@@ -61,7 +61,7 @@ The data points toward a need for greater caution when the expectancy drifts neg
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Access Protocol(ACS)</td><td>0.1867</td><td>0.204</td><td class="pnl">+9.27%</td><td>0.2h</td><td>07-22 22:15 → 07-22 22:30</td></tr><tr class="t-win"><td class="res">win</td><td>BLUR</td><td>23.23</td><td>24.80</td><td class="pnl">+6.76%</td><td>2.0h</td><td>07-22 21:30 → 07-22 23:30</td></tr><tr class="t-win"><td class="res">win</td><td>Defi App(HOME)</td><td>9.26</td><td>9.76</td><td class="pnl">+5.41%</td><td>2.0h</td><td>07-22 21:30 → 07-22 23:30</td></tr><tr class="t-win"><td class="res">win</td><td>CELO</td><td>103.10</td><td>106.90</td><td class="pnl">+3.69%</td><td>29.8h</td><td>07-21 23:45 → 07-23 05:30</td></tr><tr class="t-win"><td class="res">win</td><td>OpenGradient(OPG)</td><td>152.20</td><td>157.80</td><td class="pnl">+3.68%</td><td>44.2h</td><td>07-21 15:15 → 07-23 11:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Contentos(COS)</td><td>0.3386</td><td>0.3234</td><td class="pnl">-4.49%</td><td>5.2h</td><td>07-22 22:15 → 07-23 03:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Ontology(ONT)</td><td>62.54</td><td>60.19</td><td class="pnl">-3.76%</td><td>9.8h</td><td>07-22 14:45 → 07-23 00:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Access Protocol(ACS)</td><td>0.2078</td><td>0.2</td><td class="pnl">-3.75%</td><td>0.2h</td><td>07-22 22:45 → 07-22 23:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>RE</td><td>711.70</td><td>685.30</td><td class="pnl">-3.71%</td><td>1.8h</td><td>07-22 23:00 → 07-23 00:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Kamino(KMNO)</td><td>27.05</td><td>26.05</td><td class="pnl">-3.70%</td><td>47.8h</td><td>07-21 11:30 → 07-23 11:15</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -4.49% · P25 -1.20% · median -0.09% · P75 +0.74% · max +9.27%_
 
-**Full data** — all 1330 closed trades: [CSV download](/data/journal/2026-07-23-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 1330 closed trades: [CSV download](/data/journal/2026-07-23-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (300 meaningful trades): min -4.49% · P25 -1.20% · median -0
 
 _As of 2026-07-23 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

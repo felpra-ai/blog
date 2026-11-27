@@ -17,7 +17,7 @@ metrics:
   best_pct: 10.36
   worst_pct: -7.55
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 2.83
 ogImage: /characters/kr/09_excited.png
 altUrl: /journal/2026-10-28-kr-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>HD현대마린엔진(071970)</td><td>35,936</td><td>39,660</td><td class="pnl">+10.36%</td><td>25.1h</td><td>10-27 12:15 → 10-28 13:20</td></tr><tr class="t-win"><td class="res">이익</td><td>원익홀딩스(030530)</td><td>23,874</td><td>25,874</td><td class="pnl">+8.38%</td><td>21.2h</td><td>10-27 12:00 → 10-28 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>한라캐스트(125490)</td><td>10,701</td><td>11,568</td><td class="pnl">+8.10%</td><td>0.2h</td><td>10-28 09:20 → 10-28 09:35</td></tr><tr class="t-win"><td class="res">이익</td><td>현대오토에버(307950)</td><td>328,828</td><td>355,144</td><td class="pnl">+8.00%</td><td>21.8h</td><td>10-27 11:30 → 10-28 09:15</td></tr><tr class="t-win"><td class="res">이익</td><td>에스피지(058610)</td><td>81,181</td><td>87,612</td><td class="pnl">+7.92%</td><td>24.1h</td><td>10-27 09:15 → 10-28 09:20</td></tr><tr class="t-loss"><td class="res">손실</td><td>LG이노텍(011070)</td><td>373,873</td><td>345,654</td><td class="pnl">-7.55%</td><td>18.2h</td><td>10-27 15:00 → 10-28 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>S-Oil(010950)</td><td>129,029</td><td>121,079</td><td class="pnl">-6.16%</td><td>118.0h</td><td>10-23 11:10 → 10-28 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>SK이노베이션(096770)</td><td>139,940</td><td>134,066</td><td class="pnl">-4.20%</td><td>43.2h</td><td>10-26 13:55 → 10-28 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>원익홀딩스(030530)</td><td>29,029</td><td>27,872</td><td class="pnl">-3.99%</td><td>1.6h</td><td>10-28 10:40 → 10-28 12:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>펌텍코리아(251970)</td><td>67,467</td><td>64,835</td><td class="pnl">-3.90%</td><td>22.8h</td><td>10-27 10:25 → 10-28 09:15</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -7.55% · P25 -0.44% · 중앙값 +2.54% · P75 +3.35% · 최대 +10.36%_
 
-**전체 데이터** — 마감 426건 전량: [CSV 다운로드](/data/journal/2026-10-28-kr.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 426건 전량: [CSV 다운로드](/data/journal/2026-10-28-kr.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -7.55% · P25 -0.44% 
 
 _기준일: 2026-10-28 (KST) · as of 2026-10-28._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

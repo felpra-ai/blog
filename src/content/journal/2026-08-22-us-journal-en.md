@@ -17,7 +17,7 @@ metrics:
   best_pct: 12.02
   worst_pct: -4.16
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.15
 ogImage: /characters/us/01_joy.png
 altUrl: /journal/2026-08-22-us-journal/
@@ -61,7 +61,7 @@ The overall metrics—a win rate of 47.1% and a profit factor of 1.15—paint a 
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Robinhood Markets, Inc.(HOOD)</td><td>96.59</td><td>108.20</td><td class="pnl">+12.02%</td><td>46.8h</td><td>08-20 00:25 → 08-21 23:10</td></tr><tr class="t-win"><td class="res">win</td><td>Moderna, Inc.(MRNA)</td><td>130.60</td><td>144.40</td><td class="pnl">+10.57%</td><td>20.8h</td><td>08-21 01:55 → 08-21 22:45</td></tr><tr class="t-win"><td class="res">win</td><td>Freeport-McMoRan, Inc.(FCX)</td><td>69.43</td><td>75.45</td><td class="pnl">+8.67%</td><td>45.8h</td><td>08-20 01:00 → 08-21 22:45</td></tr><tr class="t-win"><td class="res">win</td><td>Moderna, Inc.(MRNA)</td><td>144.60</td><td>157.10</td><td class="pnl">+8.64%</td><td>0.7h</td><td>08-21 22:50 → 08-21 23:30</td></tr><tr class="t-win"><td class="res">win</td><td>Coinbase Global, Inc.(COIN)</td><td>169.60</td><td>183.20</td><td class="pnl">+8.02%</td><td>24.0h</td><td>08-20 22:45 → 08-21 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Ciena Corporation(CIEN)</td><td>401.60</td><td>384.90</td><td class="pnl">-4.16%</td><td>71.3h</td><td>08-19 00:10 → 08-21 23:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Marvell Technology, Inc.(MRVL)</td><td>247.60</td><td>237.40</td><td class="pnl">-4.12%</td><td>0.6h</td><td>08-21 22:55 → 08-21 23:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Waters Corporation(WAT)</td><td>416.50</td><td>399.50</td><td class="pnl">-4.08%</td><td>47.1h</td><td>08-19 23:40 → 08-21 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Quanta Services, Inc.(PWR)</td><td>671.90</td><td>646.00</td><td class="pnl">-3.85%</td><td>46.8h</td><td>08-20 01:00 → 08-21 23:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>CenterPoint Energy, Inc (Holdin(CNP)</td><td>40.88</td><td>39.35</td><td class="pnl">-3.74%</td><td>67.9h</td><td>08-19 02:50 → 08-21 22:45</td></tr></tbody></table>
 _P&L distribution (216 meaningful trades): min -4.16% · P25 -1.22% · median -0.21% · P75 +1.37% · max +12.02%_
 
-**Full data** — all 225 closed trades: [CSV download](/data/journal/2026-08-22-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 225 closed trades: [CSV download](/data/journal/2026-08-22-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (216 meaningful trades): min -4.16% · P25 -1.22% · median -0
 
 _As of 2026-08-22 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

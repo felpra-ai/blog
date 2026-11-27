@@ -17,7 +17,7 @@ metrics:
   best_pct: 8.55
   worst_pct: -7.93
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 4.82
 ogImage: /characters/us/09_excited.png
 altUrl: /journal/2026-11-10-us-journal/
@@ -61,7 +61,7 @@ This research note reflects the outcomes of paper-trading analysis and does not 
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Advanced Micro Devices, Inc.(AMD)</td><td>437.30</td><td>474.70</td><td class="pnl">+8.55%</td><td>71.1h</td><td>11-07 00:40 → 11-09 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>Flex Ltd.(FLEX)</td><td>69.33</td><td>75.10</td><td class="pnl">+8.32%</td><td>67.2h</td><td>11-07 04:35 → 11-09 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>Vertiv Holdings, LLC(VRT)</td><td>179.70</td><td>194.20</td><td class="pnl">+8.07%</td><td>68.8h</td><td>11-07 03:05 → 11-09 23:50</td></tr><tr class="t-win"><td class="res">win</td><td>Bloom Energy Corporation(BE)</td><td>173.90</td><td>187.90</td><td class="pnl">+8.05%</td><td>67.1h</td><td>11-07 04:40 → 11-09 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>Ciena Corporation(CIEN)</td><td>240.50</td><td>259.60</td><td class="pnl">+7.94%</td><td>69.8h</td><td>11-07 02:00 → 11-09 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>NVIDIA Corporation(NVDA)</td><td>189.20</td><td>174.20</td><td class="pnl">-7.93%</td><td>70.3h</td><td>11-07 01:25 → 11-09 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Capital One Financial Corporati(COF)</td><td>203.70</td><td>192.30</td><td class="pnl">-5.60%</td><td>70.0h</td><td>11-07 01:45 → 11-09 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Diamondback Energy, Inc.(FANG)</td><td>183.60</td><td>174.10</td><td class="pnl">-5.17%</td><td>117.9h</td><td>11-05 01:50 → 11-09 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Synchrony Financial(SYF)</td><td>73.70</td><td>70.34</td><td class="pnl">-4.56%</td><td>94.8h</td><td>11-06 01:00 → 11-09 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Monster Beverage Corporation(MNST)</td><td>46.74</td><td>45.12</td><td class="pnl">-3.47%</td><td>68.6h</td><td>11-07 03:15 → 11-09 23:50</td></tr></tbody></table>
 _P&L distribution (231 meaningful trades): min -7.93% · P25 +0.00% · median +2.65% · P75 +3.25% · max +8.55%_
 
-**Full data** — all 256 closed trades: [CSV download](/data/journal/2026-11-10-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 256 closed trades: [CSV download](/data/journal/2026-11-10-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (231 meaningful trades): min -7.93% · P25 +0.00% · median +2
 
 _As of 2026-11-10 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

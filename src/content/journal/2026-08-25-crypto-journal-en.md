@@ -17,7 +17,7 @@ metrics:
   best_pct: 26.49
   worst_pct: -7.67
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.39
 ogImage: /characters/crypto/07_confident.png
 altUrl: /journal/2026-08-25-crypto-journal/
@@ -63,7 +63,7 @@ The trades that resulted in losses—XVS, BASED, and ACS—demonstrate that even
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Ameriprise Financial, Inc.(AMP)</td><td>0.5768</td><td>0.7155</td><td class="pnl">+24.05%</td><td>25.5h</td><td>08-24 01:00 → 08-25 02:30</td></tr><tr class="t-win"><td class="res">win</td><td>Zircuit(ZRC)</td><td>1.09</td><td>1.30</td><td class="pnl">+19.49%</td><td>4.8h</td><td>08-24 19:15 → 08-25 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>Audius(AUDIO)</td><td>17.67</td><td>20.17</td><td class="pnl">+14.15%</td><td>41.0h</td><td>08-23 05:15 → 08-24 22:15</td></tr><tr class="t-win"><td class="res">win</td><td>Metaplex(MPLX)</td><td>38.21</td><td>42.01</td><td class="pnl">+9.95%</td><td>34.5h</td><td>08-23 23:45 → 08-25 10:15</td></tr><tr class="t-win"><td class="res">win</td><td>Xterio(XTER)</td><td>12.26</td><td>13.30</td><td class="pnl">+8.48%</td><td>19.2h</td><td>08-24 14:00 → 08-25 09:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Venus(XVS)</td><td>4,258</td><td>3,986</td><td class="pnl">-6.39%</td><td>32.5h</td><td>08-24 05:00 → 08-25 13:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>BASED</td><td>101.10</td><td>95.75</td><td class="pnl">-5.29%</td><td>22.5h</td><td>08-24 18:15 → 08-25 16:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Access Protocol(ACS)</td><td>0.1987</td><td>0.19</td><td class="pnl">-4.38%</td><td>24.8h</td><td>08-24 00:30 → 08-25 01:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Ethena(ENA)</td><td>222.20</td><td>212.80</td><td class="pnl">-4.23%</td><td>10.5h</td><td>08-24 15:45 → 08-25 02:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>TAIKO</td><td>105.10</td><td>100.90</td><td class="pnl">-4.00%</td><td>24.5h</td><td>08-23 22:15 → 08-24 22:45</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -6.39% · P25 +0.00% · median +1.72% · P75 +2.83% · max +24.05%_
 
-**Full data** — all 1207 closed trades: [CSV download](/data/journal/2026-08-25-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 1207 closed trades: [CSV download](/data/journal/2026-08-25-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -6.39% · P25 +0.00% · median +1
 
 _As of 2026-08-25 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

@@ -17,7 +17,7 @@ metrics:
   best_pct: 23.76
   worst_pct: -5.27
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 2.69
 ogImage: /og/journal/2026-11-24-us-journal-en--us--07_confident.jpg
 altUrl: /journal/2026-11-24-us-journal/
@@ -55,7 +55,7 @@ The losses recorded involved names such as UnitedHealth Group Incorporated at -5
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Coherent Corp.(COHR)</td><td>186.00</td><td>230.20</td><td class="pnl">+23.76%</td><td>67.4h</td><td>11-21 04:20 → 11-23 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>Marvell Technology, Inc.(MRVL)</td><td>122.80</td><td>141.70</td><td class="pnl">+15.39%</td><td>66.3h</td><td>11-21 05:25 → 11-23 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>Seagate Technology Holdings PLC(STX)</td><td>465.10</td><td>523.10</td><td class="pnl">+12.47%</td><td>70.6h</td><td>11-21 01:10 → 11-23 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>Western Digital Corporation(WDC)</td><td>265.20</td><td>297.60</td><td class="pnl">+12.22%</td><td>70.3h</td><td>11-21 01:25 → 11-23 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>KLA Corporation(KLAC)</td><td>126.60</td><td>141.30</td><td class="pnl">+11.61%</td><td>65.9h</td><td>11-21 05:50 → 11-23 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>UnitedHealth Group Incorporated(UNH)</td><td>341.70</td><td>323.70</td><td class="pnl">-5.27%</td><td>66.8h</td><td>11-21 05:00 → 11-23 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Humana Inc.(HUM)</td><td>394.80</td><td>376.00</td><td class="pnl">-4.76%</td><td>67.0h</td><td>11-21 04:45 → 11-23 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Monster Beverage Corporation(MNST)</td><td>44.63</td><td>42.96</td><td class="pnl">-3.74%</td><td>138.1h</td><td>11-18 05:40 → 11-23 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Genuine Parts Company(GPC)</td><td>122.00</td><td>117.90</td><td class="pnl">-3.36%</td><td>69.1h</td><td>11-21 02:40 → 11-23 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Constellation Brands, Inc.(STZ)</td><td>143.60</td><td>138.80</td><td class="pnl">-3.34%</td><td>117.8h</td><td>11-19 02:00 → 11-23 23:45</td></tr></tbody></table>
 _P&L distribution (174 meaningful trades): min -5.27% · P25 -1.02% · median +0.06% · P75 +1.54% · max +23.76%_
 
-**Full data** — all 176 closed trades: [CSV download](/data/journal/2026-11-24-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 176 closed trades: [CSV download](/data/journal/2026-11-24-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _P&L distribution (174 meaningful trades): min -5.27% · P25 -1.02% · median +0
 
 _As of 2026-11-24 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

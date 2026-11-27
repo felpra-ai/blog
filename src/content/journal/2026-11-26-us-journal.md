@@ -17,7 +17,7 @@ metrics:
   best_pct: 12.57
   worst_pct: -12.12
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.99
 ogImage: /og/journal/2026-11-26-us-journal--us--06_neutral.jpg
 altUrl: /journal/2026-11-26-us-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>HP Inc.(HPQ)</td><td>27.93</td><td>31.44</td><td class="pnl">+12.57%</td><td>17.9h</td><td>11-25 05:45 → 11-25 23:40</td></tr><tr class="t-win"><td class="res">이익</td><td>KLA Corporation(KLAC)</td><td>123.30</td><td>133.90</td><td class="pnl">+8.60%</td><td>4.2h</td><td>11-25 23:55 → 11-26 04:10</td></tr><tr class="t-win"><td class="res">이익</td><td>브라운 & 브라운(BRO)</td><td>72.59</td><td>78.58</td><td class="pnl">+8.25%</td><td>142.1h</td><td>11-20 04:10 → 11-26 02:15</td></tr><tr class="t-win"><td class="res">이익</td><td>Flex Ltd.(FLEX)</td><td>61.92</td><td>67.01</td><td class="pnl">+8.22%</td><td>4.4h</td><td>11-25 23:45 → 11-26 04:10</td></tr><tr class="t-win"><td class="res">이익</td><td>Carvana Co.(CVNA)</td><td>63.03</td><td>68.16</td><td class="pnl">+8.14%</td><td>3.3h</td><td>11-26 00:00 → 11-26 03:20</td></tr><tr class="t-loss"><td class="res">손실</td><td>Bloom Energy Corporation(BE)</td><td>156.80</td><td>137.80</td><td class="pnl">-12.12%</td><td>19.2h</td><td>11-25 04:25 → 11-25 23:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Micron Technology, Inc.(MU)</td><td>626.50</td><td>563.80</td><td class="pnl">-10.01%</td><td>18.7h</td><td>11-25 05:00 → 11-25 23:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Marvell Technology, Inc.(MRVL)</td><td>132.20</td><td>119.60</td><td class="pnl">-9.53%</td><td>23.2h</td><td>11-25 00:30 → 11-25 23:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Seagate Technology Holdings PLC(STX)</td><td>486.00</td><td>442.10</td><td class="pnl">-9.03%</td><td>18.4h</td><td>11-25 05:20 → 11-25 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Sandisk Corporation(SNDK)</td><td>77.82</td><td>70.84</td><td class="pnl">-8.97%</td><td>17.8h</td><td>11-25 05:50 → 11-25 23:40</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -12.12% · P25 -2.16% · 중앙값 +0.24% · P75 +1.87% · 최대 +12.57%_
 
-**전체 데이터** — 마감 426건 전량: [CSV 다운로드](/data/journal/2026-11-26-us.csv) · 또는 [OneQAZ MCP](https://github.com/oneqaz-trading/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 426건 전량: [CSV 다운로드](/data/journal/2026-11-26-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -12.12% · P25 -2.16%
 
 _기준일: 2026-11-26 (KST) · as of 2026-11-26._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/oneqaz-trading/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

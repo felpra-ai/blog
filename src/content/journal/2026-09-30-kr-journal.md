@@ -17,7 +17,7 @@ metrics:
   best_pct: 12.28
   worst_pct: -6.34
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 2.22
 ogImage: /characters/kr/09_excited.png
 altUrl: /journal/2026-09-30-kr-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>LS머트리얼즈(417200)</td><td>12,813</td><td>14,386</td><td class="pnl">+12.28%</td><td>22.3h</td><td>09-29 11:05 → 09-30 09:25</td></tr><tr class="t-win"><td class="res">이익</td><td>이수스페셜티케미컬(457190)</td><td>64,364</td><td>72,228</td><td class="pnl">+12.22%</td><td>46.1h</td><td>09-28 11:20 → 09-30 09:25</td></tr><tr class="t-win"><td class="res">이익</td><td>세아제강지주(003030)</td><td>106,807</td><td>118,981</td><td class="pnl">+11.40%</td><td>44.4h</td><td>09-28 13:00 → 09-30 09:25</td></tr><tr class="t-win"><td class="res">이익</td><td>브이엠(089970)</td><td>59,660</td><td>65,135</td><td class="pnl">+9.18%</td><td>22.9h</td><td>09-29 10:30 → 09-30 09:25</td></tr><tr class="t-win"><td class="res">이익</td><td>HLB(028300)</td><td>39,089</td><td>42,607</td><td class="pnl">+9.00%</td><td>2.1h</td><td>09-30 09:25 → 09-30 11:30</td></tr><tr class="t-loss"><td class="res">손실</td><td>루닛(328130)</td><td>11,722</td><td>10,979</td><td class="pnl">-6.34%</td><td>42.2h</td><td>09-28 15:10 → 09-30 09:25</td></tr><tr class="t-loss"><td class="res">손실</td><td>오리온홀딩스(001800)</td><td>24,174</td><td>22,977</td><td class="pnl">-4.95%</td><td>27.1h</td><td>09-29 09:15 → 09-30 12:20</td></tr><tr class="t-loss"><td class="res">손실</td><td>HLB(028300)</td><td>41,041</td><td>39,011</td><td class="pnl">-4.95%</td><td>21.1h</td><td>09-29 12:10 → 09-30 09:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>코스메카코리아(241710)</td><td>119,319</td><td>113,686</td><td class="pnl">-4.72%</td><td>2.9h</td><td>09-30 11:50 → 09-30 14:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>현대해상(001450)</td><td>49,800</td><td>47,452</td><td class="pnl">-4.71%</td><td>44.5h</td><td>09-28 13:50 → 09-30 10:20</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 166건 기준): 최소 -6.34% · P25 -1.56% · 중앙값 +0.87% · P75 +3.45% · 최대 +12.28%_
 
-**전체 데이터** — 마감 168건 전량: [CSV 다운로드](/data/journal/2026-09-30-kr.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 168건 전량: [CSV 다운로드](/data/journal/2026-09-30-kr.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 166건 기준): 최소 -6.34% · P25 -1.56% 
 
 _기준일: 2026-09-30 (KST) · as of 2026-09-30._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

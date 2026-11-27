@@ -17,7 +17,7 @@ metrics:
   best_pct: 11.74
   worst_pct: -12.3
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.59
 ogImage: /characters/kr/02_sad.png
 altUrl: /journal/2026-11-05-kr-journal/
@@ -61,7 +61,7 @@ Overall flow metrics suggest that the broader KOSPI trend remained subdued, fail
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Ollikseu(226950)</td><td>84,484</td><td>94,406</td><td class="pnl">+11.74%</td><td>18.3h</td><td>11-04 14:50 → 11-05 09:10</td></tr><tr class="t-win"><td class="res">win</td><td>Kyuriokseubaiosiseutemjeu(445680)</td><td>44,695</td><td>49,650</td><td class="pnl">+11.09%</td><td>18.8h</td><td>11-04 14:25 → 11-05 09:10</td></tr><tr class="t-win"><td class="res">win</td><td>Koseumaekseu(192820)</td><td>246,246</td><td>272,727</td><td class="pnl">+10.75%</td><td>18.3h</td><td>11-04 14:50 → 11-05 09:10</td></tr><tr class="t-win"><td class="res">win</td><td>Dieoyu(376300)</td><td>16,987</td><td>18,601</td><td class="pnl">+9.50%</td><td>22.2h</td><td>11-04 11:15 → 11-05 09:30</td></tr><tr class="t-win"><td class="res">win</td><td>Chabaiotek(085660)</td><td>6,797</td><td>7,403</td><td class="pnl">+8.92%</td><td>18.3h</td><td>11-04 14:50 → 11-05 09:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Eichibeuiem(295310)</td><td>53,253</td><td>46,703</td><td class="pnl">-12.30%</td><td>18.3h</td><td>11-04 14:50 → 11-05 09:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Simtek(222800)</td><td>120,320</td><td>108,092</td><td class="pnl">-10.16%</td><td>18.5h</td><td>11-04 14:40 → 11-05 09:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Neosem(253590)</td><td>16,647</td><td>14,975</td><td class="pnl">-10.04%</td><td>17.7h</td><td>11-04 15:30 → 11-05 09:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Pieseukeiholdingseu(031980)</td><td>166,867</td><td>150,250</td><td class="pnl">-9.96%</td><td>19.1h</td><td>11-04 14:05 → 11-05 09:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Gigabiseu(420770)</td><td>83,183</td><td>75,524</td><td class="pnl">-9.21%</td><td>18.0h</td><td>11-04 15:10 → 11-05 09:10</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -12.30% · P25 -3.41% · median -3.16% · P75 +3.24% · max +11.74%_
 
-**Full data** — all 524 closed trades: [CSV download](/data/journal/2026-11-05-kr.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 524 closed trades: [CSV download](/data/journal/2026-11-05-kr.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (300 meaningful trades): min -12.30% · P25 -3.41% · median -
 
 _As of 2026-11-05 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

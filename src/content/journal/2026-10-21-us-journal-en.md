@@ -17,7 +17,7 @@ metrics:
   best_pct: 8.79
   worst_pct: -6.84
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.46
 ogImage: /characters/us/07_confident.png
 altUrl: /journal/2026-10-21-us-journal/
@@ -61,7 +61,7 @@ The data suggests that while the overall expectancy is positive, the symmetry be
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Equifax, Inc.(EFX)</td><td>160.50</td><td>174.60</td><td class="pnl">+8.79%</td><td>114.2h</td><td>10-16 04:35 → 10-20 22:50</td></tr><tr class="t-win"><td class="res">win</td><td>Intuit Inc.(INTU)</td><td>319.40</td><td>339.30</td><td class="pnl">+6.23%</td><td>23.8h</td><td>10-19 23:05 → 10-20 22:55</td></tr><tr class="t-win"><td class="res">win</td><td>MSCI Inc.(MSCI)</td><td>565.80</td><td>599.30</td><td class="pnl">+5.92%</td><td>23.0h</td><td>10-19 23:50 → 10-20 22:50</td></tr><tr class="t-win"><td class="res">win</td><td>Expedia Group, Inc.(EXPE)</td><td>285.10</td><td>299.90</td><td class="pnl">+5.19%</td><td>91.8h</td><td>10-17 03:10 → 10-20 23:00</td></tr><tr class="t-win"><td class="res">win</td><td>CoStar Group, Inc.(CSGP)</td><td>31.60</td><td>33.08</td><td class="pnl">+4.68%</td><td>119.8h</td><td>10-15 23:10 → 10-20 22:55</td></tr><tr class="t-loss"><td class="res">loss</td><td>Lumentum Holdings Inc.(LITE)</td><td>847.70</td><td>789.70</td><td class="pnl">-6.84%</td><td>20.0h</td><td>10-20 02:40 → 10-20 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Bloom Energy Corporation(BE)</td><td>229.50</td><td>213.80</td><td class="pnl">-6.84%</td><td>23.7h</td><td>10-19 23:00 → 10-20 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Ciena Corporation(CIEN)</td><td>353.30</td><td>330.60</td><td class="pnl">-6.43%</td><td>21.9h</td><td>10-20 00:45 → 10-20 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>General Motors Company(GM)</td><td>83.20</td><td>78.29</td><td class="pnl">-5.90%</td><td>23.5h</td><td>10-19 23:10 → 10-20 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Eaton Corporation, PLC(ETN)</td><td>399.80</td><td>376.50</td><td class="pnl">-5.83%</td><td>117.4h</td><td>10-16 01:15 → 10-20 22:40</td></tr></tbody></table>
 _P&L distribution (275 meaningful trades): min -6.84% · P25 -0.51% · median +0.41% · P75 +2.78% · max +8.79%_
 
-**Full data** — all 307 closed trades: [CSV download](/data/journal/2026-10-21-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 307 closed trades: [CSV download](/data/journal/2026-10-21-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (275 meaningful trades): min -6.84% · P25 -0.51% · median +0
 
 _As of 2026-10-21 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

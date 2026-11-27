@@ -17,7 +17,7 @@ metrics:
   best_pct: 10.13
   worst_pct: -22.03
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.14
 ogImage: /characters/us/01_joy.png
 altUrl: /journal/2026-08-06-us-journal/
@@ -63,7 +63,7 @@ The overall positive expectancy, despite the range of outcomes, suggests that th
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Wynn Resorts, Limited(WYNN)</td><td>98.34</td><td>108.30</td><td class="pnl">+10.13%</td><td>22.1h</td><td>08-05 00:30 → 08-05 22:35</td></tr><tr class="t-win"><td class="res">win</td><td>International Flavors & Fragran(IFF)</td><td>80.69</td><td>87.59</td><td class="pnl">+8.55%</td><td>19.2h</td><td>08-05 04:20 → 08-05 23:35</td></tr><tr class="t-win"><td class="res">win</td><td>Eli Lilly and Company(LLY)</td><td>1,115</td><td>1,210</td><td class="pnl">+8.52%</td><td>44.7h</td><td>08-04 01:55 → 08-05 22:35</td></tr><tr class="t-win"><td class="res">win</td><td>Newmont Corporation(NEM)</td><td>97.30</td><td>104.70</td><td class="pnl">+7.61%</td><td>24.2h</td><td>08-05 00:00 → 08-06 00:10</td></tr><tr class="t-win"><td class="res">win</td><td>NVIDIA Corporation(NVDA)</td><td>207.20</td><td>221.10</td><td class="pnl">+6.71%</td><td>46.2h</td><td>08-04 01:35 → 08-05 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Insulet Corporation(PODD)</td><td>166.60</td><td>129.90</td><td class="pnl">-22.03%</td><td>20.1h</td><td>08-05 02:30 → 08-05 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>DaVita Inc.(DVA)</td><td>231.90</td><td>191.50</td><td class="pnl">-17.42%</td><td>22.9h</td><td>08-04 23:40 → 08-05 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>Crown Castle Inc.(CCI)</td><td>77.55</td><td>71.80</td><td class="pnl">-7.41%</td><td>44.9h</td><td>08-04 02:50 → 08-05 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Edison International(EIX)</td><td>72.01</td><td>66.80</td><td class="pnl">-7.24%</td><td>44.7h</td><td>08-04 01:55 → 08-05 22:35</td></tr><tr class="t-loss"><td class="res">loss</td><td>American Tower Corporation (REI(AMT)</td><td>175.20</td><td>164.10</td><td class="pnl">-6.34%</td><td>20.6h</td><td>08-05 03:10 → 08-05 23:45</td></tr></tbody></table>
 _P&L distribution (229 meaningful trades): min -22.03% · P25 -0.94% · median +0.04% · P75 +2.52% · max +10.13%_
 
-**Full data** — all 284 closed trades: [CSV download](/data/journal/2026-08-06-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 284 closed trades: [CSV download](/data/journal/2026-08-06-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (229 meaningful trades): min -22.03% · P25 -0.94% · median +
 
 _As of 2026-08-06 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

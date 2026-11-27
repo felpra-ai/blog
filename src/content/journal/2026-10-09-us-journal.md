@@ -17,7 +17,7 @@ metrics:
   best_pct: 6.26
   worst_pct: -5.63
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.84
 ogImage: /characters/us/08_defensive.png
 altUrl: /journal/2026-10-09-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>액센추어(ACN)</td><td>193.40</td><td>205.50</td><td class="pnl">+6.26%</td><td>48.2h</td><td>10-06 22:55 → 10-08 23:10</td></tr><tr class="t-win"><td class="res">이익</td><td>Philip Morris International Inc(PM)</td><td>188.10</td><td>197.70</td><td class="pnl">+5.10%</td><td>166.0h</td><td>10-02 00:50 → 10-08 22:50</td></tr><tr class="t-win"><td class="res">이익</td><td>액센추어(ACN)</td><td>199.20</td><td>208.40</td><td class="pnl">+4.62%</td><td>5.1h</td><td>10-08 23:40 → 10-09 04:45</td></tr><tr class="t-win"><td class="res">이익</td><td>CMC테크(CMG)</td><td>31.17</td><td>32.54</td><td class="pnl">+4.40%</td><td>71.6h</td><td>10-05 23:40 → 10-08 23:15</td></tr><tr class="t-win"><td class="res">이익</td><td>Palantir Technologies Inc.(PLTR)</td><td>190.60</td><td>198.40</td><td class="pnl">+4.09%</td><td>141.9h</td><td>10-03 00:50 → 10-08 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Garmin Ltd.(GRMN)</td><td>282.30</td><td>266.40</td><td class="pnl">-5.63%</td><td>45.6h</td><td>10-07 01:10 → 10-08 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Starbucks Corporation(SBUX)</td><td>94.00</td><td>89.14</td><td class="pnl">-5.17%</td><td>0.3h</td><td>10-08 22:50 → 10-08 23:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>Revvity, Inc.(RVTY)</td><td>154.30</td><td>146.80</td><td class="pnl">-4.86%</td><td>47.2h</td><td>10-06 23:25 → 10-08 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Oracle Corporation(ORCL)</td><td>141.60</td><td>135.30</td><td class="pnl">-4.45%</td><td>3.0h</td><td>10-08 22:55 → 10-09 01:55</td></tr><tr class="t-loss"><td class="res">손실</td><td>Bloom Energy Corporation(BE)</td><td>282.10</td><td>270.20</td><td class="pnl">-4.22%</td><td>2.2h</td><td>10-08 23:40 → 10-09 01:55</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 268건 기준): 최소 -5.63% · P25 -3.16% · 중앙값 +0.03% · P75 +2.71% · 최대 +6.26%_
 
-**전체 데이터** — 마감 286건 전량: [CSV 다운로드](/data/journal/2026-10-09-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 286건 전량: [CSV 다운로드](/data/journal/2026-10-09-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 268건 기준): 최소 -5.63% · P25 -3.16% 
 
 _기준일: 2026-10-09 (KST) · as of 2026-10-09._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

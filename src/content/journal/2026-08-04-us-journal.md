@@ -17,7 +17,7 @@ metrics:
   best_pct: 10.46
   worst_pct: -7.36
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 2.45
 ogImage: /characters/us/07_confident.png
 altUrl: /journal/2026-08-04-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>First Solar, Inc.(FSLR)</td><td>212.30</td><td>234.50</td><td class="pnl">+10.46%</td><td>67.2h</td><td>08-01 04:30 → 08-03 23:40</td></tr><tr class="t-win"><td class="res">이익</td><td>액손 엔터프라이스(AXON)</td><td>511.20</td><td>564.20</td><td class="pnl">+10.37%</td><td>95.1h</td><td>07-31 00:40 → 08-03 23:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Oracle Corporation(ORCL)</td><td>127.50</td><td>138.80</td><td class="pnl">+8.86%</td><td>73.2h</td><td>08-01 00:15 → 08-04 01:25</td></tr><tr class="t-win"><td class="res">이익</td><td>코히런트(COHR)</td><td>264.00</td><td>286.50</td><td class="pnl">+8.52%</td><td>72.6h</td><td>07-31 23:35 → 08-04 00:10</td></tr><tr class="t-win"><td class="res">이익</td><td>빌더스 퍼스트소스(BLDR)</td><td>66.28</td><td>71.01</td><td class="pnl">+7.14%</td><td>93.6h</td><td>07-31 02:50 → 08-04 00:25</td></tr><tr class="t-loss"><td class="res">손실</td><td>Western Digital Corporation(WDC)</td><td>552.70</td><td>512.00</td><td class="pnl">-7.36%</td><td>67.6h</td><td>08-01 04:10 → 08-03 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Seagate Technology Holdings PLC(STX)</td><td>862.80</td><td>802.80</td><td class="pnl">-6.95%</td><td>66.8h</td><td>08-01 04:50 → 08-03 23:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Lam Research Corporation(LRCX)</td><td>303.30</td><td>286.70</td><td class="pnl">-5.47%</td><td>71.9h</td><td>07-31 23:45 → 08-03 23:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Micron Technology, Inc.(MU)</td><td>848.40</td><td>802.70</td><td class="pnl">-5.39%</td><td>71.9h</td><td>07-31 23:45 → 08-03 23:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>NXP Semiconductors N.V.(NXPI)</td><td>235.10</td><td>222.80</td><td class="pnl">-5.23%</td><td>69.8h</td><td>08-01 01:55 → 08-03 23:40</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 177건 기준): 최소 -7.36% · P25 -0.55% · 중앙값 +0.93% · P75 +3.10% · 최대 +10.46%_
 
-**전체 데이터** — 마감 208건 전량: [CSV 다운로드](/data/journal/2026-08-04-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 208건 전량: [CSV 다운로드](/data/journal/2026-08-04-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 177건 기준): 최소 -7.36% · P25 -0.55% 
 
 _기준일: 2026-08-04 (KST) · as of 2026-08-04._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

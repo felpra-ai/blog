@@ -17,7 +17,7 @@ metrics:
   best_pct: 84.65
   worst_pct: -8.0
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.59
 ogImage: /characters/us/01_joy.png
 altUrl: /journal/2026-08-20-us-journal/
@@ -63,7 +63,7 @@ The data reflects a pattern where capturing large positive moves appears to be a
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Moderna, Inc.(MRNA)</td><td>64.23</td><td>118.60</td><td class="pnl">+84.65%</td><td>161.9h</td><td>08-13 04:40 → 08-19 22:35</td></tr><tr class="t-win"><td class="res">win</td><td>Estee Lauder Companies, Inc. (T(EL)</td><td>84.50</td><td>96.20</td><td class="pnl">+13.85%</td><td>45.9h</td><td>08-18 00:40 → 08-19 22:35</td></tr><tr class="t-win"><td class="res">win</td><td>Marvell Technology, Inc.(MRVL)</td><td>214.30</td><td>238.00</td><td class="pnl">+11.06%</td><td>18.2h</td><td>08-19 04:25 → 08-19 22:35</td></tr><tr class="t-win"><td class="res">win</td><td>Merck & Company, Inc.(MRK)</td><td>135.60</td><td>147.00</td><td class="pnl">+8.41%</td><td>46.5h</td><td>08-18 00:05 → 08-19 22:35</td></tr><tr class="t-win"><td class="res">win</td><td>Jack Henry & Associates, Inc.(JKHY)</td><td>152.00</td><td>164.30</td><td class="pnl">+8.09%</td><td>165.2h</td><td>08-13 01:50 → 08-19 23:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Nucor Corporation(NUE)</td><td>264.90</td><td>243.70</td><td class="pnl">-8.00%</td><td>23.0h</td><td>08-19 04:10 → 08-20 03:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Vertiv Holdings, LLC(VRT)</td><td>278.50</td><td>259.30</td><td class="pnl">-6.89%</td><td>24.1h</td><td>08-18 23:00 → 08-19 23:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Intel Corporation(INTC)</td><td>98.64</td><td>91.92</td><td class="pnl">-6.81%</td><td>24.2h</td><td>08-18 22:50 → 08-19 23:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Qnity Electronics, Inc.(Q)</td><td>136.50</td><td>128.00</td><td class="pnl">-6.23%</td><td>24.2h</td><td>08-18 22:50 → 08-19 23:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Steel Dynamics, Inc.(STLD)</td><td>244.80</td><td>229.90</td><td class="pnl">-6.09%</td><td>1.2h</td><td>08-20 01:55 → 08-20 03:10</td></tr></tbody></table>
 _P&L distribution (298 meaningful trades): min -8.00% · P25 -1.65% · median +0.04% · P75 +2.89% · max +84.65%_
 
-**Full data** — all 314 closed trades: [CSV download](/data/journal/2026-08-20-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 314 closed trades: [CSV download](/data/journal/2026-08-20-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (298 meaningful trades): min -8.00% · P25 -1.65% · median +0
 
 _As of 2026-08-20 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

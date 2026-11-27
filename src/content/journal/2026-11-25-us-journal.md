@@ -17,7 +17,7 @@ metrics:
   best_pct: 8.94
   worst_pct: -12.94
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.94
 ogImage: /og/journal/2026-11-25-us-journal--us--06_neutral.jpg
 altUrl: /journal/2026-11-25-us-journal-en/
@@ -56,7 +56,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>애질런트 테크놀로지스(A)</td><td>171.20</td><td>186.50</td><td class="pnl">+8.94%</td><td>93.7h</td><td>11-21 02:05 → 11-24 23:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Dollar Tree, Inc.(DLTR)</td><td>141.00</td><td>152.90</td><td class="pnl">+8.44%</td><td>118.2h</td><td>11-20 01:35 → 11-24 23:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Vertex Pharmaceuticals Incorpor(VRTX)</td><td>518.70</td><td>560.30</td><td class="pnl">+8.02%</td><td>114.2h</td><td>11-20 05:35 → 11-24 23:50</td></tr><tr class="t-win"><td class="res">이익</td><td>Zimmer Biomet Holdings, Inc.(ZBH)</td><td>101.20</td><td>109.30</td><td class="pnl">+8.00%</td><td>90.8h</td><td>11-21 05:35 → 11-25 00:20</td></tr><tr class="t-win"><td class="res">이익</td><td>Deckers Outdoor Corporation(DECK)</td><td>79.47</td><td>85.10</td><td class="pnl">+7.08%</td><td>27.2h</td><td>11-23 23:50 → 11-25 03:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>Sandisk Corporation(SNDK)</td><td>91.03</td><td>79.25</td><td class="pnl">-12.94%</td><td>23.9h</td><td>11-23 23:50 → 11-24 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Everpure, Inc.(P)</td><td>102.60</td><td>93.75</td><td class="pnl">-8.63%</td><td>23.9h</td><td>11-23 23:50 → 11-24 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Bloom Energy Corporation(BE)</td><td>167.60</td><td>154.70</td><td class="pnl">-7.70%</td><td>23.9h</td><td>11-23 23:50 → 11-24 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Western Digital Corporation(WDC)</td><td>297.60</td><td>279.30</td><td class="pnl">-6.15%</td><td>23.9h</td><td>11-23 23:50 → 11-24 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>엔비디아(NVDA)</td><td>163.80</td><td>154.30</td><td class="pnl">-5.80%</td><td>23.9h</td><td>11-23 23:50 → 11-24 23:45</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 142건 기준): 최소 -12.94% · P25 -1.64% · 중앙값 +0.36% · P75 +1.55% · 최대 +8.94%_
 
-**전체 데이터** — 마감 172건 전량: [CSV 다운로드](/data/journal/2026-11-25-us.csv) · 또는 [OneQAZ MCP](https://github.com/oneqaz-trading/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 172건 전량: [CSV 다운로드](/data/journal/2026-11-25-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -65,9 +65,9 @@ _손익 분포 (의미있는 거래 142건 기준): 최소 -12.94% · P25 -1.64%
 
 _기준일: 2026-11-25 (KST) · as of 2026-11-25._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/oneqaz-trading/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

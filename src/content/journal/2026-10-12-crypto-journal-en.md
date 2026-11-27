@@ -17,7 +17,7 @@ metrics:
   best_pct: 67.23
   worst_pct: -7.75
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.95
 ogImage: /characters/crypto/05_anxious.png
 altUrl: /journal/2026-10-12-crypto-journal/
@@ -63,7 +63,7 @@ The data reflects a pattern where the frequency of trades (862) is high, but the
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Contentos(COS)</td><td>0.4633</td><td>0.5242</td><td class="pnl">+13.14%</td><td>1.8h</td><td>10-11 22:15 → 10-12 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>Space and Time(SXT)</td><td>12.44</td><td>13.60</td><td class="pnl">+9.32%</td><td>18.0h</td><td>10-11 20:30 → 10-12 14:30</td></tr><tr class="t-win"><td class="res">win</td><td>Impossible Cloud Network Token(ICNT)</td><td>133.10</td><td>143.90</td><td class="pnl">+8.11%</td><td>3.8h</td><td>10-11 20:15 → 10-12 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>Gravity (by Galxe)(G)</td><td>5.82</td><td>6.29</td><td class="pnl">+8.09%</td><td>23.8h</td><td>10-11 12:15 → 10-12 12:00</td></tr><tr class="t-win"><td class="res">win</td><td>Data Network(DATA)</td><td>267.30</td><td>285.70</td><td class="pnl">+6.88%</td><td>93.5h</td><td>10-08 14:00 → 10-12 11:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>MetaDAO(META2)</td><td>7,948</td><td>7,473</td><td class="pnl">-5.98%</td><td>86.0h</td><td>10-09 00:30 → 10-12 14:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Stader(SD)</td><td>170.20</td><td>161.80</td><td class="pnl">-4.94%</td><td>33.0h</td><td>10-11 00:30 → 10-12 09:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Squid(QUID)</td><td>86.59</td><td>82.32</td><td class="pnl">-4.93%</td><td>20.8h</td><td>10-11 11:45 → 10-12 08:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Starknet(STRK)</td><td>155.20</td><td>147.90</td><td class="pnl">-4.70%</td><td>1.0h</td><td>10-11 21:15 → 10-11 22:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Mina Protocol(MINA)</td><td>114.10</td><td>108.90</td><td class="pnl">-4.56%</td><td>14.2h</td><td>10-11 19:30 → 10-12 09:45</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -5.98% · P25 -3.19% · median +0.24% · P75 +2.56% · max +13.14%_
 
-**Full data** — all 862 closed trades: [CSV download](/data/journal/2026-10-12-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 862 closed trades: [CSV download](/data/journal/2026-10-12-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -5.98% · P25 -3.19% · median +0
 
 _As of 2026-10-12 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

@@ -17,7 +17,7 @@ metrics:
   best_pct: 5.71
   worst_pct: -5.97
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.5
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-10-08-us-journal/
@@ -62,7 +62,7 @@ The losses incurred on ILMN, DE, and WDC highlight instances where the initial t
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Corteva, Inc.(CTVA)</td><td>13.49</td><td>14.26</td><td class="pnl">+5.71%</td><td>23.9h</td><td>10-06 22:50 → 10-07 22:45</td></tr><tr class="t-win"><td class="res">win</td><td>Skyworks Solutions, Inc.(SWKS)</td><td>81.72</td><td>85.25</td><td class="pnl">+4.32%</td><td>48.2h</td><td>10-05 23:10 → 10-07 23:20</td></tr><tr class="t-win"><td class="res">win</td><td>Intuitive Surgical, Inc.(ISRG)</td><td>398.40</td><td>414.90</td><td class="pnl">+4.14%</td><td>119.8h</td><td>10-02 23:20 → 10-07 23:10</td></tr><tr class="t-win"><td class="res">win</td><td>Autodesk, Inc.(ADSK)</td><td>227.10</td><td>235.50</td><td class="pnl">+3.70%</td><td>25.1h</td><td>10-07 03:10 → 10-08 04:15</td></tr><tr class="t-win"><td class="res">win</td><td>Micron Technology, Inc.(MU)</td><td>1,027</td><td>1,063</td><td class="pnl">+3.51%</td><td>1.0h</td><td>10-07 22:50 → 10-07 23:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Illumina, Inc.(ILMN)</td><td>278.00</td><td>261.40</td><td class="pnl">-5.97%</td><td>21.6h</td><td>10-07 01:05 → 10-07 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Deere & Company(DE)</td><td>687.90</td><td>651.40</td><td class="pnl">-5.31%</td><td>115.2h</td><td>10-03 04:40 → 10-07 23:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>Western Digital Corporation(WDC)</td><td>418.90</td><td>396.80</td><td class="pnl">-5.28%</td><td>23.9h</td><td>10-06 22:50 → 10-07 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Lam Research Corporation(LRCX)</td><td>338.90</td><td>321.60</td><td class="pnl">-5.10%</td><td>23.8h</td><td>10-06 22:55 → 10-07 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Applovin Corporation(APP)</td><td>284.30</td><td>269.80</td><td class="pnl">-5.10%</td><td>46.5h</td><td>10-06 00:10 → 10-07 22:40</td></tr></tbody></table>
 _P&L distribution (184 meaningful trades): min -5.97% · P25 -3.20% · median -0.46% · P75 +1.47% · max +5.71%_
 
-**Full data** — all 189 closed trades: [CSV download](/data/journal/2026-10-08-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 189 closed trades: [CSV download](/data/journal/2026-10-08-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -71,9 +71,9 @@ _P&L distribution (184 meaningful trades): min -5.97% · P25 -3.20% · median -0
 
 _As of 2026-10-08 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

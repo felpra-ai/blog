@@ -50,4 +50,4 @@ _Rule: that day's turnover ÷ average of the prior 10 sessions. 10 of 317 names 
 
 _As of 2026-11-19 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.

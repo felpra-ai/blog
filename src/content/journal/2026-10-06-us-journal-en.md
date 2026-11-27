@@ -17,7 +17,7 @@ metrics:
   best_pct: 33.2
   worst_pct: -4.25
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.78
 ogImage: /characters/us/09_excited.png
 altUrl: /journal/2026-10-06-us-journal/
@@ -63,7 +63,7 @@ The data confirms that the positive expectancy is materially supported by the po
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>PTC Inc.(PTC)</td><td>146.10</td><td>194.60</td><td class="pnl">+33.20%</td><td>71.8h</td><td>10-02 22:55 → 10-05 22:40</td></tr><tr class="t-win"><td class="res">win</td><td>Autodesk, Inc.(ADSK)</td><td>210.90</td><td>225.10</td><td class="pnl">+6.73%</td><td>94.7h</td><td>10-02 00:05 → 10-05 22:45</td></tr><tr class="t-win"><td class="res">win</td><td>Western Digital Corporation(WDC)</td><td>413.20</td><td>437.20</td><td class="pnl">+5.81%</td><td>68.2h</td><td>10-03 02:40 → 10-05 22:50</td></tr><tr class="t-win"><td class="res">win</td><td>EchoStar Corporation(ECHO)</td><td>92.41</td><td>97.59</td><td class="pnl">+5.61%</td><td>71.3h</td><td>10-02 23:55 → 10-05 23:15</td></tr><tr class="t-win"><td class="res">win</td><td>Microsoft Corporation(MSFT)</td><td>504.20</td><td>529.90</td><td class="pnl">+5.10%</td><td>168.0h</td><td>09-28 22:45 → 10-05 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Blackstone Inc.(BX)</td><td>115.30</td><td>110.40</td><td class="pnl">-4.25%</td><td>71.0h</td><td>10-02 23:40 → 10-05 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Charter Communications, Inc.(CHTR)</td><td>109.80</td><td>105.30</td><td class="pnl">-4.10%</td><td>69.2h</td><td>10-03 01:40 → 10-05 22:55</td></tr><tr class="t-loss"><td class="res">loss</td><td>Alexandria Real Estate Equities(ARE)</td><td>47.97</td><td>46.31</td><td class="pnl">-3.46%</td><td>71.8h</td><td>10-02 22:50 → 10-05 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>NetApp, Inc.(NTAP)</td><td>230.40</td><td>222.50</td><td class="pnl">-3.43%</td><td>68.1h</td><td>10-03 03:00 → 10-05 23:05</td></tr><tr class="t-loss"><td class="res">loss</td><td>Sandisk Corporation(SNDK)</td><td>1,764</td><td>1,704</td><td class="pnl">-3.40%</td><td>94.5h</td><td>10-02 02:10 → 10-06 00:40</td></tr></tbody></table>
 _P&L distribution (170 meaningful trades): min -4.25% · P25 -1.31% · median +0.26% · P75 +2.92% · max +33.20%_
 
-**Full data** — all 177 closed trades: [CSV download](/data/journal/2026-10-06-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 177 closed trades: [CSV download](/data/journal/2026-10-06-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (170 meaningful trades): min -4.25% · P25 -1.31% · median +0
 
 _As of 2026-10-06 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

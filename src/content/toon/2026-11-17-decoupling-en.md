@@ -39,10 +39,10 @@ images:
 | US stocks | 2026-11-16 | range-bound | 55% | 25% |
 | US stocks | 2026-11-17 | range-bound | 44% | 35% |
 
-_Event: back together — two markets that were opposite were no longer opposite that day. Net gap 114.8 → 92 pts. Last daily snapshot of OneQAZ market regime flow (descriptive, not a forecast)._
+_Event: back together — two markets that were opposite were no longer opposite that day. Net gap 114.8 → 92 pts. Last daily snapshot of FELPRA market regime flow (descriptive, not a forecast)._
 
 ---
 
 _As of 2026-11-17 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.

@@ -17,7 +17,7 @@ metrics:
   best_pct: 12.63
   worst_pct: -7.23
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.49
 ogImage: /characters/crypto/02_sad.png
 altUrl: /journal/2026-09-24-crypto-journal/
@@ -62,7 +62,7 @@ The trades resulting in losses, such as those in BILL, KAITO, and TRAC, highligh
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Bitrue Coin(BTR)</td><td>70.26</td><td>78.96</td><td class="pnl">+12.38%</td><td>12.5h</td><td>09-23 12:30 → 09-24 01:00</td></tr><tr class="t-win"><td class="res">win</td><td>SIX</td><td>7.28</td><td>8.17</td><td class="pnl">+12.22%</td><td>21.2h</td><td>09-23 02:45 → 09-24 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>Citrea(CTR)</td><td>16.16</td><td>18.11</td><td class="pnl">+12.07%</td><td>2.5h</td><td>09-23 19:30 → 09-23 22:00</td></tr><tr class="t-win"><td class="res">win</td><td>Unibase(UB)</td><td>195.20</td><td>212.80</td><td class="pnl">+9.02%</td><td>3.8h</td><td>09-23 20:15 → 09-24 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>MARBLEX(MBX)</td><td>39.51</td><td>42.78</td><td class="pnl">+8.28%</td><td>16.8h</td><td>09-23 07:30 → 09-24 00:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Billions Network(BILL)</td><td>18.58</td><td>17.48</td><td class="pnl">-5.92%</td><td>83.0h</td><td>09-20 12:00 → 09-23 23:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>KAITO</td><td>488.50</td><td>460.50</td><td class="pnl">-5.73%</td><td>18.8h</td><td>09-23 04:15 → 09-23 23:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>OriginTrail(TRAC)</td><td>481.50</td><td>454.50</td><td class="pnl">-5.61%</td><td>10.2h</td><td>09-23 13:00 → 09-23 23:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>AIOZ Network(AIOZ)</td><td>173.20</td><td>163.80</td><td class="pnl">-5.43%</td><td>5.0h</td><td>09-23 18:00 → 09-23 23:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Worldcoin(WLD)</td><td>619.60</td><td>586.40</td><td class="pnl">-5.36%</td><td>12.0h</td><td>09-23 11:00 → 09-23 23:00</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -5.92% · P25 -3.84% · median -3.44% · P75 -1.61% · max +12.38%_
 
-**Full data** — all 1016 closed trades: [CSV download](/data/journal/2026-09-24-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 1016 closed trades: [CSV download](/data/journal/2026-09-24-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -71,9 +71,9 @@ _P&L distribution (300 meaningful trades): min -5.92% · P25 -3.84% · median -3
 
 _As of 2026-09-24 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

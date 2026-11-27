@@ -17,7 +17,7 @@ metrics:
   best_pct: 4.05
   worst_pct: -6.55
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.98
 ogImage: /characters/us/06_neutral.png
 altUrl: /journal/2026-10-14-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>HP Inc.(HPQ)</td><td>29.63</td><td>30.83</td><td class="pnl">+4.05%</td><td>24.2h</td><td>10-12 22:45 → 10-13 23:00</td></tr><tr class="t-win"><td class="res">이익</td><td>International Business Machines(IBM)</td><td>223.60</td><td>232.50</td><td class="pnl">+3.98%</td><td>119.8h</td><td>10-08 23:10 → 10-13 23:00</td></tr><tr class="t-win"><td class="res">이익</td><td>Ulta Beauty, Inc.(ULTA)</td><td>557.10</td><td>578.90</td><td class="pnl">+3.91%</td><td>118.9h</td><td>10-08 23:55 → 10-13 22:50</td></tr><tr class="t-win"><td class="res">이익</td><td>센틴(CNC)</td><td>66.20</td><td>68.69</td><td class="pnl">+3.76%</td><td>95.9h</td><td>10-09 22:55 → 10-13 22:50</td></tr><tr class="t-win"><td class="res">이익</td><td>Edison International(EIX)</td><td>53.22</td><td>55.18</td><td class="pnl">+3.68%</td><td>4.2h</td><td>10-13 23:15 → 10-14 03:30</td></tr><tr class="t-loss"><td class="res">손실</td><td>Seagate Technology Holdings PLC(STX)</td><td>755.40</td><td>705.90</td><td class="pnl">-6.55%</td><td>21.8h</td><td>10-13 00:50 → 10-13 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Western Digital Corporation(WDC)</td><td>389.40</td><td>365.00</td><td class="pnl">-6.27%</td><td>95.8h</td><td>10-09 22:55 → 10-13 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>어플라이드 머티어리얼즈(AMAT)</td><td>508.60</td><td>479.50</td><td class="pnl">-5.72%</td><td>119.9h</td><td>10-08 22:45 → 10-13 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Micron Technology, Inc.(MU)</td><td>994.10</td><td>942.30</td><td class="pnl">-5.21%</td><td>23.9h</td><td>10-12 22:45 → 10-13 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>시에나(CIEN)</td><td>410.40</td><td>389.60</td><td class="pnl">-5.07%</td><td>22.0h</td><td>10-13 00:40 → 10-13 22:40</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 252건 기준): 최소 -6.55% · P25 -1.08% · 중앙값 +0.25% · P75 +1.83% · 최대 +4.05%_
 
-**전체 데이터** — 마감 290건 전량: [CSV 다운로드](/data/journal/2026-10-14-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 290건 전량: [CSV 다운로드](/data/journal/2026-10-14-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 252건 기준): 최소 -6.55% · P25 -1.08% 
 
 _기준일: 2026-10-14 (KST) · as of 2026-10-14._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

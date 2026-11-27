@@ -17,7 +17,7 @@ metrics:
   best_pct: 8.46
   worst_pct: -4.92
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.37
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-09-30-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Lumentum Holdings Inc.(LITE)</td><td>910.40</td><td>987.40</td><td class="pnl">+8.46%</td><td>24.2h</td><td>09-28 23:25 → 09-29 23:35</td></tr><tr class="t-win"><td class="res">이익</td><td>Oracle Corporation(ORCL)</td><td>132.60</td><td>141.40</td><td class="pnl">+6.64%</td><td>23.9h</td><td>09-29 00:10 → 09-30 00:05</td></tr><tr class="t-win"><td class="res">이익</td><td>어플라이드 머티어리얼즈(AMAT)</td><td>474.80</td><td>504.90</td><td class="pnl">+6.34%</td><td>22.9h</td><td>09-29 00:10 → 09-29 23:05</td></tr><tr class="t-win"><td class="res">이익</td><td>Teradyne, Inc.(TER)</td><td>388.00</td><td>409.30</td><td class="pnl">+5.49%</td><td>23.2h</td><td>09-29 00:20 → 09-29 23:35</td></tr><tr class="t-win"><td class="res">이익</td><td>Lam Research Corporation(LRCX)</td><td>307.90</td><td>324.30</td><td class="pnl">+5.33%</td><td>23.4h</td><td>09-29 00:20 → 09-29 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>United Rentals, Inc.(URI)</td><td>1,041</td><td>989.80</td><td class="pnl">-4.92%</td><td>140.4h</td><td>09-24 04:10 → 09-30 00:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>EQT Corporation(EQT)</td><td>51.39</td><td>49.01</td><td class="pnl">-4.63%</td><td>143.6h</td><td>09-23 23:10 → 09-29 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Equifax, Inc.(EFX)</td><td>145.70</td><td>139.20</td><td class="pnl">-4.46%</td><td>23.8h</td><td>09-28 22:55 → 09-29 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Occidental Petroleum Corporatio(OXY)</td><td>57.50</td><td>55.02</td><td class="pnl">-4.31%</td><td>138.4h</td><td>09-24 04:20 → 09-29 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Expand Energy Corporation(EXE)</td><td>87.41</td><td>83.75</td><td class="pnl">-4.19%</td><td>164.8h</td><td>09-23 02:00 → 09-29 22:45</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 170건 기준): 최소 -4.92% · P25 -3.12% · 중앙값 -0.80% · P75 +0.32% · 최대 +8.46%_
 
-**전체 데이터** — 마감 171건 전량: [CSV 다운로드](/data/journal/2026-09-30-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 171건 전량: [CSV 다운로드](/data/journal/2026-09-30-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 170건 기준): 최소 -4.92% · P25 -3.12% 
 
 _기준일: 2026-09-30 (KST) · as of 2026-09-30._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

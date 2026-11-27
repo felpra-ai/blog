@@ -17,7 +17,7 @@ metrics:
   best_pct: 14.42
   worst_pct: -24.15
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.82
 ogImage: /characters/us/09_excited.png
 altUrl: /journal/2026-10-30-us-journal/
@@ -63,7 +63,7 @@ The performance metrics indicate a healthy skew toward positive outcomes, underp
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Gen Digital Inc.(GEN)</td><td>24.21</td><td>27.70</td><td class="pnl">+14.42%</td><td>66.6h</td><td>10-27 04:10 → 10-29 22:45</td></tr><tr class="t-win"><td class="res">win</td><td>Carvana Co.(CVNA)</td><td>59.43</td><td>66.42</td><td class="pnl">+11.76%</td><td>21.1h</td><td>10-29 01:35 → 10-29 22:40</td></tr><tr class="t-win"><td class="res">win</td><td>Textron Inc.(TXT)</td><td>78.13</td><td>86.72</td><td class="pnl">+10.99%</td><td>19.0h</td><td>10-29 03:45 → 10-29 22:45</td></tr><tr class="t-win"><td class="res">win</td><td>Eli Lilly and Company(LLY)</td><td>1,288</td><td>1,404</td><td class="pnl">+9.01%</td><td>144.0h</td><td>10-23 22:45 → 10-29 22:45</td></tr><tr class="t-win"><td class="res">win</td><td>Quanta Services, Inc.(PWR)</td><td>591.00</td><td>638.60</td><td class="pnl">+8.05%</td><td>22.8h</td><td>10-29 00:00 → 10-29 22:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>ServiceNow, Inc.(NOW)</td><td>150.30</td><td>114.00</td><td class="pnl">-24.15%</td><td>19.1h</td><td>10-29 03:40 → 10-29 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Fortinet, Inc.(FTNT)</td><td>173.80</td><td>133.90</td><td class="pnl">-22.96%</td><td>17.9h</td><td>10-29 04:50 → 10-29 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Marvell Technology, Inc.(MRVL)</td><td>252.00</td><td>219.90</td><td class="pnl">-12.74%</td><td>18.8h</td><td>10-29 03:55 → 10-29 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Caterpillar, Inc.(CAT)</td><td>716.40</td><td>645.00</td><td class="pnl">-9.97%</td><td>41.8h</td><td>10-28 04:55 → 10-29 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Trane Technologies plc(TT)</td><td>460.10</td><td>419.10</td><td class="pnl">-8.91%</td><td>43.8h</td><td>10-28 03:00 → 10-29 22:45</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -24.15% · P25 -0.33% · median +1.37% · P75 +2.92% · max +14.42%_
 
-**Full data** — all 411 closed trades: [CSV download](/data/journal/2026-10-30-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 411 closed trades: [CSV download](/data/journal/2026-10-30-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -24.15% · P25 -0.33% · median +
 
 _As of 2026-10-30 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

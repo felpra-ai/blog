@@ -17,7 +17,7 @@ metrics:
   best_pct: 13.71
   worst_pct: -13.66
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.76
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-10-29-us-journal/
@@ -61,7 +61,7 @@ The overall performance metrics point toward a period where the risk taken on th
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Vertiv Holdings, LLC(VRT)</td><td>206.40</td><td>234.70</td><td class="pnl">+13.71%</td><td>23.7h</td><td>10-27 23:00 → 10-28 22:40</td></tr><tr class="t-win"><td class="res">win</td><td>Labcorp Holdings Inc.(LH)</td><td>328.10</td><td>357.40</td><td class="pnl">+8.93%</td><td>21.8h</td><td>10-28 00:55 → 10-28 22:40</td></tr><tr class="t-win"><td class="res">win</td><td>Oracle Corporation(ORCL)</td><td>130.70</td><td>141.60</td><td class="pnl">+8.34%</td><td>22.6h</td><td>10-28 05:00 → 10-29 03:35</td></tr><tr class="t-win"><td class="res">win</td><td>Generac Holdlings Inc.(GNRC)</td><td>182.90</td><td>198.10</td><td class="pnl">+8.31%</td><td>0.6h</td><td>10-28 22:45 → 10-28 23:20</td></tr><tr class="t-win"><td class="res">win</td><td>Fortive Corporation(FTV)</td><td>60.83</td><td>65.84</td><td class="pnl">+8.24%</td><td>120.0h</td><td>10-23 22:45 → 10-28 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Boston Scientific Corporation(BSX)</td><td>45.89</td><td>39.62</td><td class="pnl">-13.66%</td><td>141.4h</td><td>10-23 01:15 → 10-28 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>F5, Inc.(FFIV)</td><td>463.30</td><td>405.20</td><td class="pnl">-12.54%</td><td>21.0h</td><td>10-28 01:40 → 10-28 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Ventas, Inc.(VTR)</td><td>83.59</td><td>77.45</td><td class="pnl">-7.35%</td><td>20.0h</td><td>10-28 02:40 → 10-28 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Xylem Inc.(XYL)</td><td>95.34</td><td>89.57</td><td class="pnl">-6.05%</td><td>20.8h</td><td>10-28 01:50 → 10-28 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Lennox International, Inc.(LII)</td><td>366.00</td><td>345.90</td><td class="pnl">-5.49%</td><td>43.8h</td><td>10-27 02:50 → 10-28 22:40</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -13.66% · P25 -3.10% · median -0.41% · P75 +1.30% · max +13.71%_
 
-**Full data** — all 343 closed trades: [CSV download](/data/journal/2026-10-29-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 343 closed trades: [CSV download](/data/journal/2026-10-29-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (300 meaningful trades): min -13.66% · P25 -3.10% · median -
 
 _As of 2026-10-29 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

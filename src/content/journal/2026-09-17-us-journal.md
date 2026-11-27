@@ -17,7 +17,7 @@ metrics:
   best_pct: 1.16
   worst_pct: -3.62
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.07
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-09-17-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Gilead Sciences, Inc.(GILD)</td><td>146.50</td><td>148.20</td><td class="pnl">+1.16%</td><td>168.0h</td><td>09-10 00:45 → 09-17 00:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Xylem Inc.(XYL)</td><td>108.30</td><td>108.90</td><td class="pnl">+0.55%</td><td>168.0h</td><td>09-09 22:50 → 09-16 22:50</td></tr><tr class="t-win"><td class="res">이익</td><td>얼리지언(ALLE)</td><td>153.40</td><td>154.00</td><td class="pnl">+0.39%</td><td>168.0h</td><td>09-10 00:15 → 09-17 00:15</td></tr><tr class="t-win"><td class="res">이익</td><td>Welltower Inc.(WELL)</td><td>235.40</td><td>235.50</td><td class="pnl">+0.04%</td><td>168.0h</td><td>09-10 00:05 → 09-17 00:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>FedEx Freight Holding Company,(FDXF)</td><td>127.00</td><td>122.40</td><td class="pnl">-3.62%</td><td>167.5h</td><td>09-10 00:05 → 09-16 23:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>Yum! Brands, Inc.(YUM)</td><td>145.20</td><td>140.00</td><td class="pnl">-3.58%</td><td>167.2h</td><td>09-09 23:25 → 09-16 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Regency Centers Corporation(REG)</td><td>75.44</td><td>73.13</td><td class="pnl">-3.06%</td><td>168.0h</td><td>09-10 04:00 → 09-17 04:00</td></tr><tr class="t-loss"><td class="res">손실</td><td>WEC Energy Group, Inc.(WEC)</td><td>106.20</td><td>104.00</td><td class="pnl">-2.07%</td><td>168.0h</td><td>09-10 00:35 → 09-17 00:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>Brown Forman Inc(BF-B)</td><td>26.30</td><td>25.78</td><td class="pnl">-1.98%</td><td>168.0h</td><td>09-10 02:30 → 09-17 02:30</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 23건 기준): 최소 -3.62% · P25 -1.92% · 중앙값 -1.18% · P75 -0.53% · 최대 +1.16%_
 
-**전체 데이터** — 마감 23건 전량: [CSV 다운로드](/data/journal/2026-09-17-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 23건 전량: [CSV 다운로드](/data/journal/2026-09-17-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 23건 기준): 최소 -3.62% · P25 -1.92% �
 
 _기준일: 2026-09-17 (KST) · as of 2026-09-17._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

@@ -17,7 +17,7 @@ metrics:
   best_pct: 29.78
   worst_pct: -9.93
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.7
 ogImage: /characters/crypto/02_sad.png
 altUrl: /journal/2026-09-15-crypto-journal/
@@ -59,7 +59,7 @@ The data indicates that while significant upside potential exists, the overall r
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Astar(ASTR)</td><td>8.19</td><td>10.63</td><td class="pnl">+29.78%</td><td>12.0h</td><td>09-14 22:00 → 09-15 10:00</td></tr><tr class="t-win"><td class="res">win</td><td>Observer(OBSR)</td><td>0.734</td><td>0.909</td><td class="pnl">+23.84%</td><td>0.5h</td><td>09-14 23:30 → 09-15 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>MEVerse(MEV)</td><td>2.88</td><td>3.39</td><td class="pnl">+17.81%</td><td>22.2h</td><td>09-14 17:45 → 09-15 16:00</td></tr><tr class="t-win"><td class="res">win</td><td>AVAIL</td><td>2.74</td><td>3.06</td><td class="pnl">+11.48%</td><td>16.0h</td><td>09-14 08:15 → 09-15 00:15</td></tr><tr class="t-win"><td class="res">win</td><td>Avalon(AVL)</td><td>27.34</td><td>29.55</td><td class="pnl">+8.08%</td><td>16.8h</td><td>09-14 07:15 → 09-15 00:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>CAP</td><td>93.85</td><td>84.53</td><td class="pnl">-9.93%</td><td>0.2h</td><td>09-14 21:15 → 09-14 21:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>CAP</td><td>95.96</td><td>89.31</td><td class="pnl">-6.93%</td><td>0.2h</td><td>09-14 23:15 → 09-14 23:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>GMX</td><td>10,581</td><td>9,960</td><td class="pnl">-5.87%</td><td>70.5h</td><td>09-12 11:30 → 09-15 10:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Xterio(XTER)</td><td>12.68</td><td>12.04</td><td class="pnl">-5.05%</td><td>82.8h</td><td>09-11 13:30 → 09-15 00:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Artificial Superintelligence Alliance(FET)</td><td>231.20</td><td>219.80</td><td class="pnl">-4.93%</td><td>22.2h</td><td>09-14 11:45 → 09-15 10:00</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -9.93% · P25 -3.34% · median -1.35% · P75 +2.17% · max +29.78%_
 
-**Full data** — all 377 closed trades: [CSV download](/data/journal/2026-09-15-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 377 closed trades: [CSV download](/data/journal/2026-09-15-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -68,9 +68,9 @@ _P&L distribution (300 meaningful trades): min -9.93% · P25 -3.34% · median -1
 
 _As of 2026-09-15 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

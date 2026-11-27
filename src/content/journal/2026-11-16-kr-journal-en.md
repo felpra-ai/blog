@@ -17,7 +17,7 @@ metrics:
   best_pct: 6.8
   worst_pct: -12.35
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.25
 ogImage: /characters/v2/kr/02_sad.png
 altUrl: /journal/2026-11-16-kr-journal/
@@ -62,7 +62,7 @@ Overall market flow appears to be under pressure, which was reflected in the mix
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Kyuriokseubaiosiseutemjeu(445680)</td><td>46,396</td><td>49,550</td><td class="pnl">+6.80%</td><td>65.9h</td><td>11-13 15:20 → 11-16 09:15</td></tr><tr class="t-win"><td class="res">win</td><td>RFHIC(218410)</td><td>54,955</td><td>57,842</td><td class="pnl">+5.25%</td><td>69.6h</td><td>11-13 12:05 → 11-16 09:40</td></tr><tr class="t-win"><td class="res">win</td><td>OCIHoldingseu(010060)</td><td>197,097</td><td>207,292</td><td class="pnl">+5.17%</td><td>95.9h</td><td>11-12 09:20 → 11-16 09:15</td></tr><tr class="t-win"><td class="res">win</td><td>Daejujeonjajaeryo(078600)</td><td>87,788</td><td>92,108</td><td class="pnl">+4.92%</td><td>66.0h</td><td>11-13 15:15 → 11-16 09:15</td></tr><tr class="t-win"><td class="res">win</td><td>JYP Ent.(035900)</td><td>43,493</td><td>45,504</td><td class="pnl">+4.62%</td><td>68.3h</td><td>11-13 13:00 → 11-16 09:20</td></tr><tr class="t-loss"><td class="res">loss</td><td>Pakeusiseutemseu(140860)</td><td>212,212</td><td>186,014</td><td class="pnl">-12.35%</td><td>65.8h</td><td>11-13 15:25 → 11-16 09:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Pieseukei(319660)</td><td>98,598</td><td>89,910</td><td class="pnl">-8.81%</td><td>67.2h</td><td>11-13 14:00 → 11-16 09:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Pieseukeiholdingseu(031980)</td><td>155,555</td><td>143,656</td><td class="pnl">-7.65%</td><td>67.2h</td><td>11-13 14:00 → 11-16 09:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Hanamaikeuron(067310)</td><td>29,580</td><td>27,323</td><td class="pnl">-7.63%</td><td>68.8h</td><td>11-13 12:20 → 11-16 09:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Runit(328130)</td><td>15,415</td><td>14,246</td><td class="pnl">-7.58%</td><td>68.5h</td><td>11-13 12:40 → 11-16 09:10</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -12.35% · P25 -3.42% · median -3.17% · P75 -0.70% · max +6.80%_
 
-**Full data** — all 446 closed trades: [CSV download](/data/journal/2026-11-16-kr.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 446 closed trades: [CSV download](/data/journal/2026-11-16-kr.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -71,9 +71,9 @@ _P&L distribution (300 meaningful trades): min -12.35% · P25 -3.42% · median -
 
 _As of 2026-11-16 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

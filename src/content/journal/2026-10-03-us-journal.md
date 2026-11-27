@@ -17,7 +17,7 @@ metrics:
   best_pct: 6.66
   worst_pct: -8.6
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.52
 ogImage: /characters/us/09_excited.png
 altUrl: /journal/2026-10-03-us-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Texas Instruments Incorporated(TXN)</td><td>276.30</td><td>294.70</td><td class="pnl">+6.66%</td><td>164.0h</td><td>09-26 02:45 → 10-02 22:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Monolithic Power Systems, Inc.(MPWR)</td><td>1,340</td><td>1,428</td><td class="pnl">+6.57%</td><td>95.2h</td><td>09-28 23:35 → 10-02 22:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Eaton Corporation, PLC(ETN)</td><td>427.00</td><td>450.30</td><td class="pnl">+5.46%</td><td>23.0h</td><td>10-01 23:50 → 10-02 22:50</td></tr><tr class="t-win"><td class="res">이익</td><td>Robinhood Markets, Inc.(HOOD)</td><td>112.30</td><td>118.40</td><td class="pnl">+5.43%</td><td>22.2h</td><td>10-02 00:25 → 10-02 22:40</td></tr><tr class="t-win"><td class="res">이익</td><td>캐터필러(CAT)</td><td>813.30</td><td>854.90</td><td class="pnl">+5.11%</td><td>94.1h</td><td>09-29 00:45 → 10-02 22:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>Nike, Inc.(NKE)</td><td>36.04</td><td>32.94</td><td class="pnl">-8.60%</td><td>69.9h</td><td>09-30 00:45 → 10-02 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Western Digital Corporation(WDC)</td><td>453.50</td><td>421.30</td><td class="pnl">-7.10%</td><td>70.4h</td><td>09-30 00:15 → 10-02 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>앱러빈(APP)</td><td>282.60</td><td>268.50</td><td class="pnl">-4.99%</td><td>22.8h</td><td>10-01 23:55 → 10-02 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>보스턴 사이언티픽(BSX)</td><td>43.84</td><td>42.11</td><td class="pnl">-3.95%</td><td>71.9h</td><td>09-29 22:45 → 10-02 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>GE Vernova Inc.(GEV)</td><td>1,000</td><td>960.60</td><td class="pnl">-3.94%</td><td>21.2h</td><td>10-02 01:50 → 10-02 23:00</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 141건 기준): 최소 -8.60% · P25 -2.06% · 중앙값 +0.52% · P75 +2.95% · 최대 +6.66%_
 
-**전체 데이터** — 마감 150건 전량: [CSV 다운로드](/data/journal/2026-10-03-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 150건 전량: [CSV 다운로드](/data/journal/2026-10-03-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 141건 기준): 최소 -8.60% · P25 -2.06% 
 
 _기준일: 2026-10-03 (KST) · as of 2026-10-03._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

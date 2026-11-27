@@ -17,7 +17,7 @@ metrics:
   best_pct: 5.53
   worst_pct: -8.89
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.77
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-08-25-us-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Target Corporation(TGT)</td><td>160.90</td><td>169.80</td><td class="pnl">+5.53%</td><td>115.4h</td><td>08-20 04:45 → 08-25 00:10</td></tr><tr class="t-win"><td class="res">이익</td><td>Gartner, Inc.(IT)</td><td>191.50</td><td>200.50</td><td class="pnl">+4.70%</td><td>73.8h</td><td>08-21 22:50 → 08-25 00:35</td></tr><tr class="t-win"><td class="res">이익</td><td>VeriSign, Inc.(VRSN)</td><td>279.90</td><td>291.70</td><td class="pnl">+4.22%</td><td>141.8h</td><td>08-19 03:55 → 08-25 01:45</td></tr><tr class="t-win"><td class="res">이익</td><td>Corteva, Inc.(CTVA)</td><td>80.17</td><td>83.49</td><td class="pnl">+4.14%</td><td>93.2h</td><td>08-21 01:55 → 08-24 23:05</td></tr><tr class="t-win"><td class="res">이익</td><td>DoorDash, Inc.(DASH)</td><td>218.70</td><td>227.50</td><td class="pnl">+4.02%</td><td>142.2h</td><td>08-19 02:55 → 08-25 01:05</td></tr><tr class="t-loss"><td class="res">손실</td><td>Western Digital Corporation(WDC)</td><td>472.20</td><td>430.20</td><td class="pnl">-8.89%</td><td>119.1h</td><td>08-19 23:45 → 08-24 22:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>코히런트(COHR)</td><td>290.80</td><td>265.20</td><td class="pnl">-8.80%</td><td>71.0h</td><td>08-21 23:50 → 08-24 22:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>Sandisk Corporation(SNDK)</td><td>1,571</td><td>1,437</td><td class="pnl">-8.53%</td><td>119.2h</td><td>08-19 23:40 → 08-24 22:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>Lumentum Holdings Inc.(LITE)</td><td>870.90</td><td>797.60</td><td class="pnl">-8.42%</td><td>71.3h</td><td>08-21 23:30 → 08-24 22:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>Marvell Technology, Inc.(MRVL)</td><td>237.80</td><td>221.10</td><td class="pnl">-7.02%</td><td>71.3h</td><td>08-21 23:30 → 08-24 22:50</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 243건 기준): 최소 -8.89% · P25 -3.02% · 중앙값 +0.18% · P75 +1.74% · 최대 +5.53%_
 
-**전체 데이터** — 마감 254건 전량: [CSV 다운로드](/data/journal/2026-08-25-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 254건 전량: [CSV 다운로드](/data/journal/2026-08-25-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 243건 기준): 최소 -8.89% · P25 -3.02% 
 
 _기준일: 2026-08-25 (KST) · as of 2026-08-25._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

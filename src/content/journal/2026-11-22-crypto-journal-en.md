@@ -17,7 +17,7 @@ metrics:
   best_pct: 17.39
   worst_pct: -11.63
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.47
 ogImage: /og/journal/2026-11-22-crypto-journal-en--crypto--07_confident.jpg
 altUrl: /journal/2026-11-22-crypto-journal/
@@ -53,7 +53,7 @@ The losers were small names that slid steadily rather than collapsing. Bedrock(B
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Stader(SD)</td><td>105.10</td><td>121.90</td><td class="pnl">+15.98%</td><td>10.5h</td><td>11-22 00:00 → 11-22 10:30</td></tr><tr class="t-win"><td class="res">win</td><td>Collector Crypt(CARDS)</td><td>205.20</td><td>224.80</td><td class="pnl">+9.55%</td><td>2.8h</td><td>11-21 19:15 → 11-21 22:00</td></tr><tr class="t-win"><td class="res">win</td><td>Lombard(BARD)</td><td>124.10</td><td>135.90</td><td class="pnl">+9.51%</td><td>4.8h</td><td>11-21 20:30 → 11-22 01:15</td></tr><tr class="t-win"><td class="res">win</td><td>Onyxcoin(XCN)</td><td>3.90</td><td>4.25</td><td class="pnl">+9.05%</td><td>17.2h</td><td>11-21 15:45 → 11-22 09:00</td></tr><tr class="t-win"><td class="res">win</td><td>Uniswap(UNI)</td><td>5,851</td><td>6,374</td><td class="pnl">+8.94%</td><td>9.2h</td><td>11-21 13:15 → 11-21 22:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Bedrock(BR)</td><td>577.60</td><td>543.50</td><td class="pnl">-5.90%</td><td>0.0h</td><td>11-21 23:15 → 11-21 23:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Siacoin(SC)</td><td>0.9757</td><td>0.9188</td><td class="pnl">-5.83%</td><td>0.0h</td><td>11-21 22:15 → 11-21 22:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>ZORA</td><td>6.18</td><td>5.89</td><td class="pnl">-4.61%</td><td>13.2h</td><td>11-21 23:15 → 11-22 12:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Teller Finance(DEBIT)</td><td>889.90</td><td>851.10</td><td class="pnl">-4.36%</td><td>1.2h</td><td>11-21 21:30 → 11-21 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Bedrock(BR)</td><td>556.60</td><td>533.50</td><td class="pnl">-4.15%</td><td>2.8h</td><td>11-21 23:30 → 11-22 02:15</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -5.90% · P25 -0.26% · median +2.10% · P75 +3.84% · max +15.98%_
 
-**Full data** — all 875 closed trades: [CSV download](/data/journal/2026-11-22-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 875 closed trades: [CSV download](/data/journal/2026-11-22-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -62,9 +62,9 @@ _P&L distribution (300 meaningful trades): min -5.90% · P25 -0.26% · median +2
 
 _As of 2026-11-22 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

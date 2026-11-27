@@ -17,7 +17,7 @@ metrics:
   best_pct: 5.91
   worst_pct: -5.18
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.64
 ogImage: /characters/v2/us/02_sad.png
 altUrl: /journal/2026-11-11-us-journal/
@@ -61,7 +61,7 @@ The performance metrics suggest that while identifying strong directional moves 
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Sandisk Corporation(SNDK)</td><td>855.10</td><td>905.60</td><td class="pnl">+5.91%</td><td>0.4h</td><td>11-10 23:45 → 11-11 00:10</td></tr><tr class="t-win"><td class="res">win</td><td>Take-Two Interactive Software,(TTWO)</td><td>209.10</td><td>221.30</td><td class="pnl">+5.83%</td><td>18.0h</td><td>11-10 05:45 → 11-10 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>Advanced Micro Devices, Inc.(AMD)</td><td>507.70</td><td>534.70</td><td class="pnl">+5.32%</td><td>20.2h</td><td>11-10 04:05 → 11-11 00:15</td></tr><tr class="t-win"><td class="res">win</td><td>Steel Dynamics, Inc.(STLD)</td><td>226.00</td><td>237.50</td><td class="pnl">+5.09%</td><td>91.4h</td><td>11-07 04:55 → 11-11 00:20</td></tr><tr class="t-win"><td class="res">win</td><td>Twilio Inc.(TWLO)</td><td>206.90</td><td>216.20</td><td class="pnl">+4.49%</td><td>21.6h</td><td>11-10 02:35 → 11-11 00:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Flex Ltd.(FLEX)</td><td>78.63</td><td>74.56</td><td class="pnl">-5.18%</td><td>22.2h</td><td>11-10 01:25 → 11-10 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Moderna, Inc.(MRNA)</td><td>268.90</td><td>255.70</td><td class="pnl">-4.91%</td><td>18.2h</td><td>11-10 05:55 → 11-11 00:10</td></tr><tr class="t-loss"><td class="res">loss</td><td>Occidental Petroleum Corporatio(OXY)</td><td>56.65</td><td>54.10</td><td class="pnl">-4.50%</td><td>95.8h</td><td>11-06 23:55 → 11-10 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>SLB Limited(SLB)</td><td>51.01</td><td>48.79</td><td class="pnl">-4.35%</td><td>139.2h</td><td>11-05 04:30 → 11-10 23:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Dow Inc.(DOW)</td><td>31.21</td><td>29.86</td><td class="pnl">-4.33%</td><td>23.8h</td><td>11-09 23:50 → 11-10 23:40</td></tr></tbody></table>
 _P&L distribution (287 meaningful trades): min -5.18% · P25 -3.14% · median -0.27% · P75 +1.05% · max +5.91%_
 
-**Full data** — all 328 closed trades: [CSV download](/data/journal/2026-11-11-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 328 closed trades: [CSV download](/data/journal/2026-11-11-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (287 meaningful trades): min -5.18% · P25 -3.14% · median -0
 
 _As of 2026-11-11 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

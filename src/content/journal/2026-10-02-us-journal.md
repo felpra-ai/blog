@@ -17,7 +17,7 @@ metrics:
   best_pct: 29.59
   worst_pct: -7.24
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.63
 ogImage: /characters/us/10_suspicious.png
 altUrl: /journal/2026-10-02-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>액센추어(ACN)</td><td>173.70</td><td>225.10</td><td class="pnl">+29.59%</td><td>49.0h</td><td>09-29 22:50 → 10-01 23:50</td></tr><tr class="t-win"><td class="res">이익</td><td>Cognizant Technology Solutions(CTSH)</td><td>57.59</td><td>63.35</td><td class="pnl">+10.00%</td><td>140.7h</td><td>09-26 03:10 → 10-01 23:50</td></tr><tr class="t-win"><td class="res">이익</td><td>PTC Inc.(PTC)</td><td>138.20</td><td>146.80</td><td class="pnl">+6.22%</td><td>167.7h</td><td>09-25 01:00 → 10-02 00:40</td></tr><tr class="t-win"><td class="res">이익</td><td>Cboe 글로벌 마켓(CBOE)</td><td>263.70</td><td>278.90</td><td class="pnl">+5.76%</td><td>48.5h</td><td>09-29 23:35 → 10-02 00:05</td></tr><tr class="t-win"><td class="res">이익</td><td>어플라이드 머티어리얼즈(AMAT)</td><td>500.30</td><td>526.40</td><td class="pnl">+5.22%</td><td>47.8h</td><td>09-30 00:35 → 10-02 00:20</td></tr><tr class="t-loss"><td class="res">손실</td><td>General Mills, Inc.(GIS)</td><td>33.83</td><td>31.38</td><td class="pnl">-7.24%</td><td>139.2h</td><td>09-26 04:35 → 10-01 23:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>Smurfit WestRock plc(SW)</td><td>45.40</td><td>42.20</td><td class="pnl">-7.05%</td><td>166.8h</td><td>09-25 01:00 → 10-01 23:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>Deere & Company(DE)</td><td>700.10</td><td>652.30</td><td class="pnl">-6.83%</td><td>168.2h</td><td>09-24 23:35 → 10-01 23:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>Home Depot, Inc. (The)(HD)</td><td>292.50</td><td>277.70</td><td class="pnl">-5.06%</td><td>168.2h</td><td>09-24 23:35 → 10-01 23:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>Healthpeak Properties, Inc.(DOC)</td><td>20.46</td><td>19.47</td><td class="pnl">-4.84%</td><td>168.9h</td><td>09-24 22:55 → 10-01 23:50</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 201건 기준): 최소 -7.24% · P25 -3.21% · 중앙값 -0.96% · P75 +1.60% · 최대 +29.59%_
 
-**전체 데이터** — 마감 206건 전량: [CSV 다운로드](/data/journal/2026-10-02-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 206건 전량: [CSV 다운로드](/data/journal/2026-10-02-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 201건 기준): 최소 -7.24% · P25 -3.21% 
 
 _기준일: 2026-10-02 (KST) · as of 2026-10-02._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

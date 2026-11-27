@@ -17,7 +17,7 @@ metrics:
   best_pct: 14.5
   worst_pct: -8.07
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 2.44
 ogImage: /characters/us/09_excited.png
 altUrl: /journal/2026-10-10-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Humana Inc.(HUM)</td><td>385.60</td><td>441.50</td><td class="pnl">+14.50%</td><td>23.4h</td><td>10-08 23:15 → 10-09 22:40</td></tr><tr class="t-win"><td class="res">이익</td><td>끄지상업개발(CCI)</td><td>68.22</td><td>77.09</td><td class="pnl">+13.00%</td><td>47.9h</td><td>10-07 22:45 → 10-09 22:40</td></tr><tr class="t-win"><td class="res">이익</td><td>SBA Communications Corporation(SBAC)</td><td>167.70</td><td>182.20</td><td class="pnl">+8.65%</td><td>69.6h</td><td>10-07 01:05 → 10-09 22:40</td></tr><tr class="t-win"><td class="res">이익</td><td>아메리칸 타워(AMT)</td><td>168.30</td><td>178.80</td><td class="pnl">+6.24%</td><td>42.8h</td><td>10-08 04:00 → 10-09 22:50</td></tr><tr class="t-win"><td class="res">이익</td><td>Lumentum Holdings Inc.(LITE)</td><td>1,051</td><td>1,115</td><td class="pnl">+6.09%</td><td>20.4h</td><td>10-09 02:20 → 10-09 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>T-Mobile US, Inc.(TMUS)</td><td>169.70</td><td>156.00</td><td class="pnl">-8.07%</td><td>44.8h</td><td>10-08 01:50 → 10-09 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Verizon Communications Inc.(VZ)</td><td>45.38</td><td>42.89</td><td class="pnl">-5.49%</td><td>71.7h</td><td>10-06 23:00 → 10-09 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Super Micro Computer, Inc.(SMCI)</td><td>42.65</td><td>40.77</td><td class="pnl">-4.41%</td><td>19.1h</td><td>10-09 03:50 → 10-09 22:55</td></tr><tr class="t-loss"><td class="res">손실</td><td>Skyworks Solutions, Inc.(SWKS)</td><td>79.18</td><td>76.11</td><td class="pnl">-3.88%</td><td>23.9h</td><td>10-08 22:45 → 10-09 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>HP Inc.(HPQ)</td><td>32.11</td><td>30.91</td><td class="pnl">-3.74%</td><td>71.9h</td><td>10-06 22:50 → 10-09 22:45</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 215건 기준): 최소 -8.07% · P25 -0.41% · 중앙값 +0.90% · P75 +2.81% · 최대 +14.50%_
 
-**전체 데이터** — 마감 235건 전량: [CSV 다운로드](/data/journal/2026-10-10-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 235건 전량: [CSV 다운로드](/data/journal/2026-10-10-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 215건 기준): 최소 -8.07% · P25 -0.41% 
 
 _기준일: 2026-10-10 (KST) · as of 2026-10-10._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

@@ -17,7 +17,7 @@ metrics:
   best_pct: 6.97
   worst_pct: -9.77
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.4
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-08-21-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Nordson Corporation(NDSN)</td><td>308.60</td><td>330.10</td><td class="pnl">+6.97%</td><td>168.0h</td><td>08-14 00:20 → 08-21 00:20</td></tr><tr class="t-win"><td class="res">이익</td><td>Texas Pacific Land Corporation(TPL)</td><td>370.20</td><td>393.40</td><td class="pnl">+6.27%</td><td>21.8h</td><td>08-20 02:50 → 08-21 00:35</td></tr><tr class="t-win"><td class="res">이익</td><td>Deere & Company(DE)</td><td>592.70</td><td>628.40</td><td class="pnl">+6.02%</td><td>44.9h</td><td>08-19 04:25 → 08-21 01:20</td></tr><tr class="t-win"><td class="res">이익</td><td>Occidental Petroleum Corporatio(OXY)</td><td>59.03</td><td>61.84</td><td class="pnl">+4.76%</td><td>67.7h</td><td>08-18 03:25 → 08-20 23:05</td></tr><tr class="t-win"><td class="res">이익</td><td>Danaher Corporation(DHR)</td><td>210.30</td><td>219.70</td><td class="pnl">+4.47%</td><td>24.8h</td><td>08-20 00:10 → 08-21 01:00</td></tr><tr class="t-loss"><td class="res">손실</td><td>Walmart Inc.(WMT)</td><td>115.70</td><td>104.40</td><td class="pnl">-9.77%</td><td>44.6h</td><td>08-19 02:10 → 08-20 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Moderna, Inc.(MRNA)</td><td>156.80</td><td>143.00</td><td class="pnl">-8.80%</td><td>18.0h</td><td>08-20 04:45 → 08-20 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Moderna, Inc.(MRNA)</td><td>139.60</td><td>130.30</td><td class="pnl">-6.66%</td><td>1.7h</td><td>08-21 00:10 → 08-21 01:50</td></tr><tr class="t-loss"><td class="res">손실</td><td>쿠롱도시개발(CCL)</td><td>27.58</td><td>25.90</td><td class="pnl">-6.09%</td><td>46.4h</td><td>08-19 00:20 → 08-20 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Ralph Lauren Corporation(RL)</td><td>387.50</td><td>365.40</td><td class="pnl">-5.70%</td><td>143.1h</td><td>08-14 23:40 → 08-20 22:45</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 241건 기준): 최소 -9.77% · P25 -3.25% · 중앙값 -0.60% · P75 +0.43% · 최대 +6.97%_
 
-**전체 데이터** — 마감 260건 전량: [CSV 다운로드](/data/journal/2026-08-21-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 260건 전량: [CSV 다운로드](/data/journal/2026-08-21-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 241건 기준): 최소 -9.77% · P25 -3.25% 
 
 _기준일: 2026-08-21 (KST) · as of 2026-08-21._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

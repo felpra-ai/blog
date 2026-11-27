@@ -17,7 +17,7 @@ metrics:
   best_pct: 16.59
   worst_pct: -13.71
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.07
 ogImage: /characters/crypto/01_joy.png
 altUrl: /journal/2026-07-26-crypto-journal/
@@ -62,7 +62,7 @@ The profit factor of 1.07 indicates that the total gains slightly outweighed the
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Metaplex(MPLX)</td><td>34.84</td><td>40.62</td><td class="pnl">+16.59%</td><td>30.8h</td><td>07-24 18:00 → 07-26 00:45</td></tr><tr class="t-win"><td class="res">win</td><td>Request(REQ)</td><td>99.59</td><td>112.90</td><td class="pnl">+13.36%</td><td>0.5h</td><td>07-26 00:30 → 07-26 01:00</td></tr><tr class="t-win"><td class="res">win</td><td>DEXE</td><td>6,266</td><td>7,063</td><td class="pnl">+12.72%</td><td>1.8h</td><td>07-25 22:00 → 07-25 23:45</td></tr><tr class="t-win"><td class="res">win</td><td>Osmosis(OSMO)</td><td>43.94</td><td>49.15</td><td class="pnl">+11.86%</td><td>3.8h</td><td>07-25 20:15 → 07-26 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>PIEVERSE</td><td>940.90</td><td>1,034</td><td class="pnl">+9.89%</td><td>13.2h</td><td>07-25 23:45 → 07-26 13:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>AVAIL</td><td>3.78</td><td>3.50</td><td class="pnl">-7.56%</td><td>3.8h</td><td>07-25 20:15 → 07-26 00:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Request(REQ)</td><td>109.10</td><td>101.90</td><td class="pnl">-6.60%</td><td>0.2h</td><td>07-26 01:00 → 07-26 01:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Request(REQ)</td><td>97.87</td><td>91.54</td><td class="pnl">-6.47%</td><td>0.2h</td><td>07-26 00:15 → 07-26 00:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>DEXE</td><td>6,907</td><td>6,498</td><td class="pnl">-5.92%</td><td>0.5h</td><td>07-26 00:30 → 07-26 01:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>DEXE</td><td>5,906</td><td>5,574</td><td class="pnl">-5.62%</td><td>0.2h</td><td>07-25 21:00 → 07-25 21:15</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -7.56% · P25 -2.55% · median +0.47% · P75 +2.69% · max +16.59%_
 
-**Full data** — all 671 closed trades: [CSV download](/data/journal/2026-07-26-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 671 closed trades: [CSV download](/data/journal/2026-07-26-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -71,9 +71,9 @@ _P&L distribution (300 meaningful trades): min -7.56% · P25 -2.55% · median +0
 
 _As of 2026-07-26 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

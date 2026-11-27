@@ -17,7 +17,7 @@ metrics:
   best_pct: 14.88
   worst_pct: -13.57
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.5
 ogImage: /characters/v2/kr/02_sad.png
 altUrl: /journal/2026-11-12-kr-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>JYP Ent.(035900)</td><td>38,889</td><td>44,505</td><td class="pnl">+14.44%</td><td>20.8h</td><td>11-11 12:20 → 11-12 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>필옵틱스(161580)</td><td>25,876</td><td>28,621</td><td class="pnl">+10.61%</td><td>25.4h</td><td>11-11 11:50 → 11-12 13:15</td></tr><tr class="t-win"><td class="res">이익</td><td>위메이드맥스(101730)</td><td>3,694</td><td>3,966</td><td class="pnl">+7.36%</td><td>17.8h</td><td>11-11 15:20 → 11-12 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>SFA(056190)</td><td>25,125</td><td>26,623</td><td class="pnl">+5.96%</td><td>0.1h</td><td>11-12 09:25 → 11-12 09:30</td></tr><tr class="t-win"><td class="res">이익</td><td>코스맥스(192820)</td><td>264,764</td><td>279,220</td><td class="pnl">+5.46%</td><td>17.8h</td><td>11-11 15:25 → 11-12 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>DB하이텍(000990)</td><td>97,898</td><td>84,615</td><td class="pnl">-13.57%</td><td>19.2h</td><td>11-11 13:55 → 11-12 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>루닛(328130)</td><td>14,434</td><td>12,767</td><td class="pnl">-11.55%</td><td>19.0h</td><td>11-11 14:10 → 11-12 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>메리츠금융지주(138040)</td><td>130,831</td><td>120,979</td><td class="pnl">-7.53%</td><td>143.6h</td><td>11-06 09:35 → 11-12 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>한진칼(180640)</td><td>205,705</td><td>193,306</td><td class="pnl">-6.03%</td><td>22.8h</td><td>11-11 10:20 → 11-12 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>에스앤에스텍(101490)</td><td>39,139</td><td>37,163</td><td class="pnl">-5.05%</td><td>21.5h</td><td>11-11 11:45 → 11-12 09:15</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -13.57% · P25 -3.27% · 중앙값 -1.81% · P75 +2.30% · 최대 +14.44%_
 
-**전체 데이터** — 마감 431건 전량: [CSV 다운로드](/data/journal/2026-11-12-kr.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 431건 전량: [CSV 다운로드](/data/journal/2026-11-12-kr.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -13.57% · P25 -3.27%
 
 _기준일: 2026-11-12 (KST) · as of 2026-11-12._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

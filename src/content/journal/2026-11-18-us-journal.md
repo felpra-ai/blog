@@ -17,7 +17,7 @@ metrics:
   best_pct: 3.86
   worst_pct: -4.89
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.09
 ogImage: /characters/v2/us/02_sad.png
 altUrl: /journal/2026-11-18-us-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Comfort Systems USA, Inc.(FIX)</td><td>1,062</td><td>1,103</td><td class="pnl">+3.86%</td><td>19.8h</td><td>11-17 04:05 → 11-17 23:50</td></tr><tr class="t-win"><td class="res">이익</td><td>Flex Ltd.(FLEX)</td><td>73.23</td><td>76.03</td><td class="pnl">+3.82%</td><td>23.9h</td><td>11-16 23:55 → 11-17 23:50</td></tr><tr class="t-win"><td class="res">이익</td><td>Nike, Inc.(NKE)</td><td>38.22</td><td>39.65</td><td class="pnl">+3.74%</td><td>96.1h</td><td>11-13 23:45 → 11-17 23:50</td></tr><tr class="t-win"><td class="res">이익</td><td>코히런트(COHR)</td><td>201.50</td><td>208.60</td><td class="pnl">+3.52%</td><td>0.2h</td><td>11-18 00:55 → 11-18 01:10</td></tr><tr class="t-win"><td class="res">이익</td><td>CMC테크(CMG)</td><td>35.00</td><td>36.00</td><td class="pnl">+2.86%</td><td>96.2h</td><td>11-13 23:50 → 11-18 00:00</td></tr><tr class="t-loss"><td class="res">손실</td><td>세일즈포스(CRM)</td><td>216.80</td><td>206.20</td><td class="pnl">-4.89%</td><td>95.0h</td><td>11-14 00:45 → 11-17 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>어도비(ADBE)</td><td>250.50</td><td>239.00</td><td class="pnl">-4.59%</td><td>22.6h</td><td>11-17 01:10 → 11-17 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>GoDaddy Inc.(GDDY)</td><td>113.40</td><td>108.30</td><td class="pnl">-4.50%</td><td>138.0h</td><td>11-12 05:45 → 11-17 23:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Robinhood Markets, Inc.(HOOD)</td><td>70.52</td><td>67.49</td><td class="pnl">-4.30%</td><td>1.0h</td><td>11-17 23:55 → 11-18 00:55</td></tr><tr class="t-loss"><td class="res">손실</td><td>International Business Machines(IBM)</td><td>248.60</td><td>238.00</td><td class="pnl">-4.26%</td><td>139.8h</td><td>11-12 03:55 → 11-17 23:45</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 291건 기준): 최소 -4.89% · P25 -3.19% · 중앙값 -1.30% · P75 -0.41% · 최대 +3.86%_
 
-**전체 데이터** — 마감 330건 전량: [CSV 다운로드](/data/journal/2026-11-18-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 330건 전량: [CSV 다운로드](/data/journal/2026-11-18-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 291건 기준): 최소 -4.89% · P25 -3.19% 
 
 _기준일: 2026-11-18 (KST) · as of 2026-11-18._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

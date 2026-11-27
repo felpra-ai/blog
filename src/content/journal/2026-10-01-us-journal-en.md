@@ -17,7 +17,7 @@ metrics:
   best_pct: 3.77
   worst_pct: -5.36
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.11
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-10-01-us-journal/
@@ -63,7 +63,7 @@ The data points from the losing trades highlight the sensitivity of certain name
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Domino's Pizza Inc(DPZ)</td><td>289.20</td><td>300.10</td><td class="pnl">+3.77%</td><td>169.8h</td><td>09-23 23:10 → 10-01 01:00</td></tr><tr class="t-win"><td class="res">win</td><td>Seagate Technology Holdings PLC(STX)</td><td>904.00</td><td>921.40</td><td class="pnl">+1.92%</td><td>170.2h</td><td>09-23 22:45 → 10-01 01:00</td></tr><tr class="t-win"><td class="res">win</td><td>Progressive Corporation (The)(PGR)</td><td>206.50</td><td>208.40</td><td class="pnl">+0.92%</td><td>168.7h</td><td>09-24 00:20 → 10-01 01:00</td></tr><tr class="t-win"><td class="res">win</td><td>NXP Semiconductors N.V.(NXPI)</td><td>232.30</td><td>233.70</td><td class="pnl">+0.60%</td><td>169.2h</td><td>09-23 23:50 → 10-01 01:00</td></tr><tr class="t-win"><td class="res">win</td><td>Evergy, Inc.(EVRG)</td><td>78.58</td><td>79.04</td><td class="pnl">+0.59%</td><td>169.9h</td><td>09-23 23:05 → 10-01 01:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>General Motors Company(GM)</td><td>82.15</td><td>77.75</td><td class="pnl">-5.36%</td><td>144.9h</td><td>09-25 00:05 → 10-01 01:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Constellation Energy Corporatio(CEG)</td><td>264.60</td><td>250.70</td><td class="pnl">-5.25%</td><td>24.8h</td><td>09-30 00:15 → 10-01 01:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>NRG Energy, Inc.(NRG)</td><td>99.49</td><td>94.32</td><td class="pnl">-5.20%</td><td>145.9h</td><td>09-24 23:05 → 10-01 01:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Jabil Inc.(JBL)</td><td>313.40</td><td>297.40</td><td class="pnl">-5.11%</td><td>48.5h</td><td>09-29 00:30 → 10-01 01:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Corning Incorporated(GLW)</td><td>160.80</td><td>152.80</td><td class="pnl">-4.98%</td><td>25.3h</td><td>09-29 23:40 → 10-01 01:00</td></tr></tbody></table>
 _P&L distribution (36 meaningful trades): min -5.36% · P25 -3.37% · median -1.74% · P75 -0.51% · max +3.77%_
 
-**Full data** — all 36 closed trades: [CSV download](/data/journal/2026-10-01-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 36 closed trades: [CSV download](/data/journal/2026-10-01-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (36 meaningful trades): min -5.36% · P25 -3.37% · median -1.
 
 _As of 2026-10-01 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

@@ -17,7 +17,7 @@ metrics:
   best_pct: 13.49
   worst_pct: -11.94
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.29
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-09-25-us-journal-en/
@@ -57,7 +57,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>Everpure, Inc.(P)</td><td>109.70</td><td>124.50</td><td class="pnl">+13.49%</td><td>47.9h</td><td>09-22 22:45 → 09-24 22:40</td></tr><tr class="t-win"><td class="res">이익</td><td>GoDaddy Inc.(GDDY)</td><td>95.70</td><td>108.20</td><td class="pnl">+13.06%</td><td>0.3h</td><td>09-24 23:15 → 09-24 23:35</td></tr><tr class="t-win"><td class="res">이익</td><td>Illumina, Inc.(ILMN)</td><td>252.00</td><td>264.80</td><td class="pnl">+5.08%</td><td>21.1h</td><td>09-24 03:00 → 09-25 00:05</td></tr><tr class="t-win"><td class="res">이익</td><td>찰스 리버 래보라토리스 인터내셔널(CRL)</td><td>278.40</td><td>291.00</td><td class="pnl">+4.53%</td><td>20.6h</td><td>09-24 03:00 → 09-24 23:35</td></tr><tr class="t-win"><td class="res">이익</td><td>Comfort Systems USA, Inc.(FIX)</td><td>1,584</td><td>1,654</td><td class="pnl">+4.42%</td><td>3.9h</td><td>09-24 22:40 → 09-25 02:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>MGM Resorts International(MGM)</td><td>38.60</td><td>33.99</td><td class="pnl">-11.94%</td><td>20.5h</td><td>09-24 02:10 → 09-24 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Oracle Corporation(ORCL)</td><td>147.30</td><td>137.10</td><td class="pnl">-6.92%</td><td>23.8h</td><td>09-23 22:55 → 09-24 22:45</td></tr><tr class="t-loss"><td class="res">손실</td><td>Gen Digital Inc.(GEN)</td><td>26.00</td><td>24.52</td><td class="pnl">-5.69%</td><td>0.3h</td><td>09-24 23:15 → 09-24 23:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>Rollins, Inc.(ROL)</td><td>32.92</td><td>31.06</td><td class="pnl">-5.65%</td><td>23.9h</td><td>09-23 22:45 → 09-24 22:40</td></tr><tr class="t-loss"><td class="res">손실</td><td>Vertiv Holdings, LLC(VRT)</td><td>252.80</td><td>240.40</td><td class="pnl">-4.91%</td><td>47.9h</td><td>09-22 22:45 → 09-24 22:40</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 129건 기준): 최소 -11.94% · P25 -3.48% · 중앙값 -3.15% · P75 +0.32% · 최대 +13.49%_
 
-**전체 데이터** — 마감 132건 전량: [CSV 다운로드](/data/journal/2026-09-25-us.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 132건 전량: [CSV 다운로드](/data/journal/2026-09-25-us.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -66,9 +66,9 @@ _손익 분포 (의미있는 거래 129건 기준): 최소 -11.94% · P25 -3.48%
 
 _기준일: 2026-09-25 (KST) · as of 2026-09-25._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

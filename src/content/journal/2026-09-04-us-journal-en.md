@@ -17,7 +17,7 @@ metrics:
   best_pct: 12.49
   worst_pct: -50.31
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.85
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-09-04-us-journal/
@@ -63,7 +63,7 @@ The overall pattern suggests that the risk taken on the losing side of the trade
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Robinhood Markets, Inc.(HOOD)</td><td>104.90</td><td>118.00</td><td class="pnl">+12.49%</td><td>45.0h</td><td>09-02 01:45 → 09-03 22:45</td></tr><tr class="t-win"><td class="res">win</td><td>Palantir Technologies Inc.(PLTR)</td><td>170.00</td><td>184.70</td><td class="pnl">+8.65%</td><td>18.6h</td><td>09-03 05:00 → 09-03 23:35</td></tr><tr class="t-win"><td class="res">win</td><td>Vertiv Holdings, LLC(VRT)</td><td>251.30</td><td>268.80</td><td class="pnl">+6.96%</td><td>49.5h</td><td>09-01 23:20 → 09-04 00:50</td></tr><tr class="t-win"><td class="res">win</td><td>Hewlett Packard Enterprise Comp(HPE)</td><td>47.38</td><td>50.01</td><td class="pnl">+5.55%</td><td>3.9h</td><td>09-03 22:50 → 09-04 02:45</td></tr><tr class="t-win"><td class="res">win</td><td>EchoStar Corporation(ECHO)</td><td>85.52</td><td>89.43</td><td class="pnl">+4.57%</td><td>164.8h</td><td>08-28 03:05 → 09-03 23:55</td></tr><tr class="t-loss"><td class="res">loss</td><td>Amphenol Corporation(APH)</td><td>161.30</td><td>80.15</td><td class="pnl">-50.31%</td><td>167.9h</td><td>08-27 22:50 → 09-03 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Tyson Foods, Inc.(TSN)</td><td>55.95</td><td>51.48</td><td class="pnl">-7.99%</td><td>17.8h</td><td>09-03 05:00 → 09-03 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Hewlett Packard Enterprise Comp(HPE)</td><td>50.65</td><td>47.28</td><td class="pnl">-6.65%</td><td>44.4h</td><td>09-02 02:20 → 09-03 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Broadcom Inc.(AVGO)</td><td>369.10</td><td>346.90</td><td class="pnl">-6.01%</td><td>166.0h</td><td>08-28 00:45 → 09-03 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>NetApp, Inc.(NTAP)</td><td>181.80</td><td>171.70</td><td class="pnl">-5.56%</td><td>47.3h</td><td>09-01 23:25 → 09-03 22:45</td></tr></tbody></table>
 _P&L distribution (179 meaningful trades): min -50.31% · P25 -1.81% · median +0.26% · P75 +2.20% · max +12.49%_
 
-**Full data** — all 187 closed trades: [CSV download](/data/journal/2026-09-04-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 187 closed trades: [CSV download](/data/journal/2026-09-04-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (179 meaningful trades): min -50.31% · P25 -1.81% · median +
 
 _As of 2026-09-04 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

@@ -17,7 +17,7 @@ metrics:
   best_pct: 18.65
   worst_pct: -6.74
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.41
 ogImage: /characters/crypto/07_confident.png
 altUrl: /journal/2026-09-03-crypto-journal/
@@ -61,7 +61,7 @@ The losses incurred on AGI, RECALL, and ADP highlight instances where the market
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Status(SNT)</td><td>8.88</td><td>9.95</td><td class="pnl">+12.03%</td><td>15.8h</td><td>09-02 17:15 → 09-03 09:00</td></tr><tr class="t-win"><td class="res">win</td><td>Audius(AUDIO)</td><td>18.01</td><td>20.12</td><td class="pnl">+11.72%</td><td>105.8h</td><td>08-30 00:30 → 09-03 10:15</td></tr><tr class="t-win"><td class="res">win</td><td>HOOK</td><td>5.86</td><td>6.45</td><td class="pnl">+10.10%</td><td>1.2h</td><td>09-03 02:30 → 09-03 03:45</td></tr><tr class="t-win"><td class="res">win</td><td>PROM</td><td>6,026</td><td>6,598</td><td class="pnl">+9.49%</td><td>0.8h</td><td>09-03 00:00 → 09-03 00:45</td></tr><tr class="t-win"><td class="res">win</td><td>Swell Network(SWELL)</td><td>1.01</td><td>1.11</td><td class="pnl">+9.37%</td><td>16.2h</td><td>09-02 18:15 → 09-03 10:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Delysium(AGI)</td><td>7.85</td><td>7.32</td><td class="pnl">-6.74%</td><td>12.8h</td><td>09-02 19:30 → 09-03 08:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>RECALL</td><td>61.73</td><td>57.99</td><td class="pnl">-6.06%</td><td>18.5h</td><td>09-02 15:30 → 09-03 10:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Automatic Data Processing, Inc.(ADP)</td><td>0.6103</td><td>0.5735</td><td class="pnl">-6.03%</td><td>0.5h</td><td>09-03 00:00 → 09-03 00:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Somnia(SOMI)</td><td>160.20</td><td>151.80</td><td class="pnl">-5.24%</td><td>2.0h</td><td>09-02 23:30 → 09-03 01:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>LeisureMeta(LM)</td><td>1.00</td><td>0.9549</td><td class="pnl">-4.61%</td><td>7.2h</td><td>09-03 00:15 → 09-03 07:30</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -6.74% · P25 -3.15% · median +0.71% · P75 +2.79% · max +12.03%_
 
-**Full data** — all 648 closed trades: [CSV download](/data/journal/2026-09-03-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 648 closed trades: [CSV download](/data/journal/2026-09-03-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (300 meaningful trades): min -6.74% · P25 -3.15% · median +0
 
 _As of 2026-09-03 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

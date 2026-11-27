@@ -17,7 +17,7 @@ metrics:
   best_pct: 5.6
   worst_pct: -8.54
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.47
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-07-28-us-journal/
@@ -62,7 +62,7 @@ The trades involving AMAT and SNDK, which represented the largest losses, sugges
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Charter Communications, Inc.(CHTR)</td><td>123.20</td><td>130.10</td><td class="pnl">+5.60%</td><td>71.3h</td><td>07-25 04:30 → 07-28 03:50</td></tr><tr class="t-win"><td class="res">win</td><td>Axon Enterprise, Inc.(AXON)</td><td>490.30</td><td>517.50</td><td class="pnl">+5.55%</td><td>91.5h</td><td>07-24 04:25 → 07-27 23:55</td></tr><tr class="t-win"><td class="res">win</td><td>F5, Inc.(FFIV)</td><td>389.10</td><td>407.00</td><td class="pnl">+4.60%</td><td>71.8h</td><td>07-25 04:50 → 07-28 04:40</td></tr><tr class="t-win"><td class="res">win</td><td>Booking Holdings Inc. Common St(BKNG)</td><td>177.30</td><td>183.70</td><td class="pnl">+3.61%</td><td>67.1h</td><td>07-25 04:50 → 07-27 23:55</td></tr><tr class="t-win"><td class="res">win</td><td>Skyworks Solutions, Inc.(SWKS)</td><td>60.04</td><td>62.18</td><td class="pnl">+3.56%</td><td>94.6h</td><td>07-24 03:50 → 07-28 02:25</td></tr><tr class="t-loss"><td class="res">loss</td><td>Sandisk Corporation(SNDK)</td><td>1,428</td><td>1,306</td><td class="pnl">-8.54%</td><td>67.6h</td><td>07-25 04:05 → 07-27 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Applied Materials, Inc.(AMAT)</td><td>543.30</td><td>507.20</td><td class="pnl">-6.64%</td><td>68.2h</td><td>07-25 03:30 → 07-27 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Coherent Corp.(COHR)</td><td>284.70</td><td>265.90</td><td class="pnl">-6.60%</td><td>67.8h</td><td>07-25 03:55 → 07-27 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Corning Incorporated(GLW)</td><td>149.30</td><td>139.50</td><td class="pnl">-6.56%</td><td>68.2h</td><td>07-25 03:30 → 07-27 23:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Paramount Skydance Corporation(PSKY)</td><td>8.54</td><td>8.07</td><td class="pnl">-5.47%</td><td>91.3h</td><td>07-24 04:20 → 07-27 23:40</td></tr></tbody></table>
 _P&L distribution (92 meaningful trades): min -8.54% · P25 -1.48% · median -0.40% · P75 +0.59% · max +5.60%_
 
-**Full data** — all 132 closed trades: [CSV download](/data/journal/2026-07-28-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 132 closed trades: [CSV download](/data/journal/2026-07-28-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -71,9 +71,9 @@ _P&L distribution (92 meaningful trades): min -8.54% · P25 -1.48% · median -0.
 
 _As of 2026-07-28 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

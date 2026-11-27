@@ -17,7 +17,7 @@ metrics:
   best_pct: 22.47
   worst_pct: -11.43
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.29
 ogImage: /characters/v2/kr/02_sad.png
 altUrl: /journal/2026-11-17-kr-journal/
@@ -53,7 +53,7 @@ The losers weren't small. Eseuel fell -11.43%, the deepest of the day. Eichibeui
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Gaonchipseu(399720)</td><td>35,035</td><td>42,907</td><td class="pnl">+22.47%</td><td>18.4h</td><td>11-16 15:05 → 11-17 09:30</td></tr><tr class="t-win"><td class="res">win</td><td>Ananti(025980)</td><td>3,934</td><td>4,256</td><td class="pnl">+8.19%</td><td>24.4h</td><td>11-16 09:20 → 11-17 09:45</td></tr><tr class="t-win"><td class="res">win</td><td>Runit(328130)</td><td>14,685</td><td>15,614</td><td class="pnl">+6.33%</td><td>21.4h</td><td>11-16 12:20 → 11-17 09:45</td></tr><tr class="t-win"><td class="res">win</td><td>Anraep(053800)</td><td>100,300</td><td>105,994</td><td class="pnl">+5.68%</td><td>4.2h</td><td>11-17 09:45 → 11-17 13:55</td></tr><tr class="t-win"><td class="res">win</td><td>Pakeusiseutemseu(140860)</td><td>163,463</td><td>172,627</td><td class="pnl">+5.61%</td><td>18.8h</td><td>11-16 14:55 → 11-17 09:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Eseuel(005850)</td><td>48,048</td><td>42,557</td><td class="pnl">-11.43%</td><td>92.2h</td><td>11-13 13:15 → 11-17 09:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Eichibeuiem(295310)</td><td>47,748</td><td>42,757</td><td class="pnl">-10.45%</td><td>18.3h</td><td>11-16 15:10 → 11-17 09:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Neosem(253590)</td><td>13,864</td><td>12,817</td><td class="pnl">-7.55%</td><td>21.4h</td><td>11-16 12:05 → 11-17 09:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>SeobuT&D(006730)</td><td>9,850</td><td>9,111</td><td class="pnl">-7.50%</td><td>18.0h</td><td>11-16 15:30 → 11-17 09:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Anraep(053800)</td><td>108,208</td><td>101,099</td><td class="pnl">-6.57%</td><td>20.5h</td><td>11-16 13:00 → 11-17 09:30</td></tr></tbody></table>
 _P&L distribution (262 meaningful trades): min -11.43% · P25 -3.34% · median -3.14% · P75 +0.22% · max +22.47%_
 
-**Full data** — all 323 closed trades: [CSV download](/data/journal/2026-11-17-kr.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 323 closed trades: [CSV download](/data/journal/2026-11-17-kr.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -62,9 +62,9 @@ _P&L distribution (262 meaningful trades): min -11.43% · P25 -3.34% · median -
 
 _As of 2026-11-17 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

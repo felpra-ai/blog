@@ -17,7 +17,7 @@ metrics:
   best_pct: 23.04
   worst_pct: -7.25
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 2.78
 ogImage: /characters/crypto/09_excited.png
 altUrl: /journal/2026-09-25-crypto-journal/
@@ -63,7 +63,7 @@ The overall metrics—the high win rate combined with a healthy profit factor—
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Sonic SVM(SONIC)</td><td>34.76</td><td>38.83</td><td class="pnl">+11.71%</td><td>28.2h</td><td>09-23 23:15 → 09-25 03:30</td></tr><tr class="t-win"><td class="res">win</td><td>Orbiter Finance(OBT)</td><td>0.5084</td><td>0.5597</td><td class="pnl">+10.09%</td><td>9.8h</td><td>09-24 21:45 → 09-25 07:30</td></tr><tr class="t-win"><td class="res">win</td><td>BounceBit(BB)</td><td>13.32</td><td>14.57</td><td class="pnl">+9.38%</td><td>5.2h</td><td>09-24 17:30 → 09-24 22:45</td></tr><tr class="t-win"><td class="res">win</td><td>Checkmate(CHECK)</td><td>15.83</td><td>17.15</td><td class="pnl">+8.34%</td><td>14.2h</td><td>09-24 09:45 → 09-25 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>Worldcoin(WLD)</td><td>570.60</td><td>610.40</td><td class="pnl">+6.98%</td><td>9.0h</td><td>09-24 14:15 → 09-24 23:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Nillion(NIL)</td><td>173.20</td><td>162.80</td><td class="pnl">-6.00%</td><td>0.0h</td><td>09-24 22:15 → 09-24 22:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>FLock.io(FLOCK)</td><td>101.10</td><td>95.36</td><td class="pnl">-5.68%</td><td>0.8h</td><td>09-24 22:00 → 09-24 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>deBridge(DBR)</td><td>27.93</td><td>26.68</td><td class="pnl">-4.48%</td><td>4.5h</td><td>09-24 17:00 → 09-24 21:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>VERONA</td><td>156.20</td><td>149.80</td><td class="pnl">-4.10%</td><td>20.8h</td><td>09-24 02:30 → 09-24 23:15</td></tr><tr class="t-loss"><td class="res">loss</td><td>Huma Finance(HUMA)</td><td>34.93</td><td>33.56</td><td class="pnl">-3.92%</td><td>0.5h</td><td>09-24 22:15 → 09-24 22:45</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -6.00% · P25 +1.74% · median +2.69% · P75 +3.37% · max +11.71%_
 
-**Full data** — all 771 closed trades: [CSV download](/data/journal/2026-09-25-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 771 closed trades: [CSV download](/data/journal/2026-09-25-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -72,9 +72,9 @@ _P&L distribution (300 meaningful trades): min -6.00% · P25 +1.74% · median +2
 
 _As of 2026-09-25 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

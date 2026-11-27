@@ -17,7 +17,7 @@ metrics:
   best_pct: 4.89
   worst_pct: -17.17
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.15
 ogImage: /characters/us/02_sad.png
 altUrl: /journal/2026-09-10-us-journal/
@@ -59,7 +59,7 @@ The performance review of the closed trades emphasizes the need for a more disci
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Akamai Technologies, Inc.(AKAM)</td><td>104.40</td><td>109.50</td><td class="pnl">+4.89%</td><td>143.8h</td><td>09-03 23:45 → 09-09 23:35</td></tr><tr class="t-win"><td class="res">win</td><td>Meta Platforms, Inc.(META)</td><td>613.90</td><td>640.80</td><td class="pnl">+4.38%</td><td>141.0h</td><td>09-04 02:35 → 09-09 23:35</td></tr><tr class="t-win"><td class="res">win</td><td>HCA Healthcare, Inc.(HCA)</td><td>409.00</td><td>424.60</td><td class="pnl">+3.81%</td><td>149.5h</td><td>09-03 22:50 → 09-10 04:20</td></tr><tr class="t-win"><td class="res">win</td><td>Universal Health Services, Inc.(UHS)</td><td>170.20</td><td>176.00</td><td class="pnl">+3.41%</td><td>5.2h</td><td>09-09 23:05 → 09-10 04:20</td></tr><tr class="t-win"><td class="res">win</td><td>Caseys General Stores, Inc.(CASY)</td><td>602.90</td><td>622.90</td><td class="pnl">+3.32%</td><td>2.1h</td><td>09-09 23:15 → 09-10 01:20</td></tr><tr class="t-loss"><td class="res">loss</td><td>Caseys General Stores, Inc.(CASY)</td><td>736.20</td><td>609.80</td><td class="pnl">-17.17%</td><td>18.9h</td><td>09-09 03:50 → 09-09 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Booking Holdings Inc. Common St(BKNG)</td><td>184.60</td><td>171.30</td><td class="pnl">-7.20%</td><td>23.2h</td><td>09-08 23:35 → 09-09 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Kimberly-Clark Corporation(KMB)</td><td>105.70</td><td>99.67</td><td class="pnl">-5.70%</td><td>113.8h</td><td>09-05 04:55 → 09-09 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Clorox Company (The)(CLX)</td><td>94.65</td><td>89.61</td><td class="pnl">-5.32%</td><td>140.0h</td><td>09-04 02:45 → 09-09 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Axon Enterprise, Inc.(AXON)</td><td>517.50</td><td>490.80</td><td class="pnl">-5.16%</td><td>119.1h</td><td>09-04 23:40 → 09-09 22:45</td></tr></tbody></table>
 _P&L distribution (190 meaningful trades): min -17.17% · P25 -3.44% · median -3.15% · P75 -0.54% · max +4.89%_
 
-**Full data** — all 194 closed trades: [CSV download](/data/journal/2026-09-10-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 194 closed trades: [CSV download](/data/journal/2026-09-10-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -68,9 +68,9 @@ _P&L distribution (190 meaningful trades): min -17.17% · P25 -3.44% · median -
 
 _As of 2026-09-10 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

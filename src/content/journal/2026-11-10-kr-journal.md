@@ -17,7 +17,7 @@ metrics:
   best_pct: 17.52
   worst_pct: -8.15
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 2.05
 ogImage: /characters/kr/09_excited.png
 altUrl: /journal/2026-11-10-kr-journal-en/
@@ -55,7 +55,7 @@ altLang: en
 <table class="trades"><thead><tr><th>결과</th><th>종목</th><th>매수가</th><th>매도가</th><th>손익</th><th>보유</th><th>진입 → 청산 (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">이익</td><td>한올바이오파마(009420)</td><td>37,362</td><td>43,906</td><td class="pnl">+17.52%</td><td>22.1h</td><td>11-09 11:05 → 11-10 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>한진칼(180640)</td><td>207,207</td><td>228,771</td><td class="pnl">+10.41%</td><td>18.5h</td><td>11-09 14:45 → 11-10 09:15</td></tr><tr class="t-win"><td class="res">이익</td><td>티에스이(131290)</td><td>172,773</td><td>188,811</td><td class="pnl">+9.28%</td><td>18.1h</td><td>11-09 15:05 → 11-10 09:10</td></tr><tr class="t-win"><td class="res">이익</td><td>효성중공업(298040)</td><td>1,591,590</td><td>1,739,259</td><td class="pnl">+9.28%</td><td>92.2h</td><td>11-06 13:05 → 11-10 09:15</td></tr><tr class="t-win"><td class="res">이익</td><td>HD건설기계(267270)</td><td>82,683</td><td>90,110</td><td class="pnl">+8.98%</td><td>18.0h</td><td>11-09 15:10 → 11-10 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>한전KPS(051600)</td><td>40,841</td><td>37,512</td><td class="pnl">-8.15%</td><td>23.9h</td><td>11-09 09:15 → 11-10 09:10</td></tr><tr class="t-loss"><td class="res">손실</td><td>이녹스첨단소재(272290)</td><td>14,855</td><td>14,226</td><td class="pnl">-4.23%</td><td>22.7h</td><td>11-09 10:50 → 11-10 09:30</td></tr><tr class="t-loss"><td class="res">손실</td><td>젬백스(082270)</td><td>8,288</td><td>7,942</td><td class="pnl">-4.17%</td><td>22.0h</td><td>11-09 15:15 → 11-10 13:15</td></tr><tr class="t-loss"><td class="res">손실</td><td>티씨케이(064760)</td><td>161,561</td><td>154,945</td><td class="pnl">-4.10%</td><td>0.2h</td><td>11-10 09:20 → 11-10 09:35</td></tr><tr class="t-loss"><td class="res">손실</td><td>롯데웰푸드(280360)</td><td>122,322</td><td>117,582</td><td class="pnl">-3.88%</td><td>96.0h</td><td>11-06 09:50 → 11-10 09:50</td></tr></tbody></table>
 _손익 분포 (의미있는 거래 300건 기준): 최소 -8.15% · P25 -3.12% · 중앙값 +2.71% · P75 +4.51% · 최대 +17.52%_
 
-**전체 데이터** — 마감 564건 전량: [CSV 다운로드](/data/journal/2026-11-10-kr.csv) · 또는 [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp)로 직접 조회.
+**전체 데이터** — 마감 564건 전량: [CSV 다운로드](/data/journal/2026-11-10-kr.csv) · 또는 [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp)로 직접 조회.
 
 **연결된 기록**
 - 누적 트랙레코드: [/track-record/all-time/](/track-record/all-time/)
@@ -64,9 +64,9 @@ _손익 분포 (의미있는 거래 300건 기준): 최소 -8.15% · P25 -3.12% 
 
 _기준일: 2026-11-10 (KST) · as of 2026-11-10._
 
-> **면책:** OneQAZ 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
+> **면책:** FELPRA 수치는 **모의 매매(paper-trading)** 리서치이며 **투자 자문이 아닙니다**. 과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, **not investment advice**.)
 
-**OneQAZ를 보는 3가지 층** — 이 글은 *종합* 입니다:
+**FELPRA를 보는 3가지 층** — 이 글은 *종합* 입니다:
 - **실시간** — [라이브 대시보드](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (시스템 화면 24/7 송출)
-- **종합** — [blog.oneqaz.com](https://blog.oneqaz.com) (일일 시황·매매일지·트랙레코드)
-- **직접 조회** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (AI가 라이브 데이터 직접 연결)
+- **종합** — [blog.felpra.ai](https://blog.felpra.ai) (일일 시황·매매일지·트랙레코드)
+- **직접 조회** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (AI가 라이브 데이터 직접 연결)

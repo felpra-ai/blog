@@ -17,7 +17,7 @@ metrics:
   best_pct: 5.25
   worst_pct: -4.11
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.1
 ogImage: /characters/us/01_joy.png
 altUrl: /journal/2026-10-17-us-journal/
@@ -59,7 +59,7 @@ The data suggests that while the positive expectancy is present, the risk profil
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Vulcan Materials Company (Holdi(VMC)</td><td>245.50</td><td>258.40</td><td class="pnl">+5.25%</td><td>24.2h</td><td>10-15 22:50 → 10-16 23:05</td></tr><tr class="t-win"><td class="res">win</td><td>U.S. Bancorp(USB)</td><td>56.07</td><td>58.66</td><td class="pnl">+4.62%</td><td>47.4h</td><td>10-14 23:25 → 10-16 22:50</td></tr><tr class="t-win"><td class="res">win</td><td>Reddit, Inc.(RDDT)</td><td>156.40</td><td>163.40</td><td class="pnl">+4.48%</td><td>22.8h</td><td>10-16 00:10 → 10-16 22:55</td></tr><tr class="t-win"><td class="res">win</td><td>Goldman Sachs Group, Inc. (The)(GS)</td><td>866.70</td><td>905.30</td><td class="pnl">+4.45%</td><td>23.9h</td><td>10-15 22:55 → 10-16 22:50</td></tr><tr class="t-win"><td class="res">win</td><td>SLB Limited(SLB)</td><td>47.48</td><td>49.55</td><td class="pnl">+4.36%</td><td>23.6h</td><td>10-15 23:20 → 10-16 22:55</td></tr><tr class="t-loss"><td class="res">loss</td><td>Twilio Inc.(TWLO)</td><td>272.40</td><td>261.20</td><td class="pnl">-4.11%</td><td>43.8h</td><td>10-15 03:05 → 10-16 22:50</td></tr><tr class="t-loss"><td class="res">loss</td><td>CrowdStrike Holdings, Inc.(CRWD)</td><td>243.40</td><td>233.90</td><td class="pnl">-3.90%</td><td>23.6h</td><td>10-15 23:05 → 10-16 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Western Digital Corporation(WDC)</td><td>353.00</td><td>340.10</td><td class="pnl">-3.65%</td><td>18.1h</td><td>10-16 04:35 → 10-16 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Fortinet, Inc.(FTNT)</td><td>180.90</td><td>174.30</td><td class="pnl">-3.65%</td><td>23.8h</td><td>10-15 22:55 → 10-16 22:40</td></tr><tr class="t-loss"><td class="res">loss</td><td>Lumentum Holdings Inc.(LITE)</td><td>860.70</td><td>829.30</td><td class="pnl">-3.65%</td><td>22.5h</td><td>10-16 00:25 → 10-16 22:55</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -4.11% · P25 -3.09% · median +0.06% · P75 +2.85% · max +5.25%_
 
-**Full data** — all 329 closed trades: [CSV download](/data/journal/2026-10-17-us.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 329 closed trades: [CSV download](/data/journal/2026-10-17-us.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -68,9 +68,9 @@ _P&L distribution (300 meaningful trades): min -4.11% · P25 -3.09% · median +0
 
 _As of 2026-10-17 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)

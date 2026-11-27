@@ -17,7 +17,7 @@ metrics:
   best_pct: 14.73
   worst_pct: -5.21
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 0.85
 ogImage: /characters/crypto/08_defensive.png
 altUrl: /journal/2026-10-08-crypto-journal/
@@ -61,7 +61,7 @@ The losses encountered, particularly on ARX, MINA, and DEBIT, underscore the dif
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Contentos(COS)</td><td>0.4432</td><td>0.5085</td><td class="pnl">+14.73%</td><td>0.2h</td><td>10-07 23:45 → 10-08 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>Nervos Network(CKB)</td><td>1.70</td><td>1.85</td><td class="pnl">+8.58%</td><td>27.5h</td><td>10-07 15:30 → 10-08 19:00</td></tr><tr class="t-win"><td class="res">win</td><td>Squid(QUID)</td><td>79.47</td><td>85.85</td><td class="pnl">+8.03%</td><td>14.2h</td><td>10-07 18:45 → 10-08 09:00</td></tr><tr class="t-win"><td class="res">win</td><td>Automatic Data Processing, Inc.(ADP)</td><td>0.6213</td><td>0.6643</td><td class="pnl">+6.92%</td><td>12.0h</td><td>10-07 12:00 → 10-08 00:00</td></tr><tr class="t-win"><td class="res">win</td><td>BASED</td><td>86.65</td><td>92.43</td><td class="pnl">+6.67%</td><td>13.0h</td><td>10-07 12:00 → 10-08 01:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>ARCS(ARX)</td><td>378.40</td><td>360.60</td><td class="pnl">-4.70%</td><td>4.8h</td><td>10-07 17:45 → 10-07 22:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Mina Protocol(MINA)</td><td>137.10</td><td>130.90</td><td class="pnl">-4.52%</td><td>2.8h</td><td>10-07 19:00 → 10-07 21:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Teller(DEBIT)</td><td>2,731</td><td>2,610</td><td class="pnl">-4.43%</td><td>21.8h</td><td>10-07 01:00 → 10-07 22:45</td></tr><tr class="t-loss"><td class="res">loss</td><td>Derive(DRV)</td><td>505.50</td><td>483.50</td><td class="pnl">-4.35%</td><td>1.8h</td><td>10-07 20:45 → 10-07 22:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Meta Platforms • Robinhood Token(META)</td><td>11.48</td><td>10.99</td><td class="pnl">-4.27%</td><td>31.2h</td><td>10-06 16:15 → 10-07 23:30</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -4.70% · P25 -3.40% · median -2.38% · P75 +2.25% · max +14.73%_
 
-**Full data** — all 650 closed trades: [CSV download](/data/journal/2026-10-08-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp).
+**Full data** — all 650 closed trades: [CSV download](/data/journal/2026-10-08-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -70,9 +70,9 @@ _P&L distribution (300 meaningful trades): min -4.70% · P25 -3.40% · median -2
 
 _As of 2026-10-08 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/wnsod/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)
