@@ -17,7 +17,7 @@ metrics:
   best_pct: 57.49
   worst_pct: -10.38
   account: paper
-  source: "OneQAZ ledger via MCP"
+  source: "FELPRA ledger via MCP"
   profit_factor: 1.97
 ogImage: /og/journal/2026-11-27-crypto-journal-en--crypto--09_excited.jpg
 altUrl: /journal/2026-11-27-crypto-journal/
@@ -53,7 +53,7 @@ Babylon (BABY) registered the largest single loss at -10.38%. YieldBasis (YB) sa
 <table class="trades"><thead><tr><th>Result</th><th>Symbol</th><th>Buy</th><th>Sell</th><th>P&L</th><th>Held</th><th>Entry → Exit (KST)</th></tr></thead><tbody><tr class="t-win"><td class="res">win</td><td>Haedal Protocol(HAEDAL)</td><td>24.51</td><td>38.60</td><td class="pnl">+57.49%</td><td>21.8h</td><td>11-26 14:15 → 11-27 12:00</td></tr><tr class="t-win"><td class="res">win</td><td>Civic(CVC)</td><td>24.19</td><td>28.51</td><td class="pnl">+17.86%</td><td>16.0h</td><td>11-26 23:30 → 11-27 15:30</td></tr><tr class="t-win"><td class="res">win</td><td>OriginTrail(TRAC)</td><td>348.30</td><td>405.60</td><td class="pnl">+16.45%</td><td>22.5h</td><td>11-26 11:15 → 11-27 09:45</td></tr><tr class="t-win"><td class="res">win</td><td>XYO</td><td>3.29</td><td>3.77</td><td class="pnl">+14.74%</td><td>7.2h</td><td>11-26 21:45 → 11-27 05:00</td></tr><tr class="t-win"><td class="res">win</td><td>ROA CORE(ROA)</td><td>3.31</td><td>3.75</td><td class="pnl">+13.42%</td><td>13.2h</td><td>11-26 10:45 → 11-27 00:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Babylon(BABY)</td><td>13.30</td><td>11.92</td><td class="pnl">-10.38%</td><td>7.0h</td><td>11-26 14:30 → 11-26 21:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>YieldBasis(YB)</td><td>73.82</td><td>68.65</td><td class="pnl">-7.00%</td><td>8.5h</td><td>11-26 13:00 → 11-26 21:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>TFUEL</td><td>12.16</td><td>11.49</td><td class="pnl">-5.51%</td><td>0.0h</td><td>11-26 23:00 → 11-26 23:00</td></tr><tr class="t-loss"><td class="res">loss</td><td>Acurast(ACU)</td><td>137.10</td><td>130.90</td><td class="pnl">-4.52%</td><td>7.2h</td><td>11-26 14:15 → 11-26 21:30</td></tr><tr class="t-loss"><td class="res">loss</td><td>Arcium(ARX)</td><td>217.20</td><td>207.80</td><td class="pnl">-4.33%</td><td>9.5h</td><td>11-26 12:00 → 11-26 21:30</td></tr></tbody></table>
 _P&L distribution (300 meaningful trades): min -10.38% · P25 -1.60% · median +0.79% · P75 +3.21% · max +57.49%_
 
-**Full data** — all 821 closed trades: [CSV download](/data/journal/2026-11-27-crypto.csv) · or query live via [OneQAZ MCP](https://github.com/oneqaz-trading/oneqaz-trading-mcp).
+**Full data** — all 821 closed trades: [CSV download](/data/journal/2026-11-27-crypto.csv) · or query live via [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp).
 
 **Related**
 - All-time track record: [/track-record/all-time/](/track-record/all-time/)
@@ -62,9 +62,9 @@ _P&L distribution (300 meaningful trades): min -10.38% · P25 -1.60% · median +
 
 _As of 2026-11-27 (KST)._
 
-> **Disclaimer:** OneQAZ figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
+> **Disclaimer:** FELPRA figures are **paper-trading** research, **not investment advice**. Past simulated performance does not predict future real-money results.
 
-**Three ways to see OneQAZ** — this post is the *synthesis* layer:
+**Three ways to see FELPRA** — this post is the *synthesis* layer:
 - **Live** — [dashboard stream](https://www.youtube.com/channel/UCZq7DKom3fuxpMPUUjRhMmA/live) (the system's screen, 24/7)
-- **Synthesis** — [blog.oneqaz.com](https://blog.oneqaz.com) (daily reads · journals · track record)
-- **Query** — [OneQAZ MCP](https://github.com/oneqaz-trading/oneqaz-trading-mcp) (connect an AI to live data)
+- **Synthesis** — [blog.felpra.ai](https://blog.felpra.ai) (daily reads · journals · track record)
+- **Query** — [FELPRA MCP](https://github.com/felpra-ai/felpra-trading-mcp) (connect an AI to live data)
