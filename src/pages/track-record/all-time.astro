@@ -26,10 +26,10 @@ function paths(c: any) {
 const mret = (c: any, mo: string) => c.monthly.find((x: any) => x.month === mo)?.ret;
 const bret = (c: any, mo: string) => c.bench_monthly.find((x: any) => x.month === mo)?.ret;
 ---
-<BaseLayout title="누적 트랙레코드 — OneQAZ" description={`OneQAZ all-time paper-trading record since ${stats.public_record_start}: ${t.n.toLocaleString()} closed trades, equity curve with benchmarks, MDD, monthly returns — losses included, verifiable via MCP.`}>
-  <link rel="alternate" hreflang="ko" href="https://blog.oneqaz.com/track-record/all-time/" slot="head" />
-  <link rel="alternate" hreflang="en" href="https://blog.oneqaz.com/en/track-record/all-time/" slot="head" />
-  <link rel="alternate" hreflang="x-default" href="https://blog.oneqaz.com/en/track-record/all-time/" slot="head" />
+<BaseLayout title="누적 트랙레코드 — FELPRA" description={`FELPRA all-time paper-trading record since ${stats.public_record_start}: ${t.n.toLocaleString()} closed trades, equity curve with benchmarks, MDD, monthly returns — losses included, verifiable via MCP.`}>
+  <link rel="alternate" hreflang="ko" href="https://blog.felpra.ai/track-record/all-time/" slot="head" />
+  <link rel="alternate" hreflang="en" href="https://blog.felpra.ai/en/track-record/all-time/" slot="head" />
+  <link rel="alternate" hreflang="x-default" href="https://blog.felpra.ai/en/track-record/all-time/" slot="head" />
   <article class="container post">
     <p class="eyebrow">track-record / all-time <a class="lt" href="/en/track-record/all-time/">EN</a></p>
     <h1>누적 트랙레코드 <span class="paper">모의매매 · paper</span></h1>
@@ -52,7 +52,7 @@ const bret = (c: any, mo: string) => c.bench_monthly.find((x: any) => x.month ==
         <div class="chart">
           <div class="chart-head">
             <strong>{MK[m] ?? m}</strong>
-            <span class="legend"><i class="sw eq"></i>OneQAZ {c.equity[c.equity.length - 1]}</span>
+            <span class="legend"><i class="sw eq"></i>FELPRA {c.equity[c.equity.length - 1]}</span>
             {c.bench_label && <span class="legend"><i class="sw bn"></i>{c.bench_label} {c.benchmark.filter((v: any) => v !== null).slice(-1)[0]}</span>}
             {c.bench_excluded && <span class="legend muted">벤치마크: 데이터 품질 이상으로 제외(확인 중)</span>}
             <span class="paper-mini">paper</span>
@@ -71,7 +71,7 @@ const bret = (c: any, mo: string) => c.bench_monthly.find((x: any) => x.month ==
     <h2>월별 수익률 (%)</h2>
     <table>
       <thead><tr><th>월</th>{Object.keys(curves).map((m) => <th colspan="2">{MK[m] ?? m}</th>)}</tr>
-        <tr><th></th>{Object.keys(curves).map(() => <><th class="sub">OneQAZ</th><th class="sub">벤치마크</th></>)}</tr></thead>
+        <tr><th></th>{Object.keys(curves).map(() => <><th class="sub">FELPRA</th><th class="sub">벤치마크</th></>)}</tr></thead>
       <tbody>
         {months.map((mo) => (
           <tr><td>{mo}</td>
@@ -99,7 +99,7 @@ const bret = (c: any, mo: string) => c.bench_monthly.find((x: any) => x.month ==
         ))}
       </tbody>
     </table>
-    <p class="muted small">산출: OneQAZ MCP <code>get_performance_metrics</code> — 이 표와 MCP 재조회가
+    <p class="muted small">산출: FELPRA MCP <code>get_performance_metrics</code> — 이 표와 MCP 재조회가
       같은 값을 반환합니다(동일 계산 경로). 샤프·소르티노는 일수익률 연환산(365일) 기준.</p>
 
     <h2>시장별 거래 통계</h2>
@@ -143,7 +143,7 @@ const bret = (c: any, mo: string) => c.bench_monthly.find((x: any) => x.month ==
 
     <h2>직접 검증하기</h2>
     <p>
-      이 페이지의 수치는 매매일지와 동일한 원장에서 나옵니다. <a href="https://github.com/wnsod/oneqaz-trading-mcp">OneQAZ MCP</a>를
+      이 페이지의 수치는 매매일지와 동일한 원장에서 나옵니다. <a href="https://github.com/wnsod/oneqaz-trading-mcp">FELPRA MCP</a>를
       AI에 연결하면 같은 데이터를 직접 조회할 수 있습니다 — 예: <code>get_trade_history</code>(마감 거래),
       <code>get_performance_metrics</code>(MDD·샤프 등 자본곡선 지표), <code>get_ledger_integrity</code>(원장
       해시체인 — 사후 수정 감지). 각 매매일지 하단의 전량 CSV로도 대조 가능합니다.
@@ -151,12 +151,12 @@ const bret = (c: any, mo: string) => c.bench_monthly.find((x: any) => x.month ==
     </p>
 
     <p class="en muted">
-      <strong>English version:</strong> <a href="/en/track-record/all-time/">blog.oneqaz.com/en/track-record/all-time</a>
+      <strong>English version:</strong> <a href="/en/track-record/all-time/">blog.felpra.ai/en/track-record/all-time</a>
     </p>
 
     <hr />
     <p class="muted small">
-      <strong>면책:</strong> OneQAZ 수치는 모의 매매(paper-trading) 리서치이며 투자 자문이 아닙니다.
+      <strong>면책:</strong> FELPRA 수치는 모의 매매(paper-trading) 리서치이며 투자 자문이 아닙니다.
       과거 모의 성과는 미래 실현 수익을 보장하지 않습니다. (Paper-trading research, not investment advice.)
     </p>
   </article>

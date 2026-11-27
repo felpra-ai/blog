@@ -1,4 +1,4 @@
-# OneQAZ crawler policy (2026-11-06)
+# FELPRA crawler policy (2026-11-06)
 # - Search crawlers and user-initiated AI fetchers: allowed.
 # - Crawlers that collect only for AI model training: disallowed.
 # - Google-Extended: allowed on purpose. Google uses this one token for both Gemini
@@ -36,4 +36,4 @@ User-agent: *
 Content-Signal: search=yes, ai-input=yes, ai-train=no
 Allow: /
 
-Sitemap: https://blog.oneqaz.com/sitemap-index.xml
+Sitemap: https://blog.felpra.ai/sitemap-index.xml

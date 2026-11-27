@@ -3,10 +3,10 @@
 // 원칙: 검증된 사실만 쓴다. 미확인 항목은 추정으로 채우지 않고 명시적으로 보류 표기.
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
-<BaseLayout title="방법론 — OneQAZ" description="How OneQAZ paper-trading numbers are produced: fill model, data boundaries, win-rate framing, paper/live separation, and how to verify. Execution assumptions only — signal logic stays private.">
-  <link rel="alternate" hreflang="ko" href="https://blog.oneqaz.com/methodology/" slot="head" />
-  <link rel="alternate" hreflang="en" href="https://blog.oneqaz.com/en/methodology/" slot="head" />
-  <link rel="alternate" hreflang="x-default" href="https://blog.oneqaz.com/en/methodology/" slot="head" />
+<BaseLayout title="방법론 — FELPRA" description="How FELPRA paper-trading numbers are produced: fill model, data boundaries, win-rate framing, paper/live separation, and how to verify. Execution assumptions only — signal logic stays private.">
+  <link rel="alternate" hreflang="ko" href="https://blog.felpra.ai/methodology/" slot="head" />
+  <link rel="alternate" hreflang="en" href="https://blog.felpra.ai/en/methodology/" slot="head" />
+  <link rel="alternate" hreflang="x-default" href="https://blog.felpra.ai/en/methodology/" slot="head" />
   <article class="container post">
     <p class="eyebrow">methodology <a class="lt" href="/en/methodology/">EN</a></p>
     <h1>방법론 — 이 수치들이 만들어지는 방식</h1>
@@ -65,7 +65,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
     <h2>5. 검증 경로</h2>
     <ul>
-      <li><strong>MCP 재조회</strong>: <a href="https://github.com/wnsod/oneqaz-trading-mcp">OneQAZ MCP</a>로
+      <li><strong>MCP 재조회</strong>: <a href="https://github.com/wnsod/oneqaz-trading-mcp">FELPRA MCP</a>로
         같은 원장을 직접 조회할 수 있습니다 (<code>get_trade_history</code> 등).</li>
       <li><strong>전량 CSV</strong>: 각 매매일지 하단에서 해당 창의 전체 마감 거래를 내려받을 수 있습니다.</li>
       <li><strong>원장 해시체인</strong>: 예측 원장은 일별 SHA-256 체인으로 봉인되며 주간 트랙레코드에
@@ -75,12 +75,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     </ul>
 
     <p class="en muted">
-      <strong>English version:</strong> <a href="/en/methodology/">blog.oneqaz.com/en/methodology</a>
+      <strong>English version:</strong> <a href="/en/methodology/">blog.felpra.ai/en/methodology</a>
     </p>
 
     <hr />
     <p class="muted small">
-      <strong>면책:</strong> OneQAZ 수치는 모의 매매(paper-trading) 리서치이며 투자 자문이 아닙니다.
+      <strong>면책:</strong> FELPRA 수치는 모의 매매(paper-trading) 리서치이며 투자 자문이 아닙니다.
       (Paper-trading research, not investment advice.)
     </p>
   </article>

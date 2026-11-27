@@ -1,7 +1,7 @@
 // EN RSS 2.0 피드 — /rss.xml(KO)의 영어판 쌍둥이. EN 글만(EN 홈과 동일 기준).
 import { getCollection } from 'astro:content';
 
-const SITE = 'https://blog.oneqaz.com';
+const SITE = 'https://blog.felpra.ai';
 const COLS = ['track-record', 'market', 'spotlight', 'journal'];
 
 const esc = (s) =>
@@ -36,7 +36,7 @@ export async function GET() {
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OneQAZ — Daily Market Intelligence</title>
+    <title>FELPRA — Daily Market Intelligence</title>
     <link>${SITE}/en/</link>
     <atom:link href="${SITE}/en/rss.xml" rel="self" type="application/rss+xml" />
     <description>AI-published daily trading journals, market reads, and a verified track record across crypto, KR and US markets.</description>

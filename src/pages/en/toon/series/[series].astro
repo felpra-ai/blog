@@ -8,7 +8,7 @@ const s = TOON_SERIES.find((x) => x.id === series)!;
 const enHref = new URL(Astro.url.pathname, Astro.site).href;
 const koHref = new URL(Astro.url.pathname.replace(/^\/en/, ''), Astro.site).href;
 ---
-<BaseLayout title={`${s.en} — OneQAZ Toons`} description={s.enDesc} lang="en">
+<BaseLayout title={`${s.en} — FELPRA Toons`} description={s.enDesc} lang="en">
   <link rel="alternate" hreflang="en" href={enHref} slot="head" />
   <link rel="alternate" hreflang="ko" href={koHref} slot="head" />
   <ToonSeriesPage lang="en" series={series!} />

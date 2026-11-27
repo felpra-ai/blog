@@ -4,10 +4,10 @@
 // Principle: verified facts only — unconfirmed items are explicitly deferred, never estimated.
 import BaseLayout from '../../layouts/BaseLayout.astro';
 ---
-<BaseLayout title="Methodology — OneQAZ" description="How OneQAZ paper-trading numbers are produced: fill model, data boundaries, win-rate framing, paper/live separation, and how to verify. Execution assumptions only — signal logic stays private." lang="en">
-  <link rel="alternate" hreflang="en" href="https://blog.oneqaz.com/en/methodology/" slot="head" />
-  <link rel="alternate" hreflang="ko" href="https://blog.oneqaz.com/methodology/" slot="head" />
-  <link rel="alternate" hreflang="x-default" href="https://blog.oneqaz.com/en/methodology/" slot="head" />
+<BaseLayout title="Methodology — FELPRA" description="How FELPRA paper-trading numbers are produced: fill model, data boundaries, win-rate framing, paper/live separation, and how to verify. Execution assumptions only — signal logic stays private." lang="en">
+  <link rel="alternate" hreflang="en" href="https://blog.felpra.ai/en/methodology/" slot="head" />
+  <link rel="alternate" hreflang="ko" href="https://blog.felpra.ai/methodology/" slot="head" />
+  <link rel="alternate" hreflang="x-default" href="https://blog.felpra.ai/en/methodology/" slot="head" />
   <article class="container post">
     <p class="eyebrow">methodology <a class="lt" href="/methodology/">한국어</a></p>
     <h1>Methodology — how these numbers are produced</h1>
@@ -75,7 +75,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
     <h2>5. Verification paths</h2>
     <ul>
-      <li><strong>MCP re-query</strong>: connect <a href="https://github.com/wnsod/oneqaz-trading-mcp">OneQAZ MCP</a>
+      <li><strong>MCP re-query</strong>: connect <a href="https://github.com/wnsod/oneqaz-trading-mcp">FELPRA MCP</a>
         to an AI and query the same ledger directly (<code>get_trade_history</code>,
         <code>get_performance_metrics</code>, …).</li>
       <li><strong>Full CSV</strong>: every daily journal links a download of all closed trades in
@@ -89,7 +89,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
     <hr />
     <p class="muted small">
-      <strong>Disclaimer:</strong> OneQAZ figures are paper-trading research, not investment advice.
+      <strong>Disclaimer:</strong> FELPRA figures are paper-trading research, not investment advice.
       Past simulated performance does not predict future real-money returns.
     </p>
   </article>

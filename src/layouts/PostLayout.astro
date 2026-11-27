@@ -52,12 +52,12 @@ const jsonLd = {
   ...(updatedIso ? { dateModified: updatedIso } : {}),
   inLanguage: lang,
   url: canonical,
-  author: { '@type': 'Organization', name: 'OneQAZ', url: 'https://oneqaz.com' },
-  publisher: { '@type': 'Organization', name: 'OneQAZ', url: 'https://oneqaz.com' },
+  author: { '@type': 'Organization', name: 'FELPRA', url: 'https://felpra.ai' },
+  publisher: { '@type': 'Organization', name: 'FELPRA', url: 'https://felpra.ai' },
   keywords: [category, ...markets, ...tags].join(', '),
 };
 ---
-<BaseLayout title={`${title} — OneQAZ`} description={description} lang={lang} ogImage={ogImage} altPath={altNorm}>
+<BaseLayout title={`${title} — FELPRA`} description={description} lang={lang} ogImage={ogImage} altPath={altNorm}>
   <script type="application/ld+json" slot="head" set:html={JSON.stringify(jsonLd)} />
   {altHref && <link rel="alternate" hreflang={lang} href={canonical} slot="head" />}
   {altHref && <link rel="alternate" hreflang={altLang} href={altHref} slot="head" />}

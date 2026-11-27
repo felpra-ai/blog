@@ -11,7 +11,7 @@ const { tag, posts } = Astro.props;
 const koHref = new URL(`/tags/${tag}/`, Astro.site).href;
 const enHref = new URL(`/en/tags/${tag}/`, Astro.site).href;
 ---
-<BaseLayout title={`#${tag} — OneQAZ`} description={`OneQAZ posts tagged ${tag}.`} lang="en">
+<BaseLayout title={`#${tag} — FELPRA`} description={`FELPRA posts tagged ${tag}.`} lang="en">
   <link rel="alternate" hreflang="ko" href={koHref} slot="head" />
   <link rel="alternate" hreflang="en" href={enHref} slot="head" />
   <link rel="alternate" hreflang="x-default" href={enHref} slot="head" />

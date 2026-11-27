@@ -4,7 +4,7 @@ import ToonHome from '../../../components/ToonHome.astro';
 const enHref = new URL(Astro.url.pathname, Astro.site).href;
 const koHref = new URL(Astro.url.pathname.replace(/^\/en/, ''), Astro.site).href;
 ---
-<BaseLayout title="Toons — OneQAZ" description="One-episode-a-day market toons from the OneQAZ Cat Office (paper-trading research, not investment advice)." lang="en">
+<BaseLayout title="Toons — FELPRA" description="One-episode-a-day market toons from the FELPRA Cat Office (paper-trading research, not investment advice)." lang="en">
   <link rel="alternate" hreflang="en" href={enHref} slot="head" />
   <link rel="alternate" hreflang="ko" href={koHref} slot="head" />
   <link rel="alternate" hreflang="x-default" href={enHref} slot="head" />

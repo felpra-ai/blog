@@ -1,5 +1,5 @@
 ---
-// OneQAZ 공통 하단 메뉴 — oneqaz.com·api.oneqaz.com 과 같은 4열(2026-10-15 통일, 사용자 요청).
+// FELPRA 공통 하단 메뉴 — felpra.ai·api.felpra.ai 과 같은 4열(2026-10-15 통일, 사용자 요청).
 // 원본 = landing/index.html 의 oqz:chrome-footer. 언어는 경로로 정한다(종전 lang prop 은 일부 페이지가 넘기지 않았다).
 import { isEnPath } from './siteLang';
 
@@ -16,10 +16,10 @@ const cols = [
   {
     h: isEn ? 'Product' : '제품',
     links: [
-      { href: `https://oneqaz.com/${q}#connect`, label: isEn ? 'Connect via MCP' : 'MCP로 연결' },
-      { href: `https://api.oneqaz.com/pricing${q}`, label: isEn ? 'Pricing & limits' : '요금·호출 한도' },
-      { href: `https://api.oneqaz.com/keys${q}`, label: isEn ? 'API keys' : 'API 키' },
-      { href: `https://oneqaz.com/${q}#status`, label: isEn ? 'System status' : '시스템 상태' },
+      { href: `https://felpra.ai/${q}#connect`, label: isEn ? 'Connect via MCP' : 'MCP로 연결' },
+      { href: `https://api.felpra.ai/pricing${q}`, label: isEn ? 'Pricing & limits' : '요금·호출 한도' },
+      { href: `https://api.felpra.ai/keys${q}`, label: isEn ? 'API keys' : 'API 키' },
+      { href: `https://felpra.ai/${q}#status`, label: isEn ? 'System status' : '시스템 상태' },
     ],
   },
   {
@@ -44,9 +44,9 @@ const cols = [
     links: [
       { href: 'https://github.com/oneqaz-trading/oneqaz-trading-mcp', label: 'GitHub ↗', ext: true },
       { href: 'https://pypi.org/project/oneqaz-trading-mcp/', label: 'PyPI ↗', ext: true },
-      { href: `https://oneqaz.com/privacy${q}`, label: isEn ? 'Privacy' : '개인정보처리방침' },
-      { href: `https://oneqaz.com/terms${q}`, label: isEn ? 'Terms' : '이용약관' },
-      { href: 'mailto:contact@oneqaz.com', label: isEn ? 'Contact' : '문의' },
+      { href: `https://felpra.ai/privacy${q}`, label: isEn ? 'Privacy' : '개인정보처리방침' },
+      { href: `https://felpra.ai/terms${q}`, label: isEn ? 'Terms' : '이용약관' },
+      { href: 'mailto:contact@felpra.ai', label: isEn ? 'Contact' : '문의' },
     ],
   },
 ];
@@ -72,5 +72,5 @@ const current = (href: string) => (href.startsWith('/') && href === path ? 'page
   <p class="oqz-footer-disc">{isEn
     ? 'Public beta · Computed from live market prices and recalculated every 5–15 minutes. Not investment advice or a recommendation to buy or sell. Past hit rates and results do not guarantee future outcomes.'
     : '공개 베타 · 실시간 시세로 5~15분마다 다시 계산합니다. 투자 자문이 아니며 매수·매도를 권유하지 않습니다. 과거 적중률과 성과는 미래 결과를 보장하지 않습니다.'}</p>
-  <p class="oqz-footer-copy">&copy; 2026 OneQAZ. All rights reserved.</p>
+  <p class="oqz-footer-copy">&copy; 2026 FELPRA. All rights reserved.</p>
 </footer>

@@ -52,20 +52,20 @@ const jsonLd = {
   '@type': 'AboutPage',
   url: en ? enHref : koHref,
   inLanguage: lang,
-  name: en ? 'About OneQAZ Daily Reads' : 'OneQAZ 데일리 리포트 소개',
+  name: en ? 'About FELPRA Daily Reads' : 'FELPRA 데일리 리포트 소개',
   about: {
     '@type': 'Organization',
-    name: 'OneQAZ',
-    url: 'https://oneqaz.com',
+    name: 'FELPRA',
+    url: 'https://felpra.ai',
     sameAs: [MCP_REPO, 'https://www.youtube.com/@OneQAZ2026'],
   },
 };
 ---
 <BaseLayout
-  title={en ? 'About — OneQAZ' : '소개 — OneQAZ'}
+  title={en ? 'About — FELPRA' : '소개 — FELPRA'}
   description={en
-    ? 'What OneQAZ Daily Reads publishes, what each section means, and how to cite it. Paper trading, information only.'
-    : 'OneQAZ 데일리 리포트가 무엇을 싣는지, 각 메뉴의 뜻, 인용하는 법. 페이퍼 트레이딩 · 정보 제공용.'}
+    ? 'What FELPRA Daily Reads publishes, what each section means, and how to cite it. Paper trading, information only.'
+    : 'FELPRA 데일리 리포트가 무엇을 싣는지, 각 메뉴의 뜻, 인용하는 법. 페이퍼 트레이딩 · 정보 제공용.'}
   lang={lang}
 >
   <link rel="alternate" hreflang="ko" href={koHref} slot="head" />
@@ -75,17 +75,17 @@ const jsonLd = {
 
   <article class="container about">
     <p class="eyebrow">{en ? 'About' : '소개'}</p>
-    <h1>OneQAZ — One Quorum Alpha Zero</h1>
+    <h1>FELPRA — 펠프라</h1>
     {en ? (
       <p class="lede">
-        OneQAZ is an AI market-intelligence system covering crypto, Korean and US markets. A team of agents reads
+        FELPRA is an AI market-intelligence system covering crypto, Korean and US markets. A team of agents reads
         macro regimes, scores signals, and checks them through <strong>paper trading</strong> (simulated fills at
         live prices — no real money). This site is its public record: published automatically every day, in
         Korean and English, for people and AI agents to read and cite.
       </p>
     ) : (
       <p class="lede">
-        OneQAZ 는 코인·국내장·미국장을 함께 보는 AI 시장 분석 시스템입니다. 에이전트 팀이 거시 레짐을 읽고
+        FELPRA 는 코인·국내장·미국장을 함께 보는 AI 시장 분석 시스템입니다. 에이전트 팀이 거시 레짐을 읽고
         시그널을 점수화한 뒤 <strong>페이퍼 트레이딩</strong>(실시간 시세로 모의 체결 — 실제 돈 아님)으로 검증합니다.
         이 사이트는 그 공개 기록입니다. 매일 자동으로 한국어·영어로 발행되며, 사람과 AI 가 함께 읽고 인용하도록 씁니다.
       </p>
@@ -116,7 +116,7 @@ const jsonLd = {
         <li>Nothing here is a buy or sell recommendation. Signal logic (indicators, parameters, reasons for a trade) is not published.</li>
         <li>Every post has a Korean/English twin linked by <code>hreflang</code>; if a post was corrected, it shows a "corrected" date and the fix is logged on <a href={`${p}/corrections/`}>Corrections</a>.</li>
         <li>Machine-readable: <a href="/llms.txt">llms.txt</a> · <a href="/sitemap-index.xml">sitemap</a> · <a href={en ? '/en/rss.xml' : '/rss.xml'}>RSS</a> · per-post JSON-LD · journal CSVs.</li>
-        <li>For live data, connect an AI agent to the <a href={MCP_REPO} rel="noopener">OneQAZ MCP server</a>.</li>
+        <li>For live data, connect an AI agent to the <a href={MCP_REPO} rel="noopener">FELPRA MCP server</a>.</li>
       </ul>
     ) : (
       <ul>
@@ -125,14 +125,14 @@ const jsonLd = {
         <li>어떤 글도 매수·매도 권유가 아닙니다. 시그널 산출 방법(지표·파라미터·매매 사유)은 공개하지 않습니다.</li>
         <li>모든 글은 한국어·영어 쌍이 <code>hreflang</code> 으로 묶여 있습니다. 고친 글에는 '정정' 날짜가 붙고, 내용은 <a href={`${p}/corrections/`}>정정 기록</a>에 남습니다.</li>
         <li>기계가 읽기 좋은 경로: <a href="/llms.txt">llms.txt</a> · <a href="/sitemap-index.xml">사이트맵</a> · <a href={en ? '/en/rss.xml' : '/rss.xml'}>RSS</a> · 글마다 JSON-LD · 매매일지 CSV.</li>
-        <li>실시간 데이터는 AI 에이전트를 <a href={MCP_REPO} rel="noopener">OneQAZ MCP 서버</a>에 연결해 조회할 수 있습니다.</li>
+        <li>실시간 데이터는 AI 에이전트를 <a href={MCP_REPO} rel="noopener">FELPRA MCP 서버</a>에 연결해 조회할 수 있습니다.</li>
       </ul>
     )}
 
     <p class="muted disclaimer">
       {en
-        ? 'Information only, not investment advice. OneQAZ outputs are paper-trading research results. Past simulated performance does not predict future real-money returns.'
-        : '정보 제공용이며 투자 자문이 아닙니다. OneQAZ 의 결과는 페이퍼 트레이딩 연구 결과입니다. 과거 모의 성과는 미래 실거래 수익을 보장하지 않습니다.'}
+        ? 'Information only, not investment advice. FELPRA outputs are paper-trading research results. Past simulated performance does not predict future real-money returns.'
+        : '정보 제공용이며 투자 자문이 아닙니다. FELPRA 의 결과는 페이퍼 트레이딩 연구 결과입니다. 과거 모의 성과는 미래 실거래 수익을 보장하지 않습니다.'}
     </p>
   </article>
 </BaseLayout>

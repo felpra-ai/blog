@@ -25,10 +25,10 @@ function paths(c: any) {
 const mret = (c: any, mo: string) => c.monthly.find((x: any) => x.month === mo)?.ret;
 const bret = (c: any, mo: string) => c.bench_monthly.find((x: any) => x.month === mo)?.ret;
 ---
-<BaseLayout title="All-time Track Record — OneQAZ" description={`OneQAZ all-time paper-trading record since ${stats.public_record_start}: ${t.n.toLocaleString()} closed trades, equity curves with benchmarks, MDD, Sharpe/Sortino/Calmar, monthly returns — losses included, verifiable via MCP.`} lang="en">
-  <link rel="alternate" hreflang="en" href="https://blog.oneqaz.com/en/track-record/all-time/" slot="head" />
-  <link rel="alternate" hreflang="ko" href="https://blog.oneqaz.com/track-record/all-time/" slot="head" />
-  <link rel="alternate" hreflang="x-default" href="https://blog.oneqaz.com/en/track-record/all-time/" slot="head" />
+<BaseLayout title="All-time Track Record — FELPRA" description={`FELPRA all-time paper-trading record since ${stats.public_record_start}: ${t.n.toLocaleString()} closed trades, equity curves with benchmarks, MDD, Sharpe/Sortino/Calmar, monthly returns — losses included, verifiable via MCP.`} lang="en">
+  <link rel="alternate" hreflang="en" href="https://blog.felpra.ai/en/track-record/all-time/" slot="head" />
+  <link rel="alternate" hreflang="ko" href="https://blog.felpra.ai/track-record/all-time/" slot="head" />
+  <link rel="alternate" hreflang="x-default" href="https://blog.felpra.ai/en/track-record/all-time/" slot="head" />
   <article class="container post">
     <p class="eyebrow">track-record / all-time <a class="lt" href="/track-record/all-time/">한국어</a></p>
     <h1>All-time Track Record <span class="paper">paper trading</span></h1>
@@ -51,7 +51,7 @@ const bret = (c: any, mo: string) => c.bench_monthly.find((x: any) => x.month ==
         <div class="chart">
           <div class="chart-head">
             <strong>{MK[m] ?? m}</strong>
-            <span class="legend"><i class="sw eq"></i>OneQAZ {c.equity[c.equity.length - 1]}</span>
+            <span class="legend"><i class="sw eq"></i>FELPRA {c.equity[c.equity.length - 1]}</span>
             {c.bench_label && <span class="legend"><i class="sw bn"></i>{c.bench_label} {c.benchmark.filter((v: any) => v !== null).slice(-1)[0]}</span>}
             {c.bench_excluded && <span class="legend muted">benchmark withheld — data-quality issue under review</span>}
             <span class="paper-mini">paper</span>
@@ -70,7 +70,7 @@ const bret = (c: any, mo: string) => c.bench_monthly.find((x: any) => x.month ==
     <h2>Monthly returns (%)</h2>
     <table>
       <thead><tr><th>Month</th>{Object.keys(curves).map((m) => <th colspan="2">{MK[m] ?? m}</th>)}</tr>
-        <tr><th></th>{Object.keys(curves).map(() => <><th class="sub">OneQAZ</th><th class="sub">benchmark</th></>)}</tr></thead>
+        <tr><th></th>{Object.keys(curves).map(() => <><th class="sub">FELPRA</th><th class="sub">benchmark</th></>)}</tr></thead>
       <tbody>
         {months.map((mo) => (
           <tr><td>{mo}</td>
@@ -98,7 +98,7 @@ const bret = (c: any, mo: string) => c.bench_monthly.find((x: any) => x.month ==
         ))}
       </tbody>
     </table>
-    <p class="muted small">Source: OneQAZ MCP <code>get_performance_metrics</code> — this table and an
+    <p class="muted small">Source: FELPRA MCP <code>get_performance_metrics</code> — this table and an
       MCP re-query return the same values (single computation path). Sharpe/Sortino annualized at 365 days.</p>
 
     <h2>Trade statistics by market</h2>
@@ -145,7 +145,7 @@ const bret = (c: any, mo: string) => c.bench_monthly.find((x: any) => x.month ==
     <h2>Verify it yourself</h2>
     <p>
       These numbers come from the same ledger as the daily journals. Connect
-      <a href="https://github.com/wnsod/oneqaz-trading-mcp">OneQAZ MCP</a> to an AI and query the
+      <a href="https://github.com/wnsod/oneqaz-trading-mcp">FELPRA MCP</a> to an AI and query the
       same data directly — e.g. <code>get_trade_history</code> (closed trades),
       <code>get_performance_metrics</code> (MDD, Sharpe and other curve metrics),
       <code>get_ledger_integrity</code> (daily SHA-256 hash chain — detects post-hoc edits). Each
@@ -155,7 +155,7 @@ const bret = (c: any, mo: string) => c.bench_monthly.find((x: any) => x.month ==
 
     <hr />
     <p class="muted small">
-      <strong>Disclaimer:</strong> OneQAZ figures are paper-trading research, not investment advice.
+      <strong>Disclaimer:</strong> FELPRA figures are paper-trading research, not investment advice.
       Past simulated performance does not predict future real-money returns.
     </p>
   </article>

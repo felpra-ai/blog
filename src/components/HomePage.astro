@@ -20,12 +20,12 @@ const otherPages = Math.max(1, Math.ceil((await entries(en ? 'ko' : 'en')).lengt
 const hasTwin = page.currentPage <= otherPages;
 const altPath = hasTwin ? (en ? koPath : '/en' + koPath) : (en ? '/' : '/en/');
 const T = en
-  ? { eyebrow: 'OneQAZ Daily Reads', h1: 'Daily, in the open.', lede: 'Market reads and every paper trade that closed, auto-published after each close — losses included, built for people and AI to read and cite.', all: 'All posts', type: 'Type', mkt: 'Market', any: 'All', more: 'Show more', bydate: 'grouped by data day', empty: 'No posts match this filter.' }
-  : { eyebrow: 'OneQAZ 데일리 리포트', h1: '매일, 공개적으로.', lede: '장 마감 뒤 시황과 그날 마감된 모의 거래 전부를 자동으로 발행합니다. 손실도 그대로 보여 주고, 사람과 AI 가 읽고 인용하기 쉽게 만듭니다.', all: '전체 글', type: '유형', mkt: '시장', any: '전체', more: '더 보기', bydate: '날짜 = 데이터 기준일', empty: '이 조건에 맞는 글이 없습니다.' };
+  ? { eyebrow: 'FELPRA Daily Reads', h1: 'Daily, in the open.', lede: 'Market reads and every paper trade that closed, auto-published after each close — losses included, built for people and AI to read and cite.', all: 'All posts', type: 'Type', mkt: 'Market', any: 'All', more: 'Show more', bydate: 'grouped by data day', empty: 'No posts match this filter.' }
+  : { eyebrow: 'FELPRA 데일리 리포트', h1: '매일, 공개적으로.', lede: '장 마감 뒤 시황과 그날 마감된 모의 거래 전부를 자동으로 발행합니다. 손실도 그대로 보여 주고, 사람과 AI 가 읽고 인용하기 쉽게 만듭니다.', all: '전체 글', type: '유형', mkt: '시장', any: '전체', more: '더 보기', bydate: '날짜 = 데이터 기준일', empty: '이 조건에 맞는 글이 없습니다.' };
 const types = ['market', 'journal', 'track-record', 'spotlight', 'toon'] as const;
 const first = page.currentPage === 1;
 ---
-<BaseLayout title={en ? 'OneQAZ — Daily Market Intelligence' : 'OneQAZ 데일리 리포트 — 시황·매매일지·트랙 레코드'} description={T.lede} lang={lang} altPath={altPath}>
+<BaseLayout title={en ? 'FELPRA — Daily Market Intelligence' : 'FELPRA 데일리 리포트 — 시황·매매일지·트랙 레코드'} description={T.lede} lang={lang} altPath={altPath}>
   {(hasTwin || !en) && <link rel="alternate" hreflang="ko" href={koHref} slot="head" />}
   {(hasTwin || en) && <link rel="alternate" hreflang="en" href={enHref} slot="head" />}
   {hasTwin && <link rel="alternate" hreflang="x-default" href={enHref} slot="head" />}

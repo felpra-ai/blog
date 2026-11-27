@@ -2,10 +2,10 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
-// blog.oneqaz.com — static, AI-discoverable content site.
+// blog.felpra.ai — static, AI-discoverable content site.
 // site URL is REQUIRED for correct sitemap + canonical URLs.
 export default defineConfig({
-  site: 'https://blog.oneqaz.com',
+  site: 'https://blog.felpra.ai',
   trailingSlash: 'always',
   integrations: [
     sitemap(),

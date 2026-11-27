@@ -1,6 +1,6 @@
-# OneQAZ Blog (blog.oneqaz.com)
+# FELPRA Blog (blog.felpra.ai)
 
-Static Astro site that auto-publishes OneQAZ's daily trading journals, market reads, and
+Static Astro site that auto-publishes FELPRA's daily trading journals, market reads, and
 verified track record — built to be read and cited by AI crawlers (GPTBot, ClaudeBot,
 PerplexityBot, Google-Extended).
 

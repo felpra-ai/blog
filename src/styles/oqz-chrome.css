@@ -1,7 +1,7 @@
 /* ============================================================
-   OneQAZ shared header + footer — blog port of the oneqaz.com `oqz:chrome` block
+   FELPRA shared header + footer — blog port of the felpra.ai `oqz:chrome` block
    (source of truth: landing/index.html, guarded there by tests/validation/test_site_chrome_sync.py).
-   Same items, order, labels, sizes and colors as oneqaz.com / api.oneqaz.com. Blog differences:
+   Same items, order, labels, sizes and colors as felpra.ai / api.felpra.ai. Blog differences:
    - header is sticky with a permanent backdrop (blog pages have no hero underneath)
    - language is decided by the URL (/en/), so EN/KO are links/spans rendered at build time
    - the blog's own sections live in a second row (.blog-subnav) under the shared header
@@ -9,7 +9,7 @@
 
 .oqz-header{position:sticky;top:0;z-index:999;display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:56px;padding:6px 24px;background:var(--nav-bg);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);box-shadow:0 1px 0 var(--border)}
 .oqz-brand{display:inline-flex;align-items:center;gap:10px;min-height:44px;padding-right:8px;color:var(--amber);text-decoration:none;font-family:var(--font-sans);font-size:13px;font-weight:600;letter-spacing:3px;text-transform:uppercase}
-.oqz-brand img{width:26px;height:28px;filter:drop-shadow(0 0 6px rgba(212,168,83,0.3))}
+.oqz-brand img{width:31px;height:28px;filter:drop-shadow(0 0 6px rgba(212,168,83,0.3))}
 @media (prefers-color-scheme: light){:root:not([data-theme="dark"]) .oqz-brand img{filter:brightness(0.3)}}
 .oqz-menu{display:flex;align-items:center;gap:4px}
 .oqz-menu a{display:inline-flex;align-items:center;min-height:40px;padding:0 10px;border-radius:6px;color:var(--text-muted);text-decoration:none;font-family:var(--font-sans);font-size:12px;font-weight:500;letter-spacing:1.5px;text-transform:uppercase;transition:color .2s,background-color .2s}

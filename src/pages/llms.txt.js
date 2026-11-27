@@ -6,8 +6,8 @@
 // 링크는 EN 을 기본으로(글로벌 AI 독자, x-default=EN 과 같은 이유), KO 쌍은 규칙으로 안내.
 import { entries, latestByMarket, journalCsv, latestAnchor } from '../components/feedData';
 
-const SITE = 'https://blog.oneqaz.com';
-const MCP_URL = 'https://api.oneqaz.com/mcp';
+const SITE = 'https://blog.felpra.ai';
+const MCP_URL = 'https://api.felpra.ai/mcp';
 const MCP_REPO = 'https://github.com/oneqaz-trading/oneqaz-trading-mcp';
 const MARKET_EN = { crypto: 'Crypto', kr: 'Korea', us: 'US' };
 
@@ -33,9 +33,9 @@ export async function GET() {
     anchor && `- [Ledger anchor ${anchor}](${SITE}/anchors/${anchor}-en/): latest weekly hash anchor.`,
   ].filter(Boolean);
 
-  const body = `# OneQAZ Daily Reads
+  const body = `# FELPRA Daily Reads
 
-> Public, auto-published record of OneQAZ — an AI market-reading system for crypto, Korean and US markets. Every day after each market closes it publishes a market read and the full list of paper trades that closed, plus short toons, in Korean and English; weekly it publishes a volume spotlight, a track record and a hash anchor of its prediction ledger. Results only: signal logic (indicators, parameters, reasons for a trade) is never published.
+> Public, auto-published record of FELPRA — an AI market-reading system for crypto, Korean and US markets. Every day after each market closes it publishes a market read and the full list of paper trades that closed, plus short toons, in Korean and English; weekly it publishes a volume spotlight, a track record and a hash anchor of its prediction ledger. Results only: signal logic (indicators, parameters, reasons for a trade) is never published.
 
 How to read and cite this site:
 
@@ -76,14 +76,14 @@ ${latest.join('\n')}
 
 ## Live data
 
-- [OneQAZ MCP server](${MCP_URL}): remote MCP over streamable HTTP for live regimes, signal scores and their measured hit rates. Start with get_system_card, then get_daily_brief.
+- [FELPRA MCP server](${MCP_URL}): remote MCP over streamable HTTP for live regimes, signal scores and their measured hit rates. Start with get_system_card, then get_daily_brief.
 - [Source & quick start](${MCP_REPO})
-- [Main site](https://oneqaz.com/llms.txt): system overview for AI agents.
+- [Main site](https://felpra.ai/llms.txt): system overview for AI agents.
 
 ## Optional
 
 - Crawler policy: search and user-initiated AI fetchers are allowed; collection for model training is not (robots.txt, Content-Signal ai-train=no).
-- Contact: contact@oneqaz.com
+- Contact: contact@felpra.ai
 `;
 
   return new Response(body, { headers: { 'Content-Type': 'text/plain; charset=utf-8' } });

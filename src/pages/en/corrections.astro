@@ -15,15 +15,15 @@ corrected.sort((a, b) => (b.data.date.valueOf() - a.data.date.valueOf()));
 const enPosts = corrected.filter((p) => p.data.lang === 'en');
 const fmt = (d: Date) => d.toISOString().slice(0, 10);
 ---
-<BaseLayout title="Corrections — OneQAZ" description="OneQAZ corrections log — every corrected post, with the reason, timeline, and safeguards. We do not silently rewrite history." lang="en">
-  <link rel="alternate" hreflang="en" href="https://blog.oneqaz.com/en/corrections/" slot="head" />
-  <link rel="alternate" hreflang="ko" href="https://blog.oneqaz.com/corrections/" slot="head" />
-  <link rel="alternate" hreflang="x-default" href="https://blog.oneqaz.com/en/corrections/" slot="head" />
+<BaseLayout title="Corrections — FELPRA" description="FELPRA corrections log — every corrected post, with the reason, timeline, and safeguards. We do not silently rewrite history." lang="en">
+  <link rel="alternate" hreflang="en" href="https://blog.felpra.ai/en/corrections/" slot="head" />
+  <link rel="alternate" hreflang="ko" href="https://blog.felpra.ai/corrections/" slot="head" />
+  <link rel="alternate" hreflang="x-default" href="https://blog.felpra.ai/en/corrections/" slot="head" />
   <article class="container post">
     <p class="eyebrow">corrections <a class="lt" href="/corrections/">한국어</a></p>
     <h1>Corrections</h1>
     <p class="muted lede">
-      OneQAZ aims to be a verifiable, timestamped record. When we find an error we
+      FELPRA aims to be a verifiable, timestamped record. When we find an error we
       <strong>never hide it or silently overwrite it</strong> — the post is republished at the same
       URL with a visible correction notice and a modification timestamp (dateModified), and the
       reason is disclosed on this page.

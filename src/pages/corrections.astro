@@ -14,18 +14,18 @@ corrected.sort((a, b) => (b.data.date.valueOf() - a.data.date.valueOf()));
 const koCount = corrected.filter((p) => p.data.lang !== 'en').length;
 const fmt = (d: Date) => d.toISOString().slice(0, 10);
 ---
-<BaseLayout title="정정 기록 — OneQAZ" description="OneQAZ corrections log — every corrected post, with the reason, timeline, and safeguards. We do not silently rewrite history.">
-  <link rel="alternate" hreflang="ko" href="https://blog.oneqaz.com/corrections/" slot="head" />
-  <link rel="alternate" hreflang="en" href="https://blog.oneqaz.com/en/corrections/" slot="head" />
-  <link rel="alternate" hreflang="x-default" href="https://blog.oneqaz.com/en/corrections/" slot="head" />
+<BaseLayout title="정정 기록 — FELPRA" description="FELPRA corrections log — every corrected post, with the reason, timeline, and safeguards. We do not silently rewrite history.">
+  <link rel="alternate" hreflang="ko" href="https://blog.felpra.ai/corrections/" slot="head" />
+  <link rel="alternate" hreflang="en" href="https://blog.felpra.ai/en/corrections/" slot="head" />
+  <link rel="alternate" hreflang="x-default" href="https://blog.felpra.ai/en/corrections/" slot="head" />
   <article class="container post">
     <p class="eyebrow">corrections <a class="lt" href="/en/corrections/">EN</a></p>
     <h1>정정 기록</h1>
     <p class="muted lede">
-      OneQAZ 는 검증 가능한 타임스탬프 기록을 지향합니다. 오류를 발견하면 <strong>숨기거나 조용히
+      FELPRA 는 검증 가능한 타임스탬프 기록을 지향합니다. 오류를 발견하면 <strong>숨기거나 조용히
       덮어쓰지 않고</strong>, 같은 URL 에서 정정 고지와 함께 재발행하고 수정 시각(dateModified)을
       남기며, 이 페이지에 사유를 공개합니다.
-      <span class="en">English version: <a href="/en/corrections/">blog.oneqaz.com/en/corrections</a></span>
+      <span class="en">English version: <a href="/en/corrections/">blog.felpra.ai/en/corrections</a></span>
     </p>
 
     <h2>이름 변경</h2>

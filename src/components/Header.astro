@@ -1,5 +1,5 @@
 ---
-// OneQAZ 공통 상단 메뉴 — oneqaz.com·api.oneqaz.com 과 같은 항목·순서·라벨(2026-10-15 통일, 사용자 요청).
+// FELPRA 공통 상단 메뉴 — felpra.ai·api.felpra.ai 과 같은 항목·순서·라벨(2026-10-15 통일, 사용자 요청).
 // 원본 = landing/index.html 의 oqz:chrome-header. 블로그는 경로가 곧 언어라 라벨·EN/KO 를 빌드 타임에 정한다.
 // 블로그 자체 섹션(트랙 레코드·시황·스포트라이트·매매일지·소개)은 공통 메뉴 밑 두 번째 줄(blog-subnav)에 둔다.
 import { isEnPath, altPathOf, fallbackOf } from './siteLang';
@@ -14,7 +14,7 @@ const isEn = isEnPath(path);
 const lang = isEn ? 'en' : 'ko';
 const alt = Astro.props.altPath !== undefined ? Astro.props.altPath : altPathOf(path);
 const q = `?lang=${lang}`;
-const site = (hash: string) => `https://oneqaz.com/${q}#${hash}`;
+const site = (hash: string) => `https://felpra.ai/${q}#${hash}`;
 const blogHome = isEn ? '/en/' : '/';
 const pfx = isEn ? '/en' : '';
 
@@ -51,9 +51,9 @@ const isCurrent = (href: string) => under(href) && !(href === '/track-record/' &
 const isHome = path === blogHome || /^\/(en\/)?\d+\/$/.test(path);
 ---
 <header class="oqz-header" id="oqzHeader">
-  <a class="oqz-brand" href={`https://oneqaz.com/${q}`}><img src="https://oneqaz.com/images/opt/logo-128.webp" alt="" width="26" height="28" /><span>OneQAZ</span></a>
+  <a class="oqz-brand" href={`https://felpra.ai/${q}`}><img src="https://felpra.ai/images/opt/logo-128.webp" alt="" width="31" height="28" /><span>FELPRA</span></a>
   <button class="oqz-menu-btn" type="button" aria-expanded="false" aria-controls="oqzMenu"><span class="oqz-menu-icon" aria-hidden="true"></span><span class="oqz-sr">{T.menu}</span></button>
-  <nav class="oqz-menu" id="oqzMenu" aria-label="OneQAZ">
+  <nav class="oqz-menu" id="oqzMenu" aria-label="FELPRA">
     <a href={site('team')}>{T.agents}</a>
     <a href={site('flow')}>{T.flow}</a>
     <a href={site('verify')}>{T.verify}</a>
@@ -91,7 +91,7 @@ const isHome = path === blogHome || /^\/(en\/)?\d+\/$/.test(path);
 </nav>
 
 <script is:inline>
-  // 모바일 메뉴 — oneqaz.com 의 oqz:chrome-js 와 같은 동작(열기·닫기·Esc·바깥 클릭·링크 선택 시 닫기).
+  // 모바일 메뉴 — felpra.ai 의 oqz:chrome-js 와 같은 동작(열기·닫기·Esc·바깥 클릭·링크 선택 시 닫기).
   (function () {
     var header = document.getElementById('oqzHeader');
     if (!header) return;
@@ -116,7 +116,7 @@ const isHome = path === blogHome || /^\/(en\/)?\d+\/$/.test(path);
       vp.hidden = !open;
       vt.setAttribute('aria-expanded', open ? 'true' : 'false');
     });
-    // 언어를 고르면 기억해 둔다(oneqaz.com 과 같은 키) — 같은 출처 안에서만 유효하다.
+    // 언어를 고르면 기억해 둔다(felpra.ai 과 같은 키) — 같은 출처 안에서만 유효하다.
     var langs = header.querySelectorAll('.oqz-lang a');
     for (var i = 0; i < langs.length; i++) {
       langs[i].addEventListener('click', function () {
