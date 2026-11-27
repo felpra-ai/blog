@@ -8,7 +8,7 @@ import { entries, latestByMarket, journalCsv, latestAnchor } from '../components
 
 const SITE = 'https://blog.felpra.ai';
 const MCP_URL = 'https://api.felpra.ai/mcp';
-const MCP_REPO = 'https://github.com/oneqaz-trading/oneqaz-trading-mcp';
+const MCP_REPO = 'https://github.com/felpra-ai/oneqaz-trading-mcp';
 const MARKET_EN = { crypto: 'Crypto', kr: 'Korea', us: 'US' };
 
 const url = (e) => `${SITE}/${e.c}/${e.s}/`;
