@@ -501,3 +501,15 @@
 {"date": "2026-11-20", "market": "us", "symbol": "TTWO", "rvol": 1.6, "price_chg": 1.4, "close": 210.22, "rank": 10}
 {"date": "2026-11-20", "market": "us", "symbol": "INTU", "rvol": 1.6, "price_chg": -20.0, "close": 270.57, "rank": 11}
 {"date": "2026-11-20", "market": "us", "symbol": "FCX", "rvol": 1.6, "price_chg": -26.2, "close": 45.99, "rank": 12}
+{"date": "2026-11-27", "market": "kr", "symbol": "373220", "rvol": 11.3, "price_chg": -2.5, "close": 316500.0, "rank": 1}
+{"date": "2026-11-27", "market": "kr", "symbol": "038500", "rvol": 10.7, "price_chg": 3.6, "close": 5740.0, "rank": 2}
+{"date": "2026-11-27", "market": "kr", "symbol": "466100", "rvol": 5.9, "price_chg": 38.4, "close": 23650.0, "rank": 3}
+{"date": "2026-11-27", "market": "kr", "symbol": "090710", "rvol": 4.5, "price_chg": 55.1, "close": 7250.0, "rank": 4}
+{"date": "2026-11-27", "market": "kr", "symbol": "053800", "rvol": 4.4, "price_chg": 55.9, "close": 174500.0, "rank": 5}
+{"date": "2026-11-27", "market": "kr", "symbol": "226950", "rvol": 4.1, "price_chg": 33.4, "close": 107900.0, "rank": 6}
+{"date": "2026-11-27", "market": "kr", "symbol": "358570", "rvol": 4.1, "price_chg": 34.9, "close": 9550.0, "rank": 7}
+{"date": "2026-11-27", "market": "kr", "symbol": "310210", "rvol": 3.5, "price_chg": 36.9, "close": 152000.0, "rank": 8}
+{"date": "2026-11-27", "market": "kr", "symbol": "100790", "rvol": 3.5, "price_chg": 57.5, "close": 19770.0, "rank": 9}
+{"date": "2026-11-27", "market": "kr", "symbol": "257720", "rvol": 3.3, "price_chg": 26.0, "close": 30250.0, "rank": 10}
+{"date": "2026-11-27", "market": "kr", "symbol": "361610", "rvol": 3.1, "price_chg": -10.8, "close": 11280.0, "rank": 11}
+{"date": "2026-11-27", "market": "kr", "symbol": "032500", "rvol": 3.0, "price_chg": 38.8, "close": 25950.0, "rank": 12}
